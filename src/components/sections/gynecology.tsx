@@ -63,7 +63,7 @@ export function Gynecology() {
                     width={800}
                     height={1000}
                     sizes="(max-width: 1024px) 100vw, 50vw"
-                    className="aspect-[4/5] w-full object-cover"
+                    className="aspect-4/5 w-full object-cover"
                   />
                 </div>
                 {/* Badge flotante de marca */}
