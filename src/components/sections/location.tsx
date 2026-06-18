@@ -34,7 +34,7 @@ export function Location() {
               width={1360}
               height={1020}
               sizes="(max-width: 1024px) 100vw, 1200px"
-              className="h-56 w-full object-cover sm:h-72 lg:h-80"
+              className="h-56 w-full object-cover object-[center_10%] sm:h-72 lg:h-80"
             />
           </div>
         </Reveal>

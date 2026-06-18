@@ -21,7 +21,7 @@ export function ServiceCard({
       <Link
         href={`/services/${service.slug}`}
         className={cn(
-          "group relative flex aspect-[4/5] flex-col justify-end overflow-hidden rounded-3xl border border-blue-light shadow-md shadow-blue-deep/5 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl hover:shadow-blue-primary/15",
+          "group relative flex aspect-4/5 flex-col justify-end overflow-hidden rounded-3xl border border-blue-light shadow-sm shadow-blue-deep/5 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl hover:shadow-blue-primary/15",
           className,
         )}
       >
@@ -34,7 +34,7 @@ export function ServiceCard({
         />
         <div
           aria-hidden
-          className="absolute inset-0 bg-gradient-to-t from-blue-deep via-blue-deep/75 to-blue-deep/10"
+          className="absolute inset-0 bg-linear-to-t from-blue-deep via-blue-deep/75 to-blue-deep/10"
         />
 
         <span className="absolute left-5 top-5 flex h-12 w-12 items-center justify-center rounded-2xl bg-white/15 text-white backdrop-blur">
@@ -69,7 +69,7 @@ export function ServiceCard({
         className,
       )}
     >
-      <span className="absolute right-0 top-0 h-12 w-12 rounded-bl-3xl bg-gradient-to-br from-teal/20 to-transparent transition-colors group-hover:from-teal/40" />
+      <span className="absolute right-0 top-0 h-12 w-12 rounded-bl-3xl bg-linear-to-br from-teal/20 to-transparent transition-colors group-hover:from-teal/40" />
 
       <span className="flex h-14 w-14 items-center justify-center rounded-2xl bg-teal-bg text-teal-deep transition-colors group-hover:bg-teal group-hover:text-white">
         <ServiceIcon name={service.icon} />

@@ -72,8 +72,8 @@ export const OPENING_HOURS = [
 ] as const;
 
 export const SOCIAL_LINKS = {
-  facebook: "https://www.facebook.com/clinicahispananuevasalud",
-  instagram: "https://www.instagram.com/clinicahispananuevasalud",
+  facebook: "https://www.facebook.com/clinicahispananuevasaludhoustontexas",
+  instagram: "https://www.instagram.com/clinicahispananuevasalud/",
 } as const;
 
 // Fallback de build para rating/reseñas. La data en vivo la trae
