@@ -4,7 +4,9 @@ import type {
   BlogPost,
   Locale,
   LocalizedFaq,
+  LocalizedPromotion,
   LocalizedService,
+  Promotion,
   Service,
   ServiceFaq,
 } from "@/types";
@@ -81,4 +83,31 @@ export function formatDate(date: string, locale: Locale): string {
 /** Path de imagen de un servicio (el usuario coloca el binario luego). */
 export function serviceImagePath(slug: string): string {
   return `/images/services/${slug}.webp`;
+}
+
+/** Path del flyer de una promoción. */
+export function promotionImagePath(slug: string): string {
+  return `/images/promotions/${slug}.webp`;
+}
+
+/**
+ * Resuelve una Promotion bilingüe a un locale concreto.
+ * Fallback a español si falta el campo en inglés.
+ */
+export function getLocalizedPromotion(
+  promo: Promotion,
+  locale: Locale,
+): LocalizedPromotion {
+  const en = locale === "en";
+  return {
+    slug: promo.slug,
+    order: promo.order,
+    price: promo.price,
+    title: en && promo.titleEn ? promo.titleEn : promo.title,
+    blurb: en && promo.blurbEn ? promo.blurbEn : promo.blurb,
+    includes:
+      en && promo.includesEn?.length ? promo.includesEn : promo.includes,
+    alt: en && promo.altEn ? promo.altEn : promo.alt,
+    image: promotionImagePath(promo.slug),
+  };
 }

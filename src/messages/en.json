@@ -2,6 +2,7 @@
   "Nav": {
     "home": "Home",
     "services": "Services",
+    "promotions": "Promotions",
     "blog": "Blog",
     "walkIn": "Walk-in",
     "contact": "Contact",
@@ -31,9 +32,11 @@
     "titleLead": "Healthcare",
     "titleHighlight": "100% in Spanish",
     "titleTail": "for the whole family",
-    "subtitle": "Doctors who speak your language and treat you like family. Gynecology, urology, chronic disease care, immigration exams, lab work and more — walk-ins welcome, affordable pricing, and care for patients without insurance too.",
+    "subtitle": "Doctors who speak your language and treat you like family. Walk-ins welcome, affordable pricing, and care for patients without insurance too.",
     "ctaCall": "Call the clinic",
     "ctaDirections": "Get directions",
+    "contactPrompt": "Prefer that we reach out to you?",
+    "contactLink": "Write to us",
     "trustWalkIn": "Walk-ins welcome",
     "trustBilingual": "We speak Spanish",
     "trustInsurance": "No insurance needed",
@@ -188,5 +191,42 @@
     "cond2d": "Energy, mood and vitality",
     "cond3d": "Vitals and prevention",
     "cond4d": "Evaluation and follow-up"
+  },
+  "PromotionDialog": {
+    "priceLabel": "All for only",
+    "includesLabel": "Includes",
+    "ctaCall": "Call the clinic",
+    "ctaDirections": "Get directions",
+    "ctaForm": "Contact us",
+    "close": "Close"
+  },
+  "Promotions": {
+    "eyebrow": "Promotions",
+    "title": "Limited-time promotions",
+    "subtitle": "Take advantage of our special prices on exams and checkups, walk-ins welcome and care 100% in Spanish in Houston, TX.",
+    "viewDetail": "View promotion",
+    "viewAll": "View all promotions",
+    "swipeHint": "Swipe to see more",
+    "prev": "Previous",
+    "next": "Next",
+    "openAria": "View details for the {title} promotion"
+  },
+  "PromotionsPage": {
+    "metaTitle": "Promotions | Clínica Hispana Nueva Salud, Houston TX",
+    "metaDescription": "Special prices on exams and checkups at Clínica Hispana Nueva Salud, Houston TX: women's intimate health, men's hormone profile and a blood panel with vitamin B12. Walk-ins welcome, with or without insurance.",
+    "backToHome": "Back to home",
+    "eyebrow": "Promotions",
+    "title": "Clinic promotions",
+    "subtitle": "Special prices on exams and checkups, walk-ins welcome and with or without insurance. Care 100% in Spanish in Houston, TX.",
+    "viewDetail": "View details",
+    "faqTitle": "Frequently asked questions",
+    "faqQ1": "How long are the promotions available?",
+    "faqA1": "These are limited-time offers and may change without notice. We recommend calling us or filling out the form to confirm availability and current pricing.",
+    "faqQ2": "Do I need an appointment or insurance to use them?",
+    "faqA2": "You don't need an appointment or health insurance. We welcome walk-ins and offer affordable pricing; you can pay with cash or card.",
+    "faqQ3": "How do I book a promotion?",
+    "faqA3": "Call us directly or leave your details in the form and we'll contact you to arrange your visit.",
+    "formTitle": "Request your promotion",
+    "formSubtitle": "Leave us your details and we'll contact you as soon as possible to schedule your visit."
   }
 }

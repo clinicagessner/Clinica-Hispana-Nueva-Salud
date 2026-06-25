@@ -66,6 +66,44 @@ export interface ServiceCardData {
   image?: string;
 }
 
+/**
+ * Promoción de la clínica. El precio vive en el flyer (imagen); en texto se
+ * usa solo como dato. Campos bilingües: el español es la base y cada campo
+ * tiene su variante `*En`. Se resuelve con `getLocalizedPromotion`.
+ */
+export interface Promotion {
+  /** Descriptivo; coincide con el nombre del .webp y el ancla del deep-link. */
+  slug: string;
+  order: number;
+  /** Precio mostrado en el flyer, p.ej. "$69". null si el flyer no lo muestra. */
+  price: string | null;
+
+  // Español (base)
+  title: string;
+  blurb: string;
+  includes: string[];
+  alt: string;
+
+  // Inglés
+  titleEn: string;
+  blurbEn: string;
+  includesEn: string[];
+  altEn: string;
+}
+
+/** Promoción ya resuelta a un locale concreto. */
+export interface LocalizedPromotion {
+  slug: string;
+  order: number;
+  price: string | null;
+  title: string;
+  blurb: string;
+  includes: string[];
+  alt: string;
+  /** Path del flyer en /images/promotions/<slug>.webp */
+  image: string;
+}
+
 export interface ServiceFaq {
   question: string;
   answer: string;

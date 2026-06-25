@@ -1,5 +1,6 @@
 import type {
   NavLink,
+  Promotion,
   Service,
   ServiceCategory,
   Testimonial,
@@ -86,6 +87,7 @@ export const GOOGLE_REVIEWS_DATA = {
 // Navbar (header): sin "Sin cita".
 export const NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promotions", href: "/promociones" },
   { key: "blog", href: "/blog" },
   { key: "contact", href: "/#contacto" },
 ];
@@ -93,9 +95,84 @@ export const NAV_LINKS: NavLink[] = [
 // Footer: incluye "Sin cita" (walk-in).
 export const FOOTER_NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promotions", href: "/promociones" },
   { key: "blog", href: "/blog" },
   { key: "walkIn", href: "/walk-in" },
   { key: "contact", href: "/#contacto" },
+];
+
+/**
+ * Promociones vigentes. El precio que ve el paciente vive en el flyer (imagen);
+ * aquí `price` es solo dato de apoyo. Copy factual y sin claims médicos
+ * (compliance Google Ads salud). Misma fuente para el carrusel de la home y
+ * la página /promociones.
+ */
+export const PROMOTIONS: Promotion[] = [
+  {
+    slug: "salud-intima-femenina",
+    order: 1,
+    price: "$69",
+    title: "Salud Íntima Femenina",
+    blurb:
+      "¿Picazón, flujo o mal olor? No lo ignores: podría ser una infección. En esta evaluación de salud íntima femenina te atendemos con una consulta médica y los estudios necesarios para identificar la causa y orientarte sobre el siguiente paso.",
+    includes: ["Cultivo íntimo", "Consulta médica", "Examen de orina incluido"],
+    alt: "Flyer de la promoción Salud Íntima Femenina por $69 en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Women's Intimate Health",
+    blurbEn:
+      "Itching, discharge or odor? Don't ignore it — it could be an infection. This women's intimate health check includes a medical consultation and the tests needed to identify the cause and guide your next step.",
+    includesEn: [
+      "Intimate culture test",
+      "Medical consultation",
+      "Urine test included",
+    ],
+    altEn:
+      "Women's Intimate Health promotion flyer for $69 at Clínica Hispana Nueva Salud, Houston",
+  },
+  {
+    slug: "perfil-hormonal-masculino",
+    order: 2,
+    price: "$200",
+    title: "Perfil Hormonal Masculino",
+    blurb:
+      "¿Deseas evaluar tu salud hormonal? El perfil hormonal masculino te ayuda a revisar señales como fatiga, cambios de ánimo, problemas de sueño o cambios en el peso y la masa muscular, con exámenes confiables y atención profesional.",
+    includes: [
+      "Perfil hormonal masculino",
+      "Exámenes confiables",
+      "Resultados precisos",
+      "Atención profesional",
+    ],
+    alt: "Flyer de la promoción Perfil Hormonal Masculino por $200 en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Men's Hormone Profile",
+    blurbEn:
+      "Want to evaluate your hormonal health? The men's hormone profile helps you review signs such as fatigue, mood changes, sleep trouble, or changes in weight and muscle mass, with reliable tests and professional care.",
+    includesEn: [
+      "Men's hormone panel",
+      "Reliable lab tests",
+      "Precise results",
+      "Professional care",
+    ],
+    altEn:
+      "Men's Hormone Profile promotion flyer for $200 at Clínica Hispana Nueva Salud, Houston",
+  },
+  {
+    slug: "general-sangre-vitamina-b12",
+    order: 3,
+    price: "$99",
+    title: "General de Sangre + Vitamina B12",
+    blurb:
+      "Cuida tu salud con un examen general de sangre acompañado de una inyección de vitamina B12. Una forma sencilla de revisar cómo estás y apoyar tu energía y bienestar.",
+    includes: [
+      "Examen general de sangre",
+      "Inyección de vitamina B12",
+    ],
+    alt: "Flyer de la promoción General de Sangre más Vitamina B12 por $99 en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Blood Panel + Vitamin B12",
+    blurbEn:
+      "Take care of your health with a general blood panel plus a vitamin B12 injection. A simple way to check how you're doing and support your energy and wellbeing.",
+    includesEn: ["General blood panel", "Vitamin B12 injection"],
+    altEn:
+      "Blood Panel plus Vitamin B12 promotion flyer for $99 at Clínica Hispana Nueva Salud, Houston",
+  },
 ];
 
 export const SERVICE_CATEGORIES: {

@@ -4,6 +4,7 @@ import { Hero } from "@/components/sections/hero";
 import { Services } from "@/components/sections/services";
 import { Gynecology } from "@/components/sections/gynecology";
 import { MensHealth } from "@/components/sections/mens-health";
+import { Promotions } from "@/components/sections/promotions";
 import { Testimonials } from "@/components/sections/testimonials";
 import { BlogPreview } from "@/components/sections/blog-preview";
 import { Faq } from "@/components/sections/faq";
@@ -40,6 +41,7 @@ export default async function HomePage({
   return (
     <>
       <Hero />
+      <Promotions />
       <Services />
       <Gynecology />
       <MensHealth />

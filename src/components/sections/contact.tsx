@@ -25,34 +25,37 @@ export function Contact() {
         {/* Tarjeta oscura flotante: el fondo de sección funde de mint (arriba)
             a verde profundo (abajo) para enlazar con Ubicación y el footer. */}
         <Reveal>
-          <div className="relative overflow-hidden rounded-4xl px-6 py-12 text-sky-bg shadow-2xl shadow-blue-deep/30 sm:px-10 lg:px-14 lg:py-14">
-            {/* Fachada real como textura de fondo (refuerza "ven a visitarnos") */}
+          <div className="relative isolate overflow-hidden rounded-4xl border border-white/12 bg-blue-deep px-6 py-12 text-sky-bg shadow-2xl shadow-blue-deep/50 ring-1 ring-blue-deep/20 sm:px-10 lg:px-14 lg:py-14">
+            {/* Fachada real como textura de fondo (refuerza "ven a visitarnos").
+                Atenuada para que no aclare el card ni reste legibilidad. */}
             <Image
               src="/images/clinica-exterior.webp"
               alt=""
               fill
               sizes="(max-width: 1024px) 100vw, 1200px"
-              className="absolute inset-0 -z-20 object-cover object-top"
+              className="absolute inset-0 z-0 object-cover object-top opacity-15"
             />
-            {/* Overlay de marca: mantiene legible el texto blanco */}
+            {/* Overlay de marca: prácticamente sólido para que ninguna zona se
+                aclare y todo el texto (incluido el eyebrow) resalte. */}
             <div
               aria-hidden
-              className="absolute inset-0 -z-10 bg-linear-to-br from-blue-deep/92 via-blue-dark/72 to-blue-deep/88"
+              className="absolute inset-0 z-0 bg-linear-to-br from-blue-deep/97 via-blue-deep/96 to-blue-deep/97"
             />
             <div
               aria-hidden
-              className="pointer-events-none absolute -right-24 top-1/4 h-80 w-80 rounded-full bg-teal/10 blur-3xl"
+              className="pointer-events-none absolute -right-24 top-1/4 z-0 h-80 w-80 rounded-full bg-teal/10 blur-3xl"
             />
-            <div className="relative grid gap-12 lg:grid-cols-12 lg:items-center">
+            <div className="relative z-10 grid gap-12 lg:grid-cols-12 lg:items-center">
               {/* Info */}
               <div className="lg:col-span-5">
-                <p className="text-xs font-semibold uppercase tracking-[0.25em] text-teal-light">
+                <p className="inline-flex items-center gap-2 rounded-full border border-teal-light/30 bg-teal-light/15 px-3.5 py-1.5 text-xs font-bold uppercase tracking-[0.2em] text-teal-light">
+                  <span className="h-1.5 w-1.5 rounded-full bg-teal-light" />
                   {t("eyebrow")}
                 </p>
                 <h2 className="mt-3 font-heading text-3xl font-extrabold leading-tight tracking-tight text-white sm:text-4xl">
                   {t("title")}
                 </h2>
-                <p className="mt-5 max-w-md text-lg leading-relaxed text-sky-bg/80">
+                <p className="mt-5 max-w-md text-lg leading-relaxed text-sky-bg/90">
                   {t("subtitle")}
                 </p>
 
@@ -66,7 +69,7 @@ export function Contact() {
                         <Phone className="h-5 w-5" />
                       </span>
                       <span>
-                        <span className="block text-xs uppercase tracking-widest text-sky-bg/60">
+                        <span className="block text-xs uppercase tracking-widest text-sky-bg/75">
                           {t("orCall")}
                         </span>
                         <span className="font-heading text-lg font-bold text-white">

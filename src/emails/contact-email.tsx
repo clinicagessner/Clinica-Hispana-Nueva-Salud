@@ -41,7 +41,7 @@ export function renderContactEmailHtml({
     <div style="max-width:560px;margin:0 auto;background-color:#ffffff;border-radius:12px;overflow:hidden;border:1px solid #dcf3e3;">
       <div style="background-color:#178a3a;padding:24px 28px;">
         <p style="color:#ffffff;font-size:18px;font-weight:bold;margin:0;">Clínica Hispana Nueva Salud</p>
-        <p style="color:#dcf3e3;font-size:13px;margin:4px 0 0;">Nueva solicitud del formulario web</p>
+        <p style="color:#dcf3e3;font-size:13px;margin:4px 0 0;">🎉 Nuevo cliente desde el sitio web</p>
       </div>
       <div style="padding:28px;">
         <h1 style="color:#1e293b;font-size:18px;margin:0 0 16px;">Datos del contacto</h1>

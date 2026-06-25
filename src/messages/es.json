@@ -2,6 +2,7 @@
   "Nav": {
     "home": "Inicio",
     "services": "Servicios",
+    "promotions": "Promociones",
     "blog": "Blog",
     "walkIn": "Sin cita",
     "contact": "Contacto",
@@ -31,9 +32,11 @@
     "titleLead": "Atención médica",
     "titleHighlight": "100% en español",
     "titleTail": "para toda la familia",
-    "subtitle": "Médicos que hablan tu idioma y te tratan como familia. Ginecología, urología, control de enfermedades crónicas, exámenes de inmigración, laboratorio y más — sin cita previa, precios accesibles y atención también para pacientes sin seguro.",
+    "subtitle": "Médicos que hablan tu idioma y te tratan como familia. Sin cita previa, precios accesibles y atención también para pacientes sin seguro.",
     "ctaCall": "Llamar a la clínica",
     "ctaDirections": "Cómo llegar",
+    "contactPrompt": "¿Prefieres que te contactemos?",
+    "contactLink": "Escríbenos",
     "trustWalkIn": "Sin cita previa",
     "trustBilingual": "Hablamos español",
     "trustInsurance": "Sin seguro necesario",
@@ -188,5 +191,42 @@
     "cond2d": "Energía, ánimo y vitalidad",
     "cond3d": "Signos vitales y prevención",
     "cond4d": "Evaluación y seguimiento"
+  },
+  "PromotionDialog": {
+    "priceLabel": "Todo por solo",
+    "includesLabel": "Incluye",
+    "ctaCall": "Llamar a la clínica",
+    "ctaDirections": "Cómo llegar",
+    "ctaForm": "Contáctanos",
+    "close": "Cerrar"
+  },
+  "Promotions": {
+    "eyebrow": "Promociones",
+    "title": "Promociones por tiempo limitado",
+    "subtitle": "Aprovecha nuestros precios especiales en exámenes y chequeos, sin cita previa y con atención 100% en español en Houston, TX.",
+    "viewDetail": "Ver promoción",
+    "viewAll": "Ver todas las promociones",
+    "swipeHint": "Desliza para ver más",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "openAria": "Ver detalles de la promoción {title}"
+  },
+  "PromotionsPage": {
+    "metaTitle": "Promociones | Clínica Hispana Nueva Salud, Houston TX",
+    "metaDescription": "Precios especiales en exámenes y chequeos en Clínica Hispana Nueva Salud, Houston TX: salud íntima femenina, perfil hormonal masculino y general de sangre con vitamina B12. Sin cita previa, con o sin seguro.",
+    "backToHome": "Volver al inicio",
+    "eyebrow": "Promociones",
+    "title": "Promociones de la clínica",
+    "subtitle": "Precios especiales en exámenes y chequeos, sin cita previa y con o sin seguro. Atención 100% en español en Houston, TX.",
+    "viewDetail": "Ver detalles",
+    "faqTitle": "Preguntas frecuentes",
+    "faqQ1": "¿Hasta cuándo están disponibles las promociones?",
+    "faqA1": "Son ofertas por tiempo limitado y pueden cambiar sin previo aviso. Te recomendamos llamarnos o llenar el formulario para confirmar disponibilidad y precio vigente.",
+    "faqQ2": "¿Necesito cita o seguro médico para aprovecharlas?",
+    "faqA2": "No necesitas cita previa ni seguro médico. Atendemos sin cita y con precios accesibles; puedes pagar en efectivo o con tarjeta.",
+    "faqQ3": "¿Cómo reservo una promoción?",
+    "faqA3": "Llámanos directamente o déjanos tus datos en el formulario y te contactamos para coordinar tu visita.",
+    "formTitle": "Solicita tu promoción",
+    "formSubtitle": "Déjanos tus datos y te contactamos lo antes posible para agendar tu visita."
   }
 }

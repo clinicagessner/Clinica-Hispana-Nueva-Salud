@@ -50,7 +50,7 @@ export async function sendContactEmail(
         from: FROM,
         to: [CONTACT_INFO.email],
         replyTo: data.email || undefined,
-        subject: `Nueva solicitud de ${data.name}`,
+        subject: `Nuevo cliente desde el sitio web — ${data.name}`,
         html: renderContactEmailHtml({
           name: data.name,
           phone: data.phone,

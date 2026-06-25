@@ -1,5 +1,12 @@
 import Image from "next/image";
-import { Check, Clock, Navigation, Phone, ShieldCheck } from "lucide-react";
+import {
+  ArrowRight,
+  Check,
+  Clock,
+  Navigation,
+  Phone,
+  ShieldCheck,
+} from "lucide-react";
 import { getTranslations } from "next-intl/server";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -113,6 +120,18 @@ export async function Hero() {
               {t("ctaDirections")}
             </a>
           </div>
+
+          {/* Enlace secundario al formulario de contacto */}
+          <p className="mt-4 text-sm font-medium text-white/90 [text-shadow:0_1px_8px_rgba(7,22,40,0.7)]">
+            {t("contactPrompt")}{" "}
+            <a
+              href="#contacto"
+              className="group inline-flex items-center gap-1 font-semibold text-teal-light underline decoration-teal-light/60 underline-offset-4 transition-colors hover:text-white hover:decoration-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
+            >
+              {t("contactLink")}
+              <ArrowRight className="h-4 w-4 shrink-0 transition-transform group-hover:translate-x-0.5" />
+            </a>
+          </p>
 
           {/* Trust en línea */}
           <div className="mt-7 flex flex-wrap items-center justify-center gap-x-3 gap-y-2 text-sm font-medium text-white [text-shadow:0_1px_8px_rgba(7,22,40,0.7)] sm:justify-start">
