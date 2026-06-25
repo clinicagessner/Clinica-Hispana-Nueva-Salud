@@ -32,20 +32,30 @@ export async function Hero() {
           Base sólida en el pie para máximo contraste de título y botones. */}
       <div
         aria-hidden
-        className="absolute inset-0 -z-10 bg-linear-to-t from-blue-deep from-0% via-blue-deep/72 via-38% to-transparent to-72%"
+        className="absolute inset-0 -z-10"
+        style={{
+          background:
+            "linear-gradient(to top, var(--color-blue-deep) 0%, color-mix(in oklab, var(--color-blue-deep) 82%, transparent) 30%, color-mix(in oklab, var(--color-blue-deep) 45%, transparent) 55%, transparent 80%)",
+        }}
       />
-      {/* Velo sutil arriba para que la píldora de rating contraste sobre el cielo */}
+      {/* Scrim lateral en desktop: ancla el bloque de texto (alineado a la izq.)
+          sin tapar el letrero ni la palmera del lado derecho */}
       <div
         aria-hidden
-        className="pointer-events-none absolute inset-x-0 top-0 -z-10 h-44 bg-linear-to-b from-blue-deep/55 to-transparent"
+        className="pointer-events-none absolute inset-0 -z-10 hidden bg-linear-to-r from-blue-deep/70 from-0% via-blue-deep/25 via-45% to-transparent to-70% sm:block"
       />
-      {/* Vignette muy ligero para enfocar el contenido (radial vía style: fiable en TW v4) */}
+      {/* Velo superior para que la píldora de rating contraste sobre el cielo */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-x-0 top-0 -z-10 h-48 bg-linear-to-b from-blue-deep/65 to-transparent"
+      />
+      {/* Vignette ligero para enfocar el contenido (radial vía style: fiable en TW v4) */}
       <div
         aria-hidden
         className="pointer-events-none absolute inset-0 -z-10"
         style={{
           background:
-            "radial-gradient(120% 90% at 50% 60%, transparent 55%, rgba(10,39,64,0.35) 100%)",
+            "radial-gradient(120% 95% at 50% 58%, transparent 50%, rgba(10,39,64,0.42) 100%)",
         }}
       />
 
