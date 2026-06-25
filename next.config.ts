@@ -47,6 +47,11 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   images: {
+    // Optimizador de imágenes de Vercel desactivado: la cuenta tiene topada la
+    // cuota de Image Optimization y el endpoint /_next/image devuelve 402. Los
+    // .webp del proyecto ya están optimizados a mano, así que servimos el
+    // archivo original directamente (mismo origen, permitido por la CSP).
+    unoptimized: true,
     remotePatterns: [
       { protocol: "https", hostname: "lh3.googleusercontent.com" },
       { protocol: "https", hostname: "*.googleusercontent.com" },
