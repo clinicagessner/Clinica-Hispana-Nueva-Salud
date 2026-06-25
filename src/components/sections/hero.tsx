@@ -21,12 +21,12 @@ export async function Hero() {
     <section className="relative isolate flex min-h-[660px] items-end overflow-hidden sm:min-h-[90vh]">
       {/* Fachada real del local — protagonista, a pantalla completa */}
       <Image
-        src="/images/hero-fachada-v2.webp"
-        alt="Fachada de Clínica Hispana Nueva Salud en 7640 Bellfort Ave, Houston, TX"
+        src="/images/hero-fachada-v3.webp"
+        alt="Fachada y letrero de Clínica Hispana Nueva Salud en 7640 Bellfort Ave, Houston, TX"
         fill
         priority
         sizes="100vw"
-        className="absolute inset-0 -z-20 object-cover object-[center_72%]"
+        className="absolute inset-0 -z-20 object-cover object-[center_40%]"
       />
       {/* Oscurecido principal abajo: arriba la foto clara, abajo texto legible.
           Base sólida en el pie para máximo contraste de título y botones. */}
