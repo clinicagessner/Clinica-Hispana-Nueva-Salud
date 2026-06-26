@@ -173,6 +173,126 @@ export const PROMOTIONS: Promotion[] = [
     altEn:
       "Blood Panel plus Vitamin B12 promotion flyer for $99 at Clínica Hispana Nueva Salud, Houston",
   },
+  {
+    slug: "chequeo-medico-anual",
+    order: 4,
+    price: null,
+    title: "Chequeo Médico Anual",
+    blurb:
+      "Tu salud es prioridad. Un chequeo médico anual te ayuda a conocer cómo estás, dar seguimiento a tiempo y cuidar tu bienestar. Agenda tu evaluación general con atención profesional en español.",
+    includes: [
+      "Evaluación general de salud",
+      "Orientación sobre prevención",
+      "Atención profesional en español",
+    ],
+    alt: "Flyer de la promoción Chequeo Médico Anual en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Annual Health Check-Up",
+    blurbEn:
+      "Your health is a priority. An annual check-up helps you understand how you're doing, follow up in time and care for your wellbeing. Book your general evaluation with professional care in Spanish.",
+    includesEn: [
+      "General health evaluation",
+      "Prevention guidance",
+      "Professional care in Spanish",
+    ],
+    altEn:
+      "Annual Health Check-Up promotion flyer at Clínica Hispana Nueva Salud, Houston",
+  },
+  {
+    slug: "deteccion-anemia",
+    order: 5,
+    price: null,
+    title: "Detección de Anemia",
+    blurb:
+      "¿Cansancio constante, mareos, caída de cabello o palidez? Podrían ser señales de anemia. Un examen de sangre ayuda a revisar tus niveles y orientarte sobre el siguiente paso.",
+    includes: [
+      "Examen de sangre",
+      "Revisión de niveles de hierro",
+      "Orientación profesional",
+    ],
+    alt: "Flyer de la promoción Detección de Anemia en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Anemia Detection",
+    blurbEn:
+      "Constant fatigue, dizziness, hair loss or paleness? They could be signs of anemia. A blood test helps review your levels and guide your next step.",
+    includesEn: [
+      "Blood test",
+      "Iron level review",
+      "Professional guidance",
+    ],
+    altEn:
+      "Anemia Detection promotion flyer at Clínica Hispana Nueva Salud, Houston",
+  },
+  {
+    slug: "examenes-vitaminas-consulta",
+    order: 6,
+    price: "$99",
+    title: "Exámenes de Sangre + Vitaminas + Consulta",
+    blurb:
+      "Revisa tu salud con un paquete que incluye exámenes generales de sangre, vitaminas y consulta médica, con atención profesional en español.",
+    includes: [
+      "Exámenes generales de sangre",
+      "Vitaminas",
+      "Consulta médica incluida",
+    ],
+    alt: "Flyer de la promoción Exámenes generales de sangre, vitaminas y consulta por $99 en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Blood Tests + Vitamins + Consultation",
+    blurbEn:
+      "Check your health with a package that includes general blood tests, vitamins and a medical consultation, with professional care in Spanish.",
+    includesEn: [
+      "General blood tests",
+      "Vitamins",
+      "Medical consultation included",
+    ],
+    altEn:
+      "General blood tests, vitamins and consultation promotion flyer for $99 at Clínica Hispana Nueva Salud, Houston",
+  },
+  {
+    slug: "prueba-psa-prostata",
+    order: 7,
+    price: null,
+    title: "Prueba PSA de Próstata",
+    blurb:
+      "La prueba PSA (antígeno prostático) ayuda a revisar la salud de la próstata en hombres. Es rápida y sencilla, y suele recomendarse a partir de los 45 años.",
+    includes: [
+      "Prueba PSA (antígeno prostático)",
+      "Procedimiento rápido y sencillo",
+      "Atención profesional en español",
+    ],
+    alt: "Flyer de la promoción Prueba PSA de Próstata en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Prostate PSA Test",
+    blurbEn:
+      "The PSA (prostate-specific antigen) test helps review prostate health in men. It's quick and simple, and is usually recommended from age 45.",
+    includesEn: [
+      "PSA (prostate-specific antigen) test",
+      "Quick and simple procedure",
+      "Professional care in Spanish",
+    ],
+    altEn:
+      "Prostate PSA Test promotion flyer at Clínica Hispana Nueva Salud, Houston",
+  },
+  {
+    slug: "salud-digestiva-gastritis",
+    order: 8,
+    price: null,
+    title: "Salud Digestiva: Gastritis",
+    blurb:
+      "La gastritis es la inflamación del revestimiento del estómago y puede causar dolor abdominal, acidez y náuseas. Si los síntomas persisten, consúltanos para una evaluación profesional.",
+    includes: [
+      "Evaluación de síntomas digestivos",
+      "Orientación profesional",
+      "Atención en español",
+    ],
+    alt: "Flyer informativo sobre la gastritis en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Digestive Health: Gastritis",
+    blurbEn:
+      "Gastritis is inflammation of the stomach lining and can cause abdominal pain, heartburn and nausea. If symptoms persist, come in for a professional evaluation.",
+    includesEn: [
+      "Digestive symptom evaluation",
+      "Professional guidance",
+      "Care in Spanish",
+    ],
+    altEn:
+      "Gastritis information flyer at Clínica Hispana Nueva Salud, Houston",
+  },
 ];
 
 export const SERVICE_CATEGORIES: {
