@@ -24,7 +24,9 @@
     "bilingual": "Atención en español e inglés",
     "withOrWithoutInsurance": "Sin seguro necesario",
     "ratingSummary": "{count} reseñas en Google",
-    "affordable": "Precios accesibles"
+    "affordable": "Precios accesibles",
+    "whatsapp": "Escríbenos por WhatsApp",
+    "whatsappMessage": "Hola, me gustaría más información sobre sus servicios."
   },
   "Hero": {
     "badge": "Clínica médica hispana en Houston, TX",
@@ -41,7 +43,8 @@
     "trustBilingual": "Hablamos español",
     "trustInsurance": "Sin seguro necesario",
     "hoursLine": "Lunes a Domingo · 9 AM – 9 PM",
-    "callShort": "Llamar"
+    "callShort": "Llamar",
+    "ctaWhatsapp": "WhatsApp"
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
@@ -132,7 +135,8 @@
   "Floating": {
     "call": "Llamar",
     "directions": "Cómo llegar",
-    "backToTop": "Volver arriba"
+    "backToTop": "Volver arriba",
+    "whatsapp": "WhatsApp"
   },
   "ServicesPage": {
     "title": "Servicios médicos en Houston, TX",

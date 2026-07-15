@@ -24,7 +24,9 @@
     "bilingual": "Care in Spanish and English",
     "withOrWithoutInsurance": "No insurance needed",
     "ratingSummary": "{count} Google reviews",
-    "affordable": "Affordable prices"
+    "affordable": "Affordable prices",
+    "whatsapp": "Message us on WhatsApp",
+    "whatsappMessage": "Hello, I would like more information about your services."
   },
   "Hero": {
     "badge": "Hispanic medical clinic in Houston, TX",
@@ -41,7 +43,8 @@
     "trustBilingual": "We speak Spanish",
     "trustInsurance": "No insurance needed",
     "hoursLine": "Monday to Sunday · 9 AM – 9 PM",
-    "callShort": "Call"
+    "callShort": "Call",
+    "ctaWhatsapp": "WhatsApp"
   },
   "Services": {
     "eyebrow": "Our services",
@@ -132,7 +135,8 @@
   "Floating": {
     "call": "Call",
     "directions": "Directions",
-    "backToTop": "Back to top"
+    "backToTop": "Back to top",
+    "whatsapp": "WhatsApp"
   },
   "ServicesPage": {
     "title": "Medical services in Houston, TX",
