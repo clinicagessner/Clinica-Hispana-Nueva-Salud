@@ -29,10 +29,10 @@
     "whatsappMessage": "Hola, me gustaría más información sobre sus servicios."
   },
   "Hero": {
-    "badge": "Clínica médica hispana en Houston, TX",
+    "badge": "Centro médico hispano en Houston, TX",
     "openToday": "Abierto hoy",
-    "titleLead": "Atención médica",
-    "titleHighlight": "100% en español",
+    "titleLead": "Tu clínica hispana en Houston, TX",
+    "titleHighlight": "atención 100% en español",
     "titleTail": "para toda la familia",
     "subtitle": "Médicos que hablan tu idioma y te tratan como familia. Sin cita previa, precios accesibles y atención también para pacientes sin seguro.",
     "ctaCall": "Llamar a la clínica",
@@ -48,7 +48,7 @@
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
-    "title": "Todo lo que tu familia necesita, en un solo lugar",
+    "title": "Un centro médico con todo lo que tu familia necesita",
     "subtitle": "Una amplia variedad de servicios médicos con atención profesional en tu idioma.",
     "cta": "Ver todos los servicios",
     "featured": "Destacado"
@@ -76,7 +76,7 @@
   },
   "Location": {
     "eyebrow": "Visítanos",
-    "title": "Estamos cerca de ti, en Houston",
+    "title": "Tu clínica hispana cerca de ti, en Houston",
     "addressLabel": "Dirección",
     "hoursLabel": "Horario",
     "phoneLabel": "Teléfono",
@@ -121,7 +121,7 @@
     "cta": "Ver todo el blog"
   },
   "Footer": {
-    "tagline": "Atención médica profesional 100% en español en Houston, TX.",
+    "tagline": "Tu clínica hispana en Houston, TX: atención médica profesional 100% en español.",
     "servicesTitle": "Servicios",
     "navTitle": "Navegación",
     "contactTitle": "Contacto",
@@ -139,7 +139,7 @@
     "whatsapp": "WhatsApp"
   },
   "ServicesPage": {
-    "title": "Servicios médicos en Houston, TX",
+    "title": "Servicios médicos de tu clínica hispana en Houston, TX",
     "subtitle": "Atención profesional en español, con precios accesibles y sin cita previa.",
     "filterAll": "Todos",
     "filtersLabel": "Filtrar por categoría",
@@ -220,7 +220,7 @@
     "metaDescription": "Precios especiales en exámenes y chequeos en Clínica Hispana Nueva Salud, Houston TX: salud íntima femenina, perfil hormonal masculino y general de sangre con vitamina B12. Sin cita previa, con o sin seguro.",
     "backToHome": "Volver al inicio",
     "eyebrow": "Promociones",
-    "title": "Promociones de la clínica",
+    "title": "Promociones de tu clínica hispana en Houston",
     "subtitle": "Precios especiales en exámenes y chequeos, sin cita previa y con o sin seguro. Atención 100% en español en Houston, TX.",
     "viewDetail": "Ver detalles",
     "faqTitle": "Preguntas frecuentes",

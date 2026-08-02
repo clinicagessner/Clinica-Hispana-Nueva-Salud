@@ -29,10 +29,10 @@
     "whatsappMessage": "Hello, I would like more information about your services."
   },
   "Hero": {
-    "badge": "Hispanic medical clinic in Houston, TX",
+    "badge": "Hispanic medical center in Houston, TX",
     "openToday": "Open today",
-    "titleLead": "Healthcare",
-    "titleHighlight": "100% in Spanish",
+    "titleLead": "Your Hispanic clinic in Houston, TX",
+    "titleHighlight": "care 100% in Spanish",
     "titleTail": "for the whole family",
     "subtitle": "Doctors who speak your language and treat you like family. Walk-ins welcome, affordable pricing, and care for patients without insurance too.",
     "ctaCall": "Call the clinic",
@@ -48,7 +48,7 @@
   },
   "Services": {
     "eyebrow": "Our services",
-    "title": "Everything your family needs, in one place",
+    "title": "A medical center with everything your family needs",
     "subtitle": "A wide range of medical services with professional care in your language.",
     "cta": "View all services",
     "featured": "Featured"
@@ -76,7 +76,7 @@
   },
   "Location": {
     "eyebrow": "Visit us",
-    "title": "We are close to you, in Houston",
+    "title": "Your Hispanic clinic near you in Houston",
     "addressLabel": "Address",
     "hoursLabel": "Hours",
     "phoneLabel": "Phone",
@@ -121,7 +121,7 @@
     "cta": "View the full blog"
   },
   "Footer": {
-    "tagline": "Professional healthcare 100% in Spanish in Houston, TX.",
+    "tagline": "Your Hispanic clinic in Houston, TX: professional medical care 100% in Spanish.",
     "servicesTitle": "Services",
     "navTitle": "Navigation",
     "contactTitle": "Contact",
@@ -139,7 +139,7 @@
     "whatsapp": "WhatsApp"
   },
   "ServicesPage": {
-    "title": "Medical services in Houston, TX",
+    "title": "Medical services at your Hispanic clinic in Houston, TX",
     "subtitle": "Professional care in Spanish, with affordable pricing and walk-ins welcome.",
     "filterAll": "All",
     "filtersLabel": "Filter by category",
@@ -220,7 +220,7 @@
     "metaDescription": "Special prices on exams and checkups at Clínica Hispana Nueva Salud, Houston TX: women's intimate health, men's hormone profile and a blood panel with vitamin B12. Walk-ins welcome, with or without insurance.",
     "backToHome": "Back to home",
     "eyebrow": "Promotions",
-    "title": "Clinic promotions",
+    "title": "Promotions at your Hispanic clinic in Houston",
     "subtitle": "Special prices on exams and checkups, walk-ins welcome and with or without insurance. Care 100% in Spanish in Houston, TX.",
     "viewDetail": "View details",
     "faqTitle": "Frequently asked questions",

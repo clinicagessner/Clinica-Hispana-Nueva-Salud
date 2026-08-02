@@ -21,11 +21,11 @@ import type { Locale } from "@/types";
 // COPY local bilingüe (sin message keys), propio de esta landing.
 const COPY = {
   es: {
-    metaTitle: "Clínica Sin Cita en Houston - Walk-in en Español",
+    metaTitle: "Clínica Hispana Sin Cita en Houston - Walk-in en Español",
     metaDescription:
-      "Atención médica sin cita previa en Houston, en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
+      "Clínica hispana sin cita previa en Houston: atención en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
     eyebrow: "Atención sin cita previa",
-    title: "Te atendemos hoy, sin cita y en español",
+    title: "Te atendemos hoy en tu clínica hispana, sin cita y en español",
     subtitle:
       "No necesitas agendar. Llega a Clínica Hispana Nueva Salud cuando lo necesites: te recibimos con precios accesibles y sin necesidad de seguro, todos los días de 9 AM a 9 PM.",
     call: "Llamar ahora",
@@ -63,11 +63,11 @@ const COPY = {
     finalBody: "7640 Bellfort Ave Ste A, Houston, TX 77061",
   },
   en: {
-    metaTitle: "Walk-in Clinic in Houston - No Appointment, Spanish",
+    metaTitle: "Hispanic Walk-in Clinic in Houston - No Appointment",
     metaDescription:
-      "Walk-in medical care in Houston, in Spanish, with affordable pricing, no insurance required. Open Monday to Sunday, 9 AM to 9 PM.",
+      "Walk-in care at a Hispanic clinic in Houston, in Spanish, with affordable pricing, no insurance required. Open Monday to Sunday, 9 AM to 9 PM.",
     eyebrow: "Walk-ins welcome",
-    title: "We see you today—no appointment, in Spanish",
+    title: "Your Hispanic clinic sees you today—no appointment, in Spanish",
     subtitle:
       "No need to schedule. Come to Clínica Hispana Nueva Salud whenever you need: we see you with affordable pricing and no insurance required, every day from 9 AM to 9 PM.",
     call: "Call now",
