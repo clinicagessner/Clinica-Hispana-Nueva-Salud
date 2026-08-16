@@ -113,8 +113,34 @@ export const FOOTER_NAV_LINKS: NavLink[] = [
  */
 export const PROMOTIONS: Promotion[] = [
   {
-    slug: "salud-intima-femenina",
+    slug: "chequeo-general-completo",
     order: 1,
+    price: "$99",
+    title: "Chequeo General Completo",
+    blurb:
+      "Cuídate hoy, vive mejor mañana. Chequeo general completo por solo $99 (valor regular $250) con consulta médica gratis: examen general de sangre, A1C (hemoglobina glicosilada) y examen general de orina. Agenda tu cita hoy.",
+    includes: [
+      "Examen general de sangre",
+      "A1C (hemoglobina glicosilada)",
+      "Examen general de orina",
+      "Consulta médica gratis",
+    ],
+    alt: "Flyer de la promoción Chequeo General Completo por $99 con consulta gratis en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Complete General Check-Up",
+    blurbEn:
+      "Take care today, live better tomorrow. Complete general check-up for only $99 (regular value $250) with a free medical consultation: general blood test, A1C (glycated hemoglobin) and general urine test. Book your appointment today.",
+    includesEn: [
+      "General blood test",
+      "A1C (glycated hemoglobin)",
+      "General urine test",
+      "Free medical consultation",
+    ],
+    altEn:
+      "Complete General Check-Up promotion flyer for $99 with free consultation at Clínica Hispana Nueva Salud, Houston",
+  },
+  {
+    slug: "salud-intima-femenina",
+    order: 2,
     price: "$69",
     title: "Salud Íntima Femenina",
     blurb:
@@ -134,7 +160,7 @@ export const PROMOTIONS: Promotion[] = [
   },
   {
     slug: "perfil-hormonal-masculino",
-    order: 2,
+    order: 3,
     price: "$200",
     title: "Perfil Hormonal Masculino",
     blurb:
@@ -160,7 +186,7 @@ export const PROMOTIONS: Promotion[] = [
   },
   {
     slug: "general-sangre-vitamina-b12",
-    order: 3,
+    order: 4,
     price: "$99",
     title: "General de Sangre + Vitamina B12",
     blurb:
@@ -179,7 +205,7 @@ export const PROMOTIONS: Promotion[] = [
   },
   {
     slug: "chequeo-medico-anual",
-    order: 4,
+    order: 5,
     price: null,
     title: "Chequeo Médico Anual",
     blurb:
@@ -203,7 +229,7 @@ export const PROMOTIONS: Promotion[] = [
   },
   {
     slug: "deteccion-anemia",
-    order: 5,
+    order: 6,
     price: null,
     title: "Detección de Anemia",
     blurb:
@@ -227,7 +253,7 @@ export const PROMOTIONS: Promotion[] = [
   },
   {
     slug: "examenes-vitaminas-consulta",
-    order: 6,
+    order: 7,
     price: "$99",
     title: "Exámenes de Sangre + Vitaminas + Consulta",
     blurb:
@@ -251,7 +277,7 @@ export const PROMOTIONS: Promotion[] = [
   },
   {
     slug: "prueba-psa-prostata",
-    order: 7,
+    order: 8,
     price: null,
     title: "Prueba PSA de Próstata",
     blurb:
@@ -275,7 +301,7 @@ export const PROMOTIONS: Promotion[] = [
   },
   {
     slug: "salud-digestiva-gastritis",
-    order: 8,
+    order: 9,
     price: null,
     title: "Salud Digestiva: Gastritis",
     blurb:
