@@ -16,7 +16,7 @@ If you drive commercial vehicles, the DOT physical exam is a requirement you can
 
 ## What is the DOT exam?
 
-The DOT (Department of Transportation) physical exam confirms you're healthy enough to drive trucks and commercial vehicles safely. It's required to **obtain or renew your CDL license**.
+The [DOT (Department of Transportation) physical exam](/en/services/examen-dot) confirms you're healthy enough to drive trucks and commercial vehicles safely. It's required to **obtain or renew your CDL license**.
 
 ## What does it include?
 
@@ -41,4 +41,4 @@ The exam is quick. In most cases you leave the **same day with your certificate*
 
 ## Do it with us
 
-At Clínica Hispana Nueva Salud we perform your DOT exam in Spanish, quickly and with a same-day certificate. Call us at **(346) 222-1006** or walk in.
+At Clínica Hispana Nueva Salud we perform your DOT exam in Spanish, quickly and with a same-day certificate. If your employer also requires an [alcohol and drug test](/en/services/examen-alcohol-drogas), we do it in the same visit. Call us at **(346) 222-1006** or [walk in](/en/walk-in).

@@ -16,7 +16,7 @@ Si manejas vehículos comerciales, el examen físico DOT es un requisito que no 
 
 ## ¿Qué es el examen DOT?
 
-El examen físico DOT (Department of Transportation) evalúa que estés en condiciones de salud para conducir camiones y vehículos comerciales con seguridad. Es obligatorio para **obtener o renovar tu licencia CDL**.
+El [examen físico DOT](/services/examen-dot) (Department of Transportation) evalúa que estés en condiciones de salud para conducir camiones y vehículos comerciales con seguridad. Es obligatorio para **obtener o renovar tu licencia CDL**.
 
 ## ¿Qué incluye?
 
@@ -41,4 +41,4 @@ El examen es rápido. En la mayoría de los casos sales el **mismo día con tu c
 
 ## Hazlo con nosotros
 
-En Clínica Hispana Nueva Salud realizamos tu examen DOT en español, de forma rápida y con certificado el mismo día. Llámanos al **(346) 222-1006** o visítanos sin cita.
+En Clínica Hispana Nueva Salud realizamos tu examen DOT en español, de forma rápida y con certificado el mismo día. Si tu empleador también requiere una [prueba de alcohol y drogas](/services/examen-alcohol-drogas), la hacemos en la misma visita. Llámanos al **(346) 222-1006** o [visítanos sin cita](/walk-in).

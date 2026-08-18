@@ -22,8 +22,8 @@ USCIS exige este examen para confirmar que no existen condiciones de salud que a
 
 - Revisión de tu historial médico y de vacunas
 - Examen físico completo
-- Pruebas requeridas, incluida la de tuberculosis
-- Aplicación de las vacunas que te falten
+- Pruebas requeridas, incluida la de [tuberculosis](/services/prueba-tuberculosis)
+- Aplicación de las [vacunas](/services/vacunas) que te falten
 - Formulario I-693 completado y **sellado en sobre oficial**
 
 ## ¿Qué vacunas necesito?
@@ -42,4 +42,4 @@ No abras el sobre sellado. Si lo abres, el formulario puede invalidarse y tendr�
 
 ## Te acompañamos en cada paso
 
-En Clínica Hispana Nueva Salud realizamos el examen I-693 con médico autorizado, todo en español y con el formulario sellado listo para enviar. Llámanos al **(346) 222-1006**.
+En Clínica Hispana Nueva Salud realizamos el [examen I-693 con médico autorizado](/services/examenes-inmigracion), todo en español y con el formulario sellado listo para enviar. Llámanos al **(346) 222-1006**.

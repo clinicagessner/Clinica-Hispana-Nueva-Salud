@@ -16,11 +16,12 @@ Cuidar tu salud como mujer va más allá de una sola consulta: es un acompañami
 
 ## Servicios esenciales para la mujer
 
-- **Chequeo ginecológico anual** y papanicolaou
-- **Planificación familiar** y orientación sobre métodos
-- **Inyección anticonceptiva** y seguimiento
-- **Extracción de implantes anticonceptivos**
-- **Tratamiento de infecciones vaginales**
+- **[Chequeo ginecológico anual](/services/ginecologia)** y papanicolaou
+- **[Planificación familiar](/services/anticonceptivos)** y orientación sobre métodos
+- **[Inyección anticonceptiva](/services/anticonceptivos)** y seguimiento
+- **[Extracción de implantes anticonceptivos](/services/extraccion-implantes)**
+- **Tratamiento de infecciones vaginales** y [urinarias](/services/infecciones-urinarias)
+- **[Prueba de embarazo](/services/prueba-embarazo)** y **[ultrasonido](/services/ultrasonido)**
 
 ## Prevención: tu mejor aliada
 

@@ -20,10 +20,11 @@ A gynecological checkup isn't only for when something is wrong. It's a preventio
 
 ## What a visit includes
 
-- **Pap smear:** helps detect abnormal cells in the cervix.
+- **[Pap smear](/en/services/ginecologia):** helps detect abnormal cells in the cervix.
 - **Women's health exam:** general review and guidance.
-- **Family planning:** information on methods based on your plans.
-- **Care for discomfort and infections.**
+- **[Family planning](/en/services/anticonceptivos):** information on methods based on your plans.
+- **Care for discomfort and infections,** like [urinary tract infections](/en/services/infecciones-urinarias) or [STDs](/en/services/enfermedades-transmision-sexual).
+- **[Pregnancy test](/en/services/prueba-embarazo)** with guidance in your language.
 
 ## Let go of fear and embarrassment
 
@@ -35,4 +36,4 @@ The frequency depends on your age and history. At your visit we'll advise what's
 
 ## Your health, in your language
 
-At Clínica Hispana Nueva Salud we offer gynecological care in Spanish, with the trust you deserve. Book your visit by calling **(346) 222-1006**.
+At Clínica Hispana Nueva Salud we offer [gynecological care in Spanish](/en/services/ginecologia), with the trust you deserve. Book your visit by calling **(346) 222-1006**.

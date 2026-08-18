@@ -16,7 +16,7 @@ When you start an immigration process that requires a medical exam, you'll hear 
 
 ## What is a civil surgeon?
 
-A *civil surgeon* is a **USCIS-authorized physician** who can perform the immigration medical exam (Form I-693) within the United States. Not every doctor can do it: they must hold this official authorization.
+A *civil surgeon* is a **USCIS-authorized physician** who can perform the [immigration medical exam (Form I-693)](/en/services/examenes-inmigracion) within the United States. Not every doctor can do it: they must hold this official authorization.
 
 ## Why is it important?
 
@@ -26,8 +26,8 @@ Only the form completed and **sealed by a civil surgeon** is valid for your proc
 
 - Review your medical and vaccination history
 - Perform the physical exam
-- Order the required tests
-- Administer necessary vaccines
+- Order the required tests, like [tuberculosis](/en/services/prueba-tuberculosis)
+- Administer necessary [vaccines](/en/services/vacunas)
 - Complete and seal Form I-693
 
 ## How to choose the right one

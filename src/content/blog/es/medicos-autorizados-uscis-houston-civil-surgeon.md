@@ -16,7 +16,7 @@ Cuando inicias un proceso de inmigración que requiere examen médico, escuchar�
 
 ## ¿Qué es un civil surgeon?
 
-Un *civil surgeon* es un **médico autorizado por USCIS** para realizar el examen médico de inmigración (Formulario I-693) dentro de Estados Unidos. No cualquier médico puede hacerlo: debe contar con esta autorización oficial.
+Un *civil surgeon* es un **médico autorizado por USCIS** para realizar el [examen médico de inmigración (Formulario I-693)](/services/examenes-inmigracion) dentro de Estados Unidos. No cualquier médico puede hacerlo: debe contar con esta autorización oficial.
 
 ## ¿Por qué es importante?
 
@@ -26,8 +26,8 @@ Solo el formulario completado y **sellado por un civil surgeon** es válido para
 
 - Revisa tu historial médico y de vacunas
 - Realiza el examen físico
-- Ordena las pruebas requeridas
-- Aplica las vacunas necesarias
+- Ordena las pruebas requeridas, como la de [tuberculosis](/services/prueba-tuberculosis)
+- Aplica las [vacunas](/services/vacunas) necesarias
 - Completa y sella el Formulario I-693
 
 ## Cómo elegir al indicado

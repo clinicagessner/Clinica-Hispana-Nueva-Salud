@@ -22,16 +22,14 @@ export function Footer() {
   const tNav = useTranslations("Nav");
   const locale = useLocale() as Locale;
   const year = new Date().getFullYear();
-  const services = getAllServices()
-    .slice(0, 6)
-    .map((s) => getLocalizedService(s, locale));
+  const services = getAllServices().map((s) => getLocalizedService(s, locale));
 
   return (
     <footer className="bg-blue-deep text-sky-alt">
       <div className="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
         <div className="grid gap-10 lg:grid-cols-12">
           {/* Marca */}
-          <div className="lg:col-span-4">
+          <div className="lg:col-span-3">
             <div className="rounded-3xl bg-white/95 px-4 py-3 w-fit">
               <Logo />
             </div>
@@ -96,11 +94,11 @@ export function Footer() {
           </nav>
 
           {/* Servicios */}
-          <nav className="lg:col-span-3" aria-label={t("servicesTitle")}>
+          <nav className="lg:col-span-4" aria-label={t("servicesTitle")}>
             <h2 className="font-heading text-sm font-bold uppercase tracking-widest text-white">
               {t("servicesTitle")}
             </h2>
-            <ul className="mt-4 space-y-2.5 text-sm">
+            <ul className="mt-4 grid grid-cols-1 gap-x-4 gap-y-2.5 text-sm sm:grid-cols-2">
               {services.map((s) => (
                 <li key={s.slug}>
                   <Link

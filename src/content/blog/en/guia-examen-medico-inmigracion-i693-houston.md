@@ -22,8 +22,8 @@ USCIS requires this exam to confirm there are no health conditions affecting you
 
 - Review of your medical and vaccination history
 - Complete physical exam
-- Required tests, including tuberculosis
-- Administration of any missing vaccines
+- Required tests, including [tuberculosis](/en/services/prueba-tuberculosis)
+- Administration of any missing [vaccines](/en/services/vacunas)
 - Form I-693 completed and **sealed in the official envelope**
 
 ## Which vaccines do I need?
@@ -42,4 +42,4 @@ Do not open the sealed envelope. If you open it, the form may be invalidated and
 
 ## We're with you every step
 
-At Clínica Hispana Nueva Salud we perform the I-693 exam with an authorized physician, all in Spanish and with the sealed form ready to submit. Call us at **(346) 222-1006**.
+At Clínica Hispana Nueva Salud we perform the [I-693 exam with an authorized physician](/en/services/examenes-inmigracion), all in Spanish and with the sealed form ready to submit. Call us at **(346) 222-1006**.

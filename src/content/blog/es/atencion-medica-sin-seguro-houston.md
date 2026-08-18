@@ -23,10 +23,10 @@ Muchas familias hispanas posponen una consulta por miedo a una factura impagable
 En nuestra clínica, los pacientes sin seguro pueden acceder a:
 
 - Consultas de medicina familiar
-- Análisis de laboratorio
-- Tratamiento de enfermedades comunes
-- Exámenes físicos para trabajo, escuela o licencia
-- Control de condiciones crónicas como diabetes e hipertensión
+- [Análisis de laboratorio](/services/examenes-sangre)
+- Tratamiento de enfermedades comunes, como [infecciones respiratorias](/services/enfermedades-respiratorias) o [urinarias](/services/infecciones-urinarias)
+- [Exámenes físicos para escuela](/services/examen-fisico-escolar), trabajo o [licencia CDL](/services/examen-dot)
+- [Control de condiciones crónicas](/services/condiciones-cronicas) como diabetes e hipertensión
 
 ## Consejos para cuidar tu bolsillo y tu salud
 
@@ -36,4 +36,4 @@ En nuestra clínica, los pacientes sin seguro pueden acceder a:
 
 ## Estamos para ayudarte
 
-En Clínica Hispana Nueva Salud atendemos a pacientes **sin necesidad de seguro**, en español y sin cita previa. Si tienes dudas sobre el costo de un servicio, llámanos al **(346) 222-1006** y con gusto te orientamos.
+En Clínica Hispana Nueva Salud atendemos a pacientes **sin necesidad de seguro**, en español y [sin cita previa](/walk-in). Si tienes dudas sobre el costo de un servicio, llámanos al **(346) 222-1006** y con gusto te orientamos.

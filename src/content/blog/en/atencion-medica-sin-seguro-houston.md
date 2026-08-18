@@ -23,10 +23,10 @@ Many Hispanic families put off a visit out of fear of an unpayable bill. The goo
 At our clinic, uninsured patients can access:
 
 - Family medicine visits
-- Lab work
-- Treatment of common illnesses
-- Physical exams for work, school or a license
-- Management of chronic conditions like diabetes and hypertension
+- [Lab work](/en/services/examenes-sangre)
+- Treatment of common illnesses, like [respiratory](/en/services/enfermedades-respiratorias) or [urinary infections](/en/services/infecciones-urinarias)
+- [Physical exams for school](/en/services/examen-fisico-escolar), work or a [CDL license](/en/services/examen-dot)
+- [Management of chronic conditions](/en/services/condiciones-cronicas) like diabetes and hypertension
 
 ## Tips to protect your wallet and your health
 
@@ -36,4 +36,4 @@ At our clinic, uninsured patients can access:
 
 ## We're here to help
 
-At Clínica Hispana Nueva Salud we see patients **with no insurance required**, in Spanish and with no appointment. If you have questions about the cost of a service, call us at **(346) 222-1006** and we'll gladly guide you.
+At Clínica Hispana Nueva Salud we see patients **with no insurance required**, in Spanish and [with no appointment](/en/walk-in). If you have questions about the cost of a service, call us at **(346) 222-1006** and we'll gladly guide you.

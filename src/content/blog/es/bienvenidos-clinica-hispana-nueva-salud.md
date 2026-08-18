@@ -23,12 +23,13 @@ Somos una clínica médica familiar ubicada en **7640 Bellfort Ave Ste A, Housto
 Ofrecemos una amplia gama de servicios bajo un mismo techo:
 
 - Medicina familiar para todas las edades
-- Examen médico de inmigración I-693 con médico autorizado por USCIS
-- Laboratorio clínico con resultados el mismo día
-- Ultrasonido y electrocardiograma
-- Control de diabetes, hipertensión y colesterol
-- Ginecología y salud de la mujer
-- Examen físico DOT para licencia CDL
+- [Examen médico de inmigración I-693](/services/examenes-inmigracion) con médico autorizado por USCIS
+- [Laboratorio clínico](/services/examenes-sangre) con resultados el mismo día
+- [Ultrasonido](/services/ultrasonido) y [electrocardiograma](/services/electrocardiograma)
+- [Control de diabetes, hipertensión y colesterol](/services/condiciones-cronicas)
+- [Ginecología y salud de la mujer](/services/ginecologia)
+- [Examen físico DOT](/services/examen-dot) para licencia CDL
+- [Vacunas](/services/vacunas) para niños y adultos
 
 ## Por qué elegirnos
 
@@ -36,4 +37,4 @@ Lo que nos distingue no es solo lo que hacemos, sino **cómo lo hacemos**. Te re
 
 ## Te esperamos
 
-Cuidar tu salud es la mejor inversión que puedes hacer por ti y por tu familia. Ven sin cita o llámanos al **(346) 222-1006**. En Clínica Hispana Nueva Salud, te atendemos como a los nuestros.
+Cuidar tu salud es la mejor inversión que puedes hacer por ti y por tu familia. [Ven sin cita](/walk-in) o llámanos al **(346) 222-1006**. En Clínica Hispana Nueva Salud, te atendemos como a los nuestros.

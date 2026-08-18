@@ -16,14 +16,15 @@ A blood test can reveal a lot about your health—even before symptoms appear. K
 
 ## Why get blood tests?
 
-Tests help **catch problems early**, follow up on a chronic condition or complete an immigration, work or school exam.
+[Blood tests](/en/services/examenes-sangre) help **catch problems early**, follow up on a [chronic condition](/en/services/condiciones-cronicas) or complete an [immigration](/en/services/examenes-inmigracion), work or [school exam](/en/services/examen-fisico-escolar).
 
 ## The most common tests
 
 - **Complete blood count (CBC):** evaluates your red and white cells and platelets.
 - **Blood chemistry:** measures glucose, kidney and liver function.
 - **Lipid panel:** cholesterol and triglycerides.
-- **Thyroid tests:** check how your thyroid is working.
+- **[Thyroid tests](/en/services/tiroides):** check how your thyroid is working.
+- **[Stool test](/en/services/examen-heces):** detects parasites and digestive infections.
 
 ## Do I need to fast?
 
@@ -35,4 +36,4 @@ In most cases we deliver results **the same day** and explain them in Spanish, w
 
 ## Walk in anytime
 
-At Clínica Hispana Nueva Salud we draw your samples on the spot and guide you on the next steps. Call us at **(346) 222-1006** or visit from 9 AM to 9 PM.
+At Clínica Hispana Nueva Salud we draw your samples on the spot and guide you on the next steps. Call us at **(346) 222-1006** or [walk in](/en/walk-in) from 9 AM to 9 PM.

@@ -16,11 +16,12 @@ Caring for your health as a woman goes beyond a single visit: it's support at ev
 
 ## Essential services for women
 
-- **Annual gynecological checkup** and Pap smear
-- **Family planning** and guidance on methods
-- **Contraceptive injection** and follow-up
-- **Contraceptive implant removal**
-- **Vaginal infection treatment**
+- **[Annual gynecological checkup](/en/services/ginecologia)** and Pap smear
+- **[Family planning](/en/services/anticonceptivos)** and guidance on methods
+- **[Contraceptive injection](/en/services/anticonceptivos)** and follow-up
+- **[Contraceptive implant removal](/en/services/extraccion-implantes)**
+- **Vaginal infection treatment** and [urinary tract infections](/en/services/infecciones-urinarias)
+- **[Pregnancy test](/en/services/prueba-embarazo)** and **[ultrasound](/en/services/ultrasonido)**
 
 ## Prevention: your best ally
 

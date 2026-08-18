@@ -37,8 +37,8 @@ Una caminata de 30 minutos al día ayuda a bajar el azúcar y a sentirte mejor. 
 
 ## El seguimiento marca la diferencia
 
-La diabetes mal controlada puede dañar los riñones, la vista y el corazón. Por eso el seguimiento regular con tu médico es clave para ajustar el tratamiento a tiempo.
+La diabetes mal controlada puede dañar los riñones, la vista y el corazón. Por eso el [seguimiento regular con tu médico](/services/condiciones-cronicas) es clave para ajustar el tratamiento a tiempo, apoyado en [análisis de sangre](/services/examenes-sangre) periódicos y, si tu médico lo indica, un [electrocardiograma](/services/electrocardiograma).
 
 ## Cuenta con nosotros
 
-En Clínica Hispana Nueva Salud tenemos un programa de control de diabetes en español, con laboratorio el mismo día y un plan personalizado. Llámanos al **(346) 222-1006** y toma el control de tu salud.
+En Clínica Hispana Nueva Salud tenemos un [programa de control de diabetes](/services/condiciones-cronicas) en español, con laboratorio el mismo día y un plan personalizado. Llámanos al **(346) 222-1006** y toma el control de tu salud.

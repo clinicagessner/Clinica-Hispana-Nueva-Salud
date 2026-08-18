@@ -20,10 +20,11 @@ El chequeo ginecológico no es solo para cuando algo anda mal. Es una herramient
 
 ## Qué incluye una consulta
 
-- **Papanicolaou:** ayuda a detectar células anormales en el cuello uterino.
+- **[Papanicolaou](/services/ginecologia):** ayuda a detectar células anormales en el cuello uterino.
 - **Examen de salud de la mujer:** revisión general y orientación.
-- **Planificación familiar:** información sobre métodos según tus planes.
-- **Atención de molestias e infecciones.**
+- **[Planificación familiar](/services/anticonceptivos):** información sobre métodos según tus planes.
+- **Atención de molestias e infecciones,** como [infecciones urinarias](/services/infecciones-urinarias) o [de transmisión sexual](/services/enfermedades-transmision-sexual).
+- **[Prueba de embarazo](/services/prueba-embarazo)** con orientación en tu idioma.
 
 ## Rompe el miedo y la pena
 
@@ -35,4 +36,4 @@ La frecuencia depende de tu edad y tu historial. En tu consulta te indicaremos l
 
 ## Tu salud, en tu idioma
 
-En Clínica Hispana Nueva Salud ofrecemos atención ginecológica en español, con la confianza que mereces. Agenda tu visita llamando al **(346) 222-1006**.
+En Clínica Hispana Nueva Salud ofrecemos [atención ginecológica en español](/services/ginecologia), con la confianza que mereces. Agenda tu visita llamando al **(346) 222-1006**.

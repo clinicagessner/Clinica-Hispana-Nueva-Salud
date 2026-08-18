@@ -23,12 +23,13 @@ We are a family medical clinic located at **7640 Bellfort Ave Ste A, Houston, TX
 We offer a wide range of services under one roof:
 
 - Family medicine for all ages
-- I-693 immigration medical exam with a USCIS-authorized physician
-- Clinical lab with same-day results
-- Ultrasound and electrocardiogram
-- Diabetes, hypertension and cholesterol management
-- Gynecology and women's health
-- DOT physical exam for CDL license
+- [I-693 immigration medical exam](/en/services/examenes-inmigracion) with a USCIS-authorized physician
+- [Clinical lab](/en/services/examenes-sangre) with same-day results
+- [Ultrasound](/en/services/ultrasonido) and [electrocardiogram](/en/services/electrocardiograma)
+- [Diabetes, hypertension and cholesterol management](/en/services/condiciones-cronicas)
+- [Gynecology and women's health](/en/services/ginecologia)
+- [DOT physical exam](/en/services/examen-dot) for CDL license
+- [Vaccines](/en/services/vacunas) for children and adults
 
 ## Why choose us
 
@@ -36,4 +37,4 @@ What sets us apart isn't just what we do, but **how we do it**. We welcome you i
 
 ## We're waiting for you
 
-Caring for your health is the best investment you can make for yourself and your family. Walk in or call us at **(346) 222-1006**. At Clínica Hispana Nueva Salud, we treat you like family.
+Caring for your health is the best investment you can make for yourself and your family. [Walk in](/en/walk-in) or call us at **(346) 222-1006**. At Clínica Hispana Nueva Salud, we treat you like family.

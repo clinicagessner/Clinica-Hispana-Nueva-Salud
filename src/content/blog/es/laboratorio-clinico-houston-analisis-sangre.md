@@ -16,14 +16,15 @@ Un análisis de sangre puede contar mucho sobre tu salud, incluso antes de que a
 
 ## ¿Por qué hacerse análisis de sangre?
 
-Los análisis sirven para **detectar problemas a tiempo**, dar seguimiento a una condición crónica o completar un examen de inmigración, trabajo o escuela.
+Los [análisis de sangre](/services/examenes-sangre) sirven para **detectar problemas a tiempo**, dar seguimiento a una [condición crónica](/services/condiciones-cronicas) o completar un [examen de inmigración](/services/examenes-inmigracion), trabajo o [escuela](/services/examen-fisico-escolar).
 
 ## Los análisis más comunes
 
 - **Biometría hemática:** evalúa tus glóbulos rojos, blancos y plaquetas.
 - **Química sanguínea:** mide glucosa, función del riñón e hígado.
 - **Perfil de lípidos:** colesterol y triglicéridos.
-- **Pruebas de tiroides:** revisan el funcionamiento de la tiroides.
+- **[Pruebas de tiroides](/services/tiroides):** revisan el funcionamiento de la tiroides.
+- **[Examen de heces](/services/examen-heces):** detecta parásitos e infecciones digestivas.
 
 ## ¿Necesito ayuno?
 
@@ -35,4 +36,4 @@ En la mayoría de los casos entregamos resultados **el mismo día** y te los exp
 
 ## Ven sin cita
 
-En Clínica Hispana Nueva Salud tomamos tus muestras en el momento y te orientamos sobre los siguientes pasos. Llámanos al **(346) 222-1006** o visítanos de 9 AM a 9 PM.
+En Clínica Hispana Nueva Salud tomamos tus muestras en el momento y te orientamos sobre los siguientes pasos. Llámanos al **(346) 222-1006** o [visítanos sin cita](/walk-in) de 9 AM a 9 PM.

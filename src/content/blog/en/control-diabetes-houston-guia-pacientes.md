@@ -37,8 +37,8 @@ A 30-minute walk a day helps lower your sugar and makes you feel better. You don
 
 ## Follow-up makes the difference
 
-Poorly managed diabetes can damage the kidneys, eyesight and heart. That's why regular follow-up with your doctor is key to adjusting treatment in time.
+Poorly managed diabetes can damage the kidneys, eyesight and heart. That's why [regular follow-up with your doctor](/en/services/condiciones-cronicas) is key to adjusting treatment in time, supported by periodic [blood work](/en/services/examenes-sangre) and, if your doctor recommends it, an [electrocardiogram](/en/services/electrocardiograma).
 
 ## Count on us
 
-At Clínica Hispana Nueva Salud we have a diabetes management program in Spanish, with same-day lab work and a personalized plan. Call us at **(346) 222-1006** and take control of your health.
+At Clínica Hispana Nueva Salud we have a [diabetes management program](/en/services/condiciones-cronicas) in Spanish, with same-day lab work and a personalized plan. Call us at **(346) 222-1006** and take control of your health.
