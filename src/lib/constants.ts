@@ -1180,38 +1180,100 @@ ${AREAS_EN}`,
       "General men's checkup",
       "Results explained in Spanish",
     ],
-    longDescription: `La salud del hombre muchas veces se posterga. En Clínica Hispana Nueva Salud facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.
+    longDescription: `La salud del hombre muchas veces se posterga: "no me duele nada", "no tengo tiempo". En Clínica Hispana Nueva Salud facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes en la próstata y en tus hormonas, con resultados explicados en español: sin cita previa, sin seguro médico y con precios accesibles.
 
-## ¿Qué incluye?
+## ¿Qué incluye el chequeo del hombre?
 
-- Examen de antígeno prostático (PSA)
-- Medición del nivel de testosterona
-- Chequeo general y de signos vitales
-- Evaluación de síntomas urinarios o de energía
-- Referencia a especialista si se requiere
+- **Antígeno prostático específico (PSA):** examen de sangre que ayuda a vigilar la salud de la próstata
+- **Nivel de testosterona:** la hormona que influye en energía, ánimo, masa muscular y deseo sexual
+- **Chequeo general:** presión arterial, peso, signos vitales y revisión de síntomas
+- **Evaluación de síntomas urinarios** (levantarse de noche a orinar, chorro débil, goteo) o de falta de energía
+- **Referencia a urólogo o especialista** cuando el resultado lo amerita
 
-## Por qué es importante
+Si quieres un panorama completo, podemos combinarlo con [exámenes de sangre](/services/examenes-sangre) de glucosa, colesterol y [tiroides](/services/tiroides) en la misma extracción.
 
-El PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.
+## ¿A qué edad y cada cuánto?
+
+- **PSA:** en general a partir de los 50 años, o desde los 40-45 si tienes familiares (padre, hermano) con cáncer de próstata. Se repite cada 1 a 2 años según el resultado.
+- **Testosterona:** a cualquier edad si tienes síntomas de testosterona baja (ver abajo). Se mide en la mañana, que es cuando está más alta.
+
+## Señales de que conviene revisarte
+
+- Te levantas varias veces en la noche a orinar
+- Chorro de orina débil, intermitente o sensación de no vaciar
+- Cansancio constante, poca energía o ánimo bajo
+- Menos deseo sexual o dificultad para mantener una erección
+- Pérdida de masa muscular o aumento de grasa abdominal
+- Dolor en la parte baja de la espalda o en la pelvis sin causa clara
+
+Muchos de estos síntomas tienen solución cuando se detecta la causa. Ignorarlos no los hace desaparecer.
+
+## ¿Cómo me preparo?
+
+- Para el PSA: evita relaciones sexuales, bicicleta y ejercicio intenso 48 horas antes, porque pueden elevar el resultado.
+- Para testosterona: ven por la mañana, idealmente antes de las 10 AM.
+- Si además te harás glucosa o colesterol, ayuna de 8 a 12 horas.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita, te registras y nos cuentas tus síntomas o tu interés en el chequeo.
+2. Se toma la muestra de sangre en la clínica; tarda pocos minutos.
+3. El personal médico revisa tus signos vitales y evalúa tus síntomas.
+4. Cuando el laboratorio entrega los resultados, te los explicamos en español y definimos los siguientes pasos.
+
+## Salud del hombre en una clínica hispana cerca de ti
+
+Si buscas un examen de próstata (PSA) o de testosterona en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Men's health is often postponed. At Clínica Hispana Nueva Salud we make it easy to get the exams that help catch important changes early, with results explained in Spanish.
+    longDescriptionEn: `Men's health often gets put off: "nothing hurts," "I don't have time." At Clínica Hispana Nueva Salud we make it easy to get the tests that detect important changes in the prostate and your hormones early, with results explained in Spanish: no appointment, no insurance required and affordable pricing.
 
-## What's included?
+## What does the men's checkup include?
 
-- Prostate antigen (PSA) test
-- Testosterone level measurement
-- General checkup and vital signs
-- Evaluation of urinary or energy symptoms
-- Referral to a specialist if needed
+- **Prostate-specific antigen (PSA):** a blood test that helps monitor prostate health
+- **Testosterone level:** the hormone that affects energy, mood, muscle mass and sex drive
+- **General checkup:** blood pressure, weight, vital signs and symptom review
+- **Evaluation of urinary symptoms** (getting up at night to urinate, weak stream, dribbling) or low energy
+- **Referral to a urologist or specialist** when the result warrants it
 
-## Why it matters
+If you want a full picture, we can combine it with [blood tests](/en/services/examenes-sangre) for glucose, cholesterol and [thyroid](/en/services/tiroides) in the same draw.
 
-PSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.
+## At what age and how often?
+
+- **PSA:** generally from age 50, or from 40-45 if you have relatives (father, brother) with prostate cancer. Repeated every 1 to 2 years depending on the result.
+- **Testosterone:** at any age if you have symptoms of low testosterone (see below). It's measured in the morning, when it's highest.
+
+## Signs it's time to get checked
+
+- You get up several times a night to urinate
+- Weak or intermittent urine stream, or a feeling of not emptying
+- Constant tiredness, low energy or low mood
+- Less sex drive or difficulty keeping an erection
+- Loss of muscle mass or increased belly fat
+- Lower-back or pelvic pain with no clear cause
+
+Many of these symptoms can be solved once the cause is found. Ignoring them doesn't make them go away.
+
+## How do I prepare?
+
+- For PSA: avoid sex, cycling and intense exercise for 48 hours before, since they can raise the result.
+- For testosterone: come in the morning, ideally before 10 AM.
+- If you're also testing glucose or cholesterol, fast for 8 to 12 hours.
+
+## What is the visit like?
+
+1. Walk in without an appointment, check in and tell us your symptoms or interest in the checkup.
+2. The blood sample is drawn at the clinic; it takes a few minutes.
+3. The medical staff checks your vital signs and evaluates your symptoms.
+4. When the lab returns the results, we explain them in Spanish and define next steps.
+
+## Men's health at a Hispanic clinic near you
+
+If you're looking for a prostate (PSA) or testosterone test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -1721,38 +1783,96 @@ ${AREAS_EN}`,
       "Treatment available",
       "Care in Spanish",
     ],
-    longDescription: `Cuidar tu salud sexual es un acto de responsabilidad. En Clínica Hispana Nueva Salud ofrecemos pruebas de enfermedades de transmisión sexual de forma confidencial y respetuosa, con tratamiento cuando es necesario.
+    longDescription: `Cuidar tu salud sexual es un acto de responsabilidad contigo y con tu pareja. En Clínica Hispana Nueva Salud ofrecemos pruebas de enfermedades de transmisión sexual (ETS / STD) de forma confidencial, respetuosa y sin juicios, con tratamiento cuando es necesario: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
-- Evaluación de síntomas y factores de riesgo
-- Pruebas de las infecciones más comunes
-- Análisis de laboratorio
-- Tratamiento y orientación si el resultado es positivo
-- Total confidencialidad
+- **Evaluación privada** de síntomas y factores de riesgo
+- **Pruebas de las infecciones más comunes:** clamidia, gonorrea, sífilis, VIH, herpes, tricomonas y hepatitis, según tu caso
+- **Análisis de laboratorio** en sangre, orina o muestra según la prueba
+- **Tratamiento y orientación** si el resultado es positivo
+- **Orientación para tu pareja**, para que ambos se traten y no haya reinfección
+- **Total confidencialidad:** tus resultados son solo tuyos
 
-## Cuándo hacerte la prueba
+## ¿Cuándo hacerte la prueba?
 
-Si tuviste contacto de riesgo, tienes síntomas o simplemente quieres estar tranquilo, hacerte la prueba es la mejor decisión. La detección temprana facilita el tratamiento.
+- Tuviste relaciones sin protección o se rompió el condón
+- Tienes una pareja nueva o más de una pareja
+- Tu pareja te dijo que tiene una infección
+- Presentas síntomas (ver abajo)
+- Simplemente quieres estar tranquilo o tranquila: muchas ETS no dan síntomas
+
+Ten en cuenta que cada infección tiene un "periodo de ventana": por ejemplo, clamidia y gonorrea se detectan a partir de 1-2 semanas del contacto, y VIH y sífilis pueden requerir algunas semanas más. Te indicamos cuándo conviene hacer o repetir la prueba.
+
+## Síntomas que no debes ignorar
+
+- Ardor al orinar o secreción por el pene o la vagina
+- Llagas, ampollas, verrugas o ronchas en la zona genital o la boca
+- Comezón, irritación o mal olor
+- Dolor en el bajo vientre o durante las relaciones
+- Sangrado entre periodos
+
+Muchas de estas molestias se confunden con una [infección urinaria](/services/infecciones-urinarias) o una infección vaginal. Por eso evaluamos tu caso completo y, en mujeres, podemos complementar con [atención ginecológica](/services/ginecologia).
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras; nadie pregunta el motivo en voz alta.
+2. Platicas en privado con el personal médico sobre tus síntomas o tu preocupación.
+3. Se toman las muestras necesarias (sangre, orina o hisopado), en pocos minutos.
+4. Si hay síntomas claros, puedes iniciar tratamiento el mismo día.
+5. Te avisamos de forma discreta cuando los resultados estén listos y te explicamos los siguientes pasos.
+
+## Pruebas de ETS en una clínica hispana cerca de ti
+
+Si buscas pruebas de enfermedades de transmisión sexual en Houston de forma confidencial, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Taking care of your sexual health is an act of responsibility. At Clínica Hispana Nueva Salud we offer confidential, respectful testing for sexually transmitted diseases, with treatment when needed.
+    longDescriptionEn: `Taking care of your sexual health is an act of responsibility to yourself and your partner. At Clínica Hispana Nueva Salud we offer confidential, respectful, judgment-free STD testing, with treatment when needed: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
-- Symptom and risk-factor assessment
-- Testing for the most common infections
-- Laboratory analysis
-- Treatment and guidance if the result is positive
-- Complete confidentiality
+- **Private evaluation** of symptoms and risk factors
+- **Testing for the most common infections:** chlamydia, gonorrhea, syphilis, HIV, herpes, trichomonas and hepatitis, depending on your case
+- **Lab analysis** of blood, urine or a swab depending on the test
+- **Treatment and guidance** if the result is positive
+- **Guidance for your partner**, so you both get treated and avoid reinfection
+- **Complete confidentiality:** your results are yours alone
 
-## When to get tested
+## When should I get tested?
 
-If you had a risky encounter, have symptoms or simply want peace of mind, getting tested is the best decision. Early detection makes treatment easier.
+- You had unprotected sex or the condom broke
+- You have a new partner or more than one partner
+- Your partner told you they have an infection
+- You have symptoms (see below)
+- You simply want peace of mind: many STDs cause no symptoms
+
+Keep in mind each infection has a "window period": for example, chlamydia and gonorrhea can be detected 1-2 weeks after exposure, while HIV and syphilis may take a few more weeks. We'll tell you when to test or retest.
+
+## Symptoms you shouldn't ignore
+
+- Burning when urinating or discharge from the penis or vagina
+- Sores, blisters, warts or bumps in the genital area or mouth
+- Itching, irritation or odor
+- Lower-abdominal pain or pain during sex
+- Bleeding between periods
+
+Many of these symptoms get mistaken for a [urinary tract infection](/en/services/infecciones-urinarias) or a vaginal infection. That's why we evaluate your whole case and, for women, can add [gynecology care](/en/services/ginecologia).
+
+## What is the visit like?
+
+1. Walk in without an appointment and check in; nobody asks the reason out loud.
+2. Talk privately with the medical staff about your symptoms or concern.
+3. The necessary samples are taken (blood, urine or swab) in a few minutes.
+4. If symptoms are clear, you can start treatment the same day.
+5. We notify you discreetly when results are ready and explain next steps.
+
+## STD testing at a Hispanic clinic near you
+
+If you're looking for confidential STD testing in Houston, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -1957,36 +2077,92 @@ ${AREAS_EN}`,
       "Modern equipment",
       "Care in Spanish",
     ],
-    longDescription: `El ultrasonido es una herramienta segura y sin dolor que nos permite ver el interior de tu cuerpo para diagnosticar con precisión. En Clínica Hispana Nueva Salud contamos con equipo moderno y personal que te explica todo en español.
+    longDescription: `El ultrasonido (ecografía) es una herramienta segura y sin dolor que nos permite ver el interior de tu cuerpo para diagnosticar con precisión. En Clínica Hispana Nueva Salud contamos con equipo moderno y personal que te explica todo en español: sin cita previa, sin seguro médico y con precios accesibles.
 
-## ¿Qué incluye?
+## ¿Qué tipos de ultrasonido hacemos?
 
-- Ultrasonido abdominal (hígado, vesícula, riñones)
-- Ultrasonido pélvico
-- Ultrasonido de embarazo (control y seguimiento)
-- Evaluación de tiroides y tejidos blandos
+- **Ultrasonido abdominal:** hígado, vesícula (piedras), riñones, páncreas y bazo. Útil ante dolor abdominal, molestias después de comer o resultados alterados en [exámenes de sangre](/services/examenes-sangre).
+- **Ultrasonido pélvico:** útero y ovarios en la mujer; ayuda a estudiar dolor pélvico, sangrados irregulares o quistes. Se complementa con nuestra [atención ginecológica](/services/ginecologia).
+- **Ultrasonido de embarazo (obstétrico):** confirmación y seguimiento del embarazo, latido y desarrollo del bebé. Si aún no lo confirmas, empieza con una [prueba de embarazo](/services/prueba-embarazo).
+- **Tiroides y tejidos blandos:** nódulos en el cuello, bolitas o inflamaciones bajo la piel.
+
+## ¿Cuándo se recomienda un ultrasonido?
+
+- Dolor abdominal o en el costado que no se explica
+- Sospecha de piedras en la vesícula o en el riñón
+- Dolor pélvico, periodos muy abundantes o irregulares
+- Confirmar o dar seguimiento a un embarazo
+- Una bolita o inflamación que apareció en el cuello o bajo la piel
+- Control de una condición ya conocida (por ejemplo, quistes o [tiroides](/services/tiroides))
 
 ## Sin radiación y sin dolor
 
-A diferencia de los rayos X, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo. El estudio es rápido y no requiere preparación complicada.
+A diferencia de los rayos X, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo y se puede repetir las veces que haga falta. El estudio dura entre 15 y 30 minutos y solo sentirás el gel frío y una ligera presión del transductor.
+
+## ¿Cómo me preparo?
+
+- **Abdominal:** ayuno de 6 a 8 horas (para ver bien la vesícula).
+- **Pélvico y de embarazo temprano:** vejiga llena; toma de 3 a 4 vasos de agua una hora antes y no orines.
+- **Tiroides y tejidos blandos:** no requiere preparación.
+
+Si tienes dudas sobre tu caso, llámanos antes de venir y te decimos exactamente cómo prepararte.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita, te registras y nos cuentas el motivo del estudio.
+2. Se realiza el ultrasonido en un espacio privado, con explicación en español.
+3. El personal médico revisa las imágenes y te explica los hallazgos en palabras claras.
+4. Si se necesita, sales con tratamiento, estudios complementarios o referencia a especialista.
+
+## Ultrasonido en una clínica hispana cerca de ti
+
+Si buscas ultrasonido en Houston a precio accesible y en español, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Ultrasound is a safe, painless tool that lets us see inside your body for an accurate diagnosis. At Clínica Hispana Nueva Salud we have modern equipment and staff who explain everything in Spanish.
+    longDescriptionEn: `Ultrasound (sonography) is a safe, painless tool that lets us see inside your body for an accurate diagnosis. At Clínica Hispana Nueva Salud we have modern equipment and staff who explain everything in Spanish: no appointment, no insurance required and affordable pricing.
 
-## What's included?
+## What types of ultrasound do we perform?
 
-- Abdominal ultrasound (liver, gallbladder, kidneys)
-- Pelvic ultrasound
-- Pregnancy ultrasound (monitoring and follow-up)
-- Thyroid and soft-tissue evaluation
+- **Abdominal ultrasound:** liver, gallbladder (stones), kidneys, pancreas and spleen. Useful for abdominal pain, discomfort after meals or abnormal [blood test](/en/services/examenes-sangre) results.
+- **Pelvic ultrasound:** uterus and ovaries in women; helps evaluate pelvic pain, irregular bleeding or cysts. It complements our [gynecology care](/en/services/ginecologia).
+- **Pregnancy (obstetric) ultrasound:** confirmation and follow-up of pregnancy, heartbeat and the baby's development. If you haven't confirmed yet, start with a [pregnancy test](/en/services/prueba-embarazo).
+- **Thyroid and soft tissue:** neck nodules, lumps or swelling under the skin.
+
+## When is an ultrasound recommended?
+
+- Unexplained abdominal or side pain
+- Suspected gallbladder or kidney stones
+- Pelvic pain, very heavy or irregular periods
+- Confirming or following up on a pregnancy
+- A lump or swelling that appeared on the neck or under the skin
+- Monitoring a known condition (for example, cysts or the [thyroid](/en/services/tiroides))
 
 ## No radiation, no pain
 
-Unlike X-rays, ultrasound uses no radiation, so it's safe even during pregnancy. The study is quick and requires little preparation.
+Unlike X-rays, ultrasound uses no radiation, so it's safe even during pregnancy and can be repeated as often as needed. The exam takes 15 to 30 minutes and you'll only feel the cool gel and light pressure from the probe.
+
+## How do I prepare?
+
+- **Abdominal:** fast for 6 to 8 hours (to see the gallbladder clearly).
+- **Pelvic and early pregnancy:** full bladder; drink 3 to 4 glasses of water an hour before and don't urinate.
+- **Thyroid and soft tissue:** no preparation needed.
+
+If you have questions about your case, call us before coming and we'll tell you exactly how to prepare.
+
+## What is the visit like?
+
+1. Walk in without an appointment, check in and tell us the reason for the exam.
+2. The ultrasound is performed in a private room, with explanations in Spanish.
+3. The medical staff reviews the images and explains the findings in plain words.
+4. If needed, you leave with treatment, additional tests or a specialist referral.
+
+## Ultrasound at a Hispanic clinic near you
+
+If you're looking for an affordable ultrasound in Houston in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -2196,38 +2372,90 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Las vacunas son una de las formas más sencillas de cuidar tu salud. En Clínica Hispana Nueva Salud aplicamos la vacuna contra la influenza y el toxoide tetánico de forma segura y rápida.
+    longDescription: `Las vacunas son una de las formas más sencillas de cuidar tu salud y la de tu familia. En Clínica Hispana Nueva Salud aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico de forma segura y rápida: sin cita previa, sin seguro médico y en español.
 
-## ¿Qué incluye?
+## ¿Qué vacunas aplicamos?
 
-- Vacuna anual contra la influenza (flu)
-- Toxoide tetánico (refuerzo del tétanos)
-- Aplicación por personal médico
-- Orientación sobre cuándo aplicar refuerzos
-- Atención en español
+- **Vacuna contra la influenza (flu):** se recomienda cada año, idealmente entre septiembre y noviembre, antes de que empiece la temporada de gripe en Houston.
+- **Toxoide tetánico (refuerzo del tétanos):** protege ante cortes, raspones, heridas con objetos oxidados o mordeduras. El refuerzo se recomienda cada 10 años, o antes si tienes una herida sucia o profunda y no recuerdas tu última dosis.
 
-## Por qué vacunarte
+Si necesitas otra vacuna, pregúntanos: te orientamos sobre dónde obtenerla y qué refuerzos te corresponden según tu edad.
 
-La vacuna de la flu reduce el riesgo de enfermarte de gravedad en temporada de gripe, y el toxoide tetánico te protege ante cortes y heridas. Pregúntanos cuál te conviene.
+## ¿Quién debe vacunarse contra la flu?
+
+Prácticamente todas las personas a partir de los 6 meses, y en especial:
+
+- Adultos mayores de 65 años
+- Personas con diabetes, asma, presión alta o [condiciones crónicas](/services/condiciones-cronicas)
+- Mujeres embarazadas
+- Quienes trabajan con público, en cuidado de personas o en escuelas
+- Quienes viven con niños pequeños o adultos mayores
+
+La vacuna no te da gripe: contiene virus inactivados. Es normal sentir el brazo adolorido o un poco de cansancio uno o dos días.
+
+## ¿Cuándo necesito el refuerzo del tétanos?
+
+- Si pasaron más de 10 años desde tu última dosis
+- Si te cortaste, te pinchaste con algo oxidado o te mordió un animal y no recuerdas cuándo te vacunaste
+- Antes de ciertos trabajos (construcción, jardinería, mecánica) o trámites que lo piden
+
+Si llegas con una herida, también la limpiamos y la tratamos: contamos con [curación de heridas](/services/curacion-heridas) y [suturas](/services/suturas-heridas) el mismo día.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras en recepción.
+2. El personal médico revisa brevemente tu historial (alergias, embarazo, vacunas previas).
+3. Se aplica la vacuna en el brazo; toma menos de 5 minutos.
+4. Te entregamos tu comprobante de vacunación para trabajo, escuela o tus registros.
+
+## Vacunas en una clínica hispana cerca de ti
+
+Si buscas dónde ponerte la vacuna de la flu o el tétanos en Houston sin cita y en español, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Vaccines are one of the simplest ways to protect your health. At Clínica Hispana Nueva Salud we administer the influenza vaccine and tetanus toxoid safely and quickly.
+    longDescriptionEn: `Vaccines are one of the simplest ways to protect your health and your family's. At Clínica Hispana Nueva Salud we administer the flu vaccine and the tetanus toxoid safely and quickly: no appointment, no insurance required and in Spanish.
 
-## What's included?
+## Which vaccines do we administer?
 
-- Annual influenza (flu) vaccine
-- Tetanus toxoid (tetanus booster)
-- Administered by medical staff
-- Guidance on when boosters are due
-- Care in Spanish
+- **Flu (influenza) vaccine:** recommended every year, ideally between September and November, before flu season starts in Houston.
+- **Tetanus toxoid (tetanus booster):** protects you from cuts, scrapes, wounds from rusty objects or bites. A booster is recommended every 10 years, or sooner if you have a dirty or deep wound and don't remember your last dose.
 
-## Why get vaccinated
+If you need another vaccine, ask us: we'll guide you on where to get it and which boosters you're due for based on your age.
 
-The flu vaccine lowers your risk of getting seriously ill during flu season, and the tetanus toxoid protects you from cuts and wounds. Ask us which one you need.
+## Who should get the flu shot?
+
+Practically everyone 6 months and older, and especially:
+
+- Adults over 65
+- People with diabetes, asthma, high blood pressure or [chronic conditions](/en/services/condiciones-cronicas)
+- Pregnant women
+- Those who work with the public, in caregiving or in schools
+- Those living with small children or older adults
+
+The vaccine doesn't give you the flu: it contains inactivated virus. A sore arm or mild tiredness for a day or two is normal.
+
+## When do I need a tetanus booster?
+
+- If more than 10 years have passed since your last dose
+- If you cut yourself, got pricked by something rusty or were bitten by an animal and don't remember when you were vaccinated
+- Before certain jobs (construction, landscaping, mechanics) or paperwork that requires it
+
+If you come in with a wound, we also clean and treat it: we offer same-day [wound care](/en/services/curacion-heridas) and [stitches](/en/services/suturas-heridas).
+
+## What is the visit like?
+
+1. Walk in without an appointment and check in at the front desk.
+2. The medical staff briefly reviews your history (allergies, pregnancy, previous vaccines).
+3. The vaccine is given in the arm; it takes less than 5 minutes.
+4. We give you a vaccination record for work, school or your files.
+
+## Vaccines at a Hispanic clinic near you
+
+If you're looking for where to get a flu shot or tetanus booster in Houston with no appointment and in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -2276,38 +2504,82 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados aportan hidratación, vitaminas y minerales directamente a tu organismo. En Clínica Hispana Nueva Salud los aplicamos con personal médico y en un ambiente cómodo y seguro.
+    longDescription: `Los sueros vitaminados (terapia intravenosa o IV) aportan hidratación, vitaminas y minerales directamente a tu torrente sanguíneo, con una absorción mucho mayor que las pastillas. En Clínica Hispana Nueva Salud los aplicamos con personal médico, en un ambiente cómodo y seguro: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
-- Evaluación breve para elegir el suero adecuado
-- Hidratación intravenosa
-- Vitaminas y minerales
-- Aplicación y monitoreo por personal médico
-- Atención en español
+- **Evaluación médica breve** para confirmar que el suero es adecuado para ti y elegir la fórmula
+- **Hidratación intravenosa** con solución salina
+- **Vitaminas y minerales** según tu necesidad (por ejemplo, complejo B, vitamina C, magnesio)
+- **Aplicación y monitoreo** por personal médico durante toda la sesión
+- **Atención en español** y un espacio tranquilo para relajarte
 
-## Cuándo pueden ayudar
+## ¿Cuándo puede ayudarte un suero vitaminado?
 
-Después de un periodo de cansancio, deshidratación o malestar, un suero vitaminado puede ayudarte a recuperar energía. Te orientamos sobre si es adecuado para ti.
+- Cansancio o falta de energía que no mejora con descanso
+- Deshidratación por calor, trabajo pesado, ejercicio intenso o una noche de fiesta
+- Después de una gripe, vómito o diarrea, cuando cuesta reponerse
+- Apoyo al sistema inmune en temporada de gripe
+- Jornadas largas de trabajo físico bajo el sol de Houston
+- Cuando te cuesta absorber vitaminas por vía oral
+
+**Importante:** el suero vitaminado es un complemento, no sustituye el tratamiento de una enfermedad. Si tu cansancio es constante, conviene buscar la causa con [exámenes de sangre](/services/examenes-sangre) (anemia, [tiroides](/services/tiroides), vitamina B12, diabetes). Nosotros te orientamos.
+
+## ¿Es seguro?
+
+Sí, cuando lo aplica personal médico después de una evaluación. Antes de la sesión revisamos tu presión, alergias, embarazo y condiciones como problemas renales o cardíacos, que pueden contraindicar ciertos sueros. La mayoría de las personas solo sienten el pinchazo inicial y una sensación de frescura en el brazo.
+
+## ¿Cómo es la sesión?
+
+1. Llegas sin cita y te registras en recepción.
+2. El personal médico te evalúa y elige el suero adecuado para ti.
+3. Se coloca la vía en el brazo y el suero pasa en 30 a 60 minutos, mientras descansas.
+4. Al terminar puedes retomar tu día normalmente; muchas personas notan más energía ese mismo día o al siguiente.
+
+## Sueros vitaminados en una clínica hispana cerca de ti
+
+Si buscas sueros vitaminados en Houston aplicados por personal médico, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Vitamin IV drips deliver hydration, vitamins and minerals directly into your body. At Clínica Hispana Nueva Salud we administer them with medical staff in a comfortable, safe setting.
+    longDescriptionEn: `Vitamin IV drips (intravenous therapy) deliver hydration, vitamins and minerals straight into your bloodstream, with far greater absorption than pills. At Clínica Hispana Nueva Salud they're administered by medical staff in a comfortable, safe setting: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
-- A brief evaluation to choose the right drip
-- Intravenous hydration
-- Vitamins and minerals
-- Administration and monitoring by medical staff
-- Care in Spanish
+- **Brief medical evaluation** to confirm the drip is right for you and choose the formula
+- **IV hydration** with saline solution
+- **Vitamins and minerals** based on your needs (for example, B complex, vitamin C, magnesium)
+- **Administration and monitoring** by medical staff throughout the session
+- **Care in Spanish** and a quiet space to relax
 
-## When they can help
+## When can a vitamin drip help?
 
-After a period of fatigue, dehydration or feeling unwell, a vitamin drip can help you recover energy. We advise you on whether it's right for you.
+- Tiredness or low energy that doesn't improve with rest
+- Dehydration from heat, heavy work, intense exercise or a night out
+- After the flu, vomiting or diarrhea, when it's hard to bounce back
+- Immune support during flu season
+- Long days of physical work under the Houston sun
+- When you have trouble absorbing vitamins orally
+
+**Important:** a vitamin drip is a supplement, not a replacement for treating an illness. If your tiredness is constant, it's worth finding the cause with [blood tests](/en/services/examenes-sangre) (anemia, [thyroid](/en/services/tiroides), vitamin B12, diabetes). We'll guide you.
+
+## Is it safe?
+
+Yes, when administered by medical staff after an evaluation. Before the session we check your blood pressure, allergies, pregnancy and conditions like kidney or heart problems, which may rule out certain drips. Most people only feel the initial needle stick and a cool sensation in the arm.
+
+## What is the session like?
+
+1. Walk in without an appointment and check in at the front desk.
+2. The medical staff evaluates you and chooses the right drip for you.
+3. The IV line is placed in your arm and the drip runs for 30 to 60 minutes while you rest.
+4. When it's done you can go on with your day; many people notice more energy that same day or the next.
+
+## Vitamin IV therapy at a Hispanic clinic near you
+
+If you're looking for vitamin IV drips in Houston administered by medical staff, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 

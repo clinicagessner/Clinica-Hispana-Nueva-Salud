@@ -218,9 +218,39 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "salud-hombre": [
     {
       question: "¿Qué incluye el examen del hombre?",
-      answer: "Incluye antígeno prostático (PSA), nivel de testosterona y un chequeo general, con resultados explicados en español.",
+      answer: "Antígeno prostático (PSA), nivel de testosterona, chequeo general de signos vitales y evaluación de síntomas urinarios o de energía.",
       questionEn: "What does the men's exam include?",
-      answerEn: "It includes prostate antigen (PSA), testosterone level and a general checkup, with results explained in Spanish.",
+      answerEn: "Prostate-specific antigen (PSA), testosterone level, a general vital-signs check and evaluation of urinary or energy symptoms.",
+    },
+    {
+      question: "¿A qué edad debo hacerme el PSA?",
+      answer: "En general desde los 50 años, o desde los 40-45 si tu padre o hermano tuvieron cáncer de próstata. Se repite cada 1 a 2 años según el resultado.",
+      questionEn: "At what age should I get a PSA test?",
+      answerEn: "Generally from age 50, or from 40-45 if your father or brother had prostate cancer. It's repeated every 1 to 2 years depending on the result.",
+    },
+    {
+      question: "¿El examen de próstata es con tacto?",
+      answer: "El PSA es un examen de sangre; no requiere tacto rectal. El personal médico te indicará si tu caso necesita alguna evaluación adicional.",
+      questionEn: "Is the prostate exam a rectal exam?",
+      answerEn: "PSA is a blood test; it doesn't require a rectal exam. The medical staff will tell you if your case needs any additional evaluation.",
+    },
+    {
+      question: "¿Necesito preparación para el PSA o la testosterona?",
+      answer: "Para el PSA evita relaciones, bicicleta y ejercicio intenso 48 horas antes. La testosterona se mide por la mañana, idealmente antes de las 10 AM.",
+      questionEn: "Do I need to prepare for PSA or testosterone tests?",
+      answerEn: "For PSA, avoid sex, cycling and intense exercise for 48 hours before. Testosterone is measured in the morning, ideally before 10 AM.",
+    },
+    {
+      question: "¿Cuáles son los síntomas de testosterona baja?",
+      answer: "Cansancio constante, poco deseo sexual, dificultad para mantener una erección, ánimo bajo, pérdida de músculo o aumento de grasa abdominal.",
+      questionEn: "What are the symptoms of low testosterone?",
+      answerEn: "Constant tiredness, low sex drive, difficulty keeping an erection, low mood, muscle loss or increased belly fat.",
+    },
+    {
+      question: "¿Cuánto tardan los resultados?",
+      answer: "Las muestras se procesan en laboratorio; te avisamos cuando estén listas y te explicamos los resultados en español.",
+      questionEn: "How long do results take?",
+      answerEn: "Samples are processed at the lab; we let you know when they're ready and explain the results in Spanish.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -368,9 +398,39 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "enfermedades-transmision-sexual": [
     {
       question: "¿Las pruebas son confidenciales?",
-      answer: "Sí, todas las pruebas de STD son completamente confidenciales y se realizan con respeto y sin juicios.",
-      questionEn: "Is the testing confidential?",
-      answerEn: "Yes, all STD testing is completely confidential and done with respect and without judgment.",
+      answer: "Totalmente. Tus resultados son solo tuyos y el personal te atiende con respeto y sin juicios.",
+      questionEn: "Is testing confidential?",
+      answerEn: "Completely. Your results are yours alone and the staff treats you with respect and without judgment.",
+    },
+    {
+      question: "¿Qué infecciones detectan?",
+      answer: "Las más comunes: clamidia, gonorrea, sífilis, VIH, herpes, tricomonas y hepatitis, según tu caso y tus síntomas.",
+      questionEn: "Which infections do you test for?",
+      answerEn: "The most common ones: chlamydia, gonorrhea, syphilis, HIV, herpes, trichomonas and hepatitis, depending on your case and symptoms.",
+    },
+    {
+      question: "¿Cuánto tiempo después del contacto puedo hacerme la prueba?",
+      answer: "Depende de la infección: clamidia y gonorrea desde 1-2 semanas; VIH y sífilis pueden necesitar algunas semanas más. Te indicamos cuándo hacer o repetir la prueba.",
+      questionEn: "How soon after exposure can I get tested?",
+      answerEn: "It depends on the infection: chlamydia and gonorrhea from 1-2 weeks; HIV and syphilis may need a few more weeks. We'll tell you when to test or retest.",
+    },
+    {
+      question: "¿Debo hacerme la prueba si no tengo síntomas?",
+      answer: "Sí. Muchas ETS no dan síntomas y aun así pueden causar daño o contagiarse. Si tuviste contacto de riesgo o una pareja nueva, conviene revisarte.",
+      questionEn: "Should I get tested if I have no symptoms?",
+      answerEn: "Yes. Many STDs cause no symptoms yet can still cause harm or spread. If you had a risky exposure or a new partner, it's worth getting checked.",
+    },
+    {
+      question: "¿Dan tratamiento el mismo día?",
+      answer: "Si hay síntomas claros, puedes iniciar tratamiento el mismo día. En otros casos, esperamos el resultado de laboratorio para dar el medicamento correcto.",
+      questionEn: "Do you provide same-day treatment?",
+      answerEn: "If symptoms are clear, you can start treatment the same day. In other cases, we wait for the lab result to give the right medication.",
+    },
+    {
+      question: "¿Mi pareja también debe tratarse?",
+      answer: "Sí, en la mayoría de los casos. Si no, es muy probable que se vuelvan a contagiar. Te orientamos sobre cómo hablarlo y cómo tratarse los dos.",
+      questionEn: "Should my partner also get treated?",
+      answerEn: "Yes, in most cases. Otherwise, you're very likely to reinfect each other. We'll guide you on how to talk about it and get treated together.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -428,9 +488,39 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "ultrasonido": [
     {
       question: "¿El ultrasonido tiene radiación?",
-      answer: "No, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo.",
+      answer: "No. El ultrasonido usa ondas de sonido, no radiación, por lo que es seguro incluso durante el embarazo y se puede repetir las veces necesarias.",
       questionEn: "Does ultrasound use radiation?",
-      answerEn: "No, ultrasound uses no radiation, so it's safe even during pregnancy.",
+      answerEn: "No. Ultrasound uses sound waves, not radiation, so it's safe even during pregnancy and can be repeated as needed.",
+    },
+    {
+      question: "¿Qué tipos de ultrasonido hacen?",
+      answer: "Abdominal (hígado, vesícula, riñones), pélvico, de embarazo y de tiroides o tejidos blandos. Si necesitas otro tipo, llámanos y te orientamos.",
+      questionEn: "What types of ultrasound do you perform?",
+      answerEn: "Abdominal (liver, gallbladder, kidneys), pelvic, pregnancy, and thyroid or soft tissue. If you need another type, call us and we'll guide you.",
+    },
+    {
+      question: "¿Necesito ayuno o preparación?",
+      answer: "Depende del estudio: abdominal requiere 6-8 horas de ayuno; pélvico y de embarazo temprano, vejiga llena; tiroides no requiere preparación.",
+      questionEn: "Do I need to fast or prepare?",
+      answerEn: "It depends on the exam: abdominal requires 6-8 hours of fasting; pelvic and early pregnancy, a full bladder; thyroid needs no preparation.",
+    },
+    {
+      question: "¿Cuánto dura el ultrasonido?",
+      answer: "Entre 15 y 30 minutos, según el tipo de estudio. Es indoloro; solo sentirás el gel y una ligera presión.",
+      questionEn: "How long does the ultrasound take?",
+      answerEn: "Between 15 and 30 minutes, depending on the type of exam. It's painless; you'll only feel the gel and light pressure.",
+    },
+    {
+      question: "¿Me explican el resultado el mismo día?",
+      answer: "El personal médico te explica los hallazgos en español durante la visita y, si se requiere, te indica los siguientes pasos o una referencia a especialista.",
+      questionEn: "Will you explain the result the same day?",
+      answerEn: "The medical staff explains the findings in Spanish during the visit and, if needed, tells you the next steps or refers you to a specialist.",
+    },
+    {
+      question: "¿Hacen ultrasonido de embarazo sin cita?",
+      answer: "Sí. Puedes venir sin cita para confirmar o dar seguimiento a tu embarazo. Para las primeras semanas, ven con la vejiga llena.",
+      questionEn: "Do you do pregnancy ultrasounds without an appointment?",
+      answerEn: "Yes. You can walk in to confirm or follow up on your pregnancy. For the first weeks, come with a full bladder.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -488,9 +578,39 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "vacunas": [
     {
       question: "¿Qué vacunas aplican?",
-      answer: "Aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico; pregúntanos cuál te conviene.",
-      questionEn: "Which vaccines do you give?",
-      answerEn: "We administer the influenza (flu) vaccine and tetanus toxoid; ask us which one you need.",
+      answer: "Aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico. Si necesitas otra vacuna, pregúntanos y te orientamos sobre dónde obtenerla.",
+      questionEn: "Which vaccines do you offer?",
+      answerEn: "We offer the flu (influenza) vaccine and the tetanus toxoid. If you need another vaccine, ask us and we'll guide you on where to get it.",
+    },
+    {
+      question: "¿Cuándo es mejor ponerse la vacuna de la flu?",
+      answer: "Idealmente entre septiembre y noviembre, antes de la temporada de gripe, pero sirve en cualquier momento de la temporada. Se aplica una vez al año.",
+      questionEn: "When is the best time to get the flu shot?",
+      answerEn: "Ideally between September and November, before flu season, but it helps at any point in the season. It's given once a year.",
+    },
+    {
+      question: "¿La vacuna de la flu me puede dar gripe?",
+      answer: "No. Contiene virus inactivados y no causa gripe. Es normal sentir el brazo adolorido o un poco de cansancio uno o dos días.",
+      questionEn: "Can the flu shot give me the flu?",
+      answerEn: "No. It contains inactivated virus and can't cause the flu. A sore arm or mild tiredness for a day or two is normal.",
+    },
+    {
+      question: "¿Cada cuánto necesito el refuerzo del tétanos?",
+      answer: "Cada 10 años, o antes si tienes una herida sucia o profunda y no recuerdas tu última dosis.",
+      questionEn: "How often do I need a tetanus booster?",
+      answerEn: "Every 10 years, or sooner if you have a dirty or deep wound and don't remember your last dose.",
+    },
+    {
+      question: "¿Me dan comprobante de vacunación?",
+      answer: "Sí. Te entregamos un comprobante para trabajo, escuela o tus registros personales.",
+      questionEn: "Do you provide a vaccination record?",
+      answerEn: "Yes. We give you a record for work, school or your personal files.",
+    },
+    {
+      question: "¿Vacunan a niños?",
+      answer: "Aplicamos la vacuna de la flu y el tétanos a toda la familia según la edad indicada. Llámanos para confirmar la edad de tu hijo o hija.",
+      questionEn: "Do you vaccinate children?",
+      answerEn: "We give the flu and tetanus vaccines to the whole family according to the indicated age. Call us to confirm your child's age.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -508,9 +628,39 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "sueros-vitaminados": [
     {
       question: "¿Quién aplica el suero vitaminado?",
-      answer: "Lo aplica y supervisa personal médico, tras una breve evaluación para elegir el suero adecuado para ti.",
-      questionEn: "Who administers the vitamin IV?",
-      answerEn: "It's administered and monitored by medical staff, after a brief evaluation to choose the right drip for you.",
+      answer: "Siempre personal médico, después de una evaluación breve y con monitoreo durante toda la sesión.",
+      questionEn: "Who administers the vitamin drip?",
+      answerEn: "Always medical staff, after a brief evaluation and with monitoring throughout the session.",
+    },
+    {
+      question: "¿Cuánto dura la sesión?",
+      answer: "Entre 30 y 60 minutos, según el suero. Puedes descansar cómodamente mientras pasa.",
+      questionEn: "How long does the session take?",
+      answerEn: "Between 30 and 60 minutes, depending on the drip. You can rest comfortably while it runs.",
+    },
+    {
+      question: "¿Para qué sirve un suero vitaminado?",
+      answer: "Ayuda a rehidratarte y reponer vitaminas y minerales cuando hay cansancio, deshidratación, recuperación de una gripe o malestar, o jornadas de trabajo intensas.",
+      questionEn: "What is a vitamin drip for?",
+      answerEn: "It helps rehydrate you and replenish vitamins and minerals when you're tired, dehydrated, recovering from the flu or feeling unwell, or after intense workdays.",
+    },
+    {
+      question: "¿Es seguro? ¿Tiene efectos secundarios?",
+      answer: "Es seguro cuando lo aplica personal médico tras evaluarte. Los efectos más comunes son leves: molestia en el sitio del pinchazo o sensación de frescura en el brazo.",
+      questionEn: "Is it safe? Are there side effects?",
+      answerEn: "It's safe when administered by medical staff after an evaluation. The most common effects are mild: discomfort at the needle site or a cool feeling in the arm.",
+    },
+    {
+      question: "¿Puedo ponerme un suero si estoy embarazada o tengo una enfermedad?",
+      answer: "Depende de tu caso. Antes de la sesión revisamos embarazo, alergias y condiciones como problemas renales o cardíacos para decidir si es adecuado.",
+      questionEn: "Can I get a drip if I'm pregnant or have a medical condition?",
+      answerEn: "It depends on your case. Before the session we check for pregnancy, allergies and conditions like kidney or heart problems to decide if it's appropriate.",
+    },
+    {
+      question: "¿Necesito ayuno?",
+      answer: "No. De hecho, conviene que hayas comido algo ligero antes de la sesión.",
+      questionEn: "Do I need to fast?",
+      answerEn: "No. In fact, it's better to have eaten something light before the session.",
     },
     {
       question: "¿Necesito cita previa?",
