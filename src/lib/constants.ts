@@ -420,6 +420,8 @@ export const SERVICES: Service[] = [
 
 Una diabetes, presión o colesterol mal controlados dañan con el tiempo el corazón, los riñones, los ojos y los nervios. Un buen seguimiento previene complicaciones y mejora tu calidad de vida.
 
+Si quieres empezar hoy mismo, lee nuestra [guía para pacientes sobre el control de la diabetes](/blog/control-diabetes-houston-guia-pacientes): qué significan tus números, qué comer y cuándo acudir al médico.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -438,6 +440,8 @@ ${AREAS_ES}`,
 ## Why control matters
 
 Poorly managed diabetes, blood pressure or cholesterol damage the heart, kidneys, eyes and nerves over time. Good follow-up prevents complications and improves your quality of life.
+
+If you want to start today, read our [patient guide to diabetes management](/en/blog/control-diabetes-houston-guia-pacientes): what your numbers mean, what to eat and when to see a doctor.
 
 ${WHY_EN}
 
