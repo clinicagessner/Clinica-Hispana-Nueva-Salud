@@ -809,46 +809,92 @@ ${AREAS_EN}`,
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.
+    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces: sin cita previa, sin seguro médico y con precios accesibles.
 
-## ¿Qué incluye?
+## ¿Qué incluye la consulta ginecológica?
 
-- Papanicolaou y chequeo ginecológico
-- Cultivos vaginales para identificar infecciones
-- Tratamiento de infecciones vaginales (hongos, bacterias)
-- Evaluación de molestias y flujo anormal
-- Referencias cuando se necesita un especialista
+- **Papanicolaou (citología cervical):** detecta a tiempo cambios en el cuello del útero, incluidos los relacionados con el VPH.
+- **Chequeo ginecológico de rutina:** revisión general, evaluación de síntomas y orientación sobre tu salud íntima.
+- **Cultivos vaginales:** identifican con exactitud si la molestia es por hongos (candidiasis), bacterias (vaginosis) o tricomonas.
+- **Tratamiento de infecciones vaginales:** medicamento adecuado según el resultado, no "a ciegas".
+- **Evaluación de flujo anormal, comezón, ardor o mal olor.**
+- **Orientación sobre [anticonceptivos](/services/anticonceptivos) y [prueba de embarazo](/services/prueba-embarazo)** si lo necesitas en la misma visita.
+- **Referencia a especialista** cuando el caso lo requiere (ultrasonido, colposcopia, ginecólogo/a de alta especialidad).
 
-## No te quedes con la duda
+## ¿Cuándo debo hacerme el Papanicolaou?
 
-Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
+La mayoría de las guías recomiendan empezar a los 21 años y repetirlo cada 3 años si el resultado es normal (o cada 5 años combinado con prueba de VPH a partir de los 30). Si nunca te lo has hecho, llevas varios años sin hacértelo o tuviste un resultado anormal antes, no lo dejes pasar: es una prueba rápida, de pocos minutos, que puede detectar problemas antes de que den síntomas.
+
+## Señales de que necesitas una consulta ginecológica
+
+- Flujo diferente al habitual, con mal olor o color amarillo/verdoso
+- Comezón, ardor o irritación en la zona íntima
+- Dolor o sangrado durante o después de las relaciones
+- Sangrado fuera del periodo o periodos muy irregulares
+- Dolor en la parte baja del abdomen que no se quita
+- Molestias que regresan una y otra vez aunque ya te trataste
+
+Una infección vaginal mal tratada o tratada "por internet" suele regresar. Con un cultivo sabemos exactamente qué la causa y qué medicamento sí la resuelve.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras en recepción, en español.
+2. Platicas tus síntomas o el motivo de tu chequeo con el personal médico, en privado.
+3. Se realiza la revisión y, si aplica, se toma el Papanicolaou o el cultivo.
+4. Si hay infección evidente, sales con tu tratamiento el mismo día.
+5. Te avisamos cuando los resultados de laboratorio estén listos y te explicamos qué significan.
+
+**Consejo:** para el Papanicolaou es mejor no estar menstruando y evitar relaciones, duchas vaginales u óvulos 48 horas antes. Si tienes dudas, llámanos y te orientamos.
 
 ## Ginecología en una clínica hispana cerca de ti
 
-Si buscas ginecología en Houston, en nuestra clínica hispana te atendemos cerca de ti: en español, sin cita previa y con precios accesibles, en el sureste de Houston.
+Si buscas ginecología en Houston o un lugar donde hablen tu idioma, en nuestra clínica hispana te atendemos cerca de ti: en español, sin cita previa y con precios accesibles, en el sureste de Houston (zona Bellfort / Hobby). Aquí nadie te juzga; solo queremos que te sientas bien y tranquila con tu salud.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud we offer gynecology care in Spanish, with the privacy and respect you deserve.
+    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud we offer gynecology care in Spanish, with the privacy and respect you deserve: no appointment needed, no insurance required and affordable pricing.
 
-## What's included?
+## What does the gynecology visit include?
 
-- Pap smear and gynecological checkup
-- Vaginal cultures to identify infections
-- Treatment of vaginal infections (yeast, bacteria)
-- Evaluation of discomfort and abnormal discharge
-- Referrals when a specialist is needed
+- **Pap smear (cervical cytology):** detects early changes in the cervix, including those related to HPV.
+- **Routine gynecological checkup:** general exam, symptom evaluation and guidance on your intimate health.
+- **Vaginal cultures:** pinpoint whether the discomfort is caused by yeast (candidiasis), bacteria (bacterial vaginosis) or trichomonas.
+- **Treatment of vaginal infections:** the right medication based on the result, not a guess.
+- **Evaluation of abnormal discharge, itching, burning or odor.**
+- **Guidance on [birth control](/en/services/anticonceptivos) and [pregnancy testing](/en/services/prueba-embarazo)** if you need it during the same visit.
+- **Specialist referral** when the case requires it (ultrasound, colposcopy, a high-specialty gynecologist).
 
-## Don't stay in doubt
+## When should I get a Pap smear?
 
-Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+Most guidelines recommend starting at age 21 and repeating it every 3 years if the result is normal (or every 5 years combined with HPV testing from age 30). If you've never had one, it's been several years, or you had an abnormal result before, don't put it off: it's a quick, few-minute test that can catch problems before they cause symptoms.
+
+## Signs you need a gynecology visit
+
+- Discharge that's different from usual, with odor or a yellow/green color
+- Itching, burning or irritation in the intimate area
+- Pain or bleeding during or after intercourse
+- Bleeding between periods or very irregular periods
+- Lower-abdominal pain that won't go away
+- Symptoms that keep coming back even after treatment
+
+A vaginal infection that's poorly treated or self-treated "from the internet" usually comes back. With a culture we know exactly what's causing it and which medication truly resolves it.
+
+## What is the visit like?
+
+1. Walk in without an appointment and check in at the front desk, in Spanish.
+2. Talk about your symptoms or the reason for your checkup with the medical staff, in private.
+3. The exam is performed and, if needed, the Pap smear or culture is taken.
+4. If there's an obvious infection, you leave with treatment the same day.
+5. We let you know when lab results are ready and explain what they mean.
+
+**Tip:** for a Pap smear it's best not to be on your period and to avoid intercourse, douching or vaginal suppositories for 48 hours beforehand. If you have questions, call us and we'll guide you.
 
 ## Gynecology at a Hispanic clinic near you
 
-If you're looking for gynecology care in Houston, our Hispanic clinic is near you: care in Spanish, walk-ins welcome and affordable pricing, in southeast Houston.
+If you're looking for gynecology care in Houston or a place where they speak your language, our Hispanic clinic is near you: care in Spanish, walk-ins welcome and affordable pricing, in southeast Houston (Bellfort / Hobby area). Nobody judges you here; we just want you to feel well and at ease about your health.
 
 ${WHY_EN}
 
@@ -1303,46 +1349,92 @@ ${AREAS_EN}`,
       "Same-day treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud te hacemos la prueba y, si hay infección, empezamos el tratamiento el mismo día.
+    longDescription: `El ardor al orinar no es algo con lo que debas "aguantar". En Clínica Hispana Nueva Salud te hacemos el examen de orina en la clínica y, si hay infección urinaria, empiezas el tratamiento el mismo día: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
-- Examen general de orina (urianálisis)
-- Evaluación de síntomas
-- Diagnóstico de infección urinaria
-- Tratamiento adecuado el mismo día
-- Indicaciones para evitar que regrese
+- **Examen general de orina (urianálisis)** con resultado en la misma visita
+- **Evaluación de síntomas** y revisión médica
+- **Diagnóstico de infección urinaria** (cistitis) y descarte de otras causas
+- **Tratamiento el mismo día** con el antibiótico adecuado
+- **Urocultivo** cuando la infección se repite o no mejora, para saber qué bacteria es y qué antibiótico sí funciona
+- **Indicaciones claras** para aliviar las molestias y evitar que regrese
 
-## Síntomas frecuentes
+## Síntomas de infección urinaria
 
-Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
+- Ardor o dolor al orinar
+- Ganas constantes de ir al baño, aunque salga muy poco
+- Orina turbia, oscura, con mal olor o con sangre
+- Dolor o presión en la parte baja del abdomen
+- En algunos casos, fiebre, escalofríos o dolor en la espalda baja (a la altura de los riñones)
+
+Si tienes fiebre, escalofríos o dolor en la espalda, no esperes: puede ser una infección que ya subió a los riñones y necesita atención ese mismo día.
+
+## ¿Por qué no debo esperar ni automedicarme?
+
+Tomar un antibiótico "que te sobró" o el que le sirvió a alguien más puede enmascarar los síntomas sin eliminar la bacteria, y hace que la infección regrese más resistente. Una infección de orina sin tratar correctamente puede avanzar a los riñones (pielonefritis). El examen de orina tarda minutos y te da la certeza de qué tienes y qué tomar.
+
+## Infecciones urinarias frecuentes: ¿qué hacer?
+
+Si te da infección varias veces al año, no es normal y tiene solución. En la consulta revisamos posibles causas (hidratación, hábitos, diabetes, cambios hormonales, piedras en el riñón) y, si es necesario, pedimos un urocultivo o [exámenes de sangre](/services/examenes-sangre) para buscar el origen. En mujeres, a veces la molestia viene de una infección vaginal y no urinaria: nuestra [atención ginecológica](/services/ginecologia) puede hacer la diferencia en el diagnóstico.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras en recepción.
+2. Das una muestra de orina en la clínica (lo ideal es no haber orinado en la última hora).
+3. El personal médico evalúa tus síntomas y el resultado del examen.
+4. Si hay infección, sales con tu receta y tu tratamiento ese mismo día; contamos con [farmacia dentro de la clínica](/services/farmacia).
+5. Te indicamos cuándo volver si las molestias no mejoran en 2-3 días.
 
 ## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
 
-Somos una clínica hispana cerca de ti en Houston: te hacemos el examen de orina y, si hay infección, sales con tu tratamiento el mismo día, sin cita previa y en español.
+Somos una clínica hispana cerca de ti en Houston, en la zona de Bellfort / Hobby: te hacemos el examen de orina y, si hay infección, sales con tu tratamiento el mismo día, sin cita previa y en español, de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud we run the test and, if there's an infection, we start treatment the same day.
+    longDescriptionEn: `Burning when you urinate isn't something you should "put up with." At Clínica Hispana Nueva Salud we run the urine test in-clinic and, if there's a urinary tract infection, you start treatment the same day: no appointment, no insurance required, and in Spanish.
 
 ## What's included?
 
-- General urinalysis
-- Symptom evaluation
-- Diagnosis of urinary infection
-- Appropriate same-day treatment
-- Tips to prevent it from coming back
+- **General urinalysis** with results during the same visit
+- **Symptom evaluation** and medical exam
+- **Diagnosis of urinary tract infection** (cystitis) and ruling out other causes
+- **Same-day treatment** with the appropriate antibiotic
+- **Urine culture** when the infection keeps coming back or doesn't improve, to identify the bacteria and the antibiotic that actually works
+- **Clear instructions** to relieve symptoms and keep it from returning
 
-## Common symptoms
+## UTI symptoms
 
-Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+- Burning or pain when urinating
+- A constant urge to go, even if very little comes out
+- Cloudy, dark, foul-smelling or bloody urine
+- Pain or pressure in the lower abdomen
+- In some cases, fever, chills or lower-back pain (around the kidneys)
+
+If you have fever, chills or back pain, don't wait: it may be an infection that has already reached the kidneys and needs care that same day.
+
+## Why you shouldn't wait or self-medicate
+
+Taking a "leftover" antibiotic or the one that worked for someone else can mask symptoms without eliminating the bacteria, and makes the infection come back more resistant. An improperly treated UTI can progress to the kidneys (pyelonephritis). The urine test takes minutes and tells you exactly what you have and what to take.
+
+## Recurring UTIs: what to do?
+
+If you get infections several times a year, that's not normal and it can be fixed. During the visit we review possible causes (hydration, habits, diabetes, hormonal changes, kidney stones) and, if needed, order a urine culture or [blood tests](/en/services/examenes-sangre) to find the source. In women, the discomfort sometimes comes from a vaginal rather than urinary infection: our [gynecology care](/en/services/ginecologia) can make the difference in the diagnosis.
+
+## What is the visit like?
+
+1. Walk in without an appointment and check in at the front desk.
+2. Provide a urine sample at the clinic (ideally without having urinated in the past hour).
+3. The medical staff evaluates your symptoms and the test result.
+4. If there's an infection, you leave with your prescription and treatment that same day; we have a [pharmacy inside the clinic](/en/services/farmacia).
+5. We tell you when to come back if symptoms don't improve in 2-3 days.
 
 ## UTI treatment at a Hispanic clinic near you
 
-We are a Hispanic clinic near you in Houston: we run your urine test and, if there's an infection, you leave with treatment the same day — no appointment, in Spanish.
+We are a Hispanic clinic near you in Houston, in the Bellfort / Hobby area: we run your urine test and, if there's an infection, you leave with treatment the same day, no appointment, in Spanish, Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 

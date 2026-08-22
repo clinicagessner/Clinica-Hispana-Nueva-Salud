@@ -8,10 +8,12 @@ import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import type { Locale, ServiceCardData } from "@/types";
 
-// En el home solo se destacan estos 3; el catálogo completo vive en /services.
+// En el home solo se destacan estos 4 (los de Google Ads + laboratorio);
+// el catálogo completo vive en /services.
 const HOME_SERVICE_SLUGS = [
   "condiciones-cronicas",
   "ginecologia",
+  "infecciones-urinarias",
   "examenes-sangre",
 ];
 
@@ -50,7 +52,7 @@ export function Services() {
         </div>
 
         {/* Grid de servicios */}
-        <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {services.map((service, i) => (
             <Reveal key={service.slug} delay={(i % 3) * 80}>
               <ServiceCard service={service} className="h-full" />

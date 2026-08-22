@@ -113,6 +113,36 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "It's not required, we welcome walk-ins; but you can call us to reserve a convenient time.",
     },
     {
+      question: "¿Cada cuánto debo hacerme el Papanicolaou?",
+      answer: "En general, desde los 21 años y cada 3 años si el resultado es normal. Si nunca te lo has hecho o tuviste un resultado anormal, conviene hacerlo cuanto antes.",
+      questionEn: "How often should I get a Pap smear?",
+      answerEn: "Generally from age 21 and every 3 years if the result is normal. If you've never had one or had an abnormal result, it's best to get it done soon.",
+    },
+    {
+      question: "¿Cómo me preparo para el Papanicolaou?",
+      answer: "Procura no estar en tu periodo y evita relaciones, duchas vaginales, óvulos o cremas 48 horas antes. Así el resultado es más confiable.",
+      questionEn: "How do I prepare for a Pap smear?",
+      answerEn: "Try not to be on your period and avoid intercourse, douching, suppositories or creams for 48 hours before. That makes the result more reliable.",
+    },
+    {
+      question: "¿Cuánto tardan los resultados?",
+      answer: "El Papanicolaou y los cultivos se procesan en laboratorio; te avisamos en cuanto estén listos y te explicamos el resultado. Si hay una infección evidente, el tratamiento se inicia el mismo día.",
+      questionEn: "How long do results take?",
+      answerEn: "Pap smears and cultures are processed at the lab; we notify you as soon as they're ready and explain the result. If there's an obvious infection, treatment starts the same day.",
+    },
+    {
+      question: "¿Me atiende una mujer?",
+      answer: "Entendemos que es importante para ti. Llámanos antes de tu visita y te decimos quién está atendiendo ese día para que te sientas cómoda.",
+      questionEn: "Will I be seen by a woman?",
+      answerEn: "We understand that matters to you. Call us before your visit and we'll let you know who is seeing patients that day so you feel comfortable.",
+    },
+    {
+      question: "¿Tratan infecciones vaginales el mismo día?",
+      answer: "Sí. Si los síntomas son claros, sales con tu tratamiento ese mismo día; si es necesario, tomamos un cultivo para confirmar la causa y ajustar el medicamento.",
+      questionEn: "Do you treat vaginal infections the same day?",
+      answerEn: "Yes. If symptoms are clear, you leave with treatment that same day; if needed, we take a culture to confirm the cause and adjust the medication.",
+    },
+    {
       question: "¿Necesito cita previa?",
       answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
@@ -228,9 +258,39 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "infecciones-urinarias": [
     {
       question: "¿Puedo recibir tratamiento el mismo día?",
-      answer: "Sí, hacemos el examen de orina y, si hay infección, iniciamos el tratamiento el mismo día.",
+      answer: "Sí, hacemos el examen de orina en la clínica y, si hay infección, iniciamos el tratamiento el mismo día. También tenemos farmacia dentro de la clínica.",
       questionEn: "Can I get treatment the same day?",
-      answerEn: "Yes, we run the urine test and, if there's an infection, we start treatment the same day.",
+      answerEn: "Yes, we run the urine test in-clinic and, if there's an infection, we start treatment the same day. We also have a pharmacy inside the clinic.",
+    },
+    {
+      question: "¿Cómo sé si tengo infección urinaria?",
+      answer: "Los síntomas típicos son ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. Un examen de orina lo confirma en minutos.",
+      questionEn: "How do I know if I have a UTI?",
+      answerEn: "Typical symptoms are burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdominal pain. A urine test confirms it in minutes.",
+    },
+    {
+      question: "¿Necesito ayunar o prepararme para el examen de orina?",
+      answer: "No necesitas ayuno. Lo ideal es no haber orinado en la última hora para que la muestra sea adecuada. Te damos las instrucciones en la clínica.",
+      questionEn: "Do I need to fast or prepare for the urine test?",
+      answerEn: "No fasting needed. Ideally, don't urinate during the hour before so the sample is adequate. We give you instructions at the clinic.",
+    },
+    {
+      question: "¿Qué pasa si no trato la infección?",
+      answer: "Puede subir a los riñones y causar fiebre, escalofríos y dolor de espalda. Si ya tienes esos síntomas, acude el mismo día.",
+      questionEn: "What happens if I don't treat the infection?",
+      answerEn: "It can reach the kidneys and cause fever, chills and back pain. If you already have those symptoms, come in the same day.",
+    },
+    {
+      question: "Me da infección urinaria muy seguido, ¿qué hago?",
+      answer: "Las infecciones repetidas tienen causa y solución. Hacemos un urocultivo para identificar la bacteria y revisamos factores como diabetes, hidratación o infecciones vaginales.",
+      questionEn: "I get UTIs very often, what should I do?",
+      answerEn: "Recurring infections have a cause and a solution. We run a urine culture to identify the bacteria and review factors like diabetes, hydration or vaginal infections.",
+    },
+    {
+      question: "¿Atienden infecciones urinarias en hombres y niños?",
+      answer: "Sí, atendemos a toda la familia. En hombres y niños es especialmente importante evaluar la causa, así que no lo dejes pasar.",
+      questionEn: "Do you treat UTIs in men and children?",
+      answerEn: "Yes, we care for the whole family. In men and children it's especially important to evaluate the cause, so don't put it off.",
     },
     {
       question: "¿Necesito cita previa?",
