@@ -5,43 +5,41 @@ import { getPostSlugs } from "@/lib/blog";
 
 const BASE = SITE_CONFIG.baseUrl;
 
-function entry(
+// Cada ruta genera dos entradas <url> (es + /en) con hreflang cruzado.
+// Google trata las alternates solo como pistas; las URLs /en/ deben ser
+// entradas propias para que se descubran y se indexen por sí mismas.
+function entries(
   path: string,
   changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"],
   priority: number,
-): MetadataRoute.Sitemap[number] {
+): MetadataRoute.Sitemap {
   const clean = path === "/" ? "" : path;
-  return {
-    url: `${BASE}${clean}`,
-    changeFrequency,
-    priority,
-    alternates: {
-      languages: {
-        es: `${BASE}${clean}`,
-        en: `${BASE}/en${clean}`,
-        "x-default": `${BASE}${clean}`,
-      },
-    },
-  };
+  const es = `${BASE}${clean}`;
+  const en = `${BASE}/en${clean}`;
+  const alternates = { languages: { es, en, "x-default": es } };
+  return [
+    { url: es, changeFrequency, priority, alternates },
+    { url: en, changeFrequency, priority, alternates },
+  ];
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  // /privacy es noindex: no va en el sitemap para no enviar señales contradictorias.
   const staticPaths: MetadataRoute.Sitemap = [
-    entry("/", "weekly", 1),
-    entry("/services", "weekly", 0.9),
-    entry("/promociones", "weekly", 0.8),
-    entry("/blog", "weekly", 0.7),
-    entry("/walk-in", "monthly", 0.8),
-    entry("/landing/comparacion-clinicas-houston", "monthly", 0.7),
-    entry("/privacy", "yearly", 0.3),
+    ...entries("/", "weekly", 1),
+    ...entries("/services", "weekly", 0.9),
+    ...entries("/promociones", "weekly", 0.8),
+    ...entries("/blog", "weekly", 0.7),
+    ...entries("/walk-in", "monthly", 0.8),
+    ...entries("/landing/comparacion-clinicas-houston", "monthly", 0.7),
   ];
 
-  const services: MetadataRoute.Sitemap = getAllServiceSlugs().map((slug) =>
-    entry(`/services/${slug}`, "monthly", 0.8),
+  const services: MetadataRoute.Sitemap = getAllServiceSlugs().flatMap(
+    (slug) => entries(`/services/${slug}`, "monthly", 0.8),
   );
 
-  const posts: MetadataRoute.Sitemap = getPostSlugs().map((slug) =>
-    entry(`/blog/${slug}`, "monthly", 0.6),
+  const posts: MetadataRoute.Sitemap = getPostSlugs().flatMap((slug) =>
+    entries(`/blog/${slug}`, "monthly", 0.6),
   );
 
   return [...staticPaths, ...services, ...posts];
