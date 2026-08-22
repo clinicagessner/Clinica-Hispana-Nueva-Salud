@@ -10,7 +10,6 @@ import { BlogPreview } from "@/components/sections/blog-preview";
 import { Faq } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
-import { SITE_CONFIG } from "@/lib/constants";
 import { buildAlternates } from "@/lib/seo";
 import type { Locale } from "@/types";
 
@@ -22,10 +21,14 @@ export async function generateMetadata({
   const { locale } = await params;
   const isEn = locale === "en";
   return {
+    // Título <= 60 chars con marca + "clínica hispana" + Houston + ganchos;
+    // la description lleva dirección/ZIP y horario para el snippet local.
     title: isEn
-      ? "Hispanic Clinic in Houston, TX - Care in Spanish"
-      : "Clínica Hispana en Houston, TX - Atención en Español",
-    description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
+      ? "Clínica Hispana Nueva Salud Houston | Walk-In, No Insurance"
+      : "Clínica Hispana Nueva Salud Houston | Sin Cita, Sin Seguro",
+    description: isEn
+      ? "Hispanic clinic in Houston, TX (7640 Bellfort Ave, 77061): care 100% in Spanish, walk-ins welcome, no insurance needed, affordable prices. Open daily 9 AM-9 PM."
+      : "Clínica hispana en Houston, TX (7640 Bellfort Ave, 77061): atención 100% en español, sin cita y sin seguro, con precios accesibles. Lunes a domingo, 9 AM-9 PM.",
     alternates: buildAlternates("/", locale as Locale),
   };
 }
