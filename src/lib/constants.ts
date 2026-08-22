@@ -486,38 +486,122 @@ ${AREAS_EN}`,
       "Treatment and medication adjustment",
       "Follow-up in Spanish",
     ],
-    longDescription: `La tiroides regula tu energía, tu peso y tu ánimo. Cuando funciona de más o de menos aparecen síntomas que afectan tu día a día. En Clínica Hispana Nueva Salud evaluamos tu tiroides con análisis de laboratorio y te damos el tratamiento adecuado.
+    longDescription: `La tiroides es una glándula pequeña en el cuello que regula tu energía, tu peso, tu temperatura y tu ánimo. Cuando funciona de más (hipertiroidismo) o de menos (hipotiroidismo) aparecen síntomas que afectan tu día a día y que muchas veces se confunden con estrés o cansancio. En Clínica Hispana Nueva Salud evaluamos tu tiroides con análisis de laboratorio y te damos el tratamiento adecuado: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
-- Evaluación de síntomas
-- Pruebas de función tiroidea (TSH, T3, T4)
-- Diagnóstico de hipotiroidismo o hipertiroidismo
-- Inicio y ajuste del tratamiento
-- Seguimiento periódico
+- **Evaluación de síntomas** y revisión del cuello en busca de crecimiento o nódulos
+- **Pruebas de función tiroidea:** TSH y, si es necesario, T3 y T4 libres
+- **Diagnóstico** de hipotiroidismo o hipertiroidismo
+- **Inicio y ajuste del tratamiento** (por ejemplo, levotiroxina en hipotiroidismo)
+- **Seguimiento periódico** con laboratorio para mantener la dosis correcta
+- **[Ultrasonido de tiroides](/services/ultrasonido)** cuando se detecta un nódulo o crecimiento
+- **Referencia a endocrinólogo** en casos que lo requieran
 
-## Síntomas frecuentes
+## Síntomas de hipotiroidismo (tiroides lenta)
 
-Cansancio, cambios de peso sin explicación, caída del cabello, frío o calor excesivo, nerviosismo o tristeza. Si los notas, una prueba sencilla puede dar la respuesta.
+- Cansancio constante y sueño excesivo
+- Aumento de peso sin cambiar la alimentación
+- Frío excesivo, piel seca, caída del cabello
+- Estreñimiento
+- Tristeza, desánimo o lentitud para pensar
+- Periodos menstruales abundantes o irregulares
+
+## Síntomas de hipertiroidismo (tiroides acelerada)
+
+- Nerviosismo, ansiedad o irritabilidad
+- Pérdida de peso aunque comas igual o más
+- Palpitaciones o latidos rápidos
+- Calor excesivo y sudoración
+- Temblor en las manos
+- Dificultad para dormir
+
+Si reconoces varios de estos síntomas, una prueba de sangre sencilla da la respuesta.
+
+## ¿Quién debe revisarse la tiroides?
+
+- Mujeres, especialmente después de un embarazo o alrededor de la menopausia
+- Personas con familiares con problemas de tiroides
+- Quienes tienen [diabetes](/services/condiciones-cronicas) u otra enfermedad autoinmune
+- Si tienes colesterol alto sin explicación o anemia persistente
+- Si planeas un embarazo o estás embarazada: la tiroides influye en el desarrollo del bebé
+
+## ¿Cómo me preparo?
+
+La prueba de TSH no requiere ayuno. Si ya tomas medicamento para la tiroides, tómalo después de la extracción de sangre, no antes, y avísanos. Si vas a aprovechar para hacerte [otros exámenes de sangre](/services/examenes-sangre) (glucosa, colesterol), ven en ayunas de 8 a 12 horas.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras en recepción.
+2. El personal médico evalúa tus síntomas y revisa tu cuello.
+3. Se toma la muestra de sangre en la clínica.
+4. Cuando el laboratorio entrega el resultado, te lo explicamos en español y, si procede, inicias o ajustas tu tratamiento.
+5. Programamos el control: en general cada 6-8 semanas al ajustar dosis, y cada 6-12 meses cuando ya está estable.
+
+## Tiroides en una clínica hispana cerca de ti
+
+Si buscas examen de tiroides en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The thyroid regulates your energy, weight and mood. When it works too much or too little, symptoms appear that affect your daily life. At Clínica Hispana Nueva Salud we evaluate your thyroid with lab work and provide the right treatment.
+    longDescriptionEn: `The thyroid is a small gland in the neck that regulates your energy, weight, temperature and mood. When it works too much (hyperthyroidism) or too little (hypothyroidism), symptoms appear that affect your daily life and are often mistaken for stress or tiredness. At Clínica Hispana Nueva Salud we evaluate your thyroid with lab tests and give you the right treatment: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
-- Symptom evaluation
-- Thyroid function tests (TSH, T3, T4)
-- Diagnosis of hypothyroidism or hyperthyroidism
-- Treatment start and adjustment
-- Periodic follow-up
+- **Symptom evaluation** and neck exam for enlargement or nodules
+- **Thyroid function tests:** TSH and, if needed, free T3 and T4
+- **Diagnosis** of hypothyroidism or hyperthyroidism
+- **Starting and adjusting treatment** (for example, levothyroxine for hypothyroidism)
+- **Regular follow-up** with lab work to keep the dose right
+- **[Thyroid ultrasound](/en/services/ultrasonido)** when a nodule or enlargement is found
+- **Endocrinologist referral** for cases that require it
 
-## Common symptoms
+## Symptoms of hypothyroidism (slow thyroid)
 
-Fatigue, unexplained weight changes, hair loss, feeling too cold or too hot, nervousness or sadness. If you notice them, a simple test can give the answer.
+- Constant tiredness and excessive sleepiness
+- Weight gain without changing your diet
+- Feeling cold, dry skin, hair loss
+- Constipation
+- Sadness, low mood or slow thinking
+- Heavy or irregular periods
+
+## Symptoms of hyperthyroidism (overactive thyroid)
+
+- Nervousness, anxiety or irritability
+- Weight loss even though you eat the same or more
+- Palpitations or a fast heartbeat
+- Feeling hot and sweating
+- Hand tremors
+- Trouble sleeping
+
+If you recognize several of these symptoms, a simple blood test gives the answer.
+
+## Who should get their thyroid checked?
+
+- Women, especially after pregnancy or around menopause
+- People with relatives who have thyroid problems
+- Those with [diabetes](/en/services/condiciones-cronicas) or another autoimmune disease
+- If you have unexplained high cholesterol or persistent anemia
+- If you're planning a pregnancy or are pregnant: the thyroid affects the baby's development
+
+## How do I prepare?
+
+The TSH test doesn't require fasting. If you already take thyroid medication, take it after the blood draw, not before, and let us know. If you're also getting [other blood tests](/en/services/examenes-sangre) (glucose, cholesterol), come fasting for 8 to 12 hours.
+
+## What is the visit like?
+
+1. Walk in without an appointment and check in at the front desk.
+2. The medical staff evaluates your symptoms and examines your neck.
+3. The blood sample is drawn at the clinic.
+4. When the lab returns the result, we explain it in Spanish and, if appropriate, you start or adjust your treatment.
+5. We schedule follow-up: generally every 6-8 weeks while adjusting the dose, and every 6-12 months once stable.
+
+## Thyroid care at a Hispanic clinic near you
+
+If you're looking for a thyroid test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -646,38 +730,106 @@ ${AREAS_EN}`,
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],
-    longDescription: `Cuando empiezan la fiebre, la tos o el malestar, saber si es flu o COVID ayuda a tratarte a tiempo. En Clínica Hispana Nueva Salud hacemos pruebas rápidas y te damos tratamiento el mismo día, sin cita.
+    longDescription: `Cuando empiezan la fiebre, la tos o el malestar, saber si es flu, COVID o una infección de garganta ayuda a tratarte a tiempo. En Clínica Hispana Nueva Salud hacemos pruebas rápidas y te damos tratamiento el mismo día: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
-- Prueba rápida de influenza (flu)
-- Prueba de COVID-19
-- Evaluación de síntomas respiratorios
-- Tratamiento de gripe, tos, bronquitis e infecciones de garganta
-- Indicaciones de recuperación y cuidado
+- **Prueba rápida de influenza (flu)** con resultado en minutos
+- **Prueba de COVID-19**
+- **[Prueba de estreptococo](/services/prueba-strep)** si el dolor de garganta lo sugiere
+- **Evaluación de síntomas respiratorios** y revisión de pulmones y garganta
+- **Tratamiento de gripe, tos, bronquitis, sinusitis e infecciones de garganta**
+- **Receta y medicamento el mismo día**; contamos con [farmacia dentro de la clínica](/services/farmacia)
+- **Indicaciones de recuperación y cuidado en casa**, en español
 
-## No dejes que avance
+## ¿Flu, COVID o resfriado común?
 
-Si la fiebre es alta, la tos no mejora o cuesta respirar, es mejor evaluarte. Un diagnóstico oportuno acorta la enfermedad y evita complicaciones.
+Los síntomas se parecen, pero el tratamiento cambia:
+
+- **Resfriado:** congestión, estornudos, molestia leve; suele pasar en pocos días.
+- **Flu:** fiebre alta de inicio súbito, dolor de cuerpo, cansancio intenso. Hay medicamento antiviral que funciona mejor en las primeras 48 horas.
+- **COVID-19:** fiebre, tos, cansancio, a veces pérdida de olfato o gusto. Conviene confirmar para cuidar a los demás en casa.
+
+La prueba rápida quita la duda en minutos y permite dar el tratamiento correcto desde el primer día.
+
+## ¿Cuándo debo venir?
+
+- Fiebre de 38 °C (100.4 °F) o más que dura más de 2 días
+- Tos que no mejora en una semana o que empeora
+- Dolor de garganta intenso, con placas o dificultad para tragar
+- Dolor en el pecho al respirar o silbido en el pecho
+- Síntomas de gripe si tienes asma, diabetes, presión alta, eres mayor de 65 o estás embarazada
+
+**Acude de inmediato a emergencias** si tienes dificultad para respirar, labios morados o confusión.
+
+## Prevención
+
+La [vacuna anual contra la flu](/services/vacunas) reduce el riesgo de enfermar de gravedad. Lavarte las manos, cubrirte al toser y quedarte en casa cuando tienes fiebre protege a tu familia y compañeros de trabajo.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras en recepción.
+2. El personal médico evalúa tus síntomas y te revisa garganta, oídos y pulmones.
+3. Se hace la prueba rápida de flu, COVID o estreptococo según el caso; el resultado está en minutos.
+4. Sales con tu diagnóstico, tu receta y tu tratamiento el mismo día.
+5. Si necesitas justificante médico para trabajo o escuela, te lo entregamos.
+
+## Pruebas de flu y COVID en una clínica hispana cerca de ti
+
+Si buscas prueba de flu o COVID en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `When fever, cough or discomfort begin, knowing whether it's flu or COVID helps treat you in time. At Clínica Hispana Nueva Salud we run rapid tests and provide same-day treatment, no appointment needed.
+    longDescriptionEn: `When fever, cough or malaise start, knowing whether it's the flu, COVID or a throat infection helps you get treated in time. At Clínica Hispana Nueva Salud we run rapid tests and give you treatment the same day: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
-- Rapid influenza (flu) test
-- COVID-19 test
-- Respiratory symptom evaluation
-- Treatment of flu, cough, bronchitis and throat infections
-- Recovery and care instructions
+- **Rapid flu (influenza) test** with results in minutes
+- **COVID-19 test**
+- **[Strep test](/en/services/prueba-strep)** if the sore throat suggests it
+- **Evaluation of respiratory symptoms** and a check of lungs and throat
+- **Treatment for the flu, cough, bronchitis, sinusitis and throat infections**
+- **Same-day prescription and medication**; we have a [pharmacy inside the clinic](/en/services/farmacia)
+- **Recovery and home-care instructions**, in Spanish
 
-## Don't let it progress
+## Flu, COVID or common cold?
 
-If the fever is high, the cough won't improve or breathing is hard, it's best to get evaluated. Timely diagnosis shortens the illness and prevents complications.
+The symptoms look alike, but the treatment differs:
+
+- **Cold:** congestion, sneezing, mild discomfort; usually passes in a few days.
+- **Flu:** sudden high fever, body aches, intense tiredness. Antiviral medication works best in the first 48 hours.
+- **COVID-19:** fever, cough, tiredness, sometimes loss of smell or taste. Worth confirming to protect others at home.
+
+A rapid test clears up the doubt in minutes and lets us give the right treatment from day one.
+
+## When should I come in?
+
+- Fever of 100.4 °F (38 °C) or higher lasting more than 2 days
+- Cough that doesn't improve in a week or gets worse
+- Severe sore throat, with white patches or trouble swallowing
+- Chest pain when breathing or wheezing
+- Flu symptoms if you have asthma, diabetes, high blood pressure, are over 65 or pregnant
+
+**Go to the emergency room immediately** if you have trouble breathing, blue lips or confusion.
+
+## Prevention
+
+The [annual flu vaccine](/en/services/vacunas) reduces the risk of severe illness. Washing your hands, covering your cough and staying home when you have a fever protects your family and coworkers.
+
+## What is the visit like?
+
+1. Walk in without an appointment and check in at the front desk.
+2. The medical staff evaluates your symptoms and checks your throat, ears and lungs.
+3. A rapid flu, COVID or strep test is done as needed; results are ready in minutes.
+4. You leave with your diagnosis, prescription and treatment the same day.
+5. If you need a doctor's note for work or school, we provide it.
+
+## Flu and COVID testing at a Hispanic clinic near you
+
+If you're looking for a flu or COVID test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -726,38 +878,98 @@ ${AREAS_EN}`,
       "School and sports forms completed",
       "Care in Spanish",
     ],
-    longDescription: `Antes de inscribirse en la escuela o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Nueva Salud lo hacemos de forma rápida y completa, con todos los formularios listos.
+    longDescription: `Antes de inscribirse en la escuela, entrar a la guardería o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Nueva Salud lo hacemos de forma rápida y completa, con todos los formularios listos: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
-- Examen físico general
-- Revisión de signos vitales (peso, talla, presión)
-- Evaluación de visión y audición
-- Llenado de los formularios requeridos
-- Recomendaciones de salud
+- **Examen físico general** de pies a cabeza
+- **Revisión de signos vitales:** peso, talla, presión arterial, frecuencia cardíaca
+- **Evaluación de visión y audición**
+- **Revisión de corazón, pulmones, abdomen, columna y articulaciones**, importante para deportes
+- **Revisión del historial** de vacunas, alergias y condiciones previas (asma, etc.)
+- **Llenado y firma de los formularios** de la escuela, el distrito (HISD, Pasadena ISD y otros) o la liga deportiva
+- **Recomendaciones de salud** para la familia, en español
 
-## Para la escuela y el deporte
+## ¿Para qué sirve?
 
-Cumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos.
+- **Inscripción escolar** (kínder, primaria, secundaria, preparatoria) y guardería
+- **Examen deportivo (sports physical)** para fútbol, béisbol, básquetbol, atletismo, porristas y cualquier actividad escolar
+- **Campamentos de verano** y programas extracurriculares
+- **Chequeo anual** para saber que tu hijo o hija crece sano
+
+Si tu hijo necesita la [prueba de tuberculosis](/services/prueba-tuberculosis) o un refuerzo de [vacunas](/services/vacunas) para el mismo trámite, lo hacemos en la misma visita.
+
+## ¿Qué debo traer?
+
+- El **formulario de la escuela o del equipo** (si lo tienes; si no, usamos el formato estándar)
+- **Cartilla de vacunación** del niño o la niña
+- Lista de medicamentos que toma y alergias conocidas
+- Lentes o aparatos auditivos, si los usa
+- Un padre, madre o tutor debe acompañar a los menores
+
+## ¿Cuándo hacerlo?
+
+Lo ideal es con **2 a 4 semanas de anticipación** al inicio de clases o de la temporada deportiva, para tener tiempo si hace falta algún estudio adicional o una vacuna. En julio y agosto la demanda sube; venir temprano evita esperas.
+
+## ¿Cómo es la visita?
+
+1. Llegan sin cita, se registran y entregan el formulario y la cartilla de vacunas.
+2. Se toman signos vitales, peso, talla, visión y audición.
+3. El personal médico realiza el examen físico completo y revisa el historial.
+4. Se llena y firma el formulario; salen con todo listo para entregar en la escuela.
+
+## Exámenes físicos escolares en una clínica hispana cerca de ti
+
+Si buscas examen físico escolar o deportivo en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Before enrolling in school or playing a sport, children and teens need a physical exam. At Clínica Hispana Nueva Salud we do it quickly and thoroughly, with all the forms ready.
+    longDescriptionEn: `Before enrolling in school, starting daycare or playing a sport, children and teens need a physical exam. At Clínica Hispana Nueva Salud we do it quickly and thoroughly, with all forms ready: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
-- General physical exam
-- Vital-signs check (weight, height, blood pressure)
-- Vision and hearing screening
-- Completion of required forms
-- Health recommendations
+- **Head-to-toe general physical exam**
+- **Vital signs:** weight, height, blood pressure, heart rate
+- **Vision and hearing screening**
+- **Heart, lung, abdomen, spine and joint check**, important for sports
+- **Review of vaccination history**, allergies and prior conditions (asthma, etc.)
+- **Completion and signature of forms** from the school, district (HISD, Pasadena ISD and others) or sports league
+- **Health recommendations** for the family, in Spanish
 
-## For school and sports
+## What is it for?
 
-Meet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it.
+- **School enrollment** (kindergarten, elementary, middle, high school) and daycare
+- **Sports physical** for soccer, baseball, basketball, track, cheer and any school activity
+- **Summer camps** and extracurricular programs
+- **Annual checkup** to make sure your child is growing healthy
+
+If your child needs a [TB test](/en/services/prueba-tuberculosis) or a [vaccine](/en/services/vacunas) booster for the same requirement, we do it during the same visit.
+
+## What should I bring?
+
+- The **school or team form** (if you have it; otherwise we use the standard format)
+- The child's **vaccination record**
+- A list of medications they take and known allergies
+- Glasses or hearing aids, if used
+- A parent or guardian must accompany minors
+
+## When should I do it?
+
+Ideally **2 to 4 weeks before** school or the sports season starts, to allow time for any additional test or vaccine. Demand rises in July and August; coming early avoids waits.
+
+## What is the visit like?
+
+1. Walk in without an appointment, check in and hand over the form and vaccination record.
+2. Vital signs, weight, height, vision and hearing are taken.
+3. The medical staff performs the full physical exam and reviews the history.
+4. The form is completed and signed; you leave with everything ready to turn in at school.
+
+## School physicals at a Hispanic clinic near you
+
+If you're looking for a school or sports physical in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -1021,38 +1233,90 @@ ${AREAS_EN}`,
       "Method start and follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Nueva Salud te damos información clara y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti.
+    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Nueva Salud te damos información clara, en español y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti: sin cita previa, sin seguro médico y con precios accesibles.
 
 ## ¿Qué incluye?
 
-- Consulta de orientación personalizada
-- Información sobre los distintos métodos
-- Pastillas anticonceptivas e inyección
-- Inicio y seguimiento del método elegido
-- Resolución de dudas y efectos secundarios
+- **Consulta de orientación personalizada:** revisamos tu salud, tus planes y tu estilo de vida
+- **Información sobre los distintos métodos** y cómo se comparan en eficacia, comodidad y efectos secundarios
+- **Pastillas anticonceptivas e inyección anticonceptiva**, con inicio en la clínica
+- **Inicio y seguimiento del método elegido**, para ajustar si algo no te sienta bien
+- **Resolución de dudas** sobre olvidos, sangrados irregulares u otros efectos
+- **Referencia** si prefieres un método que requiere especialista (DIU, implante)
 
-## Una decisión informada
+Si ya tienes un implante y quieres retirarlo, contamos con [extracción de implantes subdérmicos](/services/extraccion-implantes).
 
-Cada cuerpo y cada vida es distinta. Te ayudamos a comparar opciones según tu salud, tus planes y tu comodidad para que tomes la mejor decisión.
+## Pastillas o inyección: ¿cuál me conviene?
+
+- **Pastillas:** se toman todos los días a la misma hora. Buena opción si eres constante y quieres poder suspender fácilmente. Algunas también ayudan con el acné o con periodos dolorosos.
+- **Inyección:** se aplica cada 3 meses. Ideal si prefieres no pensar en ello a diario o no puedes guardar pastillas en casa. Puede alterar el patrón de sangrado los primeros meses.
+
+En la consulta valoramos factores como presión alta, migrañas, tabaquismo, lactancia o antecedentes de trombosis, que influyen en cuál método es seguro para ti.
+
+## ¿Cuándo empezar y qué esperar?
+
+- Puedes iniciar en cualquier momento del ciclo; te explicamos cuántos días usar protección adicional.
+- Los primeros 2-3 meses es común tener sangrados ligeros fuera de fecha; suelen desaparecer.
+- Si olvidaste pastillas o se te pasó la inyección, llámanos: te decimos qué hacer y si conviene una [prueba de embarazo](/services/prueba-embarazo).
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras en recepción.
+2. Platicas en privado con el personal médico sobre lo que buscas y tu historial.
+3. Se revisan presión arterial y datos básicos de salud.
+4. Eliges el método con toda la información y, si aplica, sales con tu receta o tu inyección el mismo día.
+5. Programamos el seguimiento o tu siguiente inyección.
+
+Si además quieres un chequeo completo, podemos hacer en la misma visita tu [consulta ginecológica y Papanicolaou](/services/ginecologia).
+
+## Anticonceptivos en una clínica hispana cerca de ti
+
+Si buscas orientación anticonceptiva en Houston en español, confidencial y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud we give you clear, judgment-free information so you can choose the contraceptive method that best fits you.
+    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud we give you clear, judgment-free information in Spanish so you can choose the birth control method that fits you best: no appointment, no insurance required and affordable pricing.
 
 ## What's included?
 
-- Personalized guidance visit
-- Information about the different methods
-- Birth control pills and injection
-- Starting and following up on the chosen method
-- Answers to questions and side effects
+- **Personalized counseling visit:** we review your health, your plans and your lifestyle
+- **Information on the different methods** and how they compare in effectiveness, convenience and side effects
+- **Birth control pills and the contraceptive injection**, started at the clinic
+- **Starting and following up on your chosen method**, to adjust if something doesn't suit you
+- **Answers to your questions** about missed doses, irregular bleeding or other effects
+- **Referral** if you prefer a method that requires a specialist (IUD, implant)
 
-## An informed decision
+If you already have an implant and want it removed, we offer [subdermal implant removal](/en/services/extraccion-implantes).
 
-Every body and every life is different. We help you compare options based on your health, your plans and your comfort so you make the best decision.
+## Pills or injection: which is right for me?
+
+- **Pills:** taken every day at the same time. A good option if you're consistent and want to be able to stop easily. Some also help with acne or painful periods.
+- **Injection:** given every 3 months. Ideal if you'd rather not think about it daily or can't keep pills at home. It may change your bleeding pattern during the first months.
+
+During the visit we consider factors like high blood pressure, migraines, smoking, breastfeeding or a history of blood clots, which affect which method is safe for you.
+
+## When to start and what to expect
+
+- You can start at any point in your cycle; we explain how many days to use backup protection.
+- During the first 2-3 months, light bleeding between periods is common; it usually goes away.
+- If you missed pills or your injection is overdue, call us: we'll tell you what to do and whether a [pregnancy test](/en/services/prueba-embarazo) makes sense.
+
+## What is the visit like?
+
+1. Walk in without an appointment and check in at the front desk.
+2. Talk privately with the medical staff about what you're looking for and your history.
+3. Blood pressure and basic health data are checked.
+4. You choose the method with full information and, if applicable, leave with your prescription or injection the same day.
+5. We schedule your follow-up or next injection.
+
+If you also want a full checkup, we can do your [gynecology visit and Pap smear](/en/services/ginecologia) during the same visit.
+
+## Birth control at a Hispanic clinic near you
+
+If you're looking for confidential, affordable birth control counseling in Houston in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -1921,36 +2185,94 @@ ${AREAS_EN}`,
       "Fast process",
       "Result documentation",
     ],
-    longDescription: `Muchos empleos y trámites requieren una prueba de alcohol y drogas. En Clínica Hispana Nueva Salud la realizamos de forma rápida y te entregamos la documentación que necesitas.
+    longDescription: `Muchos empleos y trámites requieren una prueba de alcohol y drogas. En Clínica Hispana Nueva Salud la realizamos de forma rápida, discreta y en español, y te entregamos la documentación que necesitas: sin cita previa y sin seguro médico.
 
 ## ¿Qué incluye?
 
-- Prueba de detección de drogas
-- Prueba de alcohol
-- Proceso ágil y discreto
-- Documentación del resultado para tu empleador o trámite
+- **Prueba de detección de drogas** (panel estándar de las sustancias más solicitadas por empleadores)
+- **Prueba de alcohol**
+- **Proceso ágil y discreto**, con recolección de muestra en la clínica
+- **Documentación del resultado** para tu empleador, agencia o trámite
+- **Atención en español** para que entiendas cada paso
 
-## Para trabajo y trámites
+Si tu trabajo es de conducción comercial, también hacemos el [examen físico DOT para licencia CDL](/services/examen-dot), y para otros requisitos laborales contamos con [prueba de tuberculosis](/services/prueba-tuberculosis) y [chequeos físicos](/services/examen-fisico-escolar).
 
-Atendemos solicitudes de empleo, requisitos laborales y trámites personales. Te explicamos el proceso en español para que llegues tranquilo.
+## ¿Para qué se usa?
+
+- Requisito de contratación (pre-employment)
+- Pruebas periódicas o aleatorias que pide tu empresa
+- Regreso al trabajo después de una incapacidad o incidente
+- Trámites legales o personales que piden constancia
+- Por decisión propia, para tener un documento que lo respalde
+
+## ¿Cómo me preparo?
+
+- Trae una **identificación con foto** y, si tu empleador te dio un formulario o instrucciones, tráelos.
+- No necesitas ayuno.
+- Si tomas medicamentos con receta, tráelos o anótalos: algunos pueden aparecer en la prueba y conviene documentarlo.
+- Llega hidratado, pero sin exceso de líquidos.
+
+## ¿Cuánto tarda y cuándo tengo el resultado?
+
+La recolección de la muestra toma unos minutos. El tiempo del resultado depende del tipo de prueba; te informamos en la clínica cuándo estará lista tu constancia y cómo recogerla o recibirla.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita, te registras y presentas tu identificación.
+2. Nos indicas qué prueba necesitas y para qué trámite.
+3. Se recolecta la muestra siguiendo el procedimiento de cadena de custodia cuando lo requiere el empleador.
+4. Te indicamos cuándo y cómo recibirás la documentación del resultado.
+
+## Examen de alcohol y drogas en una clínica hispana cerca de ti
+
+Si buscas prueba de drogas para empleo en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and processes require an alcohol and drug test. At Clínica Hispana Nueva Salud we perform it quickly and give you the documentation you need.
+    longDescriptionEn: `Many jobs and procedures require an alcohol and drug test. At Clínica Hispana Nueva Salud we perform it quickly, discreetly and in Spanish, and provide the documentation you need: no appointment and no insurance required.
 
 ## What's included?
 
-- Drug screening test
-- Alcohol test
-- Quick, discreet process
-- Result documentation for your employer or paperwork
+- **Drug screening** (standard panel of the substances most requested by employers)
+- **Alcohol test**
+- **Fast, discreet process**, with sample collection at the clinic
+- **Result documentation** for your employer, agency or procedure
+- **Care in Spanish** so you understand every step
 
-## For work and paperwork
+If you drive commercially, we also perform the [DOT physical exam for CDL licenses](/en/services/examen-dot), and for other job requirements we offer [TB testing](/en/services/prueba-tuberculosis) and [physical exams](/en/services/examen-fisico-escolar).
 
-We handle job applications, workplace requirements and personal paperwork. We explain the process in Spanish so you arrive with peace of mind.
+## What is it used for?
+
+- Pre-employment requirement
+- Periodic or random tests required by your company
+- Return to work after leave or an incident
+- Legal or personal procedures that require proof
+- By personal choice, to have a document backing it up
+
+## How do I prepare?
+
+- Bring a **photo ID** and, if your employer gave you a form or instructions, bring them.
+- No fasting needed.
+- If you take prescription medication, bring it or write it down: some can show up on the test and it's worth documenting.
+- Arrive hydrated, but without excess fluids.
+
+## How long does it take and when do I get the result?
+
+Sample collection takes a few minutes. Result turnaround depends on the type of test; we'll tell you at the clinic when your documentation will be ready and how to pick it up or receive it.
+
+## What is the visit like?
+
+1. Walk in without an appointment, check in and show your ID.
+2. Tell us which test you need and for what purpose.
+3. The sample is collected following chain-of-custody procedure when the employer requires it.
+4. We tell you when and how you'll receive the result documentation.
+
+## Alcohol and drug testing at a Hispanic clinic near you
+
+If you're looking for a pre-employment drug test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -2708,38 +3030,104 @@ ${AREAS_EN}`,
       "Healing follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Una buena curación evita infecciones y ayuda a que la herida sane más rápido. En Clínica Hispana Nueva Salud limpiamos, curamos y vendamos tus heridas, y te seguimos hasta que cicatricen.
+    longDescription: `Una buena curación evita infecciones y ayuda a que la herida sane más rápido y con mejor cicatriz. En Clínica Hispana Nueva Salud limpiamos, curamos y vendamos tus heridas, y te damos seguimiento hasta que cicatricen: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
-- Limpieza y desinfección de la herida
-- Aplicación de apósitos y vendajes
-- Cambio periódico de vendajes
-- Vigilancia de signos de infección
-- Indicaciones de cuidado en casa
+- **Limpieza y desinfección** de la herida con técnica estéril
+- **Retiro de tejido dañado** cuando es necesario para que sane
+- **Aplicación de apósitos y vendajes** adecuados al tipo de herida
+- **Cambio periódico de vendajes** en la clínica
+- **Vigilancia de signos de infección** en cada visita
+- **Indicaciones de cuidado en casa**, en español
+- **Refuerzo de tétanos** si tu herida lo requiere; contamos con [vacunas](/services/vacunas)
 
-## Para todo tipo de heridas
+## ¿Qué tipo de heridas curamos?
 
-Heridas postoperatorias, úlceras, quemaduras leves o heridas que tardan en sanar. Te ayudamos con curaciones regulares para una mejor recuperación.
+- Heridas postoperatorias que necesitan curaciones y cambio de vendaje
+- Cortes, raspones y laceraciones (si requieren cierre, hacemos [suturas](/services/suturas-heridas))
+- Quemaduras leves (primer grado y segundo grado superficial)
+- Úlceras en pies o piernas, frecuentes en personas con [diabetes](/services/condiciones-cronicas) o mala circulación
+- Heridas que llevan días sin cerrar o que se abrieron de nuevo
+- Abscesos ya drenados que necesitan seguimiento ([drenaje de abscesos](/services/drenaje-abscesos))
+
+## Señales de que una herida se está infectando
+
+- Enrojecimiento que se extiende alrededor de la herida
+- Calor, hinchazón o dolor que aumenta en lugar de disminuir
+- Pus o líquido con mal olor
+- Fiebre o escalofríos
+- Líneas rojas que avanzan desde la herida
+
+Si notas cualquiera de estas señales, ven el mismo día: una infección tratada a tiempo se resuelve con curaciones y medicamento; si avanza, puede complicarse.
+
+## Pacientes con diabetes: cuidado especial
+
+Con diabetes, las heridas en los pies pueden sanar lento y pasar desapercibidas. Revisa tus pies a diario y, ante cualquier ampolla, grieta o llaga, acude a curación. Un seguimiento regular evita complicaciones mayores.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras en recepción.
+2. El personal médico evalúa la herida y decide el tipo de curación.
+3. Se limpia, se cura y se cubre con el apósito adecuado.
+4. Te explicamos cómo cuidarla en casa y cada cuánto regresar para cambiar el vendaje.
+5. Te damos seguimiento hasta que cierre por completo.
+
+## Curación de heridas en una clínica hispana cerca de ti
+
+Si buscas curación de heridas en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Good wound care prevents infections and helps the wound heal faster. At Clínica Hispana Nueva Salud we clean, treat and dress your wounds, and follow you until they heal.
+    longDescriptionEn: `Good wound care prevents infection and helps the wound heal faster with a better scar. At Clínica Hispana Nueva Salud we clean, dress and bandage your wounds and follow up until they heal: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
-- Wound cleaning and disinfection
-- Application of dressings and bandages
-- Periodic dressing changes
-- Monitoring for signs of infection
-- Home-care instructions
+- **Cleaning and disinfection** of the wound with sterile technique
+- **Removal of damaged tissue** when needed for healing
+- **Dressings and bandages** suited to the type of wound
+- **Regular bandage changes** at the clinic
+- **Monitoring for signs of infection** at every visit
+- **Home-care instructions**, in Spanish
+- **Tetanus booster** if your wound requires it; we offer [vaccines](/en/services/vacunas)
 
-## For all kinds of wounds
+## What kinds of wounds do we treat?
 
-Post-surgical wounds, ulcers, minor burns or wounds that are slow to heal. We help with regular dressing changes for a better recovery.
+- Post-surgical wounds that need dressing changes
+- Cuts, scrapes and lacerations (if they need closing, we do [stitches](/en/services/suturas-heridas))
+- Minor burns (first-degree and superficial second-degree)
+- Foot or leg ulcers, common in people with [diabetes](/en/services/condiciones-cronicas) or poor circulation
+- Wounds that haven't closed after days or reopened
+- Drained abscesses that need follow-up ([abscess drainage](/en/services/drenaje-abscesos))
+
+## Signs a wound is getting infected
+
+- Redness spreading around the wound
+- Warmth, swelling or pain that increases instead of decreasing
+- Pus or foul-smelling fluid
+- Fever or chills
+- Red streaks moving away from the wound
+
+If you notice any of these signs, come in the same day: an infection treated early resolves with wound care and medication; if it progresses, it can get complicated.
+
+## Patients with diabetes: special care
+
+With diabetes, foot wounds can heal slowly and go unnoticed. Check your feet daily and, for any blister, crack or sore, come in for wound care. Regular follow-up prevents major complications.
+
+## What is the visit like?
+
+1. Walk in without an appointment and check in at the front desk.
+2. The medical staff evaluates the wound and decides the type of care.
+3. It's cleaned, treated and covered with the right dressing.
+4. We explain how to care for it at home and how often to return for bandage changes.
+5. We follow up until it's completely closed.
+
+## Wound care at a Hispanic clinic near you
+
+If you're looking for wound care in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -2788,38 +3176,100 @@ ${AREAS_EN}`,
       "Removal of moles, cysts and lipomas",
       "After-care explained",
     ],
-    longDescription: `Muchos problemas de piel y tejidos blandos se resuelven con un procedimiento sencillo. En Clínica Hispana Nueva Salud realizamos cirugías menores ambulatorias con anestesia local, en un mismo día.
+    longDescription: `Muchos problemas de piel y tejidos blandos se resuelven con un procedimiento sencillo, sin hospital. En Clínica Hispana Nueva Salud realizamos cirugías menores ambulatorias con anestesia local, el mismo día: sin cita previa, sin seguro médico y en español.
+
+## ¿Qué procedimientos hacemos?
+
+- **Extracción de lunares** que molestan, sangran, cambian de forma o simplemente quieres retirar
+- **Extracción de quistes** sebáceos o epidérmicos (bolitas bajo la piel que crecen o se inflaman)
+- **Extracción de lipomas** (bolitas blandas de grasa bajo la piel)
+- **Evaluación de otras lesiones** de piel y tejidos blandos para decidir el mejor tratamiento
+
+También atendemos procedimientos relacionados: [drenaje de abscesos](/services/drenaje-abscesos), [extracción de uñas encarnadas](/services/unas-encarnadas) y [suturas de heridas](/services/suturas-heridas).
 
 ## ¿Qué incluye?
 
-- Evaluación del lunar, quiste o lesión
+- Evaluación de la lesión por personal médico
 - Procedimiento ambulatorio con anestesia local
-- Extracción de lunares, quistes y lipomas
-- Indicaciones claras de cuidado posterior
-- Retiro de puntos cuando corresponde
+- Cierre con puntos cuando se requiere
+- Indicaciones claras de cuidado posterior, en español
+- Retiro de puntos en la clínica cuando corresponde
+- Seguimiento de la cicatrización y [curación de la herida](/services/curacion-heridas) si hace falta
 
-## Rápido y seguro
+## ¿Duele? ¿Cuánto tarda?
 
-La mayoría de estos procedimientos toman poco tiempo y no requieren hospitalización. Te explicamos cada paso en español para que estés tranquilo.
+Con anestesia local solo sientes el pinchazo inicial; durante el procedimiento puedes notar presión, pero no dolor. La mayoría de las cirugías menores toman entre 20 y 45 minutos y sales caminando por tu propio pie. Puedes retomar tus actividades normales ese mismo día, evitando esfuerzo o mojar la zona según las indicaciones.
+
+## ¿Cuándo conviene revisar un lunar o una bolita?
+
+- Cambió de tamaño, color o forma, o tiene bordes irregulares
+- Sangra, duele, pica o se inflama
+- Creció rápido en semanas o meses
+- Te roza con la ropa, el cinturón o al rasurarte
+- Te preocupa su apariencia
+
+Retirarlo a tiempo es sencillo; esperar a que crezca o se infecte lo complica.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita, te registras y el personal médico evalúa la lesión.
+2. Si procede, se realiza la cirugía menor en el mismo día con anestesia local.
+3. Sales con tu herida cubierta e indicaciones de cuidado en español.
+4. Regresas para el retiro de puntos (normalmente a los 7-14 días) o para revisión si algo te preocupa.
+
+## Cirugías menores en una clínica hispana cerca de ti
+
+Si buscas dónde quitar un lunar, quiste o lipoma en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many skin and soft-tissue problems are solved with a simple procedure. At Clínica Hispana Nueva Salud we perform minor outpatient surgery with local anesthesia, in a single day.
+    longDescriptionEn: `Many skin and soft-tissue problems can be solved with a simple procedure, no hospital required. At Clínica Hispana Nueva Salud we perform outpatient minor surgery under local anesthesia, the same day: no appointment, no insurance required and in Spanish.
+
+## What procedures do we perform?
+
+- **Mole removal** for moles that bother you, bleed, change shape or you simply want gone
+- **Cyst removal** (sebaceous or epidermal cysts — lumps under the skin that grow or get inflamed)
+- **Lipoma removal** (soft fatty lumps under the skin)
+- **Evaluation of other skin and soft-tissue lesions** to decide the best treatment
+
+We also handle related procedures: [abscess drainage](/en/services/drenaje-abscesos), [ingrown toenail removal](/en/services/unas-encarnadas) and [wound stitches](/en/services/suturas-heridas).
 
 ## What's included?
 
-- Evaluation of the mole, cyst or lesion
-- Outpatient procedure with local anesthesia
-- Removal of moles, cysts and lipomas
-- Clear after-care instructions
-- Suture removal when appropriate
+- Evaluation of the lesion by medical staff
+- Outpatient procedure under local anesthesia
+- Stitches when needed
+- Clear aftercare instructions, in Spanish
+- Suture removal at the clinic when applicable
+- Follow-up on healing and [wound care](/en/services/curacion-heridas) if needed
 
-## Fast and safe
+## Does it hurt? How long does it take?
 
-Most of these procedures take little time and don't require hospitalization. We explain every step in Spanish so you feel at ease.
+With local anesthesia you only feel the initial needle stick; during the procedure you may notice pressure, but no pain. Most minor surgeries take 20 to 45 minutes and you walk out on your own. You can resume normal activities the same day, avoiding strain or getting the area wet as instructed.
+
+## When should a mole or lump be checked?
+
+- It changed in size, color or shape, or has irregular edges
+- It bleeds, hurts, itches or gets inflamed
+- It grew quickly over weeks or months
+- It rubs against clothing, a belt or when shaving
+- You're concerned about how it looks
+
+Removing it early is simple; waiting until it grows or gets infected makes it harder.
+
+## What is the visit like?
+
+1. Walk in without an appointment, check in and the medical staff evaluates the lesion.
+2. If appropriate, the minor surgery is performed the same day under local anesthesia.
+3. You leave with the wound covered and aftercare instructions in Spanish.
+4. You return for suture removal (usually at 7-14 days) or for a check if anything worries you.
+
+## Minor surgery at a Hispanic clinic near you
+
+If you're looking for where to remove a mole, cyst or lipoma in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 

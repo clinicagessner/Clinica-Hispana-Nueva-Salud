@@ -33,6 +33,36 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "We mainly use TSH and, if needed, T3 and T4 to evaluate how your thyroid is working.",
     },
     {
+      question: "¿Necesito ayuno para la prueba de tiroides?",
+      answer: "No. Solo si vas a hacerte también glucosa o colesterol, ven en ayunas de 8 a 12 horas.",
+      questionEn: "Do I need to fast for the thyroid test?",
+      answerEn: "No. Only if you're also getting glucose or cholesterol tests, come fasting for 8 to 12 hours.",
+    },
+    {
+      question: "¿Cuáles son los síntomas de problemas de tiroides?",
+      answer: "Cansancio, cambios de peso sin explicación, frío o calor excesivo, caída del cabello, palpitaciones, nerviosismo o tristeza. Una prueba de sangre lo confirma.",
+      questionEn: "What are the symptoms of thyroid problems?",
+      answerEn: "Tiredness, unexplained weight changes, feeling too cold or too hot, hair loss, palpitations, nervousness or sadness. A blood test confirms it.",
+    },
+    {
+      question: "Si ya tomo medicamento para la tiroides, ¿me dan seguimiento?",
+      answer: "Sí. Hacemos el control de laboratorio, ajustamos la dosis si hace falta y renovamos tu receta.",
+      questionEn: "If I already take thyroid medication, do you provide follow-up?",
+      answerEn: "Yes. We do the lab monitoring, adjust the dose if needed and renew your prescription.",
+    },
+    {
+      question: "¿Cada cuánto debo hacerme el control?",
+      answer: "Cada 6-8 semanas mientras se ajusta la dosis y cada 6-12 meses cuando ya está estable, o antes si reaparecen síntomas.",
+      questionEn: "How often should I get checked?",
+      answerEn: "Every 6-8 weeks while the dose is being adjusted and every 6-12 months once stable, or sooner if symptoms return.",
+    },
+    {
+      question: "Tengo una bolita en el cuello, ¿qué hago?",
+      answer: "Ven a evaluarte. Revisamos el cuello, hacemos la prueba de sangre y, si se requiere, un ultrasonido de tiroides para estudiar el nódulo.",
+      questionEn: "I have a lump in my neck, what should I do?",
+      answerEn: "Come in for an evaluation. We examine the neck, run the blood test and, if needed, a thyroid ultrasound to study the nodule.",
+    },
+    {
       question: "¿Necesito cita previa?",
       answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",
@@ -67,10 +97,40 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "enfermedades-respiratorias": [
     {
-      question: "¿Hacen prueba de flu y de COVID el mismo día?",
-      answer: "Sí, hacemos pruebas rápidas de influenza y COVID y te damos el resultado y el tratamiento el mismo día.",
-      questionEn: "Do you test for flu and COVID the same day?",
-      answerEn: "Yes, we run rapid flu and COVID tests and give you the result and treatment the same day.",
+      question: "¿Cuánto tarda el resultado de la prueba de flu o COVID?",
+      answer: "Son pruebas rápidas: el resultado está en minutos, durante la misma visita.",
+      questionEn: "How long does the flu or COVID test take?",
+      answerEn: "They're rapid tests: results are ready in minutes, during the same visit.",
+    },
+    {
+      question: "¿Qué diferencia hay entre flu, COVID y resfriado?",
+      answer: "Los síntomas se parecen, pero la flu suele empezar de golpe con fiebre alta y dolor de cuerpo; el COVID puede quitar el olfato; el resfriado es más leve. La prueba rápida lo confirma.",
+      questionEn: "What's the difference between the flu, COVID and a cold?",
+      answerEn: "Symptoms look alike, but the flu usually starts suddenly with high fever and body aches; COVID may cause loss of smell; a cold is milder. The rapid test confirms it.",
+    },
+    {
+      question: "¿Dan tratamiento el mismo día?",
+      answer: "Sí. Sales con tu diagnóstico, receta y medicamento el mismo día; tenemos farmacia dentro de la clínica.",
+      questionEn: "Do you provide same-day treatment?",
+      answerEn: "Yes. You leave with your diagnosis, prescription and medication the same day; we have a pharmacy inside the clinic.",
+    },
+    {
+      question: "¿Dan justificante médico para el trabajo o la escuela?",
+      answer: "Sí, te lo entregamos en la misma visita si tu condición lo requiere.",
+      questionEn: "Do you provide a doctor's note for work or school?",
+      answerEn: "Yes, we provide it during the same visit if your condition requires it.",
+    },
+    {
+      question: "¿Cuándo debo ir a emergencias en lugar de la clínica?",
+      answer: "Si tienes dificultad para respirar, labios morados, confusión o dolor fuerte en el pecho, acude de inmediato a una sala de emergencias.",
+      questionEn: "When should I go to the ER instead of the clinic?",
+      answerEn: "If you have trouble breathing, blue lips, confusion or severe chest pain, go to an emergency room immediately.",
+    },
+    {
+      question: "¿Atienden a niños con gripe o tos?",
+      answer: "Sí, atendemos a toda la familia. Los niños con fiebre alta, tos persistente o dificultad para respirar deben evaluarse pronto.",
+      questionEn: "Do you see children with the flu or a cough?",
+      answerEn: "Yes, we care for the whole family. Children with high fever, persistent cough or trouble breathing should be evaluated promptly.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -87,10 +147,40 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "examen-fisico-escolar": [
     {
-      question: "¿Llenan el formulario de la escuela o el equipo?",
-      answer: "Sí, trae el formulario de tu escuela o equipo deportivo y lo completamos durante la visita.",
-      questionEn: "Do you fill out the school or team form?",
-      answerEn: "Yes, bring your school or sports-team form and we complete it during the visit.",
+      question: "¿Qué debo traer al examen físico escolar?",
+      answer: "El formulario de la escuela o el equipo (si lo tienes), la cartilla de vacunación y la lista de medicamentos o alergias. Un adulto debe acompañar al menor.",
+      questionEn: "What should I bring to the school physical?",
+      answerEn: "The school or team form (if you have it), the vaccination record and a list of medications or allergies. An adult must accompany the minor.",
+    },
+    {
+      question: "¿Hacen exámenes deportivos (sports physical)?",
+      answer: "Sí. Revisamos corazón, pulmones, columna y articulaciones y llenamos el formulario de la liga o la escuela.",
+      questionEn: "Do you do sports physicals?",
+      answerEn: "Yes. We check heart, lungs, spine and joints and complete the league or school form.",
+    },
+    {
+      question: "¿Cuánto tarda?",
+      answer: "Por lo general entre 20 y 30 minutos, incluyendo el llenado del formulario.",
+      questionEn: "How long does it take?",
+      answerEn: "Usually 20 to 30 minutes, including completing the form.",
+    },
+    {
+      question: "¿Necesita ayuno mi hijo?",
+      answer: "No. Puede comer con normalidad antes del examen.",
+      questionEn: "Does my child need to fast?",
+      answerEn: "No. They can eat normally before the exam.",
+    },
+    {
+      question: "¿Pueden aplicar vacunas o la prueba de tuberculosis el mismo día?",
+      answer: "Sí. Si la escuela lo requiere, aplicamos la vacuna de la flu o el tétanos y hacemos la prueba de TB en la misma visita.",
+      questionEn: "Can you give vaccines or the TB test the same day?",
+      answerEn: "Yes. If the school requires it, we give the flu or tetanus vaccine and do the TB test during the same visit.",
+    },
+    {
+      question: "¿Aceptan formularios de cualquier distrito escolar?",
+      answer: "Sí. Llenamos el formulario de tu escuela, distrito (HISD, Pasadena ISD y otros) o liga deportiva; si no tienes uno, usamos el formato estándar.",
+      questionEn: "Do you accept forms from any school district?",
+      answerEn: "Yes. We complete the form from your school, district (HISD, Pasadena ISD and others) or sports league; if you don't have one, we use the standard format.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -178,9 +268,39 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "anticonceptivos": [
     {
       question: "¿Qué métodos anticonceptivos ofrecen?",
-      answer: "Ofrecemos orientación, pastillas anticonceptivas e inyección, y te ayudamos a elegir el método adecuado para ti.",
-      questionEn: "What contraceptive methods do you offer?",
-      answerEn: "We offer guidance, birth control pills and the injection, and help you choose the right method for you.",
+      answer: "Pastillas anticonceptivas e inyección anticonceptiva, con orientación para elegir. Si prefieres DIU o implante, te referimos; también retiramos implantes subdérmicos.",
+      questionEn: "Which birth control methods do you offer?",
+      answerEn: "Birth control pills and the contraceptive injection, with counseling to choose. If you prefer an IUD or implant, we refer you; we also remove subdermal implants.",
+    },
+    {
+      question: "¿Necesito hacerme un examen antes de empezar?",
+      answer: "Revisamos tu presión arterial y tu historial de salud. Por lo general no se requiere examen ginecológico para iniciar pastillas o inyección, salvo que tengas síntomas.",
+      questionEn: "Do I need an exam before starting?",
+      answerEn: "We check your blood pressure and health history. A gynecological exam usually isn't required to start pills or the injection, unless you have symptoms.",
+    },
+    {
+      question: "¿Cada cuánto se pone la inyección anticonceptiva?",
+      answer: "Cada 3 meses (aproximadamente cada 12-13 semanas). Te anotamos la fecha de tu siguiente dosis.",
+      questionEn: "How often is the contraceptive injection given?",
+      answerEn: "Every 3 months (about every 12-13 weeks). We note the date of your next dose.",
+    },
+    {
+      question: "¿Qué hago si olvidé una pastilla?",
+      answer: "Tómala en cuanto te acuerdes y continúa con normalidad; si olvidaste dos o más, usa condón 7 días y llámanos para orientarte.",
+      questionEn: "What do I do if I missed a pill?",
+      answerEn: "Take it as soon as you remember and continue as usual; if you missed two or more, use condoms for 7 days and call us for guidance.",
+    },
+    {
+      question: "¿Los anticonceptivos engordan o afectan la fertilidad?",
+      answer: "Los cambios de peso son poco frecuentes y leves. Al suspender pastillas la fertilidad regresa pronto; con la inyección puede tardar algunos meses. Ninguno causa infertilidad.",
+      questionEn: "Does birth control cause weight gain or affect fertility?",
+      answerEn: "Weight changes are uncommon and mild. After stopping pills, fertility returns soon; with the injection it may take a few months. Neither causes infertility.",
+    },
+    {
+      question: "¿Atienden a menores de edad?",
+      answer: "Sí, con acompañamiento de un padre, madre o tutor. La consulta es confidencial y respetuosa.",
+      questionEn: "Do you see minors?",
+      answerEn: "Yes, accompanied by a parent or guardian. The visit is confidential and respectful.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -447,10 +567,40 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "examen-alcohol-drogas": [
     {
-      question: "¿Entregan documentación para el trabajo?",
-      answer: "Sí, te entregamos la documentación del resultado para tu empleador o trámite.",
-      questionEn: "Do you provide documentation for work?",
-      answerEn: "Yes, we give you documentation of the result for your employer or paperwork.",
+      question: "¿Qué necesito traer?",
+      answer: "Una identificación con foto y, si tu empleador te dio un formulario o instrucciones, tráelos. Anota los medicamentos con receta que tomas.",
+      questionEn: "What do I need to bring?",
+      answerEn: "A photo ID and, if your employer gave you a form or instructions, bring them. Write down any prescription medications you take.",
+    },
+    {
+      question: "¿Necesito ayuno?",
+      answer: "No. Llega hidratado con normalidad, sin exceso de líquidos.",
+      questionEn: "Do I need to fast?",
+      answerEn: "No. Arrive normally hydrated, without excess fluids.",
+    },
+    {
+      question: "¿Cuánto tarda el resultado?",
+      answer: "La recolección toma minutos. El tiempo del resultado depende del tipo de prueba; te informamos en la clínica cuándo estará tu constancia.",
+      questionEn: "How long do results take?",
+      answerEn: "Collection takes minutes. Result turnaround depends on the type of test; we'll tell you at the clinic when your documentation will be ready.",
+    },
+    {
+      question: "¿El resultado es confidencial?",
+      answer: "Sí. La constancia se entrega a ti o a quien tú autorices, según el trámite o lo que indique tu empleador.",
+      questionEn: "Is the result confidential?",
+      answerEn: "Yes. The documentation is given to you or whoever you authorize, depending on the procedure or your employer's instructions.",
+    },
+    {
+      question: "¿Sirve para trabajo de conducción comercial (CDL)?",
+      answer: "Hacemos la prueba de drogas y también el examen físico DOT. Confirma con tu empleador el tipo de prueba que requiere.",
+      questionEn: "Does it work for commercial driving (CDL) jobs?",
+      answerEn: "We perform the drug test and also the DOT physical exam. Confirm with your employer the type of test required.",
+    },
+    {
+      question: "¿Mis medicamentos con receta pueden afectar el resultado?",
+      answer: "Algunos pueden aparecer en la prueba. Por eso conviene traerlos o anotarlos para documentarlo correctamente.",
+      questionEn: "Can my prescription medications affect the result?",
+      answerEn: "Some may show up on the test. That's why it's worth bringing or listing them so it's documented correctly.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -697,10 +847,40 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "curacion-heridas": [
     {
-      question: "¿Hacen cambios de vendaje y seguimiento?",
-      answer: "Sí, limpiamos, curamos y cambiamos los vendajes, y damos seguimiento hasta que la herida cicatrice.",
-      questionEn: "Do you do dressing changes and follow-up?",
-      answerEn: "Yes, we clean, treat and change the dressings, and follow up until the wound heals.",
+      question: "¿Qué tipo de heridas curan?",
+      answer: "Heridas postoperatorias, cortes y raspones, quemaduras leves, úlceras en pies o piernas y heridas que tardan en sanar.",
+      questionEn: "What kinds of wounds do you treat?",
+      answerEn: "Post-surgical wounds, cuts and scrapes, minor burns, foot or leg ulcers and wounds that are slow to heal.",
+    },
+    {
+      question: "¿Cada cuánto debo cambiar el vendaje?",
+      answer: "Depende de la herida; en general cada 1 a 3 días. Te indicamos la frecuencia y puedes venir a la clínica para cada cambio.",
+      questionEn: "How often should I change the bandage?",
+      answerEn: "It depends on the wound; generally every 1 to 3 days. We tell you the frequency and you can come to the clinic for each change.",
+    },
+    {
+      question: "¿Cómo sé si mi herida está infectada?",
+      answer: "Enrojecimiento que se extiende, calor, hinchazón, pus, mal olor o fiebre. Si notas alguno, ven el mismo día.",
+      questionEn: "How do I know if my wound is infected?",
+      answerEn: "Spreading redness, warmth, swelling, pus, foul odor or fever. If you notice any of these, come in the same day.",
+    },
+    {
+      question: "Tengo diabetes y una llaga en el pie, ¿qué hago?",
+      answer: "No esperes. Las heridas en pies de personas con diabetes sanan lento y pueden complicarse; acude a curación cuanto antes y mantén el seguimiento.",
+      questionEn: "I have diabetes and a sore on my foot, what should I do?",
+      answerEn: "Don't wait. Foot wounds in people with diabetes heal slowly and can get complicated; come in for wound care as soon as possible and keep up with follow-up.",
+    },
+    {
+      question: "¿Necesito vacuna del tétanos?",
+      answer: "Si la herida es sucia, profunda o causada por metal oxidado y han pasado más de 5-10 años desde tu última dosis, sí. La aplicamos en la misma visita.",
+      questionEn: "Do I need a tetanus shot?",
+      answerEn: "If the wound is dirty, deep or caused by rusty metal and it's been more than 5-10 years since your last dose, yes. We give it during the same visit.",
+    },
+    {
+      question: "¿Curan heridas de una cirugía hecha en otro lugar?",
+      answer: "Sí. Trae las indicaciones de tu cirujano si las tienes y nos encargamos de las curaciones y el cambio de vendajes.",
+      questionEn: "Do you care for wounds from surgery done elsewhere?",
+      answerEn: "Yes. Bring your surgeon's instructions if you have them and we'll handle the wound care and bandage changes.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -717,10 +897,40 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "cirugias-menores": [
     {
-      question: "¿Qué cirugías menores realizan?",
-      answer: "Realizamos extracción de lunares, quistes y lipomas, entre otros procedimientos ambulatorios con anestesia local.",
+      question: "¿Qué cirugías menores hacen?",
+      answer: "Extracción de lunares, quistes y lipomas con anestesia local, además de drenaje de abscesos, uñas encarnadas y suturas.",
       questionEn: "What minor surgeries do you perform?",
-      answerEn: "We perform removal of moles, cysts and lipomas, among other outpatient procedures with local anesthesia.",
+      answerEn: "Removal of moles, cysts and lipomas under local anesthesia, plus abscess drainage, ingrown toenails and stitches.",
+    },
+    {
+      question: "¿Duele el procedimiento?",
+      answer: "Solo sientes el pinchazo de la anestesia local; después puedes notar presión, pero no dolor. Las molestias posteriores se controlan con analgésico común.",
+      questionEn: "Does the procedure hurt?",
+      answerEn: "You only feel the local anesthesia needle; afterward you may notice pressure, but no pain. Any discomfort afterward is managed with common pain relievers.",
+    },
+    {
+      question: "¿Cuánto tarda y puedo irme solo?",
+      answer: "Entre 20 y 45 minutos en la mayoría de los casos. Sales caminando y puedes conducir, salvo que te indiquemos lo contrario.",
+      questionEn: "How long does it take and can I leave on my own?",
+      answerEn: "Between 20 and 45 minutes in most cases. You walk out and can drive, unless we tell you otherwise.",
+    },
+    {
+      question: "¿Queda cicatriz?",
+      answer: "Toda incisión deja una marca, pero con buena técnica y cuidado posterior suele ser fina y poco visible. Te explicamos cómo cuidarla.",
+      questionEn: "Will there be a scar?",
+      answerEn: "Every incision leaves a mark, but with good technique and aftercare it's usually thin and barely visible. We explain how to care for it.",
+    },
+    {
+      question: "¿Mandan a analizar el lunar o el quiste?",
+      answer: "Cuando la lesión lo amerita, se envía a laboratorio (biopsia) para confirmar que es benigna. Te informamos el resultado.",
+      questionEn: "Do you send the mole or cyst for analysis?",
+      answerEn: "When the lesion warrants it, it's sent to the lab (biopsy) to confirm it's benign. We inform you of the result.",
+    },
+    {
+      question: "¿Lo hacen el mismo día de la evaluación?",
+      answer: "En la mayoría de los casos sí. Si la lesión requiere un estudio previo o referencia, te lo indicamos en la primera visita.",
+      questionEn: "Is it done the same day as the evaluation?",
+      answerEn: "In most cases, yes. If the lesion needs a prior test or a referral, we let you know at the first visit.",
     },
     {
       question: "¿Necesito cita previa?",
