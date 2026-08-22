@@ -52,12 +52,12 @@ export async function generateMetadata({
   if (!service) return {};
   const l = getLocalizedService(service, locale as Locale);
   return {
-    title: l.title,
+    title: l.metaTitle,
     description: l.description,
     keywords: l.keywords,
     alternates: buildAlternates(`/services/${slug}`, locale as Locale),
     openGraph: {
-      title: l.title,
+      title: l.metaTitle,
       description: l.description,
       type: "article",
       url: absoluteUrl(`/services/${slug}`, locale as Locale),

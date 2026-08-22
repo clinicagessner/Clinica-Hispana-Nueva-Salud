@@ -127,6 +127,8 @@ export const PROMOTIONS: Promotion[] = [
     ],
     alt: "Flyer de la promoción Chequeo General Completo por $99 con consulta gratis en Clínica Hispana Nueva Salud, Houston",
     titleEn: "Complete General Check-Up",
+    metaTitle: "Control de Diabetes en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Diabetes Care in Houston, TX | Clínica Hispana Nueva Salud",
     blurbEn:
       "Take care today, live better tomorrow. Complete general check-up for only $99 (regular value $250) with a free medical consultation: general blood test, A1C (glycated hemoglobin) and general urine test. Book your appointment today.",
     includesEn: [
@@ -377,7 +379,7 @@ export const SERVICES: Service[] = [
     shortDescriptionEn:
       "Testing and management of diabetes, high blood pressure and dyslipidemia (cholesterol and triglycerides), with close follow-up.",
     description:
-      "Control de diabetes, hipertensión y dislipidemias en Houston, TX. Laboratorio y seguimiento en español, con precios accesibles.",
+      "Control de diabetes, hipertensión y dislipidemias en Houston, TX. Laboratorio y seguimiento en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
       "Diabetes, hypertension and dyslipidemia management in Houston, TX. Lab work and follow-up in Spanish, with affordable pricing.",
     keywords: [
@@ -450,14 +452,16 @@ ${AREAS_EN}`,
     icon: "Thermometer",
     title: "Exámenes y Tratamiento de la Tiroides",
     titleEn: "Thyroid Testing & Treatment",
+    metaTitle: "Exámenes de Tiroides Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Thyroid Tests in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Diagnóstico y tratamiento de enfermedades de la tiroides (hipotiroidismo e hipertiroidismo) con seguimiento en español.",
     shortDescriptionEn:
       "Diagnosis and treatment of thyroid conditions (hypothyroidism and hyperthyroidism) with follow-up in Spanish.",
     description:
-      "Exámenes y tratamiento de la tiroides en Houston, TX. Pruebas de laboratorio y control en español, con precios accesibles.",
+      "Exámenes y tratamiento de la tiroides en Houston, TX. Pruebas de laboratorio y control en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Thyroid testing and treatment in Houston, TX. Lab tests and follow-up in Spanish, with affordable pricing.",
+      "Thyroid testing and treatment in Houston, TX. Lab tests and follow-up in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "tiroides houston",
       "examen de tiroides houston",
@@ -528,14 +532,16 @@ ${AREAS_EN}`,
     icon: "Leaf",
     title: "Exámenes y Tratamiento de Alergias",
     titleEn: "Allergy Testing & Treatment",
+    metaTitle: "Exámenes de Alergias Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Allergy Testing in Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Evaluación y tratamiento de alergias estacionales, respiratorias y de la piel, con atención en español.",
     shortDescriptionEn:
       "Evaluation and treatment of seasonal, respiratory and skin allergies, with care in Spanish.",
     description:
-      "Exámenes y tratamiento de alergias en Houston, TX. Diagnóstico y manejo en español, con precios accesibles.",
+      "Exámenes y tratamiento de alergias en Houston, TX. Diagnóstico y manejo en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Allergy testing and treatment in Houston, TX. Diagnosis and management in Spanish, with affordable pricing.",
+      "Allergy testing and treatment in Houston, TX. Diagnosis and management in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "alergias houston",
       "tratamiento de alergias houston",
@@ -606,6 +612,8 @@ ${AREAS_EN}`,
     icon: "Wind",
     title: "Pruebas de Flu y COVID y Enfermedades Respiratorias",
     titleEn: "Flu & COVID Testing and Respiratory Illness Care",
+    metaTitle: "Prueba de Flu y COVID Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Flu & COVID Test in Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Pruebas de detección de influenza (flu) y COVID, y tratamiento de gripe, tos y enfermedades respiratorias.",
     shortDescriptionEn:
@@ -684,14 +692,16 @@ ${AREAS_EN}`,
     icon: "ClipboardList",
     title: "Chequeos Físicos Escolares y Deportivos",
     titleEn: "School & Sports Physical Exams",
+    metaTitle: "Examen Físico Escolar Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "School Physicals in Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Exámenes físicos para la escuela y los deportes, rápidos y con los formularios completados.",
     shortDescriptionEn:
       "Physical exams for school and sports, fast and with the forms completed.",
     description:
-      "Chequeos físicos escolares y deportivos en Houston, TX. Rápidos, en español y con precios accesibles.",
+      "Chequeos físicos escolares y deportivos en Houston, TX. Rápidos, en español y con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "School and sports physical exams in Houston, TX. Fast, in Spanish, with affordable pricing.",
+      "School and sports physical exams in Houston, TX. Fast, in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen fisico escolar houston",
       "physical para la escuela houston",
@@ -763,6 +773,8 @@ ${AREAS_EN}`,
     highlighted: true,
     title: "Atención Ginecológica: Papanicolaou y Cultivos",
     titleEn: "Gynecology Care: Pap Smear & Cultures",
+    metaTitle: "Ginecología en Houston, TX | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Gynecology in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
     shortDescriptionEn:
@@ -770,7 +782,7 @@ ${AREAS_EN}`,
     description:
       "Atención ginecológica en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
     descriptionEn:
-      "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
+      "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "ginecologia en houston",
       "ginecologo houston español",
@@ -851,14 +863,16 @@ ${AREAS_EN}`,
     icon: "Baby",
     title: "Examen y Diagnóstico de Embarazo",
     titleEn: "Pregnancy Testing & Confirmation",
+    metaTitle: "Prueba de Embarazo en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Pregnancy Test in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Pruebas de embarazo confiables y orientación sobre tus siguientes pasos, en español.",
     shortDescriptionEn:
       "Reliable pregnancy tests and guidance on your next steps, in Spanish.",
     description:
-      "Examen y diagnóstico de embarazo en Houston, TX. Pruebas confiables y orientación en español, con precios accesibles.",
+      "Examen y diagnóstico de embarazo en Houston, TX. Pruebas confiables y orientación en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Pregnancy testing and confirmation in Houston, TX. Reliable tests and guidance in Spanish, with affordable pricing.",
+      "Pregnancy testing and confirmation in Houston, TX. Reliable tests and guidance in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "prueba de embarazo houston",
       "examen de embarazo houston",
@@ -927,14 +941,16 @@ ${AREAS_EN}`,
     icon: "Tablets",
     title: "Tratamientos Anticonceptivos",
     titleEn: "Contraceptive Methods",
+    metaTitle: "Anticonceptivos en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Birth Control in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Orientación y métodos anticonceptivos (pastillas, inyección y más) para decidir con información, en español.",
     shortDescriptionEn:
       "Guidance and contraceptive methods (pills, injection and more) to decide with clear information, in Spanish.",
     description:
-      "Tratamientos anticonceptivos en Houston, TX: orientación, pastillas e inyección. En español, con precios accesibles.",
+      "Tratamientos anticonceptivos en Houston, TX: orientación, pastillas e inyección. En español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Contraceptive methods in Houston, TX: guidance, pills and injection. In Spanish, with affordable pricing.",
+      "Contraceptive methods in Houston, TX: guidance, pills and injection. In Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "anticonceptivos houston",
       "metodos anticonceptivos houston",
@@ -1005,14 +1021,16 @@ ${AREAS_EN}`,
     icon: "Bandage",
     title: "Extracción de Implantes Subdérmicos",
     titleEn: "Subdermal Implant Removal",
+    metaTitle: "Retiro de Implante en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Implant Removal in Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Retiro seguro de implantes anticonceptivos subdérmicos del brazo, por personal capacitado.",
     shortDescriptionEn:
       "Safe removal of subdermal arm contraceptive implants by trained staff.",
     description:
-      "Extracción de implantes subdérmicos en Houston, TX, procedimiento seguro y en español. Con precios accesibles.",
+      "Extracción de implantes subdérmicos en Houston, TX, procedimiento seguro y en español. Con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Subdermal implant removal in Houston, TX, a safe procedure in Spanish. With affordable pricing.",
+      "Subdermal implant removal in Houston, TX, a safe procedure in Spanish. With affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "extraccion de implante subdermico houston",
       "quitar implante del brazo houston",
@@ -1082,14 +1100,16 @@ ${AREAS_EN}`,
     highlighted: true,
     title: "Exámenes del Hombre: PSA y Testosterona",
     titleEn: "Men's Health Exams: PSA & Testosterone",
+    metaTitle: "Salud del Hombre en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Men's Health Exams in Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Exámenes de salud del hombre: antígeno prostático (PSA), testosterona y chequeo general, en español.",
     shortDescriptionEn:
       "Men's health exams: prostate antigen (PSA), testosterone and general checkup, in Spanish.",
     description:
-      "Exámenes del hombre en Houston, TX: PSA y testosterona. Laboratorio y atención en español, con precios accesibles.",
+      "Exámenes del hombre en Houston, TX: PSA y testosterona. Laboratorio y atención en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Men's health exams in Houston, TX: PSA and testosterone. Lab work and care in Spanish, with affordable pricing.",
+      "Men's health exams in Houston, TX: PSA and testosterone. Lab work and care in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen del hombre houston",
       "prueba psa houston",
@@ -1161,14 +1181,16 @@ ${AREAS_EN}`,
     highlighted: true,
     title: "Análisis y Exámenes de Sangre | Laboratorio",
     titleEn: "Blood Tests | Lab",
+    metaTitle: "Exámenes de Sangre en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Blood Tests in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Análisis de sangre completos con resultados rápidos e interpretación en español, sin cita previa.",
     shortDescriptionEn:
       "Complete blood work with fast results and results explained in Spanish, no appointment needed.",
     description:
-      "Análisis de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles.",
+      "Análisis de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Blood tests in Houston, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, with affordable pricing.",
+      "Blood tests in Houston, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examenes de sangre houston",
       "analisis de sangre houston",
@@ -1247,14 +1269,16 @@ ${AREAS_EN}`,
     icon: "Droplet",
     title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
     titleEn: "Urinalysis & Urinary Infection Treatment",
+    metaTitle: "Infección Urinaria en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "UTI Treatment in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
     shortDescriptionEn:
       "Urinalysis and same-day urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias en Houston, TX, el mismo día. En español, con precios accesibles.",
+      "Examen de orina y tratamiento de infecciones urinarias en Houston, TX, el mismo día. En español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Urinalysis and urinary infection treatment in Houston, TX, same day. In Spanish, with affordable pricing.",
+      "Urinalysis and urinary infection treatment in Houston, TX, same day. In Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen de orina houston",
       "infeccion urinaria houston",
@@ -1333,14 +1357,16 @@ ${AREAS_EN}`,
     icon: "TestTubes",
     title: "Exámenes de Heces Fecales",
     titleEn: "Stool Tests",
+    metaTitle: "Examen de Heces en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Stool Test in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Análisis de heces fecales para detectar infecciones y problemas digestivos, en español.",
     shortDescriptionEn:
       "Stool analysis to detect infections and digestive problems, in Spanish.",
     description:
-      "Exámenes de heces fecales en Houston, TX. Detección de parásitos e infecciones, en español, con precios accesibles.",
+      "Exámenes de heces fecales en Houston, TX. Detección de parásitos e infecciones, en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Stool tests in Houston, TX. Detection of parasites and infections, in Spanish, with affordable pricing.",
+      "Stool tests in Houston, TX. Detection of parasites and infections, in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen de heces houston",
       "analisis de heces fecales houston",
@@ -1411,14 +1437,16 @@ ${AREAS_EN}`,
     icon: "TestTube",
     title: "Prueba de Estreptococo (Strep Test)",
     titleEn: "Strep Test",
+    metaTitle: "Prueba de Strep en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Strep Test in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Prueba rápida de estreptococo (strep) para el dolor de garganta, con resultado el mismo día.",
     shortDescriptionEn:
       "Rapid strep test for sore throat, with same-day result.",
     description:
-      "Prueba de estreptococo (strep test) en Houston, TX. Resultado rápido y tratamiento en español, con precios accesibles.",
+      "Prueba de estreptococo (strep test) en Houston, TX. Resultado rápido y tratamiento en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Strep test in Houston, TX. Fast result and treatment in Spanish, with affordable pricing.",
+      "Strep test in Houston, TX. Fast result and treatment in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "prueba de estreptococo houston",
       "strep test houston",
@@ -1489,14 +1517,16 @@ ${AREAS_EN}`,
     icon: "ShieldPlus",
     title: "Examen de Tuberculosis (TB)",
     titleEn: "Tuberculosis (TB) Test",
+    metaTitle: "Prueba de Tuberculosis Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "TB Test in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Prueba de tuberculosis (PPD) para trabajo, escuela o trámites, con lectura en español.",
     shortDescriptionEn:
       "Tuberculosis (PPD) test for work, school or paperwork, with reading in Spanish.",
     description:
-      "Examen de tuberculosis (TB/PPD) en Houston, TX. Para trabajo y escuela, en español, con precios accesibles.",
+      "Examen de tuberculosis (TB/PPD) en Houston, TX. Para trabajo y escuela, en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Tuberculosis (TB/PPD) test in Houston, TX. For work and school, in Spanish, with affordable pricing.",
+      "Tuberculosis (TB/PPD) test in Houston, TX. For work and school, in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen de tuberculosis houston",
       "prueba ppd houston",
@@ -1565,14 +1595,16 @@ ${AREAS_EN}`,
     icon: "ShieldCheck",
     title: "Pruebas de Enfermedades de Transmisión Sexual (STD)",
     titleEn: "Sexually Transmitted Disease (STD) Testing",
+    metaTitle: "Pruebas de ETS en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "STD Testing in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Pruebas de enfermedades de transmisión sexual confidenciales y sin juicios, con tratamiento.",
     shortDescriptionEn:
       "Confidential, judgment-free sexually transmitted disease testing, with treatment.",
     description:
-      "Pruebas de ETS/STD confidenciales en Houston, TX. Resultados y tratamiento en español, con precios accesibles.",
+      "Pruebas de ETS/STD confidenciales en Houston, TX. Resultados y tratamiento en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Confidential STD testing in Houston, TX. Results and treatment in Spanish, with affordable pricing.",
+      "Confidential STD testing in Houston, TX. Results and treatment in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "prueba std houston",
       "examen de transmision sexual houston",
@@ -1643,14 +1675,16 @@ ${AREAS_EN}`,
     icon: "Beaker",
     title: "Exámenes de Alcohol y Drogas",
     titleEn: "Alcohol & Drug Testing",
+    metaTitle: "Examen de Drogas en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Drug & Alcohol Test Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Pruebas de alcohol y drogas para trabajo y trámites, rápidas y con documentación.",
     shortDescriptionEn:
       "Alcohol and drug testing for work and paperwork, fast and with documentation.",
     description:
-      "Exámenes de alcohol y drogas en Houston, TX. Para empleo y trámites, en español, con precios accesibles.",
+      "Exámenes de alcohol y drogas en Houston, TX. Para empleo y trámites, en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Alcohol and drug testing in Houston, TX. For employment and paperwork, in Spanish, with affordable pricing.",
+      "Alcohol and drug testing in Houston, TX. For employment and paperwork, in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen de drogas houston",
       "prueba de alcohol y drogas houston",
@@ -1719,14 +1753,16 @@ ${AREAS_EN}`,
     icon: "HeartPulse",
     title: "Electrocardiograma (EKG)",
     titleEn: "Electrocardiogram (EKG)",
+    metaTitle: "Electrocardiograma en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "EKG Test in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Electrocardiograma (EKG) rápido y sin dolor para evaluar la salud de tu corazón, en español.",
     shortDescriptionEn:
       "Fast, painless electrocardiogram (EKG) to evaluate your heart health, in Spanish.",
     description:
-      "Electrocardiograma EKG en Houston, TX, rápido y sin dolor. Resultados y atención en español, con precios accesibles.",
+      "Electrocardiograma EKG en Houston, TX, rápido y sin dolor. Resultados y atención en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Electrocardiogram EKG in Houston, TX, fast and painless. Results and care in Spanish, with affordable pricing.",
+      "Electrocardiogram EKG in Houston, TX, fast and painless. Results and care in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "electrocardiograma houston",
       "ekg houston español",
@@ -1795,14 +1831,16 @@ ${AREAS_EN}`,
     icon: "ScanLine",
     title: "Ultrasonido y Ecografía",
     titleEn: "Ultrasound & Sonography",
+    metaTitle: "Ultrasonido en Houston, TX | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Ultrasound in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Ultrasonidos diagnósticos y de embarazo con equipo moderno y atención en español.",
     shortDescriptionEn:
       "Diagnostic and pregnancy ultrasounds with modern equipment and care in Spanish.",
     description:
-      "Ultrasonido y ecografía en Houston, TX: abdominal, pélvico y de embarazo. En español, con precios accesibles.",
+      "Ultrasonido y ecografía en Houston, TX: abdominal, pélvico y de embarazo. En español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Ultrasound and sonography in Houston, TX: abdominal, pelvic and pregnancy. In Spanish, with affordable pricing.",
+      "Ultrasound and sonography in Houston, TX: abdominal, pelvic and pregnancy. In Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "ultrasonido houston",
       "ecografia houston español",
@@ -1872,14 +1910,16 @@ ${AREAS_EN}`,
     highlighted: true,
     title: "Examen Físico DOT - Licencia CDL",
     titleEn: "DOT Physical Exam - CDL License",
+    metaTitle: "Examen DOT para CDL en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "DOT Physical in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",
     shortDescriptionEn:
       "DOT physical exam for commercial drivers (CDL), with same-day certificate.",
     description:
-      "Examen físico DOT en Houston, TX para licencia CDL, certificado el mismo día y en español. Con precios accesibles.",
+      "Examen físico DOT en Houston, TX para licencia CDL, certificado el mismo día y en español. Con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "DOT physical exam in Houston, TX for CDL license, same-day certificate, in Spanish. With affordable pricing.",
+      "DOT physical exam in Houston, TX for CDL license, same-day certificate, in Spanish. With affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen dot houston",
       "examen fisico dot houston español",
@@ -1950,14 +1990,16 @@ ${AREAS_EN}`,
     icon: "ClipboardCheck",
     title: "Examen Médico de Inmigración I-693",
     titleEn: "Immigration Medical Exam I-693",
+    metaTitle: "Examen Médico I-693 en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "I-693 Exam in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Examen médico de inmigración con médico autorizado por USCIS y el Formulario I-693 sellado.",
     shortDescriptionEn:
       "Immigration medical exam with a USCIS-authorized physician and the sealed Form I-693.",
     description:
-      "Examen médico de inmigración I-693 en Houston, TX con médico autorizado por USCIS. Vacunas y formulario sellado.",
+      "Examen médico de inmigración I-693 en Houston, TX con médico autorizado por USCIS. Vacunas y formulario sellado. Sin cita y sin seguro médico.",
     descriptionEn:
-      "I-693 immigration medical exam in Houston, TX with a USCIS-authorized physician. Vaccines and sealed form.",
+      "I-693 immigration medical exam in Houston, TX with a USCIS-authorized physician. Vaccines and sealed form. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen de inmigracion houston",
       "examen medico i-693 houston",
@@ -2028,14 +2070,16 @@ ${AREAS_EN}`,
     icon: "Syringe",
     title: "Vacunas contra la Influenza y Toxoide Tetánico",
     titleEn: "Flu and Tetanus (Tdap) Vaccines",
+    metaTitle: "Vacunas en Houston, TX | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Vaccines in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Vacuna contra la influenza (flu) y toxoide tetánico, aplicadas por personal médico, en español.",
     shortDescriptionEn:
       "Influenza (flu) vaccine and tetanus toxoid, administered by medical staff, in Spanish.",
     description:
-      "Vacunas de flu y toxoide tetánico en Houston, TX. Aplicación por personal médico en español, con precios accesibles.",
+      "Vacunas de flu y toxoide tetánico en Houston, TX. Aplicación por personal médico en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Flu and tetanus vaccines in Houston, TX. Administered by medical staff in Spanish, with affordable pricing.",
+      "Flu and tetanus vaccines in Houston, TX. Administered by medical staff in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "vacuna de la flu houston",
       "vacuna contra la influenza houston",
@@ -2106,14 +2150,16 @@ ${AREAS_EN}`,
     icon: "Droplets",
     title: "Sueros Vitaminados (Terapia IV)",
     titleEn: "Vitamin IV Therapy",
+    metaTitle: "Sueros Vitaminados en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Vitamin IV Therapy Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
     shortDescriptionEn:
       "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
     description:
-      "Sueros vitaminados (terapia IV) en Houston, TX. Hidratación y vitaminas en español, con precios accesibles.",
+      "Sueros vitaminados (terapia IV) en Houston, TX. Hidratación y vitaminas en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Vitamin IV therapy in Houston, TX. Hydration and vitamins in Spanish, with affordable pricing.",
+      "Vitamin IV therapy in Houston, TX. Hydration and vitamins in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "sueros vitaminados houston",
       "terapia iv houston",
@@ -2184,14 +2230,16 @@ ${AREAS_EN}`,
     icon: "Scissors",
     title: "Suturas de Heridas",
     titleEn: "Wound Suturing",
+    metaTitle: "Suturas de Heridas en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Stitches in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Suturas (puntos) para cerrar heridas de forma segura, sin cita previa y en español.",
     shortDescriptionEn:
       "Sutures (stitches) to close wounds safely, walk-ins welcome and in Spanish.",
     description:
-      "Suturas de heridas en Houston, TX. Cierre de cortes y heridas en español, con precios accesibles.",
+      "Suturas de heridas en Houston, TX. Cierre de cortes y heridas en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Wound suturing in Houston, TX. Closing cuts and wounds in Spanish, with affordable pricing.",
+      "Wound suturing in Houston, TX. Closing cuts and wounds in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "suturas houston",
       "puntos para herida houston",
@@ -2262,14 +2310,16 @@ ${AREAS_EN}`,
     icon: "Bandage",
     title: "Cura y Curación de Heridas",
     titleEn: "Wound Care",
+    metaTitle: "Curación de Heridas Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Wound Care in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Limpieza, curación y cambio de vendajes de heridas para una buena cicatrización, en español.",
     shortDescriptionEn:
       "Cleaning, wound care and dressing changes for proper healing, in Spanish.",
     description:
-      "Cura y curación de heridas en Houston, TX. Limpieza y vendajes en español, con precios accesibles.",
+      "Cura y curación de heridas en Houston, TX. Limpieza y vendajes en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Wound care in Houston, TX. Cleaning and dressings in Spanish, with affordable pricing.",
+      "Wound care in Houston, TX. Cleaning and dressings in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "curacion de heridas houston",
       "cura de heridas houston",
@@ -2340,14 +2390,16 @@ ${AREAS_EN}`,
     icon: "Stethoscope",
     title: "Cirugías Menores",
     titleEn: "Minor Surgery",
+    metaTitle: "Cirugías Menores en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Minor Surgery in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Procedimientos de cirugía menor ambulatoria (lunares, quistes, lipomas) con anestesia local.",
     shortDescriptionEn:
       "Minor outpatient surgical procedures (moles, cysts, lipomas) with local anesthesia.",
     description:
-      "Cirugías menores en Houston, TX: lunares, quistes y lipomas. Procedimiento ambulatorio en español, con precios accesibles.",
+      "Cirugías menores en Houston, TX: lunares, quistes y lipomas. Procedimiento ambulatorio en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Minor surgery in Houston, TX: moles, cysts and lipomas. Outpatient procedure in Spanish, with affordable pricing.",
+      "Minor surgery in Houston, TX: moles, cysts and lipomas. Outpatient procedure in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "cirugia menor houston",
       "quitar lunar houston",
@@ -2418,14 +2470,16 @@ ${AREAS_EN}`,
     icon: "Droplet",
     title: "Drenaje de Abscesos",
     titleEn: "Abscess Drainage",
+    metaTitle: "Drenaje de Abscesos Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Abscess Drainage in Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Drenaje de abscesos e infecciones de piel para aliviar el dolor y favorecer la curación.",
     shortDescriptionEn:
       "Drainage of abscesses and skin infections to relieve pain and promote healing.",
     description:
-      "Drenaje de abscesos en Houston, TX. Tratamiento de infecciones de piel en español, con precios accesibles.",
+      "Drenaje de abscesos en Houston, TX. Tratamiento de infecciones de piel en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Abscess drainage in Houston, TX. Treatment of skin infections in Spanish, with affordable pricing.",
+      "Abscess drainage in Houston, TX. Treatment of skin infections in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "drenaje de absceso houston",
       "drenar absceso houston",
@@ -2496,14 +2550,16 @@ ${AREAS_EN}`,
     icon: "Footprints",
     title: "Extracción de Uñas Encarnadas",
     titleEn: "Ingrown Toenail Removal",
+    metaTitle: "Uñas Encarnadas en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Ingrown Toenail in Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Tratamiento de uñas encarnadas para aliviar el dolor y prevenir infecciones, en español.",
     shortDescriptionEn:
       "Ingrown toenail treatment to relieve pain and prevent infection, in Spanish.",
     description:
-      "Extracción de uñas encarnadas en Houston, TX. Procedimiento con anestesia local en español, con precios accesibles.",
+      "Extracción de uñas encarnadas en Houston, TX. Procedimiento con anestesia local en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Ingrown toenail removal in Houston, TX. Procedure with local anesthesia in Spanish, with affordable pricing.",
+      "Ingrown toenail removal in Houston, TX. Procedure with local anesthesia in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "uña encarnada houston",
       "extraccion de uña encarnada houston",
@@ -2574,14 +2630,16 @@ ${AREAS_EN}`,
     icon: "Pill",
     title: "Farmacia",
     titleEn: "Pharmacy",
+    metaTitle: "Farmacia en Houston, TX | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Pharmacy in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Recoge tus medicamentos al terminar la consulta, sin ir a otra farmacia.",
     shortDescriptionEn:
       "Pick up your medications right after your visit — no second stop.",
     description:
-      "Farmacia en Houston, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español.",
+      "Farmacia en Houston, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Pharmacy in Houston, TX inside the clinic. We fill your prescription right after your visit, service in Spanish.",
+      "Pharmacy in Houston, TX inside the clinic. We fill your prescription right after your visit, service in Spanish. Walk-ins welcome, no insurance needed.",
     keywords: [
       "farmacia en houston",
       "farmacia hispana houston",

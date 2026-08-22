@@ -24,6 +24,8 @@ export interface Service {
 
   // Español (base)
   title: string;
+  /** Título SEO corto para <title> (≤60 chars, con Houston + marca). Si falta, se usa `title`. */
+  metaTitle?: string;
   shortDescription: string;
   description: string;
   keywords: string[];
@@ -32,6 +34,7 @@ export interface Service {
 
   // Inglés
   titleEn: string;
+  metaTitleEn?: string;
   shortDescriptionEn: string;
   descriptionEn: string;
   keywordsEn: string[];
@@ -47,6 +50,7 @@ export interface LocalizedService {
   icon: string;
   highlighted: boolean;
   title: string;
+  metaTitle: string;
   shortDescription: string;
   description: string;
   keywords: string[];
