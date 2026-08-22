@@ -127,8 +127,6 @@ export const PROMOTIONS: Promotion[] = [
     ],
     alt: "Flyer de la promoción Chequeo General Completo por $99 con consulta gratis en Clínica Hispana Nueva Salud, Houston",
     titleEn: "Complete General Check-Up",
-    metaTitle: "Control de Diabetes en Houston | Clínica Hispana Nueva Salud",
-    metaTitleEn: "Diabetes Care in Houston, TX | Clínica Hispana Nueva Salud",
     blurbEn:
       "Take care today, live better tomorrow. Complete general check-up for only $99 (regular value $250) with a free medical consultation: general blood test, A1C (glycated hemoglobin) and general urine test. Book your appointment today.",
     includesEn: [
@@ -374,6 +372,8 @@ export const SERVICES: Service[] = [
     highlighted: true,
     title: "Control de Diabetes, Hipertensión y Colesterol",
     titleEn: "Diabetes, Hypertension & Cholesterol Care",
+    metaTitle: "Control de Diabetes en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Diabetes Care in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Exámenes y control de diabetes, presión alta y dislipidemias (colesterol y triglicéridos), con seguimiento cercano.",
     shortDescriptionEn:
@@ -381,7 +381,7 @@ export const SERVICES: Service[] = [
     description:
       "Control de diabetes, hipertensión y dislipidemias en Houston, TX. Laboratorio y seguimiento en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Diabetes, hypertension and dyslipidemia management in Houston, TX. Lab work and follow-up in Spanish, with affordable pricing.",
+      "Diabetes, hypertension and dyslipidemia management in Houston, TX. Lab work and follow-up in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "control de diabetes houston",
       "doctor diabetes español houston",
