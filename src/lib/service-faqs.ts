@@ -393,6 +393,36 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "In most cases results are ready the same day or very soon, and we explain them to you in Spanish.",
     },
     {
+      question: "¿Necesito venir en ayunas?",
+      answer: "Solo para glucosa, colesterol y triglicéridos: ayuno de 8 a 12 horas, puedes tomar agua. Para biometría, tiroides, vitaminas u hormonas no hace falta.",
+      questionEn: "Do I need to fast?",
+      answerEn: "Only for glucose, cholesterol and triglycerides: fast 8 to 12 hours, water is fine. For CBC, thyroid, vitamins or hormones no fasting is needed.",
+    },
+    {
+      question: "¿Puedo hacerme exámenes sin orden de otro médico?",
+      answer: "Sí. Nuestro médico te evalúa en la misma visita, indica los exámenes que necesitas y luego te explica los resultados.",
+      questionEn: "Can I get tests without an order from another doctor?",
+      answerEn: "Yes. Our doctor evaluates you in the same visit, orders the tests you need and then explains the results.",
+    },
+    {
+      question: "¿Qué exámenes incluye un chequeo general?",
+      answer: "Normalmente biometría hemática, glucosa, perfil de lípidos y función de hígado y riñón. Según tu edad y síntomas se agregan tiroides, vitaminas, PSA u hormonas.",
+      questionEn: "Which tests does a general checkup include?",
+      answerEn: "Usually CBC, glucose, lipid panel and liver and kidney function. Depending on your age and symptoms we add thyroid, vitamins, PSA or hormones.",
+    },
+    {
+      question: "¿Hacen pruebas de VIH y otras infecciones?",
+      answer: "Sí. Con la misma muestra podemos analizar VIH, sífilis, hepatitis y otras infecciones de transmisión sexual, de forma confidencial.",
+      questionEn: "Do you test for HIV and other infections?",
+      answerEn: "Yes. With the same sample we can test for HIV, syphilis, hepatitis and other sexually transmitted infections, confidentially.",
+    },
+    {
+      question: "¿Qué pasa si un resultado sale alterado?",
+      answer: "El médico te explica qué significa y define el tratamiento o seguimiento en la misma visita. Si hace falta un especialista, te damos la referencia.",
+      questionEn: "What if a result comes back abnormal?",
+      answerEn: "The doctor explains what it means and sets up treatment or follow-up in the same visit. If a specialist is needed, we give you the referral.",
+    },
+    {
       question: "¿Necesito cita previa?",
       answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
       questionEn: "Do I need an appointment?",

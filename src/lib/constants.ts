@@ -1641,46 +1641,120 @@ ${AREAS_EN}`,
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish",
     ],
-    longDescription: `Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Nueva Salud tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.
+    longDescription: `Un análisis de sangre es la forma más rápida y económica de saber cómo está tu salud por dentro. Muchas enfermedades como la diabetes, el colesterol alto, la anemia o los problemas de tiroides no dan síntomas al principio y solo se descubren con un examen de laboratorio. En Clínica Hispana Nueva Salud tomamos tu muestra sin cita previa, sin seguro médico y te explicamos cada resultado en español, sin tecnicismos.
 
 ## ¿Qué incluye?
 
-- Biometría hemática completa (conteo de células)
-- Química sanguínea (glucosa, colesterol, triglicéridos)
-- Pruebas de tiroides, hígado y riñón
-- Paneles para chequeo general o seguimiento
-- Resultados rápidos en la mayoría de los casos
+- **Toma de muestra en la clínica**, sin necesidad de ir a otro laboratorio
+- **Biometría hemática completa** (conteo de glóbulos rojos, blancos y plaquetas)
+- **Química sanguínea:** glucosa, colesterol, triglicéridos, función de hígado y riñón
+- **Paneles para chequeo general** o para dar seguimiento a una condición
+- **Consulta médica** para interpretar los resultados y definir el siguiente paso
+- **Resultados explicados en español**, con copia impresa o digital para ti
 
-## Para qué sirven
+## Exámenes de sangre más solicitados
 
-Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.
+- **Glucosa y hemoglobina A1C:** detectan prediabetes y [diabetes](/services/condiciones-cronicas) y muestran el control de los últimos 3 meses
+- **Perfil de lípidos:** colesterol total, HDL, LDL y triglicéridos para conocer tu riesgo cardíaco
+- **Biometría hemática:** anemia, infecciones y problemas de coagulación
+- **Perfil metabólico:** electrolitos, función renal y hepática
+- **Pruebas de tiroides:** TSH, T3 y T4 para [hipotiroidismo o hipertiroidismo](/services/tiroides)
+- **Vitaminas:** vitamina B12, vitamina D y hierro, causas frecuentes de cansancio
+- **Perfil hormonal:** testosterona en el hombre y hormonas femeninas
+- **PSA:** detección de problemas de próstata como parte del [chequeo del hombre](/services/salud-hombre)
+- **Pruebas de infecciones:** VIH, sífilis, hepatitis y otras [enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual)
+- **Prueba de embarazo en sangre:** más sensible que la de orina
 
-## Análisis de sangre en una clínica hispana cerca de ti
+Si no sabes qué examen necesitas, cuéntanos tus síntomas y el médico te indica el panel adecuado.
 
-¿Necesitas un análisis de sangre en Houston? En nuestra clínica hispana te tomamos la muestra sin cita previa, con precios accesibles y resultados explicados en español.
+## ¿Cuándo debo hacerme un análisis de sangre?
+
+- Una vez al año como chequeo preventivo, aunque te sientas bien
+- Si tienes cansancio constante, mareos, sed excesiva o pérdida de peso sin explicación
+- Si en tu familia hay diabetes, colesterol alto, presión alta o enfermedades de tiroides
+- Para dar seguimiento a un tratamiento (diabetes, tiroides, colesterol)
+- Antes de iniciar un nuevo trabajo, un deporte o un plan de pérdida de peso
+- Si tuviste una relación de riesgo y quieres descartar infecciones
+
+## ¿Necesito venir en ayunas?
+
+Depende del examen. Para glucosa, colesterol y triglicéridos conviene un ayuno de 8 a 12 horas: puedes tomar agua, pero no café, jugo ni alimentos. Para biometría, tiroides, vitaminas, hormonas o pruebas de infecciones no hace falta ayuno. Si vas a combinar varios exámenes, ven en ayunas por la mañana y te tomamos todo en una sola muestra. Si tomas medicamentos, no los suspendas; solo avísanos cuáles usas.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras en recepción.
+2. El médico o enfermera revisa tus síntomas y confirma qué exámenes necesitas.
+3. Se toma la muestra de sangre en la clínica; el procedimiento dura pocos minutos.
+4. Cuando el laboratorio entrega los resultados, te llamamos o te los entregamos en tu visita de control.
+5. El médico te explica cada valor en español y, si algo sale alterado, inicias tratamiento o seguimiento ese mismo día.
+
+## Resultados claros, en tu idioma
+
+Un resultado de laboratorio lleno de siglas no sirve de mucho si nadie te lo explica. Por eso cada análisis incluye la revisión con el médico: te decimos qué valores están bien, cuáles necesitan atención y qué hacer al respecto. Si necesitas [sueros o vitaminas inyectadas](/services/sueros-vitaminados), medicamento o una referencia a un especialista, lo resolvemos en la misma visita.
+
+## Laboratorio de sangre en una clínica hispana cerca de ti
+
+Si buscas exámenes de sangre en Houston sin cita, sin seguro y en español, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM. Revisa también nuestras [promociones de laboratorio](/promociones) con paquetes de chequeo general.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A good diagnosis starts with a good lab. At Clínica Hispana Nueva Salud we draw your samples on the spot and explain your results in Spanish, without the jargon.
+    longDescriptionEn: `A blood test is the fastest and most affordable way to know how your health is doing on the inside. Many conditions such as diabetes, high cholesterol, anemia or thyroid problems cause no symptoms at first and are only found through lab work. At Clínica Hispana Nueva Salud we draw your sample with no appointment, no insurance required, and explain every result in Spanish, without the jargon.
 
 ## What's included?
 
-- Complete blood count (CBC)
-- Blood chemistry (glucose, cholesterol, triglycerides)
-- Thyroid, liver and kidney tests
-- Panels for general checkups or follow-up
-- Fast results in most cases
+- **Sample drawn at the clinic**, no need to go to a separate lab
+- **Complete blood count (CBC)**: red cells, white cells and platelets
+- **Blood chemistry:** glucose, cholesterol, triglycerides, liver and kidney function
+- **Panels for general checkups** or to follow up on a condition
+- **Medical consultation** to interpret the results and decide the next step
+- **Results explained in Spanish**, with a printed or digital copy for you
 
-## Why they matter
+## Most requested blood tests
 
-Blood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.
+- **Glucose and hemoglobin A1C:** detect prediabetes and [diabetes](/en/services/condiciones-cronicas) and show your control over the last 3 months
+- **Lipid panel:** total cholesterol, HDL, LDL and triglycerides to know your heart risk
+- **CBC:** anemia, infections and clotting problems
+- **Metabolic panel:** electrolytes, kidney and liver function
+- **Thyroid tests:** TSH, T3 and T4 for [hypothyroidism or hyperthyroidism](/en/services/tiroides)
+- **Vitamins:** vitamin B12, vitamin D and iron, common causes of fatigue
+- **Hormone panel:** testosterone in men and female hormones
+- **PSA:** prostate screening as part of the [men's health checkup](/en/services/salud-hombre)
+- **Infection tests:** HIV, syphilis, hepatitis and other [sexually transmitted diseases](/en/services/enfermedades-transmision-sexual)
+- **Blood pregnancy test:** more sensitive than the urine test
 
-## Blood work at a Hispanic clinic near you
+If you're not sure which test you need, tell us your symptoms and the doctor will order the right panel.
 
-Need blood work in Houston? At our Hispanic clinic we draw your sample with no appointment needed, at affordable prices, with results explained in Spanish.
+## When should I get blood work?
+
+- Once a year as a preventive checkup, even if you feel fine
+- If you have constant tiredness, dizziness, excessive thirst or unexplained weight loss
+- If diabetes, high cholesterol, high blood pressure or thyroid disease run in your family
+- To follow up on a treatment (diabetes, thyroid, cholesterol)
+- Before starting a new job, a sport or a weight-loss plan
+- After a risky encounter, to rule out infections
+
+## Do I need to fast?
+
+It depends on the test. For glucose, cholesterol and triglycerides an 8 to 12 hour fast is recommended: you may drink water, but no coffee, juice or food. For CBC, thyroid, vitamins, hormones or infection tests no fasting is needed. If you're combining several tests, come fasting in the morning and we'll draw everything in a single sample. If you take medication, don't stop it; just let us know what you use.
+
+## What is the visit like?
+
+1. You walk in without an appointment and check in at the front desk.
+2. The doctor or nurse reviews your symptoms and confirms which tests you need.
+3. Your blood sample is drawn at the clinic; it takes just a few minutes.
+4. When the lab delivers the results, we call you or hand them to you at your follow-up visit.
+5. The doctor explains every value in Spanish and, if something is off, you start treatment or follow-up the same day.
+
+## Clear results, in your language
+
+A lab report full of abbreviations isn't much use if nobody explains it. That's why every test includes a review with the doctor: we tell you which values are fine, which need attention and what to do about it. If you need [IV fluids or vitamin injections](/en/services/sueros-vitaminados), medication or a specialist referral, we take care of it in the same visit.
+
+## Blood lab at a Hispanic clinic near you
+
+If you're looking for blood tests in Houston with no appointment, no insurance and in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday through Sunday from 9 AM to 9 PM. Check our [lab promotions](/en/promociones) with general checkup packages too.
 
 ${WHY_EN}
 
