@@ -1209,36 +1209,96 @@ ${AREAS_EN}`,
       "Guidance on next steps",
       "Care in Spanish",
     ],
-    longDescription: `Si crees que podrías estar embarazada, una prueba confiable te da tranquilidad y claridad. En Clínica Hispana Nueva Salud realizamos pruebas de embarazo y te orientamos sobre lo que sigue, en español y sin juicios.
+    longDescription: `Un retraso en el periodo, náuseas, cansancio o senos sensibles son señales que generan dudas y nervios. Una prueba de embarazo confiable te da una respuesta clara en minutos. En Clínica Hispana Nueva Salud realizamos pruebas de orina y de sangre sin cita previa, sin seguro médico y en español, y te orientamos sobre lo que sigue, sin juicios y con total privacidad.
 
 ## ¿Qué incluye?
 
-- Prueba de embarazo (orina o sangre)
-- Confirmación médica del resultado
-- Orientación sobre tus siguientes pasos
-- Información sobre control prenatal y referencias
+- **Prueba de embarazo en orina:** resultado en minutos
+- **Prueba de embarazo en sangre (hCG):** más sensible y precisa, detecta el embarazo antes
+- **Confirmación médica** del resultado y cálculo aproximado de las semanas
+- **Orientación** sobre control prenatal, vitaminas y cuidados iniciales
+- **[Ultrasonido](/services/ultrasonido)** para confirmar el embarazo y su ubicación cuando está indicado
+- **Referencia** a ginecología u obstetricia para tu control prenatal
 
-## Con confianza y respeto
+## ¿Prueba de orina o de sangre?
 
-Te explicamos el resultado con claridad y te acompañamos en la decisión que tomes, siempre con respeto y privacidad.
+La **prueba de orina** es rápida y confiable a partir del primer día de retraso del periodo. La **prueba de sangre** mide la hormona hCG con precisión: puede detectar el embarazo desde 7 a 10 días después de la concepción, aun antes del retraso, y también sirve para dar seguimiento cuando hay dudas o sangrado. Si tu prueba casera salió negativa pero el periodo no llega, la prueba en sangre resuelve la duda.
+
+## ¿Cuándo hacerme la prueba?
+
+- Desde el primer día de retraso del periodo (orina)
+- Desde 7 a 10 días después de la relación sin protección (sangre)
+- Si tienes síntomas como náuseas, cansancio, senos sensibles o ganas frecuentes de orinar
+- Si tu prueba casera es dudosa, con una línea muy tenue
+- Antes de iniciar un medicamento, un tratamiento o un estudio con rayos X
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras en recepción, en un ambiente discreto.
+2. Se toma la muestra de orina o de sangre, según el caso.
+3. El médico te da el resultado y lo confirma; en la prueba de orina es en la misma visita.
+4. Si es positivo, calculamos las semanas aproximadas, te indicamos vitaminas prenatales y te orientamos sobre el control prenatal.
+5. Si es negativo y el periodo sigue sin llegar, evaluamos otras causas como [problemas de tiroides](/services/tiroides), estrés o cambios hormonales.
+
+## Si el resultado es positivo
+
+Un embarazo confirmado necesita control prenatal desde el inicio. Te explicamos qué cuidados empezar de inmediato (ácido fólico, alimentación, qué medicamentos evitar), te hacemos los [exámenes de sangre iniciales](/services/examenes-sangre) si lo deseas y te damos la referencia para tu seguimiento obstétrico. Si no planeabas un embarazo, también te escuchamos y te informamos de tus opciones con respeto.
+
+## Si el resultado es negativo
+
+Un periodo que no llega puede deberse a estrés, cambios de peso, [anticonceptivos](/services/anticonceptivos), problemas hormonales o de tiroides. Si el retraso continúa, te ayudamos a encontrar la causa en nuestra área de [salud de la mujer](/services/ginecologia).
+
+## Prueba de embarazo en una clínica hispana cerca de ti
+
+Si buscas dónde hacerte una prueba de embarazo de sangre en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If you think you might be pregnant, a reliable test gives you peace of mind and clarity. At Clínica Hispana Nueva Salud we perform pregnancy tests and guide you on what comes next, in Spanish and without judgment.
+    longDescriptionEn: `A late period, nausea, tiredness or tender breasts raise questions and nerves. A reliable pregnancy test gives you a clear answer in minutes. At Clínica Hispana Nueva Salud we perform urine and blood pregnancy tests with no appointment, no insurance required and in Spanish, and we guide you on what comes next, without judgment and with full privacy.
 
 ## What's included?
 
-- Pregnancy test (urine or blood)
-- Medical confirmation of the result
-- Guidance on your next steps
-- Information on prenatal care and referrals
+- **Urine pregnancy test:** results in minutes
+- **Blood pregnancy test (hCG):** more sensitive and precise, detects pregnancy earlier
+- **Medical confirmation** of the result and an estimate of how many weeks along you are
+- **Guidance** on prenatal care, vitamins and early precautions
+- **[Ultrasound](/en/services/ultrasonido)** to confirm the pregnancy and its location when indicated
+- **Referral** to gynecology or obstetrics for your prenatal care
 
-## With trust and respect
+## Urine or blood test?
 
-We explain the result clearly and support you in whatever decision you make, always with respect and privacy.
+The **urine test** is fast and reliable from the first day of a missed period. The **blood test** measures the hCG hormone precisely: it can detect pregnancy 7 to 10 days after conception, even before a missed period, and it's also used for follow-up when there are doubts or bleeding. If your home test was negative but your period hasn't come, the blood test settles the question.
+
+## When should I get tested?
+
+- From the first day of a missed period (urine)
+- From 7 to 10 days after unprotected sex (blood)
+- If you have symptoms such as nausea, tiredness, tender breasts or frequent urination
+- If your home test is unclear, with a very faint line
+- Before starting a medication, a treatment or an X-ray study
+
+## What is the visit like?
+
+1. You walk in without an appointment and check in at the front desk, in a discreet setting.
+2. A urine or blood sample is taken, depending on the case.
+3. The doctor gives you the result and confirms it; for the urine test it's in the same visit.
+4. If it's positive, we estimate the weeks, recommend prenatal vitamins and guide you on prenatal care.
+5. If it's negative and your period still hasn't come, we look at other causes such as [thyroid problems](/en/services/tiroides), stress or hormonal changes.
+
+## If the result is positive
+
+A confirmed pregnancy needs prenatal care from the start. We explain which precautions to begin right away (folic acid, diet, which medications to avoid), run the [initial blood tests](/en/services/examenes-sangre) if you wish, and give you the referral for your obstetric follow-up. If you weren't planning a pregnancy, we listen and inform you of your options with respect.
+
+## If the result is negative
+
+A missed period can be due to stress, weight changes, [birth control](/en/services/anticonceptivos), hormonal or thyroid problems. If the delay continues, we help you find the cause in our [women's health](/en/services/ginecologia) area.
+
+## Pregnancy test at a Hispanic clinic near you
+
+If you're looking for where to get a blood pregnancy test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday through Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -1419,36 +1479,102 @@ ${AREAS_EN}`,
       "Trained staff",
       "After-care explained",
     ],
-    longDescription: `Si llegó el momento de retirar tu implante subdérmico —porque caducó o porque deseas cambiar de método— en Clínica Hispana Nueva Salud lo hacemos de forma segura, rápida y con cuidado.
+    longDescription: `El implante subdérmico (Nexplanon, Implanon o Jadelle) es una varilla pequeña que se coloca debajo de la piel del brazo y protege contra el embarazo por 3 a 5 años. Cuando se vence, cuando quieres buscar un embarazo o cuando los efectos secundarios ya no te convencen, hay que retirarlo con un procedimiento sencillo. En Clínica Hispana Nueva Salud lo hacemos sin cita previa, sin seguro médico y en español, en una sola visita.
 
 ## ¿Qué incluye?
 
-- Evaluación y localización del implante
-- Extracción ambulatoria con anestesia local
-- Indicaciones claras de cuidado posterior
-- Orientación sobre tus próximos pasos de planificación
+- **Evaluación y localización del implante** por palpación en el brazo
+- **Anestesia local** en la zona para que no sientas dolor
+- **Extracción ambulatoria** a través de una incisión de 2 a 3 milímetros
+- **Curación y vendaje** con indicaciones claras de cuidado en casa
+- **Orientación anticonceptiva:** si quieres seguir protegida, te ayudamos a elegir [otro método](/services/anticonceptivos) o un implante nuevo ese mismo día
 
-## Un procedimiento sencillo
+## ¿Cuándo debo retirar el implante?
 
-El retiro suele tomar pocos minutos y se realiza con una pequeña incisión. Te explicamos cada paso en español para que estés tranquila.
+- **Se venció:** Nexplanon dura 3 años y Jadelle hasta 5. Después de esa fecha ya no es confiable.
+- **Quieres embarazarte:** la fertilidad regresa rápido, en general en el primer mes tras el retiro.
+- **Efectos secundarios molestos:** sangrado irregular o prolongado, dolor de cabeza, cambios de ánimo, acné o aumento de peso.
+- **Cambio de método:** prefieres pastillas, inyección, DIU u otro método.
+- **Indicación médica:** por ejemplo, si desarrollas presión alta severa o problemas de coagulación.
+
+No tienes que esperar a que se venza: puedes retirarlo en cualquier momento.
+
+## ¿Cómo es el procedimiento?
+
+1. Llegas sin cita, te registras y el personal médico revisa tu brazo y localiza el implante.
+2. Se limpia la zona y se aplica anestesia local; solo sientes un pinchazo pequeño.
+3. Se hace una incisión mínima en el extremo del implante y se retira con una pinza.
+4. Se cierra con cinta adhesiva (no suele necesitar puntos) y se coloca un vendaje compresivo.
+5. Recibes indicaciones de cuidado y, si lo deseas, sales con tu nuevo método anticonceptivo.
+
+En total, el retiro toma entre 10 y 20 minutos. Si el implante está profundo o difícil de localizar, te lo decimos con honestidad y te orientamos sobre el siguiente paso.
+
+## Cuidados después del retiro
+
+- Deja el vendaje compresivo 24 horas para evitar moretones
+- Mantén la zona limpia y seca los primeros 2 a 3 días
+- Puedes hacer tus actividades normales; evita cargar peso con ese brazo el primer día
+- Es normal un pequeño moretón o sensibilidad por una semana
+- Acude a la clínica si hay sangrado abundante, pus, fiebre o dolor que aumenta
+
+## ¿Y después del implante?
+
+Si no quieres embarazarte, recuerda que la protección termina el mismo día del retiro. Podemos colocarte un implante nuevo en la misma incisión, aplicarte la inyección o recetarte pastillas. Si estás buscando un bebé, aprovecha la visita para un [chequeo de salud de la mujer](/services/ginecologia) y [exámenes de sangre](/services/examenes-sangre) de preparación.
+
+## Retiro de implante en una clínica hispana cerca de ti
+
+Si buscas dónde quitarte el implante del brazo en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If it's time to remove your subdermal implant —because it expired or you want to switch methods— at Clínica Hispana Nueva Salud we do it safely, quickly and with care.
+    longDescriptionEn: `The subdermal implant (Nexplanon, Implanon or Jadelle) is a small rod placed under the skin of the arm that protects against pregnancy for 3 to 5 years. When it expires, when you want to get pregnant, or when the side effects are no longer worth it, it needs to be removed with a simple procedure. At Clínica Hispana Nueva Salud we do it with no appointment, no insurance required and in Spanish, in a single visit.
 
 ## What's included?
 
-- Evaluation and location of the implant
-- Outpatient removal with local anesthesia
-- Clear after-care instructions
-- Guidance on your next family-planning steps
+- **Evaluation and location of the implant** by feeling the arm
+- **Local anesthesia** so you don't feel pain
+- **Outpatient removal** through a 2 to 3 millimeter incision
+- **Wound care and bandage** with clear at-home instructions
+- **Contraceptive counseling:** if you want to stay protected, we help you choose [another method](/en/services/anticonceptivos) or a new implant the same day
 
-## A simple procedure
+## When should the implant be removed?
 
-Removal usually takes only a few minutes through a small incision. We explain every step in Spanish so you feel at ease.
+- **It expired:** Nexplanon lasts 3 years and Jadelle up to 5. After that date it's no longer reliable.
+- **You want to get pregnant:** fertility returns quickly, usually within the first month after removal.
+- **Bothersome side effects:** irregular or prolonged bleeding, headaches, mood changes, acne or weight gain.
+- **Switching methods:** you prefer pills, the shot, an IUD or another method.
+- **Medical reasons:** for example, if you develop severe high blood pressure or clotting problems.
+
+You don't have to wait until it expires: it can be removed at any time.
+
+## What is the procedure like?
+
+1. You walk in, check in, and the medical staff examines your arm and locates the implant.
+2. The area is cleaned and local anesthesia is applied; you only feel a small pinch.
+3. A tiny incision is made at the tip of the implant and it's removed with forceps.
+4. It's closed with adhesive strips (stitches are rarely needed) and a pressure bandage is applied.
+5. You get care instructions and, if you wish, leave with your new birth control method.
+
+Removal takes 10 to 20 minutes in total. If the implant is deep or hard to locate, we tell you honestly and guide you on the next step.
+
+## Care after removal
+
+- Keep the pressure bandage on for 24 hours to prevent bruising
+- Keep the area clean and dry for the first 2 to 3 days
+- You can do your normal activities; avoid lifting heavy things with that arm the first day
+- A small bruise or tenderness for a week is normal
+- Come to the clinic if there's heavy bleeding, pus, fever or increasing pain
+
+## What comes after the implant?
+
+If you don't want to get pregnant, remember that protection ends the same day it's removed. We can place a new implant through the same incision, give you the shot or prescribe pills. If you're trying for a baby, use the visit for a [women's health checkup](/en/services/ginecologia) and preparation [blood tests](/en/services/examenes-sangre).
+
+## Implant removal at a Hispanic clinic near you
+
+If you're looking for where to get the arm implant removed in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday through Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 

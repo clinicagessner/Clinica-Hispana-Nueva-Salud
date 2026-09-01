@@ -248,9 +248,39 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "prueba-embarazo": [
     {
       question: "¿Qué tan confiable es la prueba de embarazo?",
-      answer: "Nuestras pruebas son confiables y las confirma personal médico; también podemos orientarte sobre los siguientes pasos.",
+      answer: "La prueba de sangre (hCG) es la más precisa y detecta el embarazo desde 7 a 10 días después de la concepción. La de orina es confiable desde el primer día de retraso.",
       questionEn: "How reliable is the pregnancy test?",
-      answerEn: "Our tests are reliable and confirmed by medical staff; we can also guide you on next steps.",
+      answerEn: "The blood test (hCG) is the most precise and detects pregnancy 7 to 10 days after conception. The urine test is reliable from the first day of a missed period.",
+    },
+    {
+      question: "¿Cuándo me puedo hacer la prueba de sangre?",
+      answer: "Desde 7 a 10 días después de la relación sin protección, aun antes de que falte el periodo.",
+      questionEn: "When can I take the blood test?",
+      answerEn: "From 7 to 10 days after unprotected sex, even before a missed period.",
+    },
+    {
+      question: "¿En cuánto tiempo me dan el resultado?",
+      answer: "La prueba de orina se lee en minutos, en la misma visita. La de sangre la procesa el laboratorio y te avisamos en cuanto esté lista.",
+      questionEn: "How soon do I get the result?",
+      answerEn: "The urine test is read in minutes, in the same visit. The blood test is processed by the lab and we let you know as soon as it's ready.",
+    },
+    {
+      question: "Mi prueba casera salió negativa pero no me baja, ¿qué hago?",
+      answer: "Ven a hacerte la prueba en sangre, que es más sensible. Si sigue negativa, evaluamos otras causas del retraso como tiroides, estrés o anticonceptivos.",
+      questionEn: "My home test was negative but my period hasn't come, what should I do?",
+      answerEn: "Come in for the blood test, which is more sensitive. If it's still negative, we look at other causes of the delay such as thyroid, stress or birth control.",
+    },
+    {
+      question: "Si salgo positiva, ¿qué sigue?",
+      answer: "Te confirmamos las semanas aproximadas, te indicamos vitaminas prenatales y cuidados iniciales, y te damos la referencia para tu control prenatal. Si lo necesitas, hacemos un ultrasonido.",
+      questionEn: "If I'm positive, what's next?",
+      answerEn: "We estimate the weeks, recommend prenatal vitamins and early precautions, and give you the referral for your prenatal care. If needed, we do an ultrasound.",
+    },
+    {
+      question: "¿Es confidencial?",
+      answer: "Sí. El resultado se entrega solo a ti, en un ambiente privado y sin juicios.",
+      questionEn: "Is it confidential?",
+      answerEn: "Yes. The result is given only to you, in a private setting and without judgment.",
     },
     {
       question: "¿Necesito cita previa?",
@@ -318,9 +348,39 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "extraccion-implantes": [
     {
       question: "¿Duele la extracción del implante?",
-      answer: "Se realiza con anestesia local, por lo que las molestias son mínimas. El procedimiento toma pocos minutos.",
+      answer: "No. Se aplica anestesia local y solo sientes el pinchazo inicial. Después puede haber sensibilidad leve o un moretón por unos días.",
       questionEn: "Does implant removal hurt?",
-      answerEn: "It's done with local anesthesia, so discomfort is minimal. The procedure takes just a few minutes.",
+      answerEn: "No. Local anesthesia is applied and you only feel the initial pinch. Afterwards there may be mild tenderness or a bruise for a few days.",
+    },
+    {
+      question: "¿Cuánto tarda el procedimiento?",
+      answer: "Entre 10 y 20 minutos, incluyendo la anestesia y el vendaje. Sales caminando y puedes seguir con tu día.",
+      questionEn: "How long does the procedure take?",
+      answerEn: "Between 10 and 20 minutes, including anesthesia and bandaging. You walk out and can go on with your day.",
+    },
+    {
+      question: "¿Puedo quitarme el implante antes de que se venza?",
+      answer: "Sí. Puedes retirarlo en cualquier momento, ya sea por efectos secundarios, porque quieres embarazarte o porque prefieres otro método.",
+      questionEn: "Can I have the implant removed before it expires?",
+      answerEn: "Yes. It can be removed at any time, whether because of side effects, because you want to get pregnant or because you prefer another method.",
+    },
+    {
+      question: "¿Me pueden poner un implante nuevo en la misma visita?",
+      answer: "Sí. Si quieres seguir protegida, colocamos el implante nuevo en la misma incisión o te ofrecemos otro método anticonceptivo ese mismo día.",
+      questionEn: "Can I get a new implant in the same visit?",
+      answerEn: "Yes. If you want to stay protected, we place the new implant through the same incision or offer you another birth control method the same day.",
+    },
+    {
+      question: "¿Cuándo puedo quedar embarazada después del retiro?",
+      answer: "La fertilidad regresa rápido, en la mayoría de los casos dentro del primer mes. Si no buscas embarazo, usa otro método desde el mismo día.",
+      questionEn: "When can I get pregnant after removal?",
+      answerEn: "Fertility returns quickly, in most cases within the first month. If you're not trying to conceive, use another method starting the same day.",
+    },
+    {
+      question: "¿Necesito guardar reposo?",
+      answer: "No. Solo evita cargar peso con ese brazo el primer día y deja el vendaje 24 horas. Puedes trabajar y hacer tus actividades normales.",
+      questionEn: "Do I need to rest afterwards?",
+      answerEn: "No. Just avoid lifting heavy things with that arm the first day and keep the bandage on for 24 hours. You can work and do your normal activities.",
     },
     {
       question: "¿Necesito cita previa?",
