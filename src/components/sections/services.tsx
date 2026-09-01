@@ -17,6 +17,23 @@ const HOME_SERVICE_SLUGS = [
   "examenes-sangre",
 ];
 
+// Enlaces de texto a servicios con poca visibilidad orgánica: un enlace en el
+// cuerpo del home pesa más para el rastreo que el listado del footer.
+const HOME_MORE_SLUGS = [
+  "tiroides",
+  "ultrasonido",
+  "vacunas",
+  "sueros-vitaminados",
+  "salud-hombre",
+  "anticonceptivos",
+  "examen-fisico-escolar",
+  "enfermedades-respiratorias",
+  "enfermedades-transmision-sexual",
+  "cirugias-menores",
+  "curacion-heridas",
+  "examen-dot",
+];
+
 export function Services() {
   const t = useTranslations("Services");
   const locale = useLocale() as Locale;
@@ -24,6 +41,9 @@ export function Services() {
     getServiceCardData(locale).map((s) => [s.slug, s]),
   );
   const services = HOME_SERVICE_SLUGS.map((slug) => bySlug.get(slug)).filter(
+    (s): s is ServiceCardData => Boolean(s),
+  );
+  const more = HOME_MORE_SLUGS.map((slug) => bySlug.get(slug)).filter(
     (s): s is ServiceCardData => Boolean(s),
   );
 
@@ -60,7 +80,28 @@ export function Services() {
           ))}
         </div>
 
-        <div className="mt-12 flex justify-center">
+        {/* Más servicios: enlaces de texto con el nombre completo del servicio */}
+        <Reveal delay={160}>
+          <nav aria-label={t("moreTitle")} className="mt-10">
+            <p className="text-center text-sm font-semibold uppercase tracking-[0.2em] text-slate-primary">
+              {t("moreTitle")}
+            </p>
+            <ul className="mt-4 flex flex-wrap justify-center gap-2.5">
+              {more.map((service) => (
+                <li key={service.slug}>
+                  <Link
+                    href={`/services/${service.slug}`}
+                    className="inline-block rounded-full border border-blue-light bg-white px-4 py-1.5 text-sm font-medium text-slate-dark transition-colors hover:border-teal hover:text-teal-deep"
+                  >
+                    {service.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        </Reveal>
+
+        <div className="mt-10 flex justify-center">
           <Link href="/services" className={cn(ctaButton({ size: "lg" }))}>
             {t("cta")}
             <ArrowRight className="h-5 w-5" />
