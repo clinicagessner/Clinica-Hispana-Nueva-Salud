@@ -234,5 +234,21 @@
     "faqA3": "Call us directly or leave your details in the form and we'll contact you to arrange your visit.",
     "formTitle": "Request your promotion",
     "formSubtitle": "Leave us your details and we'll contact you as soon as possible to schedule your visit."
+  },
+  "AboutClinic": {
+    "eyebrow": "About the clinic",
+    "title": "What is Clínica Hispana Nueva Salud?",
+    "definition": "Clínica Hispana Nueva Salud is a primary care medical clinic in southeast Houston, Texas, located at 7640 Bellfort Ave Ste A, Houston, TX 77061, near Hobby Airport. It welcomes walk-ins every day, Monday through Sunday from 9:00 AM to 9:00 PM, and sees patients with or without health insurance at affordable per-service prices. All medical and front-desk staff provide care in Spanish, and in English as well. It holds a {rating}-star rating on Google with more than {count, number} patient reviews.",
+    "services": "Services include general medicine, diabetes, hypertension and cholesterol management, gynecology and women's health, blood-test laboratory, ultrasound, DOT and immigration physicals, infection testing, vaccines, IV vitamin therapy and minor surgery, all at the same clinic.",
+    "addressLabel": "Address",
+    "hoursLabel": "Hours",
+    "paymentLabel": "Payment",
+    "paymentValue": "Walk-ins, no insurance needed. Cash and card.",
+    "languagesLabel": "Languages",
+    "languagesValue": "Spanish and English",
+    "ratingLabel": "Google rating",
+    "ratingValue": "{rating} out of 5 · {count, number} reviews",
+    "areaLabel": "Service area",
+    "areaValue": "Southeast Houston and the metro area"
   }
 }

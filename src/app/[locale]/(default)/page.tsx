@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { setRequestLocale } from "next-intl/server";
 import { Hero } from "@/components/sections/hero";
 import { Services } from "@/components/sections/services";
+import { AboutClinic } from "@/components/sections/about-clinic";
 import { Gynecology } from "@/components/sections/gynecology";
 import { MensHealth } from "@/components/sections/mens-health";
 import { Promotions } from "@/components/sections/promotions";
@@ -46,6 +47,7 @@ export default async function HomePage({
       <Hero />
       <Promotions />
       <Services />
+      <AboutClinic />
       <Gynecology />
       <MensHealth />
       <Testimonials />

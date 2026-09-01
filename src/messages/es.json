@@ -234,5 +234,21 @@
     "faqA3": "Llámanos directamente o déjanos tus datos en el formulario y te contactamos para coordinar tu visita.",
     "formTitle": "Solicita tu promoción",
     "formSubtitle": "Déjanos tus datos y te contactamos lo antes posible para agendar tu visita."
+  },
+  "AboutClinic": {
+    "eyebrow": "Sobre la clínica",
+    "title": "¿Qué es Clínica Hispana Nueva Salud?",
+    "definition": "Clínica Hispana Nueva Salud es una clínica médica de atención primaria en el sureste de Houston, Texas, ubicada en 7640 Bellfort Ave Ste A, Houston, TX 77061, cerca del aeropuerto Hobby. Atiende sin cita previa todos los días, de lunes a domingo de 9:00 AM a 9:00 PM, a pacientes con o sin seguro médico, con precios accesibles por servicio. Todo el personal médico y de recepción atiende en español, y también en inglés. Tiene una calificación de {rating} estrellas en Google con más de {count, number} reseñas de pacientes.",
+    "services": "Ofrece medicina general, control de diabetes, hipertensión y colesterol, ginecología y salud de la mujer, laboratorio de análisis de sangre, ultrasonido, exámenes físicos DOT y de inmigración, pruebas de infecciones, vacunas, sueros vitaminados y cirugías menores, todo en la misma clínica.",
+    "addressLabel": "Dirección",
+    "hoursLabel": "Horario",
+    "paymentLabel": "Pago",
+    "paymentValue": "Sin cita y sin seguro. Efectivo y tarjeta.",
+    "languagesLabel": "Idiomas",
+    "languagesValue": "Español e inglés",
+    "ratingLabel": "Calificación en Google",
+    "ratingValue": "{rating} de 5 · {count, number} reseñas",
+    "areaLabel": "Área de servicio",
+    "areaValue": "Sureste de Houston y área metropolitana"
   }
 }
