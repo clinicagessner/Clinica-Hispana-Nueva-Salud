@@ -58,6 +58,10 @@ export const CONTACT_INFO = {
   // URLs ancladas al Place ID real verificado (ChIJSRxrneGXQIYRlwEtNdb7TX4).
   googleMapsUrl:
     "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Hispana+Nueva+Salud+7640+Bellfort+Ave+Houston+TX+77061&query_place_id=ChIJSRxrneGXQIYRlwEtNdb7TX4",
+  // Ficha oficial del negocio en Google (Place ID). Se usa como sameAs en el
+  // JSON-LD para que buscadores e IA enlacen la entidad con su perfil.
+  googleBusinessUrl:
+    "https://www.google.com/maps/place/?q=place_id:ChIJSRxrneGXQIYRlwEtNdb7TX4",
   // Enlace directo al diálogo de "escribir reseña" de Google (usa el Place ID).
   googleReviewUrl:
     "https://search.google.com/local/writereview?placeid=ChIJSRxrneGXQIYRlwEtNdb7TX4",

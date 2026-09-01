@@ -2,6 +2,7 @@ import {
   CONTACT_INFO,
   OPENING_HOURS,
   SITE_CONFIG,
+  SOCIAL_LINKS,
 } from "@/lib/constants";
 import { getAllServices } from "@/lib/services";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -60,6 +61,14 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
       longitude: CONTACT_INFO.coordinates.lng,
     },
     hasMap: CONTACT_INFO.googleMapsUrl,
+    // Enlaces de entidad: conectan la clínica con sus perfiles externos
+    // (señal clave para Google y para motores de respuesta con IA).
+    sameAs: [
+      CONTACT_INFO.googleBusinessUrl,
+      SOCIAL_LINKS.facebook,
+      SOCIAL_LINKS.instagram,
+    ],
+    medicalSpecialty: ["PrimaryCare", "Gynecologic"],
     areaServed: { "@type": "City", name: "Houston" },
     availableLanguage: ["es", "en"],
     openingHoursSpecification: OPENING_HOURS.map((h) => ({
