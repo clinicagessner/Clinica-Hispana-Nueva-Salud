@@ -167,7 +167,8 @@
     "relatedTitle": "Keep reading",
     "ctaTitle": "Have questions about your health?",
     "ctaBody": "Book a visit at Clínica Hispana Nueva Salud.",
-    "ctaCall": "Call the clinic"
+    "ctaCall": "Call the clinic",
+    "updatedOn": "Updated on {date}"
   },
   "Privacy": {
     "title": "Privacy policy",

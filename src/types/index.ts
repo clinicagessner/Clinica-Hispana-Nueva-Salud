@@ -132,6 +132,9 @@ export interface BlogFrontmatter {
   title: string;
   description: string;
   date: string;
+  /** Fecha (YYYY-MM-DD) de la última actualización sustantiva del contenido.
+   *  Solo se rellena cuando cambia el fondo del artículo, no por retoques. */
+  updated?: string;
   author: string;
   category: string;
   cover: string;

@@ -27,12 +27,19 @@ export function JsonLdBlogPosting({
         headline: post.title,
         description: post.description,
         datePublished: post.date,
-        dateModified: post.date,
+        dateModified: post.updated ?? post.date,
+        isAccessibleForFree: true,
         inLanguage: locale,
         keywords: post.keywords?.join(", "),
         image: `${SITE_CONFIG.baseUrl}${post.cover}`,
         mainEntityOfPage: { "@type": "WebPage", "@id": url },
-        author: { "@type": "Organization", name: post.author },
+        // Autor como entidad enlazada a la clínica (mismo @id que MedicalClinic).
+        author: {
+          "@type": "Organization",
+          "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
+          name: post.author,
+          url: SITE_CONFIG.baseUrl,
+        },
         publisher: {
           "@type": "Organization",
           name: SITE_CONFIG.name,

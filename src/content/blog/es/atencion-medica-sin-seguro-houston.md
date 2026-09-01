@@ -2,7 +2,7 @@
 title: "Atención médica sin seguro en Houston: tus opciones"
 description: "¿No tienes seguro médico? En Houston puedes recibir atención profesional en español, con precios accesibles y sin cita previa."
 date: "2026-01-28"
-author: "Equipo Clínica Hispana Nueva Salud"
+author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Salud"
 cover: "/images/blog/atencion-medica-sin-seguro-houston.webp"
 coverAlt: "Paciente recibiendo atención médica sin seguro en una clínica hispana de Houston"

@@ -2,7 +2,7 @@
 title: "Bienvenidos a Clínica Hispana Nueva Salud"
 description: "Conoce Clínica Hispana Nueva Salud: atención médica 100% en español en Houston, TX, sin cita previa y con precios accesibles, sin necesidad de seguro."
 date: "2026-01-15"
-author: "Equipo Clínica Hispana Nueva Salud"
+author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Clínica"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"
 coverAlt: "Equipo de Clínica Hispana Nueva Salud dando la bienvenida a sus pacientes en Houston"

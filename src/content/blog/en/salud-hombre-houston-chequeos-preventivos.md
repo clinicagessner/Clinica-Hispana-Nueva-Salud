@@ -2,7 +2,7 @@
 title: "Men's health in Houston: preventive checkups that save lives"
 description: "A guide to preventive checkups for men in Houston: PSA, testosterone, blood pressure, glucose and cholesterol. Care in Spanish, walk-ins welcome."
 date: "2026-07-22"
-author: "Clínica Hispana Nueva Salud Team"
+author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Men's health"
 cover: "/images/blog/salud-hombre-houston-chequeos-preventivos.webp"
 coverAlt: "Hispanic man at a preventive medical checkup in Houston"

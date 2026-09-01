@@ -2,7 +2,7 @@
 title: "Vitamina B12: beneficios, deficiencia e inyecciones"
 description: "Para qué sirve la vitamina B12, cómo reconocer una deficiencia y cuándo conviene la inyección. Prueba de B12 en español en Houston, sin cita y sin seguro."
 date: "2026-08-18"
-author: "Equipo Clínica Hispana Nueva Salud"
+author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Salud"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
 coverAlt: "Aplicación de una inyección de vitamina B12 en una clínica hispana de Houston"

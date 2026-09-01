@@ -2,7 +2,7 @@
 title: "Women's health in Houston: gynecology services"
 description: "A guide to the women's health services available in Houston in Spanish: checkups, family planning and prevention."
 date: "2026-04-25"
-author: "Clínica Hispana Nueva Salud Team"
+author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Women's health"
 cover: "/images/blog/salud-mujer-houston-servicios-ginecologia.webp"
 coverAlt: "Hispanic woman at a women's health visit in Houston"

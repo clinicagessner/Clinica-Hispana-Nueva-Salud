@@ -2,7 +2,7 @@
 title: "Hispanic gynecologists in Houston who speak Spanish"
 description: "Find gynecological care in Spanish in Houston: Pap smears, checkups and women's health with privacy and respect."
 date: "2026-03-05"
-author: "Clínica Hispana Nueva Salud Team"
+author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Women's health"
 cover: "/images/blog/ginecologos-hispanos-houston-hablan-espanol.webp"
 coverAlt: "Gynecology visit in Spanish for Hispanic women in Houston"

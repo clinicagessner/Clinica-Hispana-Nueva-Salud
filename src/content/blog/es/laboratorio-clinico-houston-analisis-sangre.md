@@ -2,7 +2,7 @@
 title: "Laboratorio clínico en Houston: análisis de sangre"
 description: "Conoce qué análisis de sangre puedes hacerte en Houston, para qué sirven y cómo obtener resultados el mismo día en español."
 date: "2026-03-30"
-author: "Equipo Clínica Hispana Nueva Salud"
+author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Laboratorio"
 cover: "/images/blog/laboratorio-clinico-houston-analisis-sangre.webp"
 coverAlt: "Toma de muestra de sangre en un laboratorio clínico de Houston"

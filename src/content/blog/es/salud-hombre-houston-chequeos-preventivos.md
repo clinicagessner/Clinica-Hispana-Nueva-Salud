@@ -2,7 +2,7 @@
 title: "Salud del hombre en Houston: chequeos preventivos que salvan vidas"
 description: "Guía de chequeos preventivos para el hombre en Houston: PSA, testosterona, presión, glucosa y colesterol. Atención en español, sin cita previa."
 date: "2026-07-22"
-author: "Equipo Clínica Hispana Nueva Salud"
+author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Salud del hombre"
 cover: "/images/blog/salud-hombre-houston-chequeos-preventivos.webp"
 coverAlt: "Hombre hispano en un chequeo médico preventivo en Houston"

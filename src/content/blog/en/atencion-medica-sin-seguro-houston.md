@@ -2,7 +2,7 @@
 title: "Healthcare without insurance in Houston: your options"
 description: "No health insurance? In Houston you can get professional care in Spanish, with affordable pricing and no appointment needed."
 date: "2026-01-28"
-author: "Clínica Hispana Nueva Salud Team"
+author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Health"
 cover: "/images/blog/atencion-medica-sin-seguro-houston.webp"
 coverAlt: "Patient receiving care without insurance at a Hispanic clinic in Houston"

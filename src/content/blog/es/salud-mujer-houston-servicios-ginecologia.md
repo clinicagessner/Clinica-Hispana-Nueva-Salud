@@ -2,7 +2,7 @@
 title: "Salud de la mujer en Houston: servicios de ginecología"
 description: "Una guía de los servicios de salud de la mujer disponibles en Houston en español: chequeos, planificación familiar y prevención."
 date: "2026-04-25"
-author: "Equipo Clínica Hispana Nueva Salud"
+author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Salud de la mujer"
 cover: "/images/blog/salud-mujer-houston-servicios-ginecologia.webp"
 coverAlt: "Mujer hispana en una consulta de salud femenina en Houston"

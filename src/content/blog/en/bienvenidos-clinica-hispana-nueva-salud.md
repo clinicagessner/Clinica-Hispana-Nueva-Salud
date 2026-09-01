@@ -2,7 +2,7 @@
 title: "Welcome to Clínica Hispana Nueva Salud"
 description: "Get to know Clínica Hispana Nueva Salud: healthcare 100% in Spanish in Houston, TX, walk-ins welcome and affordable pricing, no insurance needed."
 date: "2026-01-15"
-author: "Clínica Hispana Nueva Salud Team"
+author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Clinic"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"
 coverAlt: "The Clínica Hispana Nueva Salud team welcoming patients in Houston"

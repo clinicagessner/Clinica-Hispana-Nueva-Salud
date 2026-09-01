@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { SITE_CONFIG } from "@/lib/constants";
 import { getAllServiceSlugs } from "@/lib/services";
-import { getPostSlugs } from "@/lib/blog";
+import { getPost, getPostSlugs } from "@/lib/blog";
 
 const BASE = SITE_CONFIG.baseUrl;
 
@@ -12,14 +12,15 @@ function entries(
   path: string,
   changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"],
   priority: number,
+  lastModified?: string,
 ): MetadataRoute.Sitemap {
   const clean = path === "/" ? "" : path;
   const es = `${BASE}${clean}`;
   const en = `${BASE}/en${clean}`;
   const alternates = { languages: { es, en, "x-default": es } };
   return [
-    { url: es, changeFrequency, priority, alternates },
-    { url: en, changeFrequency, priority, alternates },
+    { url: es, changeFrequency, priority, alternates, lastModified },
+    { url: en, changeFrequency, priority, alternates, lastModified },
   ];
 }
 
@@ -38,9 +39,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     (slug) => entries(`/services/${slug}`, "monthly", 0.8),
   );
 
-  const posts: MetadataRoute.Sitemap = getPostSlugs().flatMap((slug) =>
-    entries(`/blog/${slug}`, "monthly", 0.6),
-  );
+  // lastmod real del post (updated > date) para que Google priorice recrawls.
+  const posts: MetadataRoute.Sitemap = getPostSlugs().flatMap((slug) => {
+    const post = getPost(slug, "es");
+    return entries(`/blog/${slug}`, "monthly", 0.6, post?.updated ?? post?.date);
+  });
 
   return [...staticPaths, ...services, ...posts];
 }

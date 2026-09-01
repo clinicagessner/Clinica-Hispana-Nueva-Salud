@@ -4,7 +4,14 @@ import { notFound } from "next/navigation";
 import { getLocale, getTranslations, setRequestLocale } from "next-intl/server";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { ArrowLeft, CalendarDays, Clock, Phone, User } from "lucide-react";
+import {
+  ArrowLeft,
+  CalendarDays,
+  Clock,
+  Phone,
+  RefreshCw,
+  User,
+} from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { BlogCard } from "@/components/blog/blog-card";
 import { FaqSection } from "@/components/sections/faq-section";
@@ -45,6 +52,7 @@ export async function generateMetadata({
       title: post.title,
       description: post.description,
       publishedTime: post.date,
+      modifiedTime: post.updated ?? post.date,
       url: absoluteUrl(`/blog/${slug}`, locale as Locale),
       images: [{ url: post.cover, alt: post.coverAlt }],
     },
@@ -133,8 +141,18 @@ export default async function BlogPostPage({
             </span>
             <span className="inline-flex items-center gap-1.5">
               <CalendarDays className="h-4 w-4" />
-              {formatDate(post.date, loc)}
+              <time dateTime={post.date}>
+                {t("publishedOn", { date: formatDate(post.date, loc) })}
+              </time>
             </span>
+            {post.updated && post.updated !== post.date ? (
+              <span className="inline-flex items-center gap-1.5">
+                <RefreshCw className="h-4 w-4" />
+                <time dateTime={post.updated}>
+                  {t("updatedOn", { date: formatDate(post.updated, loc) })}
+                </time>
+              </span>
+            ) : null}
             <span className="inline-flex items-center gap-1.5">
               <Clock className="h-4 w-4" />
               {post.readingMinutes} min

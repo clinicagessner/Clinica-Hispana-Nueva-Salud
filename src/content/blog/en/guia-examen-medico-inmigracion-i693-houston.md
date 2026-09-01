@@ -2,7 +2,7 @@
 title: "Guide to the I-693 immigration medical exam in Houston"
 description: "Everything about the I-693 medical exam in Houston: what it includes, which vaccines you need and how to get the form sealed by a USCIS-authorized physician."
 date: "2026-03-18"
-author: "Clínica Hispana Nueva Salud Team"
+author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Immigration"
 cover: "/images/blog/guia-examen-medico-inmigracion-i693-houston.webp"
 coverAlt: "Form I-693 and immigration medical review in Houston"
