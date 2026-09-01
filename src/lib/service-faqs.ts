@@ -723,10 +723,40 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "Yes, after the DOT physical we give you your certificate the same day.",
     },
     {
+      question: "¿Qué debo llevar al examen DOT?",
+      answer: "Tu licencia, tus lentes o audífonos si los usas, la lista de tus medicamentos y, si tienes presión alta, diabetes o apnea, tus últimos resultados o reporte del CPAP.",
+      questionEn: "What should I bring to the DOT physical?",
+      answerEn: "Your license, glasses or hearing aids if you use them, your medication list and, if you have high blood pressure, diabetes or sleep apnea, your latest results or CPAP report.",
+    },
+    {
+      question: "¿Cuánto tiempo es válido el certificado DOT?",
+      answer: "Normalmente 2 años. Si tienes presión alta, diabetes u otra condición que requiere control, puede ser de 1 año, 6 meses o 3 meses.",
+      questionEn: "How long is the DOT certificate valid?",
+      answerEn: "Usually 2 years. If you have high blood pressure, diabetes or another condition that needs monitoring, it may be 1 year, 6 months or 3 months.",
+    },
+    {
+      question: "¿El examen DOT incluye prueba de drogas?",
+      answer: "No. La prueba de drogas es un requisito aparte de tu empleador. También la hacemos en la clínica y puedes hacer ambas en la misma visita.",
+      questionEn: "Does the DOT physical include a drug test?",
+      answerEn: "No. The drug test is a separate employer requirement. We also do it at the clinic and you can do both in the same visit.",
+    },
+    {
+      question: "¿Puedo pasar el examen DOT si tengo presión alta o diabetes?",
+      answer: "En la mayoría de los casos sí, siempre que estén controladas. Con insulina se requiere el formulario MCSA-5870 de tu médico. Trae tus documentos y te orientamos.",
+      questionEn: "Can I pass the DOT physical with high blood pressure or diabetes?",
+      answerEn: "In most cases yes, as long as they're under control. With insulin you need form MCSA-5870 from your doctor. Bring your paperwork and we'll guide you.",
+    },
+    {
+      question: "¿Necesito ayuno para el examen DOT?",
+      answer: "No. Come normalmente, toma tus medicamentos como siempre y evita el café o bebidas energéticas justo antes, porque pueden subir la presión.",
+      questionEn: "Do I need to fast for the DOT physical?",
+      answerEn: "No. Eat normally, take your medications as usual and avoid coffee or energy drinks right before, since they can raise your blood pressure.",
+    },
+    {
       question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
+      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. Te recomendamos llamar antes para confirmar la disponibilidad del examinador.",
       questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
+      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. We recommend calling ahead to confirm the examiner is available.",
     },
     {
       question: "¿Atienden a pacientes sin seguro?",

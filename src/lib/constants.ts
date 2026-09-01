@@ -2662,38 +2662,134 @@ ${AREAS_EN}`,
       "Fast process",
       "Care in Spanish",
     ],
-    longDescription: `Si manejas vehículos comerciales necesitas tu examen físico DOT vigente. En Clínica Hispana Nueva Salud lo realizamos de forma rápida y te entregamos tu certificado el mismo día.
+    longDescription: `Si manejas camiones, autobuses o cualquier vehículo comercial, necesitas tener vigente tu examen físico DOT (Department of Transportation). Sin ese certificado no puedes obtener ni renovar tu licencia CDL, y las empresas no pueden ponerte a manejar. En Clínica Hispana Nueva Salud hacemos el examen sin cita previa, en español y con el certificado listo el mismo día, para que no pierdas horas de trabajo ni tengas que ir a otra clínica.
 
 ## ¿Qué incluye?
 
-- Revisión de visión y audición
-- Toma de presión arterial
-- Examen físico requerido por el DOT
-- Revisión de historial médico
-- Certificado médico DOT el mismo día
+- **Revisión de historial médico:** enfermedades, cirugías, medicamentos y hábitos
+- **Examen de la vista:** agudeza visual (mínimo 20/40 en cada ojo, con o sin lentes) y visión periférica
+- **Examen de audición:** prueba de voz susurrada o audiometría
+- **Presión arterial y pulso**
+- **Análisis de orina** para detectar glucosa, proteína o sangre (no es prueba de drogas)
+- **Examen físico completo:** corazón, pulmones, abdomen, columna, extremidades y sistema nervioso
+- **Certificado médico DOT** (Medical Examiner's Certificate) el mismo día si apruebas
 
-## Para conductores comerciales
+## ¿Quién necesita el examen DOT?
 
-El examen es obligatorio para obtener o renovar tu licencia CDL. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera.
+- Conductores con licencia CDL clase A, B o C
+- Quienes manejan vehículos de más de 10,001 libras en comercio interestatal
+- Conductores de autobuses o vehículos con capacidad para más de 8 o 15 pasajeros
+- Quienes transportan materiales peligrosos con placard
+- Conductores que van a renovar su certificado por vencimiento
+
+## ¿Qué debo llevar?
+
+- Licencia de conducir vigente
+- Lentes, lentes de contacto o audífonos si los usas
+- Lista de tus medicamentos con nombre y dosis
+- Si tienes diabetes, presión alta, problemas del corazón o apnea del sueño: tus últimos resultados de laboratorio, receta o reporte del CPAP
+- Formulario de la empresa, si tu empleador lo requiere
+
+## ¿Cuánto dura el certificado DOT?
+
+Por lo general el certificado es válido por **2 años**. Si tienes una condición que requiere control, como presión alta o diabetes, el examinador puede emitirlo por 1 año, 6 meses o 3 meses. En esos casos te explicamos qué debes mejorar para lograr la vigencia completa en tu siguiente examen.
+
+## Condiciones que pueden afectar el resultado
+
+- **Presión alta:** con valores hasta 139/89 el certificado es de 2 años; entre 140/90 y 159/99 es de 1 año; más alto puede requerir tratamiento antes de aprobar
+- **Diabetes:** si usas insulina necesitas el formulario de tu médico tratante (MCSA-5870) con menos de 45 días
+- **Apnea del sueño:** puede pedirse constancia de uso del CPAP
+- **Problemas de visión o audición** que no se corrijan con lentes o audífonos
+- **Enfermedades del corazón** recientes, epilepsia o uso de ciertos medicamentos
+
+Si tienes alguna de estas condiciones no significa que vayas a reprobar: ven con tus documentos y te orientamos. También podemos [tratar tu presión o tu diabetes](/services/condiciones-cronicas) en la misma clínica para que pases el examen la próxima vez.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita, te registras y llenas el cuestionario de salud del DOT.
+2. Se toman tus signos vitales, la muestra de orina y las pruebas de vista y oído.
+3. El examinador realiza el examen físico y revisa tu historial y medicamentos.
+4. Si apruebas, recibes tu certificado médico impreso ese mismo día.
+5. Entrega una copia a tu empleador y, en Texas, al Departamento de Seguridad Pública (DPS) para mantener tu CDL activa.
+
+## Examinador médico certificado
+
+Por ley, el examen DOT solo es válido si lo realiza un examinador médico registrado en el Registro Nacional de la FMCSA (Federal Motor Carrier Safety Administration). Llámanos antes de tu visita para confirmar la disponibilidad del examinador ese día y evitar viajes en vano.
+
+## Examen DOT y prueba de drogas
+
+El examen físico DOT no incluye la prueba de drogas. Muchas empresas la piden por separado al contratar o de forma aleatoria: también la hacemos aquí, consulta nuestro [examen de alcohol y drogas](/services/examen-alcohol-drogas). Si necesitas ambos, los hacemos en la misma visita.
+
+## Examen DOT en una clínica hispana cerca de ti
+
+Si buscas examen DOT en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby, a minutos de las autopistas I-45 y 610), de lunes a domingo de 9 AM a 9 PM. Lee también nuestra [guía del examen DOT para camioneros](/blog/examen-dot-cdl-camioneros-houston).
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If you drive commercial vehicles you need a current DOT physical exam. At Clínica Hispana Nueva Salud we perform it quickly and give you your certificate the same day.
+    longDescriptionEn: `If you drive trucks, buses or any commercial vehicle, you need a current DOT (Department of Transportation) physical. Without that certificate you can't get or renew your CDL license, and companies can't put you behind the wheel. At Clínica Hispana Nueva Salud we do the exam with no appointment, in Spanish, and with your certificate ready the same day, so you don't lose hours of work or have to go to another clinic.
 
 ## What's included?
 
-- Vision and hearing screening
-- Blood-pressure check
-- DOT-required physical exam
-- Medical-history review
-- Same-day DOT medical certificate
+- **Medical history review:** conditions, surgeries, medications and habits
+- **Vision test:** visual acuity (at least 20/40 in each eye, with or without glasses) and peripheral vision
+- **Hearing test:** forced-whisper test or audiometry
+- **Blood pressure and pulse**
+- **Urinalysis** to check for glucose, protein or blood (this is not a drug test)
+- **Full physical exam:** heart, lungs, abdomen, spine, limbs and nervous system
+- **DOT medical certificate** (Medical Examiner's Certificate) the same day if you pass
 
-## For commercial drivers
+## Who needs a DOT physical?
 
-The exam is required to obtain or renew your CDL license. We explain every step in Spanish and speed up the process so you get back on the road soon.
+- Drivers with a Class A, B or C CDL
+- Anyone driving vehicles over 10,001 lbs in interstate commerce
+- Bus drivers or vehicles carrying more than 8 or 15 passengers
+- Drivers transporting placarded hazardous materials
+- Drivers renewing an expiring certificate
+
+## What should I bring?
+
+- A valid driver's license
+- Glasses, contact lenses or hearing aids if you use them
+- A list of your medications with name and dose
+- If you have diabetes, high blood pressure, heart problems or sleep apnea: your latest lab results, prescription or CPAP report
+- Your company's form, if your employer requires one
+
+## How long is the DOT certificate valid?
+
+The certificate is usually valid for **2 years**. If you have a condition that needs monitoring, such as high blood pressure or diabetes, the examiner may issue it for 1 year, 6 months or 3 months. In those cases we explain what you need to improve to get the full term at your next exam.
+
+## Conditions that can affect the result
+
+- **High blood pressure:** up to 139/89 gets a 2-year certificate; 140/90 to 159/99 gets 1 year; higher may require treatment before passing
+- **Diabetes:** if you use insulin you need your treating doctor's form (MCSA-5870) dated within 45 days
+- **Sleep apnea:** proof of CPAP compliance may be requested
+- **Vision or hearing problems** not corrected with glasses or hearing aids
+- **Recent heart conditions**, epilepsy or certain medications
+
+Having one of these conditions doesn't mean you'll fail: come with your paperwork and we'll guide you. We can also [treat your blood pressure or diabetes](/en/services/condiciones-cronicas) at the same clinic so you pass next time.
+
+## What is the visit like?
+
+1. You walk in without an appointment, check in and fill out the DOT health questionnaire.
+2. We take your vital signs, urine sample and vision and hearing tests.
+3. The examiner performs the physical and reviews your history and medications.
+4. If you pass, you receive your printed medical certificate the same day.
+5. Give a copy to your employer and, in Texas, to the Department of Public Safety (DPS) to keep your CDL active.
+
+## Certified medical examiner
+
+By law, a DOT physical is only valid when performed by a medical examiner listed on the FMCSA (Federal Motor Carrier Safety Administration) National Registry. Call us before your visit to confirm the examiner's availability that day and avoid a wasted trip.
+
+## DOT physical vs. drug test
+
+The DOT physical does not include a drug test. Many companies require it separately at hiring or at random: we do that here too, see our [drug and alcohol testing](/en/services/examen-alcohol-drogas). If you need both, we do them in the same visit.
+
+## DOT physical at a Hispanic clinic near you
+
+If you're looking for a DOT physical in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area, minutes from I-45 and the 610 Loop), Monday through Sunday from 9 AM to 9 PM. Read our [DOT exam guide for truck drivers](/en/blog/examen-dot-cdl-camioneros-houston) too.
 
 ${WHY_EN}
 
