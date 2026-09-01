@@ -323,6 +323,56 @@ export const PROMOTIONS: Promotion[] = [
     altEn:
       "Gastritis information flyer at Clínica Hispana Nueva Salud, Houston",
   },
+  {
+    slug: "examen-testosterona",
+    order: 10,
+    price: "$79",
+    title: "Revisa tu Testosterona",
+    blurb:
+      "¿Cansancio, poca energía, menos deseo sexual o dificultad con la erección? Podrían estar relacionados con tus niveles de testosterona. Revisa tu testosterona por solo $79 (precio regular $220): examen de testosterona, examen de orina y consulta médica gratis.",
+    includes: [
+      "Examen de testosterona",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    alt: "Flyer de la promoción Revisa tu Testosterona por $79 con consulta gratis en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Check Your Testosterone",
+    blurbEn:
+      "Fatigue, low energy, lower sex drive or trouble with erections? They could be related to your testosterone levels. Check your testosterone for only $79 (regular price $220): testosterone test, urine test and a free medical consultation.",
+    includesEn: [
+      "Testosterone test",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    altEn:
+      "Check Your Testosterone promotion flyer for $79 with free consultation at Clínica Hispana Nueva Salud, Houston",
+  },
+  {
+    slug: "chequeo-completo-mujer",
+    order: 11,
+    price: "$179",
+    title: "Chequeo Completo de la Mujer",
+    blurb:
+      "Cuida tu salud con un chequeo completo de la mujer por solo $179 (precio regular $300): ultrasonido pélvico, papanicolaou, examen de orina y consulta médica gratis, con atención profesional en español.",
+    includes: [
+      "Ultrasonido pélvico",
+      "Papanicolaou",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    alt: "Flyer de la promoción Chequeo Completo de la Mujer por $179 con consulta gratis en Clínica Hispana Nueva Salud, Houston",
+    titleEn: "Complete Women's Check-Up",
+    blurbEn:
+      "Take care of your health with a complete women's check-up for only $179 (regular price $300): pelvic ultrasound, Pap smear, urine test and a free medical consultation, with professional care in Spanish.",
+    includesEn: [
+      "Pelvic ultrasound",
+      "Pap smear",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    altEn:
+      "Complete Women's Check-Up promotion flyer for $179 with free consultation at Clínica Hispana Nueva Salud, Houston",
+  },
 ];
 
 export const SERVICE_CATEGORIES: {
