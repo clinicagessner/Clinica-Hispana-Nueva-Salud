@@ -67,6 +67,8 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
       CONTACT_INFO.googleBusinessUrl,
       SOCIAL_LINKS.facebook,
       SOCIAL_LINKS.instagram,
+      SOCIAL_LINKS.linkedin,
+      SOCIAL_LINKS.x,
     ],
     medicalSpecialty: ["PrimaryCare", "Gynecologic"],
     areaServed: { "@type": "City", name: "Houston" },

@@ -35,6 +35,8 @@ async function header(full: boolean): Promise<string> {
     `- Ficha de Google: ${CONTACT_INFO.googleBusinessUrl}`,
     `- Facebook: ${SOCIAL_LINKS.facebook}`,
     `- Instagram: ${SOCIAL_LINKS.instagram}`,
+    `- LinkedIn: ${SOCIAL_LINKS.linkedin}`,
+    `- X (Twitter): ${SOCIAL_LINKS.x}`,
     "- Área de servicio: sureste de Houston (Glenbrook Valley, Park Place, Gulfgate, Pecan Park, Golfcrest, Hobby Area, South Houston) y área metropolitana de Houston",
     "",
   ].join("\n");
