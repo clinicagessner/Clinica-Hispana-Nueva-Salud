@@ -36,4 +36,4 @@ En la mayoría de los casos entregamos resultados **el mismo día** y te los exp
 
 ## Ven sin cita
 
-En Clínica Hispana Nueva Salud tomamos tus muestras en el momento y te orientamos sobre los siguientes pasos. Llámanos al **(346) 222-1006** o [visítanos sin cita](/walk-in) de 9 AM a 9 PM.
+En Clínica Hispana Nueva Salud tomamos tus muestras en el momento y te orientamos sobre los siguientes pasos. Llámanos al **(832) 831-4016** o [visítanos sin cita](/walk-in) de 9 AM a 9 PM.

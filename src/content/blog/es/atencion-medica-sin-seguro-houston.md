@@ -36,4 +36,4 @@ En nuestra clínica, los pacientes sin seguro pueden acceder a:
 
 ## Estamos para ayudarte
 
-En Clínica Hispana Nueva Salud atendemos a pacientes **sin necesidad de seguro**, en español y [sin cita previa](/walk-in). Si tienes dudas sobre el costo de un servicio, llámanos al **(346) 222-1006** y con gusto te orientamos.
+En Clínica Hispana Nueva Salud atendemos a pacientes **sin necesidad de seguro**, en español y [sin cita previa](/walk-in). Si tienes dudas sobre el costo de un servicio, llámanos al **(832) 831-4016** y con gusto te orientamos.

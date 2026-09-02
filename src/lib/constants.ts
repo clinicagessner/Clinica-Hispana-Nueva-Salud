@@ -41,13 +41,16 @@ export const CONTACT_INFO = {
   city: "Houston",
   state: "TX",
   zip: "77061",
-  phone: "+13462221006",
-  phoneFormatted: "+1 (346) 222-1006",
-  phoneDisplay: "(346) 222-1006",
-  // WhatsApp — número EXCLUSIVO para chat. Nunca usarlo en tel:, NAP ni schema.
-  // El teléfono de llamadas sigue siendo `phone` / CallRail hace swap solo sobre ese.
-  whatsapp: "13462221006", // E.164 sin "+", listo para wa.me
-  whatsappDisplay: "(346) 222-1006",
+  // Número REAL de la clínica (destino de todas las llamadas en CallRail).
+  // Debe coincidir con el "swap target" del website pool de CallRail: el
+  // script de swap busca este número en la página y lo sustituye por uno de
+  // rastreo. El JSON-LD y el NAP conservan siempre el real. Confirmado 2026-09-01.
+  phone: "+18328314016",
+  phoneFormatted: "+1 (832) 831-4016",
+  phoneDisplay: "(832) 831-4016",
+  // WhatsApp: mismo número de la clínica, igual que en Google Business Profile.
+  whatsapp: "18328314016", // E.164 sin "+", listo para wa.me
+  whatsappDisplay: "(832) 831-4016",
   email: "clinicahispananuevasalud@gmail.com",
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",

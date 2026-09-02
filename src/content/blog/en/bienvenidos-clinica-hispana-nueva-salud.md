@@ -37,4 +37,4 @@ What sets us apart isn't just what we do, but **how we do it**. We welcome you i
 
 ## We're waiting for you
 
-Caring for your health is the best investment you can make for yourself and your family. [Walk in](/en/walk-in) or call us at **(346) 222-1006**. At Clínica Hispana Nueva Salud, we treat you like family.
+Caring for your health is the best investment you can make for yourself and your family. [Walk in](/en/walk-in) or call us at **(832) 831-4016**. At Clínica Hispana Nueva Salud, we treat you like family.

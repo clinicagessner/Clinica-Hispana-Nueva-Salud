@@ -42,4 +42,4 @@ Do not open the sealed envelope. If you open it, the form may be invalidated and
 
 ## We're with you every step
 
-At Clínica Hispana Nueva Salud we perform the [I-693 exam with an authorized physician](/en/services/examenes-inmigracion), all in Spanish and with the sealed form ready to submit. Call us at **(346) 222-1006**.
+At Clínica Hispana Nueva Salud we perform the [I-693 exam with an authorized physician](/en/services/examenes-inmigracion), all in Spanish and with the sealed form ready to submit. Call us at **(832) 831-4016**.

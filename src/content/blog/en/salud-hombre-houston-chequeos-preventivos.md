@@ -85,4 +85,4 @@ We know that explaining what you feel in another language is hard, and many men 
 
 ## Schedule your checkup today
 
-Don't wait for something to hurt. Visit us at **7640 Bellfort Ave Ste A, Houston, TX 77061**, **Monday to Sunday from 9:00 AM to 9:00 PM**, or call us at **(346) 222-1006**. Your family needs you healthy.
+Don't wait for something to hurt. Visit us at **7640 Bellfort Ave Ste A, Houston, TX 77061**, **Monday to Sunday from 9:00 AM to 9:00 PM**, or call us at **(832) 831-4016**. Your family needs you healthy.

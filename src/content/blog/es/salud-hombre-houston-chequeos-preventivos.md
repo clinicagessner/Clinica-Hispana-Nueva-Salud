@@ -85,4 +85,4 @@ Sabemos que explicar lo que sientes en otro idioma es difícil, y que muchos hom
 
 ## Programa tu chequeo hoy
 
-No esperes a que algo duela. Visítanos en **7640 Bellfort Ave Ste A, Houston, TX 77061**, de **lunes a domingo de 9:00 AM a 9:00 PM**, o llámanos al **(346) 222-1006**. Tu familia te necesita sano.
+No esperes a que algo duela. Visítanos en **7640 Bellfort Ave Ste A, Houston, TX 77061**, de **lunes a domingo de 9:00 AM a 9:00 PM**, o llámanos al **(832) 831-4016**. Tu familia te necesita sano.

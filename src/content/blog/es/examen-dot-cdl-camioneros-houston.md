@@ -41,4 +41,4 @@ El examen es rápido. En la mayoría de los casos sales el **mismo día con tu c
 
 ## Hazlo con nosotros
 
-En Clínica Hispana Nueva Salud realizamos tu examen DOT en español, de forma rápida y con certificado el mismo día. Si tu empleador también requiere una [prueba de alcohol y drogas](/services/examen-alcohol-drogas), la hacemos en la misma visita. Llámanos al **(346) 222-1006** o [visítanos sin cita](/walk-in).
+En Clínica Hispana Nueva Salud realizamos tu examen DOT en español, de forma rápida y con certificado el mismo día. Si tu empleador también requiere una [prueba de alcohol y drogas](/services/examen-alcohol-drogas), la hacemos en la misma visita. Llámanos al **(832) 831-4016** o [visítanos sin cita](/walk-in).

@@ -41,4 +41,4 @@ The exam is quick. In most cases you leave the **same day with your certificate*
 
 ## Do it with us
 
-At Clínica Hispana Nueva Salud we perform your DOT exam in Spanish, quickly and with a same-day certificate. If your employer also requires an [alcohol and drug test](/en/services/examen-alcohol-drogas), we do it in the same visit. Call us at **(346) 222-1006** or [walk in](/en/walk-in).
+At Clínica Hispana Nueva Salud we perform your DOT exam in Spanish, quickly and with a same-day certificate. If your employer also requires an [alcohol and drug test](/en/services/examen-alcohol-drogas), we do it in the same visit. Call us at **(832) 831-4016** or [walk in](/en/walk-in).

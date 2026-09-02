@@ -36,4 +36,4 @@ La frecuencia depende de tu edad y tu historial. En tu consulta te indicaremos l
 
 ## Tu salud, en tu idioma
 
-En Clínica Hispana Nueva Salud ofrecemos [atención ginecológica en español](/services/ginecologia), con la confianza que mereces. Agenda tu visita llamando al **(346) 222-1006**.
+En Clínica Hispana Nueva Salud ofrecemos [atención ginecológica en español](/services/ginecologia), con la confianza que mereces. Agenda tu visita llamando al **(832) 831-4016**.

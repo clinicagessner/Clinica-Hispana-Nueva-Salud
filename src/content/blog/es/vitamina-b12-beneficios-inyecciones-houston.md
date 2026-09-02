@@ -79,4 +79,4 @@ Depende de tu nivel inicial y de la causa. Un esquema común es una fase de corr
 
 ## Recupera tu energía hoy
 
-No te acostumbres al cansancio: una prueba de vitamina B12 toma minutos. Antes de venir, revisa nuestras [promociones vigentes](/promociones) — incluyen un paquete de examen general de sangre con inyección de vitamina B12. Llámanos al **(346) 222-1006** o [visítanos sin cita](/walk-in) en **7640 Bellfort Ave Ste A, Houston, TX 77061**, de lunes a domingo de 9:00 AM a 9:00 PM.
+No te acostumbres al cansancio: una prueba de vitamina B12 toma minutos. Antes de venir, revisa nuestras [promociones vigentes](/promociones) — incluyen un paquete de examen general de sangre con inyección de vitamina B12. Llámanos al **(832) 831-4016** o [visítanos sin cita](/walk-in) en **7640 Bellfort Ave Ste A, Houston, TX 77061**, de lunes a domingo de 9:00 AM a 9:00 PM.

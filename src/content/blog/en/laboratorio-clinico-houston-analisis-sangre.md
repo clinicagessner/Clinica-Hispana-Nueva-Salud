@@ -36,4 +36,4 @@ In most cases we deliver results **the same day** and explain them in Spanish, w
 
 ## Walk in anytime
 
-At Clínica Hispana Nueva Salud we draw your samples on the spot and guide you on the next steps. Call us at **(346) 222-1006** or [walk in](/en/walk-in) from 9 AM to 9 PM.
+At Clínica Hispana Nueva Salud we draw your samples on the spot and guide you on the next steps. Call us at **(832) 831-4016** or [walk in](/en/walk-in) from 9 AM to 9 PM.

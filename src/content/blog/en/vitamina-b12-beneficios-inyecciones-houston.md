@@ -79,4 +79,4 @@ It depends on your starting level and the cause. A common plan is a correction p
 
 ## Get your energy back today
 
-Don't get used to feeling tired: a vitamin B12 test takes minutes. Before you visit, check our [current promotions](/en/promociones) — they include a general blood panel package with a vitamin B12 injection. Call us at **(346) 222-1006** or [walk in](/en/walk-in) at **7640 Bellfort Ave Ste A, Houston, TX 77061**, Monday to Sunday from 9:00 AM to 9:00 PM.
+Don't get used to feeling tired: a vitamin B12 test takes minutes. Before you visit, check our [current promotions](/en/promociones) — they include a general blood panel package with a vitamin B12 injection. Call us at **(832) 831-4016** or [walk in](/en/walk-in) at **7640 Bellfort Ave Ste A, Houston, TX 77061**, Monday to Sunday from 9:00 AM to 9:00 PM.
