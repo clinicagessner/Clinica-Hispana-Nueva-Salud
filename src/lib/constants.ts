@@ -439,9 +439,9 @@ export const SERVICES: Service[] = [
     shortDescriptionEn:
       "Testing and management of diabetes, high blood pressure and dyslipidemia (cholesterol and triglycerides), with close follow-up.",
     description:
-      "Control de diabetes, hipertensión y dislipidemias en Houston, TX. Laboratorio y seguimiento en español, con precios accesibles. Sin cita y sin seguro médico.",
+      "Control de diabetes, hipertensión y dislipidemias en Houston, TX. Laboratorio y seguimiento en español, con precios accesibles. Sin cita y sin seguro.",
     descriptionEn:
-      "Diabetes, hypertension and dyslipidemia management in Houston, TX. Lab work and follow-up in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
+      "Diabetes, hypertension and cholesterol care in Houston, TX. Lab work and follow-up in Spanish at affordable prices. Walk-ins welcome, no insurance needed.",
     keywords: [
       "control de diabetes houston",
       "doctor diabetes español houston",
@@ -1750,9 +1750,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Complete blood work with fast results and results explained in Spanish, no appointment needed.",
     description:
-      "Análisis de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles. Sin cita y sin seguro médico.",
+      "Análisis de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles. Sin cita y sin seguro.",
     descriptionEn:
-      "Blood tests in Houston, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
+      "Blood tests in Houston, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish at affordable prices. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examenes de sangre houston",
       "analisis de sangre houston",

@@ -1,6 +1,6 @@
 ---
 title: "Vitamin B12: benefits, deficiency and injections"
-description: "What vitamin B12 is for, how to recognize a deficiency and when an injection makes sense. B12 testing in Spanish in Houston, walk-ins welcome, no insurance needed."
+description: "What vitamin B12 is for, how to spot a deficiency and when an injection helps. B12 testing in Spanish in Houston, walk-ins welcome, no insurance needed."
 date: "2026-08-18"
 author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Health"

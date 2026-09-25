@@ -23,7 +23,7 @@ const COPY = {
   es: {
     metaTitle: "Clínica Hispana Sin Cita en Houston - Walk-in en Español",
     metaDescription:
-      "Clínica hispana sin cita previa en Houston: atención en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
+      "Clínica hispana sin cita previa en Houston: atención en español, precios accesibles y sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
     eyebrow: "Atención sin cita previa",
     title: "Te atendemos hoy en tu clínica hispana, sin cita y en español",
     subtitle:

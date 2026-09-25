@@ -122,6 +122,8 @@ export interface LocalizedFaq {
 
 export interface BlogFrontmatter {
   title: string;
+  /** Título del <title> si el del artículo pasa de 60 caracteres. */
+  metaTitle?: string;
   description: string;
   date: string;
   /** Fecha (YYYY-MM-DD) de la última actualización sustantiva del contenido.
