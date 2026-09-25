@@ -33,21 +33,10 @@ export function JsonLdBlogPosting({
         keywords: post.keywords?.join(", "),
         image: `${SITE_CONFIG.baseUrl}${post.cover}`,
         mainEntityOfPage: { "@type": "WebPage", "@id": url },
-        // Autor como entidad enlazada a la clínica (mismo @id que MedicalClinic).
-        author: {
-          "@type": "Organization",
-          "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
-          name: post.author,
-          url: SITE_CONFIG.baseUrl,
-        },
-        publisher: {
-          "@type": "Organization",
-          name: SITE_CONFIG.name,
-          logo: {
-            "@type": "ImageObject",
-            url: `${SITE_CONFIG.baseUrl}${SITE_CONFIG.logoUrl}`,
-          },
-        },
+        // Autor y editor: referencia al nodo de la clínica. Un objeto tipado
+        // sin @id (o con otro nombre para el mismo @id) crea otra entidad.
+        author: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+        publisher: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
       }}
     />
   );
