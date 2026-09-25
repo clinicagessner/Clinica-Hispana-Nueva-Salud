@@ -11,7 +11,7 @@ const BASE = SITE_CONFIG.baseUrl;
 // /privacy es noindex: no va en el sitemap para no enviar señales contradictorias.
 const PAGE_DATES: Record<string, string> = {
   "/": "2026-09-25", // reseñas reales de Google, FAQ del I-693
-  "/services": "2026-09-25", // farmacia, infecciones urinarias, salud del hombre (§9)
+  "/services": "2026-09-25", // §9 y contenido propio de los 29 servicios (B3)
   "/promociones": "2026-09-01",
   "/walk-in": "2026-08-02",
   "/landing/comparacion-clinicas-houston": "2026-09-25", // reseñas reales, plazos de laboratorio
