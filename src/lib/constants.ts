@@ -471,42 +471,64 @@ export const SERVICES: Service[] = [
       "Medication adjustment",
       "Nutrition and lifestyle plan",
     ],
-    longDescription: `Las enfermedades crónicas como la diabetes, la hipertensión y las dislipidemias (colesterol y triglicéridos altos) se controlan mejor con seguimiento constante. En Clínica Hispana Nueva Salud diseñamos un plan claro y te acompañamos paso a paso, en español.
+    longDescription: `La diabetes, la presión alta y el colesterol elevado tienen algo en común: casi no duelen mientras hacen daño. Por eso el control no se trata de ir cuando te sientes mal, sino de tener tus números en el rango correcto mes a mes. En la clínica llevamos ese seguimiento contigo, sin cita y en español.
 
-## ¿Qué incluye?
+## ¿Qué hacemos en cada visita de control?
 
-- Evaluación inicial y exámenes de laboratorio
-- Monitoreo de glucosa, presión arterial, colesterol y triglicéridos
-- Ajuste de medicamentos según tu evolución
-- Plan de alimentación y actividad física
-- Educación sobre tu condición en tu idioma
+- Medimos presión, peso y, si hace falta, azúcar en la consulta.
+- Revisamos tus análisis: hemoglobina A1c, glucosa, perfil de lípidos y pruebas de riñón.
+- Repasamos tus medicamentos, cómo los tomas y si te han dado efectos secundarios.
+- Ajustamos el tratamiento y fijamos la fecha del próximo control.
 
-## Por qué es importante el control
+## ¿Qué metas se buscan?
 
-Una diabetes, presión o colesterol mal controlados dañan con el tiempo el corazón, los riñones, los ojos y los nervios. Un buen seguimiento previene complicaciones y mejora tu calidad de vida.
+Cada persona tiene las suyas, pero como referencia: muchos adultos con diabetes buscan una A1c por debajo de 7 % ([American Diabetes Association](https://diabetes.org/about-diabetes/a1c)) y, en la mayoría de los pacientes con hipertensión, se busca bajar de 130/80. El equipo médico ajusta la meta a tu edad y a tus otras condiciones.
 
-Si quieres empezar hoy mismo, lee nuestra [guía para pacientes sobre el control de la diabetes](/blog/control-diabetes-houston-guia-pacientes): qué significan tus números, qué comer y cuándo acudir al médico.
+## ¿Sirve medirme la presión en casa?
+
+Mucho. Las lecturas en casa muestran cómo está tu presión en el día a día, sin los nervios de la consulta. Siéntate cinco minutos antes, con la espalda apoyada, los pies en el piso y el brazo a la altura del corazón, y usa un aparato de brazo, no de muñeca ([American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)). Trae tus anotaciones a cada control.
+
+## ¿Qué más hay que revisar?
+
+- **Riñones**: con análisis de sangre y de orina, al menos una vez al año si tienes diabetes o presión alta.
+- **Ojos**: un examen de fondo de ojo anual con el oculista si tienes diabetes.
+- **Pies**: revisarlos a diario en casa y en cada consulta, buscando heridas o zonas sin sensibilidad.
+
+## ¿Y si no tengo seguro?
+
+No lo necesitas. Te decimos el precio de los análisis antes de hacerlos y buscamos el esquema de control más sencillo que funcione para ti. Para empezar, lee nuestra [guía para pacientes con diabetes](/blog/control-diabetes-houston-guia-pacientes).
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Chronic conditions like diabetes, hypertension and dyslipidemia (high cholesterol and triglycerides) are best controlled with consistent follow-up. At Clínica Hispana Nueva Salud we design a clear plan and support you every step of the way, in Spanish.
+    longDescriptionEn: `Diabetes, high blood pressure and high cholesterol have one thing in common: they barely hurt while they do damage. That's why management isn't about coming in when you feel bad, but about keeping your numbers in range month after month. At the clinic we handle that follow-up with you, walk-in and in Spanish.
 
-## What's included?
+## What happens at each follow-up visit?
 
-- Initial evaluation and lab work
-- Monitoring of glucose, blood pressure, cholesterol and triglycerides
-- Medication adjustment based on your progress
-- Nutrition and physical-activity plan
-- Education about your condition in your language
+- We check your blood pressure, weight and, when needed, blood sugar in the office.
+- We review your lab work: hemoglobin A1c, glucose, lipid panel and kidney tests.
+- We go over your medications, how you take them and any side effects.
+- We adjust treatment and set the date for your next check.
 
-## Why control matters
+## What are the targets?
 
-Poorly managed diabetes, blood pressure or cholesterol damage the heart, kidneys, eyes and nerves over time. Good follow-up prevents complications and improves your quality of life.
+Everyone has their own, but as a reference: many adults with diabetes aim for an A1c under 7% ([American Diabetes Association](https://diabetes.org/about-diabetes/a1c)), and for most patients with hypertension the goal is under 130/80. The medical team tailors the target to your age and other conditions.
 
-If you want to start today, read our [patient guide to diabetes management](/en/blog/control-diabetes-houston-guia-pacientes): what your numbers mean, what to eat and when to see a doctor.
+## Does checking my blood pressure at home help?
+
+A lot. Home readings show your everyday blood pressure without the stress of the office. Sit for five minutes first, back supported, feet on the floor and arm at heart level, and use an upper-arm cuff rather than a wrist one ([American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)). Bring your log to every visit.
+
+## What else needs checking?
+
+- **Kidneys**: with blood and urine tests, at least once a year if you have diabetes or high blood pressure.
+- **Eyes**: a yearly dilated eye exam with an eye doctor if you have diabetes.
+- **Feet**: check them daily at home and at every visit, looking for sores or numb spots.
+
+## What if I don't have insurance?
+
+You don't need it. We tell you the price of lab work before doing it and look for the simplest follow-up plan that works for you. To get started, read our [patient guide to diabetes](/en/blog/control-diabetes-houston-guia-pacientes).
 
 ${WHY_EN}
 
@@ -555,7 +577,7 @@ ${AREAS_EN}`,
       "Treatment and medication adjustment",
       "Follow-up in Spanish",
     ],
-    longDescription: `La tiroides es una glándula pequeña en el cuello que regula tu energía, tu peso, tu temperatura y tu ánimo. Cuando funciona de más (hipertiroidismo) o de menos (hipotiroidismo) aparecen síntomas que afectan tu día a día y que muchas veces se confunden con estrés o cansancio. En Clínica Hispana Nueva Salud evaluamos tu tiroides con análisis de laboratorio y te damos el tratamiento adecuado: sin cita previa, sin seguro médico y en español.
+    longDescription: `Esa glándula con forma de mariposa, en la parte baja del cuello, marca el ritmo de tu energía, tu peso, tu temperatura y tu estado de ánimo. Cuando funciona de más (hipertiroidismo) o de menos (hipotiroidismo) aparecen síntomas que afectan tu día a día y que muchas veces se confunden con estrés o cansancio. Aquí la revisamos con un análisis de sangre sencillo y, si hace falta, empezamos o ajustamos el tratamiento contigo, en español.
 
 ## ¿Qué incluye?
 
@@ -601,9 +623,9 @@ La prueba de TSH no requiere ayuno. Si ya tomas medicamento para la tiroides, t�
 
 ## ¿Cómo es la visita?
 
-1. Llegas sin cita y te registras en recepción.
+1. Vienes cuando te acomode, sin cita, y te anotas en la entrada.
 2. El personal médico evalúa tus síntomas y revisa tu cuello.
-3. Se toma la muestra de sangre en la clínica.
+3. Te sacamos sangre ahí mismo, en pocos minutos.
 4. Cuando el laboratorio entrega el resultado, te lo explicamos en español y, si procede, inicias o ajustas tu tratamiento.
 5. Programamos el control: en general cada 6-8 semanas al ajustar dosis, y cada 6-12 meses cuando ya está estable.
 
@@ -616,7 +638,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The thyroid is a small gland in the neck that regulates your energy, weight, temperature and mood. When it works too much (hyperthyroidism) or too little (hypothyroidism), symptoms appear that affect your daily life and are often mistaken for stress or tiredness. At Clínica Hispana Nueva Salud we evaluate your thyroid with lab tests and give you the right treatment: no appointment, no insurance required and in Spanish.
+    longDescriptionEn: `That butterfly-shaped gland low in your neck sets the pace for your energy, weight, body temperature and mood. When it works too much (hyperthyroidism) or too little (hypothyroidism), symptoms appear that affect your daily life and are often mistaken for stress or tiredness. At Clínica Hispana Nueva Salud we evaluate your thyroid with lab tests and give you the right treatment: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
@@ -662,7 +684,7 @@ The TSH test doesn't require fasting. If you already take thyroid medication, ta
 
 ## What is the visit like?
 
-1. Walk in without an appointment and check in at the front desk.
+1. Come by whenever it suits you, no appointment, and sign in when you arrive.
 2. The medical staff evaluates your symptoms and examines your neck.
 3. The blood sample is drawn at the clinic.
 4. When the lab returns the result, we explain it in Spanish and, if appropriate, you start or adjust your treatment.
@@ -3459,38 +3481,70 @@ ${AREAS_EN}`,
       "Walk-ins welcome",
       "After-care instructions",
     ],
-    longDescription: `Una herida que no cierra bien puede infectarse o dejar cicatriz. En Clínica Hispana Nueva Salud cerramos cortes y heridas con suturas de forma segura, sin cita y con atención en español.
+    longDescription: `Un corte en la cocina, en el trabajo o jugando: la mayoría se resuelve con limpieza y un vendaje, pero algunos necesitan puntos para cerrar bien, sanar más rápido y dejar menos marca. En la clínica evaluamos la herida, la cerramos con anestesia local y te decimos cómo cuidarla.
 
-## ¿Qué incluye?
+## ¿Cómo sé si mi corte necesita puntos?
 
-- Evaluación y limpieza de la herida
-- Cierre con suturas (puntos)
-- Aplicación de anestesia local
-- Indicaciones de cuidado y signos de alarma
-- Retiro de puntos cuando corresponde
+- Los bordes quedan separados y no se juntan solos.
+- Es profunda: se ve grasa amarilla o tejido debajo de la piel.
+- Mide más de un par de centímetros o está en una zona que se dobla, como un nudillo o la rodilla.
+- Está en la cara, donde la cicatriz importa más.
+- Sigue sangrando después de apretarla con un paño limpio durante varios minutos.
 
-## Cuándo acudir
+## ¿Cuánto tiempo puedo esperar?
 
-Cortes profundos, heridas que sangran o no cierran solas, o que tienen bordes abiertos. Atender pronto reduce el riesgo de infección y mejora la cicatrización.
+Lo mejor es venir en las primeras horas. Con el paso del tiempo aumenta el riesgo de infección y, en algunas heridas, cerrarlas tarde ya no conviene; entonces se deja sanar abierta con curaciones.
+
+## ¿Qué hacemos en la consulta?
+
+1. Revisamos la herida, la sensibilidad y el movimiento de la zona.
+2. Aplicamos anestesia local para que no sientas dolor.
+3. Lavamos a fondo y retiramos suciedad o restos.
+4. Cerramos con puntos y colocamos el vendaje.
+5. Revisamos tu vacuna del tétanos: con heridas sucias puede hacer falta un refuerzo.
+
+## ¿Cómo la cuido en casa?
+
+Mantén el vendaje seco las primeras 24 a 48 horas, luego lava con agua y jabón suave y seca con cuidado. Los puntos se retiran entre 5 y 14 días después, según la zona del cuerpo; te decimos la fecha al terminar ([MedlinePlus](https://medlineplus.gov/ency/article/001237.htm)).
+
+## ¿Cuándo ir directo a urgencias?
+
+Si la sangre sale a chorros o no para con presión, si no puedes mover o sentir un dedo, si la mordedura de un animal es grande o si hay un objeto clavado.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A wound that doesn't close well can get infected or leave a scar. At Clínica Hispana Nueva Salud we close cuts and wounds with sutures safely, no appointment needed and with care in Spanish.
+    longDescriptionEn: `A cut in the kitchen, at work or while playing: most heal with cleaning and a bandage, but some need stitches to close properly, heal faster and leave less of a mark. At the clinic we assess the wound, close it under local anesthesia and tell you how to care for it.
 
-## What's included?
+## How do I know if my cut needs stitches?
 
-- Wound evaluation and cleaning
-- Closure with sutures (stitches)
-- Local anesthesia
-- Care instructions and warning signs
-- Suture removal when appropriate
+- The edges gape apart and won't come together on their own.
+- It's deep: you can see yellow fat or tissue under the skin.
+- It's longer than a couple of centimeters or sits where the body bends, such as a knuckle or knee.
+- It's on the face, where scarring matters more.
+- It keeps bleeding after several minutes of pressing it with a clean cloth.
 
-## When to come in
+## How long can I wait?
 
-Deep cuts, wounds that bleed or won't close on their own, or that have open edges. Treating them promptly reduces the risk of infection and improves healing.
+Coming in within the first hours is best. As time passes the risk of infection goes up and, for some wounds, late closure is no longer a good idea; they are left to heal open with dressing changes instead.
+
+## What happens at the visit?
+
+1. We check the wound and the feeling and movement in the area.
+2. We numb it with local anesthesia so you don't feel pain.
+3. We clean it thoroughly and remove dirt or debris.
+4. We close it with stitches and put on a dressing.
+5. We check your tetanus shot: dirty wounds may need a booster.
+
+## Aftercare at home
+
+For a day or two, don't let the dressing get wet. After that, clean the area with mild soap and water and dab it dry. Stitches come out 5 to 14 days later, depending on where they are; we give you the date before you leave ([MedlinePlus](https://medlineplus.gov/ency/article/001237.htm)).
+
+## When should I go straight to the ER?
+
+If blood is spurting or won't stop with pressure, if you can't move or feel a finger, if an animal bite is large or if something is stuck in the wound.
 
 ${WHY_EN}
 
@@ -3827,38 +3881,62 @@ ${AREAS_EN}`,
       "Local anesthesia",
       "After-care instructions",
     ],
-    longDescription: `Un absceso es una acumulación de pus que causa dolor e hinchazón y necesita drenarse. En Clínica Hispana Nueva Salud lo tratamos de forma segura para aliviar la molestia y prevenir que la infección avance.
+    longDescription: `Un bulto rojo, caliente y cada vez más doloroso, que a veces se llena de pus: eso suele ser un absceso, una bolsa de infección bajo la piel. Muchos no se curan solos porque el antibiótico no llega bien al interior. Lo que resuelve es abrirlo y vaciarlo, y eso lo hacemos en la clínica con anestesia local.
 
-## ¿Qué incluye?
+## ¿Qué lo provoca?
 
-- Evaluación del absceso o infección de piel
-- Drenaje con anestesia local
-- Limpieza y desinfección de la zona
-- Tratamiento de la infección cuando se requiere
-- Indicaciones de cuidado y seguimiento
+Casi siempre bacterias de la piel que entran por un poro, un vello enterrado o una pequeña herida. Una parte de estas infecciones la causa el estafilococo resistente a antibióticos (MRSA), que se contagia por contacto piel con piel y por objetos compartidos como toallas o rastrillos ([CDC](https://www.cdc.gov/mrsa/about/index.html)).
 
-## No lo dejes pasar
+## ¿Por qué no apretarlo en casa?
 
-Un bulto rojo, caliente y doloroso, a veces con fiebre, necesita atención. Drenarlo a tiempo evita complicaciones y alivia el dolor rápidamente.
+Exprimirlo o pincharlo con una aguja empuja la infección más adentro, la extiende a los tejidos de alrededor y aumenta el riesgo de cicatriz. Un grano pequeño puede mejorar con compresas tibias; un absceso grande o que sigue creciendo necesita drenaje.
+
+## ¿Cómo es el procedimiento?
+
+1. Evaluamos el tamaño, la profundidad y si hay fiebre u otros signos de infección extendida.
+2. Adormecemos la zona con anestesia local.
+3. Hacemos una pequeña apertura, vaciamos el pus y lavamos la cavidad.
+4. A veces dejamos una gasa dentro unos días para que siga drenando.
+5. Decidimos si hace falta antibiótico: tras un buen drenaje, muchos casos no lo necesitan.
+
+## ¿Cómo lo cuido después?
+
+Cambia la curación como te indicamos, lávate las manos antes y después, y no compartas toallas mientras sane. Vuelve a revisión en la fecha acordada.
+
+## ¿Cuándo es urgente?
+
+Si aparecen líneas rojas que se extienden desde el bulto, fiebre alta o escalofríos, si el absceso está en la cara cerca del ojo o si tienes diabetes o defensas bajas, no esperes.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An abscess is a buildup of pus that causes pain and swelling and needs to be drained. At Clínica Hispana Nueva Salud we treat it safely to relieve the discomfort and prevent the infection from spreading.
+    longDescriptionEn: `A red, hot lump that keeps getting more painful and sometimes fills with pus: that is usually an abscess, a pocket of infection under the skin. Many won't heal on their own because antibiotics don't reach the inside well. What fixes it is opening and emptying it, which we do at the clinic under local anesthesia.
 
-## What's included?
+## What causes it?
 
-- Evaluation of the abscess or skin infection
-- Drainage with local anesthesia
-- Cleaning and disinfection of the area
-- Treatment of the infection when needed
-- Care and follow-up instructions
+Almost always skin bacteria that get in through a pore, an ingrown hair or a small wound. Some of these infections are caused by antibiotic-resistant staph (MRSA), which spreads through skin-to-skin contact and shared items such as towels or razors ([CDC](https://www.cdc.gov/mrsa/about/index.html)).
 
-## Don't let it go
+## Why not squeeze it at home?
 
-A red, warm, painful lump, sometimes with fever, needs attention. Draining it in time prevents complications and relieves pain quickly.
+Squeezing it or poking it with a needle pushes the infection deeper, spreads it into nearby tissue and raises the risk of scarring. A small pimple may improve with warm compresses; a large abscess, or one that keeps growing, needs drainage.
+
+## What is the procedure like?
+
+1. We assess its size and depth and check for fever or other signs of spreading infection.
+2. We numb the area with local anesthesia.
+3. We make a small opening, drain the pus and rinse the cavity.
+4. Sometimes we leave gauze inside for a few days so it keeps draining.
+5. We decide whether you need antibiotics: after good drainage, many cases don't.
+
+## How do I care for it afterward?
+
+Change the dressing as instructed, wash your hands before and after, and don't share towels while it heals. Come back for your check on the agreed date.
+
+## When is it urgent?
+
+If red streaks spread from the lump, you get a high fever or chills, the abscess is on the face near the eye, or you have diabetes or a weakened immune system, don't wait.
 
 ${WHY_EN}
 
@@ -3907,38 +3985,70 @@ ${AREAS_EN}`,
       "Pain relief",
       "After-care instructions",
     ],
-    longDescription: `Una uña encarnada puede doler mucho e infectarse si no se trata. En Clínica Hispana Nueva Salud la atendemos con un procedimiento sencillo y anestesia local para aliviarte el mismo día.
+    longDescription: `Cuando el borde de la uña se clava en la piel del dedo, sobre todo en el dedo gordo del pie, cada paso duele. Si además se infecta, aparece hinchazón, pus y a veces un bulto de carne roja que sangra con facilidad. En la clínica retiramos la parte que se entierra con anestesia local para que el dolor ceda.
 
-## ¿Qué incluye?
+## ¿Por qué se encarna la uña?
 
-- Evaluación de la uña y el dedo
-- Procedimiento con anestesia local
-- Extracción de la porción encarnada de la uña
-- Tratamiento de la infección si la hay
-- Indicaciones de cuidado para evitar que regrese
+- Cortarla en curva o demasiado corta, dejando las esquinas bajo la piel.
+- Zapatos apretados o de punta estrecha.
+- Golpes en el dedo o pisotones.
+- La forma natural de la uña, que en algunas familias es más curva.
 
-## Cuándo acudir
+## ¿Qué puedo hacer en casa al principio?
 
-Dolor, enrojecimiento, hinchazón o pus alrededor de la uña, sobre todo del dedo gordo del pie. Atenderla pronto evita una infección mayor.
+Si solo hay molestia leve, sin pus: remoja el pie en agua tibia varias veces al día, sécalo bien y usa calzado abierto o amplio ([AAOS](https://orthoinfo.aaos.org/en/diseases--conditions/ingrown-toenail/)). No intentes cortar la esquina tú mismo, porque suele empeorar.
+
+## ¿Cuándo hace falta el procedimiento?
+
+Cuando hay pus, enrojecimiento que se extiende, dolor que no te deja caminar o si ya lo intentaste en casa y no mejora. Si tienes diabetes o mala circulación en los pies, ven desde el primer síntoma: una infección pequeña puede complicarse rápido.
+
+## ¿Cómo es?
+
+1. Adormecemos el dedo con anestesia local.
+2. Retiramos solo la franja de uña que se entierra, no la uña completa.
+3. Limpiamos la zona y tratamos la infección si la hay.
+4. Colocamos un vendaje y te explicamos las curaciones.
+
+La mayoría de las personas camina con normalidad en pocos días. Si la uña vuelve a encarnarse una y otra vez, hablamos de opciones para evitarlo.
+
+## ¿Cómo evito que regrese?
+
+Corta las uñas en línea recta, sin redondear las esquinas, y déjalas al ras del dedo. Elige calzado donde los dedos no vayan apretados y sécate bien entre ellos después del baño.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An ingrown toenail can hurt a lot and get infected if untreated. At Clínica Hispana Nueva Salud we treat it with a simple procedure and local anesthesia to relieve you the same day.
+    longDescriptionEn: `When the edge of a nail digs into the skin of the toe, especially the big toe, every step hurts. If it also gets infected, you get swelling, pus and sometimes a lump of red tissue that bleeds easily. At the clinic we remove the part that's digging in under local anesthesia so the pain eases.
 
-## What's included?
+## Why does a nail become ingrown?
 
-- Evaluation of the nail and toe
-- Procedure with local anesthesia
-- Removal of the ingrown portion of the nail
-- Treatment of the infection if present
-- Care instructions to prevent recurrence
+- Cutting it rounded or too short, leaving the corners under the skin.
+- Tight or narrow-toed shoes.
+- Stubbing or crushing the toe.
+- The natural shape of the nail, which runs more curved in some families.
 
-## When to come in
+## What can I do at home at first?
 
-Pain, redness, swelling or pus around the nail, especially the big toe. Treating it promptly prevents a larger infection.
+If there's only mild discomfort and no pus: soak the foot in warm water several times a day, dry it well and wear open or roomy shoes ([AAOS](https://orthoinfo.aaos.org/en/diseases--conditions/ingrown-toenail/)). Don't try to cut out the corner yourself; it usually makes things worse.
+
+## When is the procedure needed?
+
+When there's pus, spreading redness, pain that keeps you from walking, or when home care hasn't helped. If you have diabetes or poor circulation in your feet, come in at the first sign: a small infection can get complicated quickly.
+
+## What is it like?
+
+1. We numb the toe with local anesthesia.
+2. We remove only the strip of nail that's digging in, not the whole nail.
+3. We clean the area and treat any infection.
+4. We put on a dressing and explain the aftercare.
+
+Most people walk normally within a few days. If the nail keeps growing in again and again, we discuss options to prevent it.
+
+## Keeping it from growing in again
+
+Cut nails straight across, without rounding the corners, and leave them level with the tip of the toe. Wear shoes with room for your toes and keep your feet dry.
 
 ${WHY_EN}
 
@@ -3987,44 +4097,66 @@ ${AREAS_EN}`,
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `Al terminar tu consulta en Clínica Hispana Nueva Salud puedes llevarte los medicamentos que te indicó el equipo médico, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.
+    longDescription: `Terminar la consulta y llevarte el tratamiento sin hacer otra parada ahorra tiempo, sobre todo cuando te sientes mal. En la clínica te entregamos los medicamentos que te indica nuestro equipo médico durante la visita, además de productos de venta libre.
 
-## ¿Qué incluye?
+## ¿Qué te puedes llevar?
 
-- Los medicamentos indicados en tu consulta, al terminarla
-- Medicamentos de marca y genéricos
-- Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más
-- Asesoría del personal sobre cómo tomar tus medicamentos
+- Los medicamentos que el equipo médico te indica en la consulta, de marca o genéricos según haya disponibilidad.
+- Productos de venta libre para síntomas comunes: fiebre, dolor, congestión, acidez o picazón.
+- Material básico para curaciones cuando te atendemos una herida.
 
 ## ¿Puedo traer una receta de otro médico?
 
-No. En la clínica entregamos los medicamentos que indica nuestro equipo médico durante tu visita y productos de venta libre. Surtir recetas de otros médicos requiere una licencia de farmacia del estado de Texas: si ya traes una receta de otro lugar, súrtela en una farmacia.
+No. Solo entregamos lo indicado durante tu consulta aquí. Surtir recetas de otros médicos requiere una licencia de farmacia del estado de Texas, que la clínica no tiene; para eso tendrás que ir a una farmacia.
 
-## ¿Por qué usar nuestra farmacia?
+## ¿Qué conviene preguntar antes de irte?
 
-Te ahorras una segunda parada: el equipo médico te atiende, te indica el tratamiento y te llevas tu medicamento del mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.
+- Para qué sirve el medicamento y cuánto tiempo debo tomarlo.
+- A qué hora y si va con comida o en ayunas.
+- Qué hacer si se me olvida una dosis.
+- Qué efectos secundarios son normales y cuáles son motivo para volver.
+- Si choca con algo que ya tomo, incluidos vitaminas y remedios naturales.
+
+## ¿Cuestan menos los genéricos?
+
+Por lo general sí, y contienen el mismo principio activo que el de marca. Si el precio te preocupa, dilo en la consulta: casi siempre hay una opción más económica igual de eficaz.
+
+## ¿Qué hago con las pastillas que sobran?
+
+No las tires por el lavabo ni las guardes "por si acaso". La FDA explica cómo [desecharlas de forma segura](https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know), por ejemplo en los puntos de recolección de algunas farmacias.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `After your visit at Clínica Hispana Nueva Salud you can take home the medications the medical team prescribed, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.
+    longDescriptionEn: `Finishing your visit and leaving with your treatment, without another stop, saves time, especially when you feel sick. At the clinic we provide the medications our medical team prescribes during your visit, plus over-the-counter products.
 
-## What's included?
+## What can you take home?
 
-- The medications prescribed during your visit, right after it
-- Brand-name and generic medications
-- Over-the-counter (OTC) medications for colds, pain, allergies and more
-- Staff guidance on how to take your medications
+- The medications the medical team prescribes at your visit, brand-name or generic depending on availability.
+- Over-the-counter products for common symptoms: fever, pain, congestion, heartburn or itching.
+- Basic dressing supplies when we treat a wound.
 
-## Can I bring a prescription from another doctor?
+## What about a prescription written somewhere else?
 
-No. At the clinic we provide the medications our medical team prescribes during your visit, plus over-the-counter products. Filling other doctors' prescriptions requires a Texas pharmacy license: if you already have a prescription from elsewhere, fill it at a pharmacy.
+No. We only provide what is prescribed during your visit here. Filling other doctors' prescriptions requires a Texas pharmacy license, which the clinic doesn't hold; for that you'll need a pharmacy.
 
-## Why use our pharmacy?
+## What should I ask before leaving?
 
-You skip the second stop: the medical team sees you, prescribes your treatment, and you take your medication home from the same place. We explain the dosage, schedule and precautions in Spanish.
+- What the medication is for and how long to take it.
+- What time to take it and whether with food or on an empty stomach.
+- What to do if I miss a dose.
+- Which side effects are normal and which mean I should come back.
+- Whether it clashes with anything I already take, including vitamins and natural remedies.
+
+## Do generics cost less?
+
+Usually yes, and they contain the same active ingredient as the brand-name drug. If price is a concern, say so during your visit: there's almost always a cheaper option that works just as well.
+
+## What do I do with leftover pills?
+
+Don't flush them or keep them "just in case." The FDA explains how to [dispose of them safely](https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know), for example at the take-back kiosks some pharmacies have.
 
 ${WHY_EN}
 
