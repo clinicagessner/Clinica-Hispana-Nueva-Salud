@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import ReactMarkdown from "react-markdown";
@@ -33,6 +32,8 @@ import {
 } from "@/lib/utils";
 import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { MedicalReview } from "@/components/shared/medical-review";
+import { thumb } from "@/lib/image-thumb";
+import { preload } from "react-dom";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -84,6 +85,15 @@ export default async function ServiceDetailPage({
   if (!service) notFound();
 
   const l = getLocalizedService(service, loc);
+  if (hasServiceImage(slug)) {
+    // Misma elección de variante que el <img> del hero del servicio.
+    preload(serviceImagePath(slug), {
+      as: "image",
+      imageSrcSet: `${thumb(serviceImagePath(slug))} 768w, ${serviceImagePath(slug)} 1024w`,
+      imageSizes: "100vw",
+      fetchPriority: "high",
+    });
+  }
   const t = await getTranslations("ServiceDetail");
   const categoryLabel = getCategoryLabel(l.category, loc);
   const faqs = getServiceFaqs(slug).map((f) => getLocalizedFaq(f, loc));
@@ -130,13 +140,18 @@ export default async function ServiceDetailPage({
       <section className="relative isolate overflow-hidden bg-gradient-to-br from-blue-deep via-blue-dark to-blue-deep py-16 text-sky-bg lg:py-20">
         {hasServiceImage(slug) ? (
           <>
-            <Image
+            {/* <img> nativo con srcSet: con `images.unoptimized` next/image
+                sirve siempre el original. La variante de 768 px la genera
+                scripts/build-image-variants.mjs; la precarga está arriba. */}
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
               src={serviceImagePath(slug)}
-              alt={l.title}
-              fill
-              priority
+              srcSet={`${thumb(serviceImagePath(slug))} 768w, ${serviceImagePath(slug)} 1024w`}
               sizes="100vw"
-              className="absolute inset-0 -z-20 object-cover object-center"
+              alt={l.title}
+              fetchPriority="high"
+              decoding="async"
+              className="absolute inset-0 -z-20 h-full w-full object-cover object-center"
             />
             <div
               aria-hidden
