@@ -150,7 +150,6 @@ export default async function ServiceDetailPage({
               sizes="100vw"
               alt={l.title}
               fetchPriority="high"
-              decoding="async"
               className="absolute inset-0 -z-20 h-full w-full object-cover object-center"
             />
             <div

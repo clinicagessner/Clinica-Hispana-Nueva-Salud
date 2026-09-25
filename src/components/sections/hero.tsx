@@ -53,7 +53,6 @@ export async function Hero() {
         sizes="100vw"
         alt="Fachada y letrero de Clínica Hispana Nueva Salud en 7640 Bellfort Ave, Houston, TX"
         fetchPriority="high"
-        decoding="async"
         className="absolute inset-0 -z-20 h-full w-full object-cover object-[center_40%]"
       />
       {/* Oscurecido principal abajo: arriba la foto clara, abajo texto legible.
