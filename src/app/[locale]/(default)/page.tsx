@@ -30,7 +30,7 @@ export async function generateMetadata({
       : "Clínica Hispana Nueva Salud Houston | Sin Cita, Sin Seguro",
     description: isEn
       ? "Hispanic clinic in Houston, TX (7640 Bellfort Ave, 77061): care 100% in Spanish, walk-ins welcome, no insurance needed, affordable prices. Open daily 9 AM-9 PM."
-      : "Clínica hispana en Houston, TX (7640 Bellfort Ave, 77061): atención 100% en español, sin cita y sin seguro, con precios accesibles. Lunes a domingo, 9 AM-9 PM.",
+      : "Clínica hispana en Houston: sin cita, sin seguro y 100% en español. Abierto todos los días de 9 AM a 9 PM en 7640 Bellfort Ave. Precios accesibles.",
     alternates: buildAlternates("/", locale as Locale),
   };
 }
