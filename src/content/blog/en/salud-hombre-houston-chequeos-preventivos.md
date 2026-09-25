@@ -2,6 +2,7 @@
 title: "Men's health in Houston: preventive checkups that save lives"
 description: "A guide to preventive checkups for men in Houston: PSA, testosterone, blood pressure, glucose and cholesterol. Care in Spanish, walk-ins welcome."
 date: "2026-07-22"
+updated: "2026-09-25"
 author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Men's health"
 cover: "/images/blog/salud-hombre-houston-chequeos-preventivos.webp"
@@ -14,11 +15,11 @@ keywords:
   - "hispanic clinic houston men"
 ---
 
-Many Hispanic men only see a doctor when the pain no longer lets them work. The problem is that the most dangerous conditions — high blood pressure, diabetes, cholesterol, prostate problems — progress for years **without symptoms**. A timely preventive checkup can catch them while they are still easy to control.
+It's common for a man to put off a checkup "until there's time" and only come in when something keeps him from working. The problem is that the most dangerous conditions — high blood pressure, diabetes, cholesterol, prostate problems — progress for years **without symptoms**. A timely preventive checkup can catch them while they are still easy to control.
 
-## Why should men get regular checkups?
+## Why get checked even if you feel fine?
 
-The statistics are clear: men visit the doctor far less than women, so their conditions tend to be found later. High blood pressure doesn't hurt. Elevated glucose gives no warning. A high PSA can't be felt. By the time symptoms appear, damage to the heart, kidneys or prostate has often already begun.
+Men see the doctor less often than women, which means their conditions tend to be discovered later. High blood pressure doesn't hurt. Elevated glucose gives no warning. A high PSA can't be felt. By the time symptoms appear, damage to the heart, kidneys or prostate has often already begun.
 
 The good news: caught early, almost all of this can be managed with lifestyle changes, medication and follow-up.
 
@@ -27,7 +28,7 @@ The good news: caught early, almost all of this can be managed with lifestyle ch
 At Clínica Hispana Nueva Salud you can get these exams with no appointment and results explained in Spanish:
 
 - **[Prostate antigen (PSA) and testosterone](/en/services/salud-hombre):** early detection of prostate problems and a hormone evaluation if you have fatigue, low energy or changes in your intimate life.
-- **[Complete blood work](/en/services/examenes-sangre):** glucose, cholesterol, triglycerides, kidney and liver function.
+- **[Blood tests](/en/services/examenes-sangre):** blood sugar, a lipid panel and kidney and liver tests, depending on what you need.
 - **[Electrocardiogram](/en/services/electrocardiograma):** heart evaluation, especially with high blood pressure or family history.
 - **[Diabetes, hypertension and cholesterol care](/en/services/condiciones-cronicas):** close follow-up if you already have a diagnosis.
 - **[Urinary tract infection testing](/en/services/infecciones-urinarias)** and **[STD testing](/en/services/enfermedades-transmision-sexual):** private and judgment-free.
@@ -42,16 +43,20 @@ At Clínica Hispana Nueva Salud you can get these exams with no appointment and 
 
 ## Recommended exams by age
 
-| Age | Recommended exams |
+A summary of the [U.S. Preventive Services Task Force (USPSTF)](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) recommendations for men without symptoms. Your history may move some of them earlier or change them.
+
+| Age | What to check |
 | --- | --- |
-| 18–39 | Blood pressure every year; cholesterol every 4–6 years; glucose if overweight; STI testing if sexually active |
-| 40–49 | All of the above + glucose every 3 years; PSA with family history; testosterone if symptoms |
-| 50–64 | Full annual checkup; talk to your doctor about PSA; electrocardiogram with risk factors |
-| 65+ | Full annual checkup; PSA as medically indicated; yearly cardiovascular and kidney evaluation |
+| From 18 | Blood pressure (every year from 40 or if it was high before); an HIV test at least once |
+| 35 to 70 | Blood sugar if you are overweight or have obesity |
+| 40 to 75 | Assess your cardiovascular risk with cholesterol, to decide whether treatment makes sense |
+| 45 to 75 | Colon cancer screening |
+| 55 to 69 | Decide with your doctor whether to get a PSA test: it has benefits and possible harms ([USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening)) |
+| 65 to 75 | One abdominal aorta ultrasound if you have ever smoked |
 
 ## Warning signs: don't ignore them
 
-See a doctor as soon as possible if you notice:
+Don't put it off if you notice:
 
 - Chest pain or pressure
 - Difficulty, burning or blood when urinating
@@ -68,12 +73,12 @@ We know that explaining what you feel in another language is hard, and many men 
 
 ## Practical tips to protect your health
 
-1. **Get an annual checkup** even if you feel fine: it's the only way to catch what's silent.
-2. **Know your numbers:** blood pressure, glucose and cholesterol.
-3. **Move 30 minutes a day:** walking counts.
-4. **Watch your portions** and cut back on sodas.
-5. **Don't smoke** and go easy on alcohol.
-6. **Sleep 7–8 hours:** poor sleep raises blood pressure and glucose.
+1. **Write down your numbers** for blood pressure, sugar and cholesterol every time they are measured, and compare them with the last ones.
+2. **Walk briskly** most days; half an hour already makes a difference.
+3. **Swap sodas for water** and use smaller plates.
+4. **Quit smoking**: ask for help at your visit if you've tried on your own.
+5. **If you drink, keep it light** and never before driving.
+6. **Protect your sleep**; loud snoring with pauses in breathing is worth a visit.
 
 ## Why choose Clínica Hispana Nueva Salud
 

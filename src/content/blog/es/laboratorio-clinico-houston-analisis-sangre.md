@@ -1,6 +1,6 @@
 ---
 title: "Laboratorio clínico en Houston: análisis de sangre"
-description: "Conoce qué análisis de sangre puedes hacerte en Houston, para qué sirven y cómo recibir tus resultados explicados en español."
+description: "Qué mide cada análisis de sangre (biometría, glucosa, A1c, colesterol, tiroides), cuándo ir en ayunas y qué hacer con tus resultados. En español en Houston."
 date: "2026-03-30"
 updated: "2026-09-25"
 author: "Equipo médico de Clínica Hispana Nueva Salud"
@@ -13,28 +13,38 @@ keywords:
   - "laboratorio cerca de mí houston"
 ---
 
-Un análisis de sangre puede contar mucho sobre tu salud, incluso antes de que aparezcan síntomas. Saber cuáles existen y para qué sirven te ayuda a cuidarte mejor.
+Un análisis de sangre es la forma más directa de saber cómo están por dentro tu azúcar, tu colesterol, tus riñones o tu tiroides, muchas veces antes de que aparezca cualquier síntoma. Esta guía explica qué mide cada prueba común, cómo prepararte y qué hacer con los resultados.
 
-## ¿Por qué hacerse análisis de sangre?
+## ¿Qué mide cada análisis?
 
-Los [análisis de sangre](/services/examenes-sangre) sirven para **detectar problemas a tiempo**, dar seguimiento a una [condición crónica](/services/condiciones-cronicas) o completar un [examen de inmigración](/services/examenes-inmigracion), trabajo o [escuela](/services/examen-fisico-escolar).
+- **Biometría hemática (hemograma):** glóbulos rojos, blancos y plaquetas. Sirve para detectar anemia, infecciones y otros problemas de la sangre ([MedlinePlus](https://medlineplus.gov/spanish/ency/article/003642.htm)).
+- **Química sanguínea:** glucosa, función de riñones e hígado y electrolitos, según el panel.
+- **Glucosa en ayunas y hemoglobina A1c:** la glucosa es una foto del momento; la A1c muestra el promedio de azúcar de los últimos dos a tres meses ([MedlinePlus](https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-hemoglobina-a1c/)).
+- **Perfil de lípidos:** colesterol total, LDL ("malo"), HDL ("bueno") y triglicéridos.
+- **Pruebas de tiroides:** principalmente la TSH, que ayuda a detectar si la tiroides trabaja de más o de menos.
 
-## Los análisis más comunes
+El equipo médico decide qué pruebas pedir según tu edad, tus síntomas y tus antecedentes, para no gastar en estudios que no necesitas.
 
-- **Biometría hemática:** evalúa tus glóbulos rojos, blancos y plaquetas.
-- **Química sanguínea:** mide glucosa, función del riñón e hígado.
-- **Perfil de lípidos:** colesterol y triglicéridos.
-- **[Pruebas de tiroides](/services/tiroides):** revisan el funcionamiento de la tiroides.
-- **[Examen de heces](/services/examen-heces):** detecta parásitos e infecciones digestivas.
+## ¿Tengo que ir en ayunas?
 
-## ¿Necesito ayuno?
+Depende de la prueba. La glucosa en ayunas pide entre 8 y 12 horas sin comer; para otras, como la A1c o la biometría, no hace falta. Cuando se pide ayuno, puedes tomar agua simple, y en general debes seguir con tus medicamentos salvo que te indiquen lo contrario ([MedlinePlus](https://medlineplus.gov/lab-tests/fasting-for-a-blood-test/)). Si no sabes si te toca ayunar, escríbenos antes de venir.
 
-Algunos estudios requieren ayuno de 8 a 12 horas (como la glucosa y el colesterol) y otros no. Pregúntanos al agendar y te diremos cómo prepararte.
+## ¿Cómo es la toma de muestra?
 
-## Resultados rápidos
+Se hace en la clínica y tarda pocos minutos: una punción en el brazo y uno o varios tubos, según los estudios. Si te mareas con las agujas, avísanos y te recostamos. Toma agua el día anterior; estar bien hidratado facilita encontrar la vena.
 
-El plazo depende de cada prueba y te lo decimos al tomar la muestra. Cuando llegan los resultados, te los explicamos en español, sin tecnicismos, para que entiendas qué significan.
+## ¿Cuándo tengo los resultados?
 
-## Ven sin cita
+El plazo depende de cada prueba y te lo decimos al tomar la muestra. Cuando llegan los resultados, te los explicamos en español, sin tecnicismos, para que entiendas qué significa cada número y qué sigue.
 
-En Clínica Hispana Nueva Salud tomamos tus muestras en el momento y te orientamos sobre los siguientes pasos. Llámanos al **(832) 831-4016** o [visítanos sin cita](/walk-in) de 9 AM a 9 PM.
+## ¿Qué hago si algo sale alterado?
+
+Un valor fuera de rango no siempre es una enfermedad: puede deberse al ayuno, a un medicamento o a una infección reciente. A veces basta con repetir la prueba; otras, confirma algo que hay que tratar, como diabetes, colesterol alto o hipotiroidismo. En ese caso armamos un plan de [control de condiciones crónicas](/services/condiciones-cronicas) con seguimiento, o revisamos tu [tiroides](/services/tiroides) con más detalle.
+
+## ¿Cada cuánto conviene hacerse análisis?
+
+No hay una sola respuesta. Una persona sana y joven puede necesitarlos pocas veces; alguien con diabetes suele revisar la A1c cada tres a seis meses. Si tienes antecedentes familiares de diabetes o problemas del corazón, o hace años que no te revisas, lo razonable es empezar con un chequeo y decidir desde ahí.
+
+## Laboratorio en Bellfort Avenue
+
+En Clínica Hispana Nueva Salud (7640 Bellfort Ave, Suite A, Houston 77061) hacemos [análisis de sangre](/services/examenes-sangre) con toma de muestra en la clínica, sin cita y sin necesidad de seguro. Revisa las [promociones](/promociones) vigentes de chequeo general. Abrimos todos los días de 9 AM a 9 PM; teléfono y WhatsApp **(832) 831-4016**.

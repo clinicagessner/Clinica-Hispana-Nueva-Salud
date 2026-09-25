@@ -2,6 +2,7 @@
 title: "Vitamin B12: benefits, deficiency and injections"
 description: "What vitamin B12 is for, how to spot a deficiency and when an injection helps. B12 testing in Spanish in Houston, walk-ins welcome, no insurance needed."
 date: "2026-08-18"
+updated: "2026-09-25"
 author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Health"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
@@ -14,69 +15,62 @@ keywords:
   - "vitamin iv therapy houston"
 ---
 
-Do you feel tired all the time even after a good night's sleep? Do you notice tingling in your hands or feet, forget things, or lack energy for work? Before you get used to living that way, it's worth checking something very simple: your **vitamin B12** level. Deficiency of this vitamin is more common than people think—and it's easy to correct when caught early.
+Tiredness that sleep doesn't fix, tingling hands, forgetting things you used to remember. Many people put it down to stress or age, but sometimes the explanation is a vitamin: **B12**. Low levels are common in certain groups, a simple blood test detects them and, when treated early, the effects usually reverse.
 
-## What is vitamin B12 and what is it for?
+## What does vitamin B12 do in the body?
 
-Vitamin B12 is an essential nutrient your body **cannot produce on its own**: it only comes from animal-based foods or supplements. It supports basic functions, and when it's missing, your whole body feels it:
+The body can't make it: it has to come from animal products, fortified foods or supplements. According to the [National Institutes of Health (NIH)](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/), an adult needs about 2.4 micrograms a day. With that, it handles several jobs:
 
-- **Red blood cells:** without enough B12, anemia develops.
-- **Nervous system:** it protects your nerves; that's why a deficiency causes tingling and numbness.
-- **Energy:** it helps turn food into energy; constant fatigue is the most common symptom.
-- **Memory and focus:** your brain needs it to work clearly.
+- **Making red blood cells.** Without enough, a type of anemia appears, with large, poorly working cells.
+- **Protecting nerves.** A long-lasting shortage can damage them and cause tingling or numbness.
+- **Supporting the mind.** Memory, attention and mood depend partly on it.
 
-Important: B12 is **not a magic energy booster** for people who already have normal levels. Its real benefit is correcting and preventing deficiency—which is why the first step is always measuring it with a [blood test](/en/services/examenes-sangre).
+To be clear: if your levels are already normal, more B12 won't give you extra energy. It is for correcting or preventing a deficiency, which is why it is measured first with a [blood test](/en/services/examenes-sangre).
 
-## Symptoms of vitamin B12 deficiency
+## How can you tell it's low?
 
-Deficiency develops slowly and its symptoms are often mistaken for stress or "age." Watch for:
+Symptoms creep in slowly and it's easy to get used to them:
 
-- Tiredness and weakness that don't improve with rest
-- Tingling or numbness in hands and feet
-- Pale or slightly yellowish skin
-- A swollen, smooth or burning tongue
-- Memory problems and trouble concentrating
-- Mood changes or irritability
-- Dizziness or shortness of breath with exertion
+- Ongoing fatigue and weakness.
+- Tingling, numbness or clumsiness in the hands and feet.
+- Pale skin.
+- A red, smooth or sore tongue.
+- Memory lapses and trouble concentrating.
+- Low mood or irritability for no clear reason.
+- Shortness of breath or palpitations with little effort.
 
-## Who is most at risk?
+## Who is more likely to be deficient?
 
-- **People over 50:** with age, the stomach absorbs B12 from food less effectively.
-- **Those taking acid reflux or heartburn medication** (like omeprazole) long term.
-- **Those taking metformin for [diabetes](/en/blog/control-diabetes-houston-guia-pacientes):** this medication reduces B12 absorption.
-- **Vegetarians and vegans:** B12 is only naturally present in animal-based foods.
-- **People with stomach or intestinal surgery**, or digestive conditions like chronic gastritis.
+- **Adults over 50**, because stomach acid, which helps absorb it, drops with age.
+- **People who have taken omeprazole** or other heartburn medications for a long time.
+- **Patients on metformin** for [diabetes](/en/blog/control-diabetes-houston-guia-pacientes); it's worth checking now and then.
+- **People on a strict vegetarian or vegan diet.**
+- **People who have had stomach or bowel surgery**, including weight-loss surgery.
 
-## Which foods provide vitamin B12?
+## Where is it found in food?
 
-Food should always be the first source:
+Liver and clams are very rich in it; salmon, tuna and beef provide a good amount; milk, yogurt, cheese and eggs somewhat less. Some cereals and plant-based drinks are fortified: check the label. The [NIH](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/) table lists how much each food contains.
 
-- **Beef liver:** very high content
-- **Fish such as salmon, tuna and sardines:** high
-- **Beef and chicken:** moderate to high
-- **Eggs, milk, cheese and yogurt:** moderate
-- **Fortified cereals:** varies (check the label)
+That said, if your body doesn't absorb it well, diet isn't enough: you can eat everything and still run low.
 
-The problem is that **eating well isn't always enough**: if your stomach doesn't absorb the vitamin—because of age, medication or surgery—you can be deficient even with a good diet.
+## Injection or pills?
 
-## B12 injection vs. pills
+When intestinal absorption is normal and the shortage is mild, pills usually work, including for maintenance. An intramuscular injection reaches the blood without going through the gut, so it is preferred when the deficiency is significant, there are nerve symptoms or there is an absorption problem.
 
-**Pills** work well for mild deficiencies and as maintenance, as long as your intestine absorbs normally. The **injection** goes into the muscle and passes directly into the blood, without depending on digestive absorption. It's recommended when the deficiency is moderate or severe, there are neurological symptoms, or absorption problems exist.
+At the clinic we give vitamin B12 injections and offer [vitamin IV therapy](/en/services/sueros-vitaminados) with hydration. If the blood test points to another cause of fatigue, such as the [thyroid](/en/services/tiroides), iron-deficiency anemia or a [chronic condition](/en/services/condiciones-cronicas), we treat that too.
 
-At Clínica Hispana Nueva Salud we administer vitamin B12 injections and also offer [vitamin IV therapy](/en/services/sueros-vitaminados) that combines vitamins with full hydration, depending on what your body needs. And if the underlying cause is something else—[thyroid](/en/services/tiroides), iron-deficiency anemia or a [chronic condition](/en/services/condiciones-cronicas)—the same blood test helps us detect it.
+## How often is the shot given?
 
-## How often is the injection given?
+There is no single schedule. Often treatment starts with closer doses to rebuild your stores and then spreads them out to keep them up. The medical team sets the plan with your results in hand, not by guesswork.
 
-It depends on your starting level and the cause. A common plan is a correction phase with weekly injections, followed by maintenance with one monthly injection. At your visit we define the right plan based on your results—we never dose "blindly."
+## Why do it with us
 
-## Why choose Clínica Hispana Nueva Salud
+- The whole process in Spanish, from the moment you arrive.
+- No appointment needed, seven days a week.
+- Affordable prices, no insurance required.
+- Sample collection at the same clinic.
+- Close to you in southeast Houston: Glenbrook Valley, Park Place, Gulfgate, Pecan Park, Golfcrest, the Hobby area and South Houston.
 
-- Care 100% in Spanish, from front desk to consultation
-- No appointment needed: walk in any day
-- Affordable pricing, no medical insurance required
-- On-site lab with fast results
-- Convenient location for southeast Houston: Glenbrook Valley, Park Place, Gulfgate, Pecan Park, Golfcrest, Hobby Area and South Houston
+## Check your B12
 
-## Get your energy back today
-
-Don't get used to feeling tired: a vitamin B12 test takes minutes. Before you visit, check our [current promotions](/en/promociones) — they include a general blood panel package with a vitamin B12 injection. Call us at **(832) 831-4016** or [walk in](/en/walk-in) at **7640 Bellfort Ave Ste A, Houston, TX 77061**, Monday to Sunday from 9:00 AM to 9:00 PM.
+Finding out is simple: the blood draw takes a few minutes. See our [current promotions](/en/promociones), which include a general blood panel with a vitamin B12 injection. Call **(832) 831-4016** or [walk in](/en/walk-in) at **7640 Bellfort Ave Ste A, Houston, TX 77061**, Monday through Sunday from 9:00 AM to 9:00 PM.

@@ -2,7 +2,7 @@
 title: "Diabetes management in Houston: a patient guide"
 description: "Learn to manage your diabetes with a practical guide: nutrition, monitoring and medical follow-up in Houston."
 date: "2026-02-10"
-updated: "2026-08-21"
+updated: "2026-09-25"
 author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-houston-guia-pacientes.webp"
@@ -19,8 +19,8 @@ Diabetes is one of the most common conditions in the Hispanic community: about 1
 
 The first step is knowing where you stand. These are the values your doctor checks and what they mean:
 
-- **Fasting glucose:** your blood sugar when you wake up. Normal: under 100 mg/dL. Prediabetes: 100-125. Diabetes: 126 or higher on two readings.
-- **Hemoglobin A1c:** your average blood sugar over the past 3 months. Normal: under 5.7%. Prediabetes: 5.7-6.4%. Diabetes: 6.5% or higher. If you already have diabetes, the goal for most people is **under 7%**.
+- **Fasting glucose:** your blood sugar after 8 hours without food. Normal: under 100 mg/dL. Prediabetes: 100-125. Diabetes: 126 or higher on two readings.
+- **Hemoglobin A1c:** shows how your blood sugar has been, on average, over about 3 months. Normal: under 5.7%. Prediabetes: 5.7-6.4%. Diabetes: 6.5% or higher. If you already have diabetes, the goal for most people is **under 7%**.
 - **Blood pressure:** the general goal is under 130/80.
 - **Cholesterol and triglycerides:** they often go hand in hand with diabetes and multiply the risk of a heart attack.
 
@@ -36,7 +36,7 @@ If you have low-sugar symptoms often, tell your doctor: it's a sign the dose nee
 
 ## Food is your medicine
 
-It's not about giving up what you love, but about balance. Tips that actually work in a Hispanic family kitchen:
+Eating with diabetes doesn't mean giving up home cooking: it's about adjusting amounts and combinations. Tips that actually work in a Hispanic family kitchen:
 
 1. **Cut back on sugary drinks:** sodas, juices and sweetened aguas frescas are the easiest sugar source to eliminate. Switch to water, water with lime or unsweetened tea.
 2. **Watch portions of tortillas, rice, bread and potatoes:** no need to remove them, but limit them to one serving (2 tortillas, half a cup of rice) and pair them with protein and vegetables.

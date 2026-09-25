@@ -2,7 +2,7 @@
 title: "Control de diabetes en Houston: guía para pacientes"
 description: "Aprende a controlar tu diabetes con una guía práctica en español: alimentación, monitoreo y seguimiento médico en Houston."
 date: "2026-02-10"
-updated: "2026-08-21"
+updated: "2026-09-25"
 author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-houston-guia-pacientes.webp"
@@ -19,8 +19,8 @@ La diabetes es una de las condiciones más comunes en la comunidad hispana: cerc
 
 El primer paso es saber dónde estás. Estos son los valores que tu médico revisa y lo que significan:
 
-- **Glucosa en ayunas:** tu nivel de azúcar al despertar. Normal: menos de 100 mg/dL. Prediabetes: 100-125. Diabetes: 126 o más en dos mediciones.
-- **Hemoglobina A1c:** tu promedio de azúcar de los últimos 3 meses. Normal: menos de 5.7%. Prediabetes: 5.7-6.4%. Diabetes: 6.5% o más. Si ya tienes diabetes, la meta para la mayoría de las personas es **menos de 7%**.
+- **Glucosa en ayunas:** el azúcar en sangre tras 8 horas sin comer. Normal: menos de 100 mg/dL. Prediabetes: 100-125. Diabetes: 126 o más en dos mediciones.
+- **Hemoglobina A1c:** refleja cómo ha estado tu azúcar, en promedio, durante unos 3 meses. Normal: menos de 5.7%. Prediabetes: 5.7-6.4%. Diabetes: 6.5% o más. Si ya tienes diabetes, la meta para la mayoría de las personas es **menos de 7%**.
 - **Presión arterial:** la meta general es menos de 130/80.
 - **Colesterol y triglicéridos:** muchas veces van de la mano con la diabetes y multiplican el riesgo de infarto.
 
@@ -36,7 +36,7 @@ Si tienes síntomas de azúcar baja con frecuencia, dile a tu médico: es señal
 
 ## La alimentación es tu medicina
 
-No se trata de dejar de comer lo que te gusta, sino de equilibrar. Consejos que sí funcionan en la cocina de una familia hispana:
+Comer con diabetes no obliga a renunciar a la comida de casa: se trata de ajustar cantidades y combinaciones. Consejos que sí funcionan en la cocina de una familia hispana:
 
 1. **Reduce las bebidas azucaradas:** refrescos, jugos y aguas frescas con azúcar son la fuente de azúcar más fácil de eliminar. Cámbialas por agua, agua con limón o té sin azúcar.
 2. **Cuida las porciones de tortilla, arroz, pan y papa:** no hace falta quitarlos, pero limítalos a una porción (2 tortillas, media taza de arroz) y acompáñalos con proteína y verdura.
