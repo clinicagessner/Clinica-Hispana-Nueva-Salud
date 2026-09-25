@@ -86,6 +86,11 @@ export default async function BlogIndexPage({
 
       <section className="bg-cloud py-14 lg:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          {/* h2 solo para lectores de pantalla: las tarjetas usan h3 y sin él
+              la jerarquía saltaba de h1 a h3. */}
+          <h2 className="sr-only">
+            {locale === "en" ? "All articles" : "Todos los artículos"}
+          </h2>
           {posts.length === 0 ? (
             <p className="text-center text-slate-muted">{t("empty")}</p>
           ) : (

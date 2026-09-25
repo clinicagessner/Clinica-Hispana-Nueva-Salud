@@ -122,6 +122,10 @@ export default async function PromotionsPage({
       {/* Grid de promociones */}
       <section className="bg-sky-bg pb-20 lg:pb-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          {/* h2 solo para lectores de pantalla: las tarjetas usan h3. */}
+          <h2 className="sr-only">
+            {locale === "en" ? "Current promotions" : "Promociones vigentes"}
+          </h2>
           <PromotionsGrid
             items={items}
             viewDetailLabel={t("viewDetail")}
