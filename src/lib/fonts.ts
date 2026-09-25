@@ -10,11 +10,12 @@ export const gabarito = Gabarito({
 });
 
 // Figtree → cuerpo (variable --font-figtree). Sans limpia y muy legible.
+// Sin `weight`: se carga como fuente variable (300–900). Con pesos sueltos,
+// Google devuelve URLs /l/font?kit=…&skey=… que Turbopack no resuelve.
 export const figtree = Figtree({
   subsets: ["latin"],
   display: "swap",
   variable: "--font-figtree",
-  weight: ["300", "400", "500", "600", "700"],
 });
 
 // Clase combinada para aplicar en <html>
