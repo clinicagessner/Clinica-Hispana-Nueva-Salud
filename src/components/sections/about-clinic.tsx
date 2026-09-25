@@ -66,23 +66,23 @@ export async function AboutClinic() {
           </Reveal>
 
           <Reveal delay={120} className="lg:col-span-5">
-            <dl className="grid gap-4 rounded-3xl border border-blue-light bg-white p-6 shadow-xl shadow-blue-deep/10 sm:grid-cols-2 lg:grid-cols-1">
+            <div className="grid gap-4 rounded-3xl border border-blue-light bg-white p-6 shadow-xl shadow-blue-deep/10 sm:grid-cols-2 lg:grid-cols-1">
               {facts.map(({ icon: Icon, label, value }) => (
                 <div key={label} className="flex items-start gap-3">
                   <span className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-teal-bg text-teal-deep">
                     <Icon className="h-4.5 w-4.5" />
                   </span>
                   <div>
-                    <dt className="text-xs font-semibold uppercase tracking-wider text-slate-primary/70">
+                    <p className="text-xs font-semibold uppercase tracking-wider text-slate-primary/70">
                       {label}
-                    </dt>
-                    <dd className="mt-0.5 text-sm font-medium text-slate-dark">
+                    </p>
+                    <p className="mt-0.5 text-sm font-medium text-slate-dark">
                       {value}
-                    </dd>
+                    </p>
                   </div>
                 </div>
               ))}
-            </dl>
+            </div>
           </Reveal>
         </div>
       </div>
