@@ -29,7 +29,7 @@ import {
   getLocalizedService,
   serviceImagePath,
 } from "@/lib/utils";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -56,12 +56,15 @@ export async function generateMetadata({
     description: l.description,
     keywords: l.keywords,
     alternates: buildAlternates(`/services/${slug}`, locale as Locale),
-    openGraph: {
+    ...buildSocial({
       title: l.metaTitle,
       description: l.description,
+      path: `/services/${slug}`,
+      locale: locale as Locale,
       type: "article",
-      url: absoluteUrl(`/services/${slug}`, locale as Locale),
-    },
+      image: serviceImagePath(slug),
+      imageAlt: l.title,
+    }),
   };
 }
 

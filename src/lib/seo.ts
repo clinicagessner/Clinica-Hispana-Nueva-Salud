@@ -26,3 +26,52 @@ export function buildAlternates(path: string, locale: Locale) {
     },
   };
 }
+
+/**
+ * Bloque openGraph + twitter para una página. El `openGraph` de la página
+ * REEMPLAZA entero al del layout: sin `images` aquí, los 29 servicios salían
+ * sin imagen social.
+ */
+export function buildSocial({
+  title,
+  description,
+  path,
+  locale,
+  type = "website",
+  image,
+  imageAlt,
+  publishedTime,
+  modifiedTime,
+}: {
+  title: string;
+  description: string;
+  path: string;
+  locale: Locale;
+  type?: "website" | "article";
+  image?: string;
+  imageAlt?: string;
+  publishedTime?: string;
+  modifiedTime?: string;
+}) {
+  const url = absoluteUrl(path, locale);
+  const img = image ?? SITE_CONFIG.ogImage;
+  return {
+    openGraph: {
+      title,
+      description,
+      type,
+      url,
+      siteName: SITE_CONFIG.name,
+      locale: locale === "en" ? "en_US" : "es_US",
+      images: [{ url: img, alt: imageAlt ?? title }],
+      ...(publishedTime ? { publishedTime } : {}),
+      ...(modifiedTime ? { modifiedTime } : {}),
+    },
+    twitter: {
+      card: "summary_large_image" as const,
+      title,
+      description,
+      images: [img],
+    },
+  };
+}
