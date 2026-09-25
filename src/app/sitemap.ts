@@ -10,11 +10,11 @@ const BASE = SITE_CONFIG.baseUrl;
 // build, Google no tiene señal de qué recorrer cuando el contenido cambia.
 // /privacy es noindex: no va en el sitemap para no enviar señales contradictorias.
 const PAGE_DATES: Record<string, string> = {
-  "/": "2026-09-25", // reseñas reales de Google
-  "/services": "2026-09-01",
+  "/": "2026-09-25", // reseñas reales de Google, FAQ del I-693
+  "/services": "2026-09-25", // farmacia, infecciones urinarias, salud del hombre (§9)
   "/promociones": "2026-09-01",
   "/walk-in": "2026-08-02",
-  "/landing/comparacion-clinicas-houston": "2026-09-25", // reseñas reales
+  "/landing/comparacion-clinicas-houston": "2026-09-25", // reseñas reales, plazos de laboratorio
 };
 
 // Cada ruta genera dos entradas <url> (es + /en) con hreflang cruzado.

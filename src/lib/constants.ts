@@ -93,7 +93,7 @@ export const SOCIAL_LINKS = {
 // Última revisión de contenido de las páginas de servicio: caja de revisión
 // médica, `lastReviewed` del schema y `lastmod` del sitemap. Se toca en el
 // mismo commit que cambia el texto de los servicios.
-export const SERVICES_LAST_REVIEWED = "2026-09-01";
+export const SERVICES_LAST_REVIEWED = "2026-09-25";
 
 // Fallback de build para rating/reseñas. La data en vivo la trae
 // getGooglePlaceData() cuando hay GOOGLE_PLACES_API_KEY + GOOGLE_PLACE_ID.
@@ -1603,29 +1603,29 @@ ${AREAS_EN}`,
     category: "medicina-general",
     icon: "Mars",
     highlighted: true,
-    title: "Exámenes del Hombre: PSA y Testosterona",
-    titleEn: "Men's Health Exams: PSA & Testosterone",
+    title: "Exámenes de Salud del Hombre: PSA y Perfil Hormonal",
+    titleEn: "Men's Health Exams: PSA & Hormone Profile",
     metaTitle: "Salud del Hombre en Houston | Clínica Hispana Nueva Salud",
     metaTitleEn: "Men's Health Exams in Houston | Clínica Hispana Nueva Salud",
     shortDescription:
-      "Exámenes de salud del hombre: antígeno prostático (PSA), testosterona y chequeo general, en español.",
+      "Exámenes de salud del hombre: antígeno prostático (PSA), perfil hormonal y chequeo general, en español.",
     shortDescriptionEn:
-      "Men's health exams: prostate antigen (PSA), testosterone and general checkup, in Spanish.",
+      "Men's health exams: prostate antigen (PSA), hormone profile and general checkup, in Spanish.",
     description:
-      "Exámenes del hombre en Houston, TX: PSA y testosterona. Laboratorio y atención en español, con precios accesibles. Sin cita y sin seguro médico.",
+      "Exámenes del hombre en Houston, TX: PSA y perfil hormonal. Laboratorio y atención en español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Men's health exams in Houston, TX: PSA and testosterone. Lab work and care in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
+      "Men's health exams in Houston, TX: PSA and hormone profile. Lab work and care in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen del hombre houston",
       "prueba psa houston",
       "examen de prostata houston",
-      "examen de testosterona houston",
+      "chequeo hombre houston",
     ],
     keywordsEn: [
       "mens health houston",
       "psa test houston",
       "prostate exam houston",
-      "testosterone test houston",
+      "mens checkup houston",
     ],
     features: [
       "Antígeno prostático (PSA)",
@@ -1913,13 +1913,13 @@ ${AREAS_EN}`,
     metaTitle: "Infección Urinaria en Houston | Clínica Hispana Nueva Salud",
     metaTitleEn: "UTI Treatment in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
-      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
+      "Examen de orina en la clínica y tratamiento de infecciones urinarias, en español.",
     shortDescriptionEn:
-      "Urinalysis and same-day urinary infection treatment, in Spanish.",
+      "In-clinic urinalysis and urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias en Houston, TX, el mismo día. En español, con precios accesibles. Sin cita y sin seguro médico.",
+      "Examen de orina y tratamiento de infecciones urinarias en Houston, TX. En español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Urinalysis and urinary infection treatment in Houston, TX, same day. In Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
+      "Urinalysis and urinary infection treatment in Houston, TX. In Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen de orina houston",
       "infeccion urinaria houston",
@@ -1935,23 +1935,23 @@ ${AREAS_EN}`,
     features: [
       "Examen de orina en la clínica",
       "Diagnóstico de infección urinaria",
-      "Tratamiento el mismo día",
+      "Tratamiento indicado por el equipo médico",
       "Atención sin cita en español",
     ],
     featuresEn: [
       "In-clinic urinalysis",
       "Diagnosis of urinary infection",
-      "Same-day treatment",
+      "Treatment prescribed by the medical team",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El ardor al orinar no es algo con lo que debas "aguantar". En Clínica Hispana Nueva Salud te hacemos el examen de orina en la clínica y, si hay infección urinaria, empiezas el tratamiento el mismo día: sin cita previa, sin seguro médico y en español.
+    longDescription: `El ardor al orinar no es algo con lo que debas "aguantar". En Clínica Hispana Nueva Salud te hacemos el examen de orina en la clínica y, si hay infección urinaria, el equipo médico te indica el tratamiento: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
 - **Examen general de orina (urianálisis)** con resultado en la misma visita
 - **Evaluación de síntomas** y revisión médica
 - **Diagnóstico de infección urinaria** (cistitis) y descarte de otras causas
-- **Tratamiento el mismo día** con el antibiótico adecuado
+- **Tratamiento** con el antibiótico adecuado, indicado por el equipo médico
 - **Urocultivo** cuando la infección se repite o no mejora, para saber qué bacteria es y qué antibiótico sí funciona
 - **Indicaciones claras** para aliviar las molestias y evitar que regrese
 
@@ -1978,26 +1978,26 @@ Si te da infección varias veces al año, no es normal y tiene solución. En la 
 1. Llegas sin cita y te registras en recepción.
 2. Das una muestra de orina en la clínica (lo ideal es no haber orinado en la última hora).
 3. El personal médico evalúa tus síntomas y el resultado del examen.
-4. Si hay infección, sales con tu receta y tu tratamiento ese mismo día; contamos con [farmacia dentro de la clínica](/services/farmacia).
+4. Si hay infección, el equipo médico te indica el tratamiento y puedes recibir los medicamentos en nuestra [farmacia dentro de la clínica](/services/farmacia).
 5. Te indicamos cuándo volver si las molestias no mejoran en 2-3 días.
 
 ## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
 
-Somos una clínica hispana cerca de ti en Houston, en la zona de Bellfort / Hobby: te hacemos el examen de orina y, si hay infección, sales con tu tratamiento el mismo día, sin cita previa y en español, de lunes a domingo de 9 AM a 9 PM.
+Somos una clínica hispana cerca de ti en Houston, en la zona de Bellfort / Hobby: te hacemos el examen de orina y, si hay infección, te damos el tratamiento indicado, sin cita previa y en español, de lunes a domingo de 9 AM a 9 PM.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Burning when you urinate isn't something you should "put up with." At Clínica Hispana Nueva Salud we run the urine test in-clinic and, if there's a urinary tract infection, you start treatment the same day: no appointment, no insurance required, and in Spanish.
+    longDescriptionEn: `Burning when you urinate isn't something you should "put up with." At Clínica Hispana Nueva Salud we run the urine test in-clinic and, if there's a urinary tract infection, the medical team prescribes your treatment: no appointment, no insurance required, and in Spanish.
 
 ## What's included?
 
 - **General urinalysis** with results during the same visit
 - **Symptom evaluation** and medical exam
 - **Diagnosis of urinary tract infection** (cystitis) and ruling out other causes
-- **Same-day treatment** with the appropriate antibiotic
+- **Treatment** with the appropriate antibiotic, prescribed by the medical team
 - **Urine culture** when the infection keeps coming back or doesn't improve, to identify the bacteria and the antibiotic that actually works
 - **Clear instructions** to relieve symptoms and keep it from returning
 
@@ -2024,12 +2024,12 @@ If you get infections several times a year, that's not normal and it can be fixe
 1. Walk in without an appointment and check in at the front desk.
 2. Provide a urine sample at the clinic (ideally without having urinated in the past hour).
 3. The medical staff evaluates your symptoms and the test result.
-4. If there's an infection, you leave with your prescription and treatment that same day; we have a [pharmacy inside the clinic](/en/services/farmacia).
+4. If there's an infection, the medical team prescribes your treatment and you can get the medications at our [pharmacy inside the clinic](/en/services/farmacia).
 5. We tell you when to come back if symptoms don't improve in 2-3 days.
 
 ## UTI treatment at a Hispanic clinic near you
 
-We are a Hispanic clinic near you in Houston, in the Bellfort / Hobby area: we run your urine test and, if there's an infection, you leave with treatment the same day, no appointment, in Spanish, Monday to Sunday from 9 AM to 9 PM.
+We are a Hispanic clinic near you in Houston, in the Bellfort / Hobby area: we run your urine test and, if there's an infection, you get the treatment you need, no appointment, in Spanish, Monday to Sunday from 9 AM to 9 PM.
 
 ${WHY_EN}
 
@@ -3812,69 +3812,75 @@ ${AREAS_EN}`,
     metaTitle: "Farmacia en Houston, TX | Clínica Hispana Nueva Salud",
     metaTitleEn: "Pharmacy in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
-      "Recoge tus medicamentos al terminar la consulta, sin ir a otra farmacia.",
+      "Llévate los medicamentos que te indiquen en la consulta, sin otra parada.",
     shortDescriptionEn:
-      "Pick up your medications right after your visit — no second stop.",
+      "Take home the medications prescribed at your visit — no second stop.",
     description:
-      "Farmacia en Houston, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español. Sin cita y sin seguro médico.",
+      "Farmacia en Houston, TX dentro de la clínica: entrega de los medicamentos indicados en tu consulta y productos de venta libre, en español.",
     descriptionEn:
-      "Pharmacy in Houston, TX inside the clinic. We fill your prescription right after your visit, service in Spanish. Walk-ins welcome, no insurance needed.",
+      "Pharmacy in Houston, TX inside the clinic: medications prescribed during your visit plus over-the-counter products, in Spanish.",
     keywords: [
       "farmacia en houston",
       "farmacia hispana houston",
       "farmacia cerca de mí houston",
-      "surtir receta houston",
+      "medicamentos en la clinica houston",
     ],
     keywordsEn: [
       "pharmacy houston",
       "hispanic pharmacy houston",
       "pharmacy near me houston",
-      "fill prescription houston",
+      "clinic medications houston",
     ],
     features: [
-      "Surtido de tu receta al instante",
+      "Medicamentos indicados en tu consulta",
       "Medicamentos de marca y genéricos",
       "Medicamentos de venta libre (OTC)",
       "Asesoría sobre tus medicamentos en español",
     ],
     featuresEn: [
-      "Prescriptions filled on the spot",
+      "Medications prescribed during your visit",
       "Brand-name and generic medications",
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `Al terminar tu consulta en Clínica Hispana Nueva Salud puedes recoger tus medicamentos en nuestra propia farmacia, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.
+    longDescription: `Al terminar tu consulta en Clínica Hispana Nueva Salud puedes llevarte los medicamentos que te indicó el equipo médico, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.
 
 ## ¿Qué incluye?
 
-- Surtido de tu receta justo al terminar la consulta
+- Los medicamentos indicados en tu consulta, al terminarla
 - Medicamentos de marca y genéricos
 - Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más
 - Asesoría del personal sobre cómo tomar tus medicamentos
-- Resurtido de recetas
+
+## ¿Puedo traer una receta de otro médico?
+
+No. En la clínica entregamos los medicamentos que indica nuestro equipo médico durante tu visita y productos de venta libre. Surtir recetas de otros médicos requiere una licencia de farmacia del estado de Texas: si ya traes una receta de otro lugar, súrtela en una farmacia.
 
 ## ¿Por qué usar nuestra farmacia?
 
-Te ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.
+Te ahorras una segunda parada: el equipo médico te atiende, te indica el tratamiento y te llevas tu medicamento del mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `After your visit at Clínica Hispana Nueva Salud you can pick up your medications at our own pharmacy, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.
+    longDescriptionEn: `After your visit at Clínica Hispana Nueva Salud you can take home the medications the medical team prescribed, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.
 
 ## What's included?
 
-- Your prescription filled right after your visit
+- The medications prescribed during your visit, right after it
 - Brand-name and generic medications
 - Over-the-counter (OTC) medications for colds, pain, allergies and more
 - Staff guidance on how to take your medications
-- Prescription refills
+
+## Can I bring a prescription from another doctor?
+
+No. At the clinic we provide the medications our medical team prescribes during your visit, plus over-the-counter products. Filling other doctors' prescriptions requires a Texas pharmacy license: if you already have a prescription from elsewhere, fill it at a pharmacy.
 
 ## Why use our pharmacy?
 
-You skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish.
+You skip the second stop: the medical team sees you, prescribes your treatment, and you take your medication home from the same place. We explain the dosage, schedule and precautions in Spanish.
 
 ${WHY_EN}
 

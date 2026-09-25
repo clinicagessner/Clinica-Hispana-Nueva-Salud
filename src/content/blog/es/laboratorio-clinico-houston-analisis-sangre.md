@@ -1,7 +1,8 @@
 ---
 title: "Laboratorio clínico en Houston: análisis de sangre"
-description: "Conoce qué análisis de sangre puedes hacerte en Houston, para qué sirven y cómo obtener resultados el mismo día en español."
+description: "Conoce qué análisis de sangre puedes hacerte en Houston, para qué sirven y cómo recibir tus resultados explicados en español."
 date: "2026-03-30"
+updated: "2026-09-25"
 author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Laboratorio"
 cover: "/images/blog/laboratorio-clinico-houston-analisis-sangre.webp"
@@ -32,7 +33,7 @@ Algunos estudios requieren ayuno de 8 a 12 horas (como la glucosa y el colestero
 
 ## Resultados rápidos
 
-En la mayoría de los casos entregamos resultados **el mismo día** y te los explicamos en español, sin tecnicismos, para que entiendas qué significan.
+El plazo depende de cada prueba y te lo decimos al tomar la muestra. Cuando llegan los resultados, te los explicamos en español, sin tecnicismos, para que entiendas qué significan.
 
 ## Ven sin cita
 

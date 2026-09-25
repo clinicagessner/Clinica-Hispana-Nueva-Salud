@@ -24,7 +24,7 @@ We offer a wide range of services under one roof:
 
 - Family medicine for all ages
 - [I-693 immigration medical exam](/en/services/examenes-inmigracion) with a USCIS-authorized physician
-- [Clinical lab](/en/services/examenes-sangre) with same-day results
+- [Clinical lab](/en/services/examenes-sangre) with in-clinic sample collection
 - [Ultrasound](/en/services/ultrasonido) and [electrocardiogram](/en/services/electrocardiograma)
 - [Diabetes, hypertension and cholesterol management](/en/services/condiciones-cronicas)
 - [Gynecology and women's health](/en/services/ginecologia)

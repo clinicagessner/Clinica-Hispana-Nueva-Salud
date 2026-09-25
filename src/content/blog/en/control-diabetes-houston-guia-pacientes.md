@@ -63,4 +63,4 @@ It's your best chance to avoid diabetes. Losing 5 to 7% of your weight (about 10
 
 ## Count on us
 
-At Clínica Hispana Nueva Salud we have a [diabetes management program](/en/services/condiciones-cronicas) in Spanish, with same-day lab work, no appointment and no insurance required. We explain your numbers, adjust your plan and walk with you step by step. Call us at **(832) 831-4016** or come directly to 7640 Bellfort Ave, Houston, TX 77061, Monday to Sunday from 9 AM to 9 PM.
+At Clínica Hispana Nueva Salud we have a [diabetes management program](/en/services/condiciones-cronicas) in Spanish, with lab work at the same visit, no appointment and no insurance required. We explain your numbers, adjust your plan and walk with you step by step. Call us at **(832) 831-4016** or come directly to 7640 Bellfort Ave, Houston, TX 77061, Monday to Sunday from 9 AM to 9 PM.

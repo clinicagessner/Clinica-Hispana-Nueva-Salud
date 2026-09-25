@@ -63,4 +63,4 @@ Es la mejor oportunidad de evitar la diabetes. Bajar entre el 5 y el 7% de tu pe
 
 ## Cuenta con nosotros
 
-En Clínica Hispana Nueva Salud tenemos un [programa de control de diabetes](/services/condiciones-cronicas) en español, con laboratorio el mismo día, sin cita previa y sin necesidad de seguro médico. Te explicamos tus números, ajustamos tu plan y te acompañamos paso a paso. Llámanos al **(832) 831-4016** o ven directamente a 7640 Bellfort Ave, Houston, TX 77061, de lunes a domingo de 9 AM a 9 PM.
+En Clínica Hispana Nueva Salud tenemos un [programa de control de diabetes](/services/condiciones-cronicas) en español, con laboratorio en la misma visita, sin cita previa y sin necesidad de seguro médico. Te explicamos tus números, ajustamos tu plan y te acompañamos paso a paso. Llámanos al **(832) 831-4016** o ven directamente a 7640 Bellfort Ave, Houston, TX 77061, de lunes a domingo de 9 AM a 9 PM.

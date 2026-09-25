@@ -448,9 +448,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "examenes-sangre": [
     {
       question: "¿En cuánto tiempo entregan los resultados?",
-      answer: "En la mayoría de los casos los resultados están listos el mismo día o muy pronto, y te los explicamos en español.",
+      answer: "Depende de las pruebas: te decimos el plazo al tomar la muestra. Cuando el laboratorio entrega los resultados, te llamamos o te los explicamos en español en tu visita de control.",
       questionEn: "How soon are results ready?",
-      answerEn: "In most cases results are ready the same day or very soon, and we explain them to you in Spanish.",
+      answerEn: "It depends on the tests: we tell you the timeframe when we draw the sample. When the lab delivers the results, we call you or explain them in Spanish at your follow-up visit.",
     },
     {
       question: "¿Necesito venir en ayunas?",
@@ -497,10 +497,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "infecciones-urinarias": [
     {
-      question: "¿Puedo recibir tratamiento el mismo día?",
-      answer: "Sí, hacemos el examen de orina en la clínica y, si hay infección, iniciamos el tratamiento el mismo día. También tenemos farmacia dentro de la clínica.",
-      questionEn: "Can I get treatment the same day?",
-      answerEn: "Yes, we run the urine test in-clinic and, if there's an infection, we start treatment the same day. We also have a pharmacy inside the clinic.",
+      question: "¿Me dan tratamiento en la misma visita?",
+      answer: "Hacemos el examen de orina en la clínica y, si hay infección, el equipo médico te indica el tratamiento. Los medicamentos indicados en la consulta los puedes recibir en nuestra farmacia.",
+      questionEn: "Do I get treatment at the same visit?",
+      answerEn: "We run the urine test in-clinic and, if there's an infection, the medical team prescribes your treatment. You can get the medications indicated during your visit at our pharmacy.",
     },
     {
       question: "¿Cómo sé si tengo infección urinaria?",
@@ -1107,10 +1107,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "farmacia": [
     {
-      question: "¿Puedo surtir mi receta en la clínica?",
-      answer: "Sí, al terminar tu consulta surtimos tu receta en nuestra farmacia, sin tener que ir a otro lugar.",
-      questionEn: "Can I fill my prescription at the clinic?",
-      answerEn: "Yes, after your visit we fill your prescription at our pharmacy, with no need to go elsewhere.",
+      question: "¿Puedo surtir aquí la receta de otro médico?",
+      answer: "No. Entregamos los medicamentos indicados por nuestro equipo médico durante tu consulta y productos de venta libre. Surtir recetas de otros médicos requiere licencia de farmacia del estado de Texas.",
+      questionEn: "Can I fill another doctor's prescription here?",
+      answerEn: "No. We provide the medications our medical team prescribes during your visit plus over-the-counter products. Filling other doctors' prescriptions requires a Texas pharmacy license.",
     },
     {
       question: "¿Necesito cita previa?",
