@@ -65,18 +65,23 @@ const nextConfig: NextConfig = {
         source: "/:path*",
         headers: securityHeaders,
       },
-      {
-        // Vercel sirve public/ con max-age=0: cada visita volvía a pedir cada
-        // imagen. 30 días y no `immutable` porque los nombres no llevan hash y
-        // un flyer puede reemplazarse con el mismo nombre.
-        source: "/images/:path*",
+      // Vercel sirve public/ con max-age=0: cada visita volvía a pedir cada
+      // imagen. 30 días y no `immutable` porque los nombres no llevan hash y
+      // un flyer o el logo pueden reemplazarse con el mismo nombre.
+      ...[
+        "/images/:path*",
+        "/sm/:path*",
+        "/logo-nueva-salud.:ext",
+        "/web-app-manifest-:size.png",
+      ].map((source) => ({
+        source,
         headers: [
           {
             key: "Cache-Control",
             value: "public, max-age=2592000, stale-while-revalidate=86400",
           },
         ],
-      },
+      })),
     ];
   },
 };
