@@ -17,12 +17,14 @@ export function Logo({
   return (
     <span className={cn("inline-flex items-center gap-2.5", className)}>
       <Image
-        src="/logo-nueva-salud.webp"
+        // Variante de 128 px (scripts/build-image-variants.mjs): se muestra a
+        // 44 px y el original de 512 px pesaba 17 KB en cada página.
+        src="/sm/logo-nueva-salud.webp"
         // Decorativo: el wordmark de al lado ya nombra la clínica, y así el
         // nombre accesible del enlace coincide con el texto visible.
         alt=""
-        width={512}
-        height={512}
+        width={128}
+        height={128}
         className="h-11 w-11 shrink-0 object-contain"
       />
       <span className="flex flex-col leading-none">

@@ -12,6 +12,7 @@
 //   - Imágenes de servicio y portadas del blog: en las tarjetas se ven a ~33vw
 //     en escritorio y a todo el ancho en móvil. El detalle usa el original.
 //   - Hero: variante de 828 px para móvil; el escritorio sigue con el original.
+//   - Logo: se muestra a 44 px y el archivo es de 512 px (17 KB en cada página).
 //
 // Uso: node scripts/build-image-variants.mjs   (corre en `prebuild`)
 import sharp from "sharp";
@@ -65,4 +66,5 @@ console.log("variantes de imagen:");
 await folder("public/images/promotions", 480); // 344 px reales en pantallas densas
 await folder("public/images/services", 768); // tarjetas: 33vw escritorio, 100vw móvil
 await folder("public/images/blog", 768);
-await file("public/images/hero-fachada-v3.webp", 828, 72); // hero en móvil
+await file("public/images/hero-fachada-v3.webp", 828, 62); // hero en móvil (62: sin pérdida visible)
+await file("public/logo-nueva-salud.webp", 128, 88); // se muestra a 44 px: 128 cubre pantallas 3x
