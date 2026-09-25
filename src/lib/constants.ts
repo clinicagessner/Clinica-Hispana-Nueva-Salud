@@ -496,13 +496,7 @@ Mucho. Las lecturas en casa muestran cómo está tu presión en el día a día, 
 
 ## ¿Y si no tengo seguro?
 
-No lo necesitas. Te decimos el precio de los análisis antes de hacerlos y buscamos el esquema de control más sencillo que funcione para ti. Para empezar, lee nuestra [guía para pacientes con diabetes](/blog/control-diabetes-houston-guia-pacientes).
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+No lo necesitas. Te decimos el precio de los análisis antes de hacerlos y buscamos el esquema de control más sencillo que funcione para ti. Para empezar, lee nuestra [guía para pacientes con diabetes](/blog/control-diabetes-houston-guia-pacientes).`,
     longDescriptionEn: `Diabetes, high blood pressure and high cholesterol have one thing in common: they barely hurt while they do damage. That's why management isn't about coming in when you feel bad, but about keeping your numbers in range month after month. At the clinic we handle that follow-up with you, walk-in and in Spanish.
 
 ## What happens at each follow-up visit?
@@ -528,13 +522,7 @@ A lot. Home readings show your everyday blood pressure without the stress of the
 
 ## What if I don't have insurance?
 
-You don't need it. We tell you the price of lab work before doing it and look for the simplest follow-up plan that works for you. To get started, read our [patient guide to diabetes](/en/blog/control-diabetes-houston-guia-pacientes).
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+You don't need it. We tell you the price of lab work before doing it and look for the simplest follow-up plan that works for you. To get started, read our [patient guide to diabetes](/en/blog/control-diabetes-houston-guia-pacientes).`,
   },
   {
     slug: "tiroides",
@@ -631,13 +619,7 @@ La prueba de TSH no requiere ayuno. Si ya tomas medicamento para la tiroides, t�
 
 ## Tiroides en una clínica hispana cerca de ti
 
-Si buscas examen de tiroides en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas examen de tiroides en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
     longDescriptionEn: `That butterfly-shaped gland low in your neck sets the pace for your energy, weight, body temperature and mood. When it works too much (hyperthyroidism) or too little (hypothyroidism), symptoms appear that affect your daily life and are often mistaken for stress or tiredness. At Clínica Hispana Nueva Salud we evaluate your thyroid with lab tests and give you the right treatment: no appointment, no insurance required and in Spanish.
 
 ## What's included?
@@ -692,13 +674,7 @@ The TSH test doesn't require fasting. If you already take thyroid medication, ta
 
 ## Thyroid care at a Hispanic clinic near you
 
-If you're looking for a thyroid test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for a thyroid test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "alergias",
@@ -761,13 +737,7 @@ Te preguntamos cuándo empezaron los síntomas, en qué época empeoran, dónde 
 
 ## ¿Cuándo es una emergencia?
 
-Si después de un alimento, un medicamento o una picadura aparecen hinchazón de labios o garganta, dificultad para respirar, mareo o desmayo, llama al 911: puede ser una [anafilaxia](https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/anaphylaxis) y necesita atención inmediata.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si después de un alimento, un medicamento o una picadura aparecen hinchazón de labios o garganta, dificultad para respirar, mareo o desmayo, llama al 911: puede ser una [anafilaxia](https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/anaphylaxis) y necesita atención inmediata.`,
     longDescriptionEn: `Sneezing fits every time you step outside, itchy eyes, a stuffy nose that never clears or hives that show up for no clear reason. Allergies are not "just a long cold": left untreated, they cost you sleep, focus and time outdoors. At the clinic we help you understand what triggers them and get them under control.
 
 ## Which allergies do we treat?
@@ -788,13 +758,7 @@ We ask when your symptoms started, what time of year they get worse, where you l
 
 ## When is it an emergency?
 
-If a food, a medication or an insect sting is followed by swelling of the lips or throat, trouble breathing, dizziness or fainting, call 911: it may be [anaphylaxis](https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/anaphylaxis) and needs immediate care.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If a food, a medication or an insect sting is followed by swelling of the lips or throat, trouble breathing, dizziness or fainting, call 911: it may be [anaphylaxis](https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/anaphylaxis) and needs immediate care.`,
   },
   {
     slug: "enfermedades-respiratorias",
@@ -837,7 +801,7 @@ ${AREAS_EN}`,
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],
-    longDescription: `Cuando empiezan la fiebre, la tos o el malestar, saber si es flu, COVID o una infección de garganta ayuda a tratarte a tiempo. En Clínica Hispana Nueva Salud hacemos pruebas rápidas y te damos tratamiento el mismo día: sin cita previa, sin seguro médico y en español.
+    longDescription: `Con la fiebre y la tos encima, distinguir entre flu, COVID o una infección de garganta permite tratarte bien desde el principio. En Clínica Hispana Nueva Salud hacemos pruebas rápidas y te damos tratamiento el mismo día: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
@@ -845,7 +809,7 @@ ${AREAS_EN}`,
 - **Prueba de COVID-19**
 - **[Prueba de estreptococo](/services/prueba-strep)** si el dolor de garganta lo sugiere
 - **Evaluación de síntomas respiratorios** y revisión de pulmones y garganta
-- **Tratamiento de gripe, tos, bronquitis, sinusitis e infecciones de garganta**
+- **Atención de gripe, tos, bronquitis, sinusitis y garganta infectada**
 - **Receta y medicamento el mismo día**; contamos con [farmacia dentro de la clínica](/services/farmacia)
 - **Indicaciones de recuperación y cuidado en casa**, en español
 
@@ -875,7 +839,7 @@ La [vacuna anual contra la flu](/services/vacunas) reduce el riesgo de enfermar 
 
 ## ¿Cómo es la visita?
 
-1. Llegas sin cita y te registras en recepción.
+1. Vienes cuando puedas, sin cita, y te anotas al llegar.
 2. El personal médico evalúa tus síntomas y te revisa garganta, oídos y pulmones.
 3. Se hace la prueba rápida de flu, COVID o estreptococo según el caso; el resultado está en minutos.
 4. Sales con tu diagnóstico, tu receta y tu tratamiento el mismo día.
@@ -883,13 +847,7 @@ La [vacuna anual contra la flu](/services/vacunas) reduce el riesgo de enfermar 
 
 ## Pruebas de flu y COVID en una clínica hispana cerca de ti
 
-Si buscas prueba de flu o COVID en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas prueba de flu o COVID en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
     longDescriptionEn: `When fever, cough or malaise start, knowing whether it's the flu, COVID or a throat infection helps you get treated in time. At Clínica Hispana Nueva Salud we run rapid tests and give you treatment the same day: no appointment, no insurance required and in Spanish.
 
 ## What's included?
@@ -928,7 +886,7 @@ The [annual flu vaccine](/en/services/vacunas) reduces the risk of severe illnes
 
 ## What is the visit like?
 
-1. Walk in without an appointment and check in at the front desk.
+1. Come by whenever you can, no appointment, and sign in when you arrive.
 2. The medical staff evaluates your symptoms and checks your throat, ears and lungs.
 3. A rapid flu, COVID or strep test is done as needed; results are ready in minutes.
 4. You leave with your diagnosis, prescription and treatment the same day.
@@ -936,13 +894,7 @@ The [annual flu vaccine](/en/services/vacunas) reduces the risk of severe illnes
 
 ## Flu and COVID testing at a Hispanic clinic near you
 
-If you're looking for a flu or COVID test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for a flu or COVID test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "examen-fisico-escolar",
@@ -985,7 +937,7 @@ ${AREAS_EN}`,
       "School and sports forms completed",
       "Care in Spanish",
     ],
-    longDescription: `Antes de inscribirse en la escuela, entrar a la guardería o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Nueva Salud lo hacemos de forma rápida y completa, con todos los formularios listos: sin cita previa, sin seguro médico y en español.
+    longDescription: `La escuela, la guardería o el equipo deportivo suelen pedir un chequeo físico antes de aceptar a un niño o adolescente. En Clínica Hispana Nueva Salud lo hacemos de forma rápida y completa, con todos los formularios listos: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
@@ -1027,14 +979,8 @@ Lo ideal es con **2 a 4 semanas de anticipación** al inicio de clases o de la t
 
 ## Exámenes físicos escolares en una clínica hispana cerca de ti
 
-Si buscas examen físico escolar o deportivo en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Before enrolling in school, starting daycare or playing a sport, children and teens need a physical exam. At Clínica Hispana Nueva Salud we do it quickly and thoroughly, with all forms ready: no appointment, no insurance required and in Spanish.
+Si buscas examen físico escolar o deportivo en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
+    longDescriptionEn: `Schools, daycares and sports teams usually ask for a physical before they accept a child or teen. At Clínica Hispana Nueva Salud we do it quickly and thoroughly, with all forms ready: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
@@ -1076,13 +1022,7 @@ Ideally **2 to 4 weeks before** school or the sports season starts, to allow tim
 
 ## School physicals at a Hispanic clinic near you
 
-If you're looking for a school or sports physical in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for a school or sports physical in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "ginecologia",
@@ -1279,7 +1219,7 @@ La **prueba de orina** es rápida y confiable a partir del primer día de retras
 
 ## ¿Cuándo hacerme la prueba?
 
-- Desde el primer día de retraso del periodo (orina)
+- En orina, a partir del día en que te debía bajar
 - Desde 7 a 10 días después de la relación sin protección (sangre)
 - Si tienes síntomas como náuseas, cansancio, senos sensibles o ganas frecuentes de orinar
 - Si tu prueba casera es dudosa, con una línea muy tenue
@@ -1303,13 +1243,7 @@ Un periodo que no llega puede deberse a estrés, cambios de peso, [anticonceptiv
 
 ## Prueba de embarazo en una clínica hispana cerca de ti
 
-Si buscas dónde hacerte una prueba de embarazo de sangre en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas dónde hacerte una prueba de embarazo de sangre en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
     longDescriptionEn: `A late period, nausea, tiredness or tender breasts raise questions and nerves. A reliable pregnancy test gives you a clear answer in minutes. At Clínica Hispana Nueva Salud we perform urine and blood pregnancy tests with no appointment, no insurance required and in Spanish, and we guide you on what comes next, without judgment and with full privacy.
 
 ## What's included?
@@ -1327,7 +1261,7 @@ The **urine test** is fast and reliable from the first day of a missed period. T
 
 ## When should I get tested?
 
-- From the first day of a missed period (urine)
+- Urine test, starting the day your period was due
 - From 7 to 10 days after unprotected sex (blood)
 - If you have symptoms such as nausea, tiredness, tender breasts or frequent urination
 - If your home test is unclear, with a very faint line
@@ -1335,7 +1269,7 @@ The **urine test** is fast and reliable from the first day of a missed period. T
 
 ## What is the visit like?
 
-1. You walk in without an appointment and check in at the front desk, in a discreet setting.
+1. Come in whenever you can, no appointment, and sign in; everything is handled discreetly.
 2. A urine or blood sample is taken, depending on the case.
 3. The doctor gives you the result and confirms it; for the urine test it's in the same visit.
 4. If it's positive, we estimate the weeks, recommend prenatal vitamins and guide you on prenatal care.
@@ -1351,13 +1285,7 @@ A missed period can be due to stress, weight changes, [birth control](/en/servic
 
 ## Pregnancy test at a Hispanic clinic near you
 
-If you're looking for where to get a blood pregnancy test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday through Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for where to get a blood pregnancy test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday through Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "anticonceptivos",
@@ -1400,7 +1328,7 @@ ${AREAS_EN}`,
       "Method start and follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Nueva Salud te damos información clara, en español y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti: sin cita previa, sin seguro médico y con precios accesibles.
+    longDescription: `Tú decides si quieres hijos, cuántos y cuándo. En Clínica Hispana Nueva Salud te damos información clara, en español y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti: sin cita previa, sin seguro médico y con precios accesibles.
 
 ## ¿Qué incluye?
 
@@ -1415,7 +1343,7 @@ Si ya tienes un implante y quieres retirarlo, contamos con [extracción de impla
 
 ## Pastillas o inyección: ¿cuál me conviene?
 
-- **Pastillas:** se toman todos los días a la misma hora. Buena opción si eres constante y quieres poder suspender fácilmente. Algunas también ayudan con el acné o con periodos dolorosos.
+- **Pastillas:** una diaria, siempre a la misma hora. Buena opción si eres constante y quieres poder suspender fácilmente. Algunas también ayudan con el acné o con periodos dolorosos.
 - **Inyección:** se aplica cada 3 meses. Ideal si prefieres no pensar en ello a diario o no puedes guardar pastillas en casa. Puede alterar el patrón de sangrado los primeros meses.
 
 En la consulta valoramos factores como presión alta, migrañas, tabaquismo, lactancia o antecedentes de trombosis, que influyen en cuál método es seguro para ti.
@@ -1428,7 +1356,7 @@ En la consulta valoramos factores como presión alta, migrañas, tabaquismo, lac
 
 ## ¿Cómo es la visita?
 
-1. Llegas sin cita y te registras en recepción.
+1. Vienes cuando puedas, sin cita, y te anotas al llegar.
 2. Platicas en privado con el personal médico sobre lo que buscas y tu historial.
 3. Se revisan presión arterial y datos básicos de salud.
 4. Eliges el método con toda la información y, si aplica, sales con tu receta o tu inyección el mismo día.
@@ -1438,14 +1366,8 @@ Si además quieres un chequeo completo, podemos hacer en la misma visita tu [con
 
 ## Anticonceptivos en una clínica hispana cerca de ti
 
-Si buscas orientación anticonceptiva en Houston en español, confidencial y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud we give you clear, judgment-free information in Spanish so you can choose the birth control method that fits you best: no appointment, no insurance required and affordable pricing.
+Si buscas orientación anticonceptiva en Houston en español, confidencial y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
+    longDescriptionEn: `You decide whether to have children, how many and when. At Clínica Hispana Nueva Salud we give you clear, judgment-free information in Spanish so you can choose the birth control method that fits you best: no appointment, no insurance required and affordable pricing.
 
 ## What's included?
 
@@ -1460,7 +1382,7 @@ If you already have an implant and want it removed, we offer [subdermal implant 
 
 ## Pills or injection: which is right for me?
 
-- **Pills:** taken every day at the same time. A good option if you're consistent and want to be able to stop easily. Some also help with acne or painful periods.
+- **Pills:** one a day, always at the same hour. A good option if you're consistent and want to be able to stop easily. Some also help with acne or painful periods.
 - **Injection:** given every 3 months. Ideal if you'd rather not think about it daily or can't keep pills at home. It may change your bleeding pattern during the first months.
 
 During the visit we consider factors like high blood pressure, migraines, smoking, breastfeeding or a history of blood clots, which affect which method is safe for you.
@@ -1473,7 +1395,7 @@ During the visit we consider factors like high blood pressure, migraines, smokin
 
 ## What is the visit like?
 
-1. Walk in without an appointment and check in at the front desk.
+1. Come by whenever you can, no appointment, and sign in when you arrive.
 2. Talk privately with the medical staff about what you're looking for and your history.
 3. Blood pressure and basic health data are checked.
 4. You choose the method with full information and, if applicable, leave with your prescription or injection the same day.
@@ -1483,13 +1405,7 @@ If you also want a full checkup, we can do your [gynecology visit and Pap smear]
 
 ## Birth control at a Hispanic clinic near you
 
-If you're looking for confidential, affordable birth control counseling in Houston in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for confidential, affordable birth control counseling in Houston in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "extraccion-implantes",
@@ -1538,13 +1454,13 @@ ${AREAS_EN}`,
 
 - **Evaluación y localización del implante** por palpación en el brazo
 - **Anestesia local** en la zona para que no sientas dolor
-- **Extracción ambulatoria** a través de una incisión de 2 a 3 milímetros
+- **Retiro en la misma consulta**, por un corte de apenas 2 a 3 milímetros
 - **Curación y vendaje** con indicaciones claras de cuidado en casa
 - **Orientación anticonceptiva:** si quieres seguir protegida, te ayudamos a elegir [otro método](/services/anticonceptivos) o un implante nuevo ese mismo día
 
 ## ¿Cuándo debo retirar el implante?
 
-- **Se venció:** Nexplanon dura 3 años y Jadelle hasta 5. Después de esa fecha ya no es confiable.
+- **Se venció:** Nexplanon dura 3 años y Jadelle hasta 5. Pasada esa fecha deja de proteger como debería.
 - **Quieres embarazarte:** la fertilidad regresa rápido, en general en el primer mes tras el retiro.
 - **Efectos secundarios molestos:** sangrado irregular o prolongado, dolor de cabeza, cambios de ánimo, acné o aumento de peso.
 - **Cambio de método:** prefieres pastillas, inyección, DIU u otro método.
@@ -1555,7 +1471,7 @@ No tienes que esperar a que se venza: puedes retirarlo en cualquier momento.
 ## ¿Cómo es el procedimiento?
 
 1. Llegas sin cita, te registras y el personal médico revisa tu brazo y localiza el implante.
-2. Se limpia la zona y se aplica anestesia local; solo sientes un pinchazo pequeño.
+2. Limpiamos la piel y adormecemos con anestesia local; lo único que notas es un piquete breve.
 3. Se hace una incisión mínima en el extremo del implante y se retira con una pinza.
 4. Se cierra con cinta adhesiva (no suele necesitar puntos) y se coloca un vendaje compresivo.
 5. Recibes indicaciones de cuidado y, si lo deseas, sales con tu nuevo método anticonceptivo.
@@ -1576,13 +1492,7 @@ Si no quieres embarazarte, recuerda que la protección termina el mismo día del
 
 ## Retiro de implante en una clínica hispana cerca de ti
 
-Si buscas dónde quitarte el implante del brazo en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas dónde quitarte el implante del brazo en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
     longDescriptionEn: `The subdermal implant (Nexplanon, Implanon or Jadelle) is a small rod placed under the skin of the arm that protects against pregnancy for 3 to 5 years. When it expires, when you want to get pregnant, or when the side effects are no longer worth it, it needs to be removed with a simple procedure. At Clínica Hispana Nueva Salud we do it with no appointment, no insurance required and in Spanish, in a single visit.
 
 ## What's included?
@@ -1606,7 +1516,7 @@ You don't have to wait until it expires: it can be removed at any time.
 ## What is the procedure like?
 
 1. You walk in, check in, and the medical staff examines your arm and locates the implant.
-2. The area is cleaned and local anesthesia is applied; you only feel a small pinch.
+2. We clean the skin and numb it with local anesthesia; all you notice is a quick prick.
 3. A tiny incision is made at the tip of the implant and it's removed with forceps.
 4. It's closed with adhesive strips (stitches are rarely needed) and a pressure bandage is applied.
 5. You get care instructions and, if you wish, leave with your new birth control method.
@@ -1615,25 +1525,19 @@ Removal takes 10 to 20 minutes in total. If the implant is deep or hard to locat
 
 ## Care after removal
 
-- Keep the pressure bandage on for 24 hours to prevent bruising
-- Keep the area clean and dry for the first 2 to 3 days
+- Leave the snug bandage on for a full day so it doesn't bruise
+- Keep the spot clean and dry for 2 or 3 days
 - You can do your normal activities; avoid lifting heavy things with that arm the first day
 - A small bruise or tenderness for a week is normal
 - Come to the clinic if there's heavy bleeding, pus, fever or increasing pain
 
 ## What comes after the implant?
 
-If you don't want to get pregnant, remember that protection ends the same day it's removed. We can place a new implant through the same incision, give you the shot or prescribe pills. If you're trying for a baby, use the visit for a [women's health checkup](/en/services/ginecologia) and preparation [blood tests](/en/services/examenes-sangre).
+If you don't want to get pregnant, remember that protection ends the same day it's removed. We can put in a new implant through the same small opening, give you the shot or start you on pills. If you're trying for a baby, use the visit for a [women's health checkup](/en/services/ginecologia) and preparation [blood tests](/en/services/examenes-sangre).
 
 ## Implant removal at a Hispanic clinic near you
 
-If you're looking for where to get the arm implant removed in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday through Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for where to get the arm implant removed in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday through Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "salud-hombre",
@@ -1681,7 +1585,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué incluye el chequeo del hombre?
 
-- **Antígeno prostático específico (PSA):** examen de sangre que ayuda a vigilar la salud de la próstata
+- **PSA (antígeno prostático específico):** análisis de sangre para dar seguimiento a la próstata
 - **Nivel de testosterona:** la hormona que influye en energía, ánimo, masa muscular y deseo sexual
 - **Chequeo general:** presión arterial, peso, signos vitales y revisión de síntomas
 - **Evaluación de síntomas urinarios** (levantarse de noche a orinar, chorro débil, goteo) o de falta de energía
@@ -1691,12 +1595,12 @@ Si quieres un panorama completo, podemos combinarlo con [exámenes de sangre](/s
 
 ## ¿A qué edad y cada cuánto?
 
-- **PSA:** en general a partir de los 50 años, o desde los 40-45 si tienes familiares (padre, hermano) con cáncer de próstata. Se repite cada 1 a 2 años según el resultado.
+- **PSA:** entre los 55 y los 69 años se decide con el médico si conviene hacerlo; si tu padre o un hermano tuvo cáncer de próstata, puede adelantarse. Se repite cada 1 a 2 años según el resultado.
 - **Testosterona:** a cualquier edad si tienes síntomas de testosterona baja (ver abajo). Se mide en la mañana, que es cuando está más alta.
 
 ## Señales de que conviene revisarte
 
-- Te levantas varias veces en la noche a orinar
+- Te despiertas más de una vez por la noche para ir al baño
 - Chorro de orina débil, intermitente o sensación de no vaciar
 - Cansancio constante, poca energía o ánimo bajo
 - Menos deseo sexual o dificultad para mantener una erección
@@ -1714,24 +1618,18 @@ Muchos de estos síntomas tienen solución cuando se detecta la causa. Ignorarlo
 ## ¿Cómo es la visita?
 
 1. Llegas sin cita, te registras y nos cuentas tus síntomas o tu interés en el chequeo.
-2. Se toma la muestra de sangre en la clínica; tarda pocos minutos.
+2. Te sacamos sangre aquí mismo en unos minutos.
 3. El personal médico revisa tus signos vitales y evalúa tus síntomas.
 4. Cuando el laboratorio entrega los resultados, te los explicamos en español y definimos los siguientes pasos.
 
 ## Salud del hombre en una clínica hispana cerca de ti
 
-Si buscas un examen de próstata (PSA) o de testosterona en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas un examen de próstata (PSA) o de testosterona en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
     longDescriptionEn: `Men's health often gets put off: "nothing hurts," "I don't have time." At Clínica Hispana Nueva Salud we make it easy to get the tests that detect important changes in the prostate and your hormones early, with results explained in Spanish: no appointment, no insurance required and affordable pricing.
 
 ## What does the men's checkup include?
 
-- **Prostate-specific antigen (PSA):** a blood test that helps monitor prostate health
+- **PSA (prostate-specific antigen):** a blood test used to keep an eye on the prostate
 - **Testosterone level:** the hormone that affects energy, mood, muscle mass and sex drive
 - **General checkup:** blood pressure, weight, vital signs and symptom review
 - **Evaluation of urinary symptoms** (getting up at night to urinate, weak stream, dribbling) or low energy
@@ -1746,7 +1644,7 @@ If you want a full picture, we can combine it with [blood tests](/en/services/ex
 
 ## Signs it's time to get checked
 
-- You get up several times a night to urinate
+- You wake up more than once a night to use the bathroom
 - Weak or intermittent urine stream, or a feeling of not emptying
 - Constant tiredness, low energy or low mood
 - Less sex drive or difficulty keeping an erection
@@ -1770,13 +1668,7 @@ Many of these symptoms can be solved once the cause is found. Ignoring them does
 
 ## Men's health at a Hispanic clinic near you
 
-If you're looking for a prostate (PSA) or testosterone test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for a prostate (PSA) or testosterone test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "examenes-sangre",
@@ -1861,7 +1753,7 @@ Depende del examen. Para glucosa, colesterol y triglicéridos conviene un ayuno 
 
 ## ¿Cómo es la visita?
 
-1. Llegas sin cita y te registras en recepción.
+1. Vienes cuando puedas, sin cita, y te anotas al llegar.
 2. El médico o enfermera revisa tus síntomas y confirma qué exámenes necesitas.
 3. Se toma la muestra de sangre en la clínica; el procedimiento dura pocos minutos.
 4. Cuando el laboratorio entrega los resultados, te llamamos o te los entregamos en tu visita de control.
@@ -1871,21 +1763,15 @@ Depende del examen. Para glucosa, colesterol y triglicéridos conviene un ayuno 
 
 Un resultado de laboratorio lleno de siglas no sirve de mucho si nadie te lo explica. Por eso cada análisis incluye la revisión con el médico: te decimos qué valores están bien, cuáles necesitan atención y qué hacer al respecto. Si necesitas [sueros o vitaminas inyectadas](/services/sueros-vitaminados), medicamento o una referencia a un especialista, lo resolvemos en la misma visita.
 
-## Laboratorio de sangre en una clínica hispana cerca de ti
+## Análisis de sangre en Bellfort Avenue
 
-Si buscas exámenes de sangre en Houston sin cita, sin seguro y en español, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM. Revisa también nuestras [promociones de laboratorio](/promociones) con paquetes de chequeo general.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas exámenes de sangre en Houston sin cita, sin seguro y en español, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM. Revisa también nuestras [promociones de laboratorio](/promociones) con paquetes de chequeo general.`,
     longDescriptionEn: `A blood test is the fastest and most affordable way to know how your health is doing on the inside. Many conditions such as diabetes, high cholesterol, anemia or thyroid problems cause no symptoms at first and are only found through lab work. At Clínica Hispana Nueva Salud we draw your sample with no appointment, no insurance required, and explain every result in Spanish, without the jargon.
 
 ## What's included?
 
 - **Sample drawn at the clinic**, no need to go to a separate lab
-- **Complete blood count (CBC)**: red cells, white cells and platelets
+- **CBC (complete blood count)**: your red and white cells and platelets
 - **Blood chemistry:** glucose, cholesterol, triglycerides, liver and kidney function
 - **Panels for general checkups** or to follow up on a condition
 - **Medical consultation** to interpret the results and decide the next step
@@ -1921,7 +1807,7 @@ It depends on the test. For glucose, cholesterol and triglycerides an 8 to 12 ho
 
 ## What is the visit like?
 
-1. You walk in without an appointment and check in at the front desk.
+1. Come by whenever you can, no appointment, and sign in when you arrive.
 2. The doctor or nurse reviews your symptoms and confirms which tests you need.
 3. Your blood sample is drawn at the clinic; it takes just a few minutes.
 4. When the lab delivers the results, we call you or hand them to you at your follow-up visit.
@@ -1933,13 +1819,7 @@ A lab report full of abbreviations isn't much use if nobody explains it. That's 
 
 ## Blood lab at a Hispanic clinic near you
 
-If you're looking for blood tests in Houston with no appointment, no insurance and in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday through Sunday from 9 AM to 9 PM. Check our [lab promotions](/en/promociones) with general checkup packages too.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for blood tests in Houston with no appointment, no insurance and in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday through Sunday from 9 AM to 9 PM. Check our [lab promotions](/en/promociones) with general checkup packages too.`,
   },
   {
     slug: "infecciones-urinarias",
@@ -1996,9 +1876,9 @@ ${AREAS_EN}`,
 ## Síntomas de infección urinaria
 
 - Ardor o dolor al orinar
-- Ganas constantes de ir al baño, aunque salga muy poco
+- Necesidad de orinar a cada rato, aunque sean unas gotas
 - Orina turbia, oscura, con mal olor o con sangre
-- Dolor o presión en la parte baja del abdomen
+- Molestia o peso en el bajo vientre
 - En algunos casos, fiebre, escalofríos o dolor en la espalda baja (a la altura de los riñones)
 
 Si tienes fiebre, escalofríos o dolor en la espalda, no esperes: puede ser una infección que ya subió a los riñones y necesita atención ese mismo día.
@@ -2013,21 +1893,15 @@ Si te da infección varias veces al año, no es normal y tiene solución. En la 
 
 ## ¿Cómo es la visita?
 
-1. Llegas sin cita y te registras en recepción.
+1. Vienes cuando puedas, sin cita, y te anotas al llegar.
 2. Das una muestra de orina en la clínica (lo ideal es no haber orinado en la última hora).
 3. El personal médico evalúa tus síntomas y el resultado del examen.
 4. Si hay infección, el equipo médico te indica el tratamiento y puedes recibir los medicamentos en nuestra [farmacia dentro de la clínica](/services/farmacia).
 5. Te indicamos cuándo volver si las molestias no mejoran en 2-3 días.
 
-## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
+## Infección urinaria: atención en Bellfort Avenue
 
-Somos una clínica hispana cerca de ti en Houston, en la zona de Bellfort / Hobby: te hacemos el examen de orina y, si hay infección, te damos el tratamiento indicado, sin cita previa y en español, de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Estamos en Bellfort Avenue, cerca del aeropuerto Hobby. El examen de orina se hace aquí mismo y, si confirma la infección, sales con el tratamiento indicado; abrimos todos los días de 9 AM a 9 PM y te atendemos en español.`,
     longDescriptionEn: `Burning when you urinate isn't something you should "put up with." At Clínica Hispana Nueva Salud we run the urine test in-clinic and, if there's a urinary tract infection, the medical team prescribes your treatment: no appointment, no insurance required, and in Spanish.
 
 ## What's included?
@@ -2059,21 +1933,15 @@ If you get infections several times a year, that's not normal and it can be fixe
 
 ## What is the visit like?
 
-1. Walk in without an appointment and check in at the front desk.
+1. Come by whenever you can, no appointment, and sign in when you arrive.
 2. Provide a urine sample at the clinic (ideally without having urinated in the past hour).
 3. The medical staff evaluates your symptoms and the test result.
 4. If there's an infection, the medical team prescribes your treatment and you can get the medications at our [pharmacy inside the clinic](/en/services/farmacia).
-5. We tell you when to come back if symptoms don't improve in 2-3 days.
+5. If you're not feeling better in 2 or 3 days, we tell you when to return.
 
-## UTI treatment at a Hispanic clinic near you
+## UTI care on Bellfort Avenue
 
-We are a Hispanic clinic near you in Houston, in the Bellfort / Hobby area: we run your urine test and, if there's an infection, you get the treatment you need, no appointment, in Spanish, Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+We are a Hispanic clinic near you in Houston, in the Bellfort / Hobby area: we run your urine test and, if there's an infection, you get the treatment you need, no appointment, in Spanish, Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "examen-heces",
@@ -2142,13 +2010,7 @@ Sí. La prueba de sangre oculta en heces es una de las formas de detección del 
 
 ## ¿Cuándo no esperar?
 
-Si hay sangre visible, heces negras como el alquitrán, fiebre alta, deshidratación o dolor muy fuerte, busca atención ese mismo día o acude a urgencias.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si hay sangre visible, heces negras como el alquitrán, fiebre alta, deshidratación o dolor muy fuerte, busca atención ese mismo día o acude a urgencias.`,
     longDescriptionEn: `Diarrhea that won't go away, stomach pain that comes and goes, gas, changes in your bathroom habits or losing weight without trying. Often the cause is in the gut, and the most direct way to find it is a stool test.
 
 ## What does the sample show?
@@ -2175,13 +2037,7 @@ Yes. A fecal occult blood test is one of the recommended ways to screen for colo
 
 ## When shouldn't you wait?
 
-If you see blood, have tar-black stools, a high fever, dehydration or very severe pain, get care that same day or go to the emergency room.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you see blood, have tar-black stools, a high fever, dehydration or very severe pain, get care that same day or go to the emergency room.`,
   },
   {
     slug: "prueba-strep",
@@ -2248,13 +2104,7 @@ El equipo médico te indica el antibiótico adecuado y puedes recibirlo en la cl
 
 ## ¿Y si sale negativo?
 
-Tratamos los síntomas: líquidos, alivio del dolor y reposo. Los antibióticos no sirven contra los virus y usarlos sin necesidad trae efectos secundarios. Vuelve si aparece fiebre alta, dificultad para respirar o para abrir la boca.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Tratamos los síntomas: líquidos, alivio del dolor y reposo. Los antibióticos no sirven contra los virus y usarlos sin necesidad trae efectos secundarios. Vuelve si aparece fiebre alta, dificultad para respirar o para abrir la boca.`,
     longDescriptionEn: `A sore throat is almost always caused by a virus and clears up on its own. But some cases, especially in children, are due to group A strep bacteria and do need antibiotics. The rapid strep test helps tell them apart at the same visit.
 
 ## How is the test done?
@@ -2279,13 +2129,7 @@ The medical team prescribes the right antibiotic and you can get it at the clini
 
 ## And if it's negative?
 
-We treat the symptoms: fluids, pain relief and rest. Antibiotics don't work against viruses, and using them when not needed brings side effects. Come back if you develop a high fever or trouble breathing or opening your mouth.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+We treat the symptoms: fluids, pain relief and rest. Antibiotics don't work against viruses, and using them when not needed brings side effects. Come back if you develop a high fever or trouble breathing or opening your mouth.`,
   },
   {
     slug: "prueba-tuberculosis",
@@ -2352,13 +2196,7 @@ Que tuviste contacto con la bacteria, no necesariamente que estés enfermo ni qu
 
 ## ¿Cuándo sospechar tuberculosis activa?
 
-Tos de más de tres semanas, sangre al toser, fiebre, sudores nocturnos o pérdida de peso sin explicación. En ese caso no esperes al requisito del trabajo: consulta cuanto antes.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Tos de más de tres semanas, sangre al toser, fiebre, sudores nocturnos o pérdida de peso sin explicación. En ese caso no esperes al requisito del trabajo: consulta cuanto antes.`,
     longDescriptionEn: `Many jobs, schools, volunteer programs and applications require a current tuberculosis result. The test shows whether you have ever been exposed to the bacteria, even if you feel perfectly fine.
 
 ## What kinds of tests are there?
@@ -2383,13 +2221,7 @@ That you've been exposed to the bacteria, not necessarily that you are sick or c
 
 ## When to suspect active tuberculosis?
 
-A cough lasting more than three weeks, coughing up blood, fever, night sweats or unexplained weight loss. In that case, don't wait for a work requirement: get checked as soon as possible.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+A cough lasting more than three weeks, coughing up blood, fever, night sweats or unexplained weight loss. In that case, don't wait for a work requirement: get checked as soon as possible.`,
   },
   {
     slug: "enfermedades-transmision-sexual",
@@ -2439,7 +2271,7 @@ ${AREAS_EN}`,
 - **Evaluación privada** de síntomas y factores de riesgo
 - **Pruebas de las infecciones más comunes:** clamidia, gonorrea, sífilis, VIH, herpes, tricomonas y hepatitis, según tu caso
 - **Análisis de laboratorio** en sangre, orina o muestra según la prueba
-- **Tratamiento y orientación** si el resultado es positivo
+- **Tratamiento y explicación de los pasos siguientes** si sale positivo
 - **Orientación para tu pareja**, para que ambos se traten y no haya reinfección
 - **Total confidencialidad:** tus resultados son solo tuyos
 
@@ -2447,7 +2279,7 @@ ${AREAS_EN}`,
 
 - Tuviste relaciones sin protección o se rompió el condón
 - Tienes una pareja nueva o más de una pareja
-- Tu pareja te dijo que tiene una infección
+- Tu pareja te avisó que le diagnosticaron una infección
 - Presentas síntomas (ver abajo)
 - Simplemente quieres estar tranquilo o tranquila: muchas ETS no dan síntomas
 
@@ -2473,28 +2305,22 @@ Muchas de estas molestias se confunden con una [infección urinaria](/services/i
 
 ## Pruebas de ETS en una clínica hispana cerca de ti
 
-Si buscas pruebas de enfermedades de transmisión sexual en Houston de forma confidencial, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Taking care of your sexual health is an act of responsibility to yourself and your partner. At Clínica Hispana Nueva Salud we offer confidential, respectful, judgment-free STD testing, with treatment when needed: no appointment, no insurance required and in Spanish.
+Si buscas pruebas de enfermedades de transmisión sexual en Houston de forma confidencial, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
+    longDescriptionEn: `Getting tested looks after you and the people you're with. At Clínica Hispana Nueva Salud we offer confidential, respectful, judgment-free STD testing, with treatment when needed: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
 - **Private evaluation** of symptoms and risk factors
 - **Testing for the most common infections:** chlamydia, gonorrhea, syphilis, HIV, herpes, trichomonas and hepatitis, depending on your case
 - **Lab analysis** of blood, urine or a swab depending on the test
-- **Treatment and guidance** if the result is positive
+- **Treatment and a clear next-step plan** if it's positive
 - **Guidance for your partner**, so you both get treated and avoid reinfection
 - **Complete confidentiality:** your results are yours alone
 
 ## When should I get tested?
 
 - You had unprotected sex or the condom broke
-- You have a new partner or more than one partner
+- You've started with someone new or have several partners
 - Your partner told you they have an infection
 - You have symptoms (see below)
 - You simply want peace of mind: many STDs cause no symptoms
@@ -2521,13 +2347,7 @@ Many of these symptoms get mistaken for a [urinary tract infection](/en/services
 
 ## STD testing at a Hispanic clinic near you
 
-If you're looking for confidential STD testing in Houston, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for confidential STD testing in Houston, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "examen-alcohol-drogas",
@@ -2570,7 +2390,7 @@ ${AREAS_EN}`,
       "Fast process",
       "Result documentation",
     ],
-    longDescription: `Muchos empleos y trámites requieren una prueba de alcohol y drogas. En Clínica Hispana Nueva Salud la realizamos de forma rápida, discreta y en español, y te entregamos la documentación que necesitas: sin cita previa y sin seguro médico.
+    longDescription: `Para entrar a muchos trabajos, o para algunos trámites, te piden una prueba de alcohol y drogas. En Clínica Hispana Nueva Salud la realizamos de forma rápida, discreta y en español, y te entregamos la documentación que necesitas: sin cita previa y sin seguro médico.
 
 ## ¿Qué incluye?
 
@@ -2610,13 +2430,7 @@ La recolección de la muestra toma unos minutos. El tiempo del resultado depende
 
 ## Examen de alcohol y drogas en una clínica hispana cerca de ti
 
-Si buscas prueba de drogas para empleo en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas prueba de drogas para empleo en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
     longDescriptionEn: `Many jobs and procedures require an alcohol and drug test. At Clínica Hispana Nueva Salud we perform it quickly, discreetly and in Spanish, and provide the documentation you need: no appointment and no insurance required.
 
 ## What's included?
@@ -2644,7 +2458,7 @@ If you drive commercially, we also perform the [DOT physical exam for CDL licens
 - If you take prescription medication, bring it or write it down: some can show up on the test and it's worth documenting.
 - Arrive hydrated, but without excess fluids.
 
-## How long does it take and when do I get the result?
+## How long is the visit, and when is the result ready?
 
 Sample collection takes a few minutes. Result turnaround depends on the type of test; we'll tell you at the clinic when your documentation will be ready and how to pick it up or receive it.
 
@@ -2657,13 +2471,7 @@ Sample collection takes a few minutes. Result turnaround depends on the type of 
 
 ## Alcohol and drug testing at a Hispanic clinic near you
 
-If you're looking for a pre-employment drug test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for a pre-employment drug test in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "electrocardiograma",
@@ -2732,13 +2540,7 @@ Un EKG normal es una buena noticia, pero no descarta todos los problemas del cor
 
 ## ¿Y si tengo dolor en el pecho ahora?
 
-Eso no es para la clínica, es para el 911. Opresión fuerte en el pecho acompañada de ahogo, sudoración fría o molestia que baja al brazo o sube a la mandíbula puede ser un infarto.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Eso no es para la clínica, es para el 911. Opresión fuerte en el pecho acompañada de ahogo, sudoración fría o molestia que baja al brazo o sube a la mandíbula puede ser un infarto.`,
     longDescriptionEn: `An electrocardiogram (EKG or ECG) puts on paper how your heart is beating. It is quick, painless and gives valuable information about heart rhythm and function, which is why it is one of the most requested tests in checkups and exams for work or surgery.
 
 ## How is it done?
@@ -2765,13 +2567,7 @@ A normal EKG is good news, but it doesn't rule out every heart problem: it is a 
 
 ## What if I have chest pain right now?
 
-That's a job for 911, not the clinic. Heavy chest pressure along with breathlessness, a cold sweat or discomfort moving down the arm or up to the jaw may be a heart attack.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+That's a job for 911, not the clinic. Heavy chest pressure along with breathlessness, a cold sweat or discomfort moving down the arm or up to the jaw may be a heart attack.`,
   },
   {
     slug: "ultrasonido",
@@ -2814,7 +2610,7 @@ ${AREAS_EN}`,
       "Modern equipment",
       "Care in Spanish",
     ],
-    longDescription: `El ultrasonido (ecografía) es una herramienta segura y sin dolor que nos permite ver el interior de tu cuerpo para diagnosticar con precisión. En Clínica Hispana Nueva Salud contamos con equipo moderno y personal que te explica todo en español: sin cita previa, sin seguro médico y con precios accesibles.
+    longDescription: `Con el ultrasonido (ecografía) vemos órganos y tejidos por dentro, sin dolor y sin agujas, para saber con más certeza qué está pasando. En Clínica Hispana Nueva Salud contamos con equipo moderno y personal que te explica todo en español: sin cita previa, sin seguro médico y con precios accesibles.
 
 ## ¿Qué tipos de ultrasonido hacemos?
 
@@ -2834,33 +2630,27 @@ ${AREAS_EN}`,
 
 ## Sin radiación y sin dolor
 
-A diferencia de los rayos X, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo y se puede repetir las veces que haga falta. El estudio dura entre 15 y 30 minutos y solo sentirás el gel frío y una ligera presión del transductor.
+Trabaja con ondas de sonido, no con radiación como los rayos X; por eso se usa sin problema en el embarazo y puede repetirse cuando haga falta. El estudio dura entre 15 y 30 minutos y solo sentirás el gel frío y una ligera presión del transductor.
 
 ## ¿Cómo me preparo?
 
-- **Abdominal:** ayuno de 6 a 8 horas (para ver bien la vesícula).
-- **Pélvico y de embarazo temprano:** vejiga llena; toma de 3 a 4 vasos de agua una hora antes y no orines.
+- **Abdominal:** de 6 a 8 horas sin comer, para que la vesícula se vea bien.
+- **Pélvico y de embarazo temprano:** con la vejiga llena; bebe 3 o 4 vasos de agua una hora antes y aguanta sin ir al baño.
 - **Tiroides y tejidos blandos:** no requiere preparación.
 
-Si tienes dudas sobre tu caso, llámanos antes de venir y te decimos exactamente cómo prepararte.
+Si no sabes cuál te toca, escríbenos antes y te decimos cómo venir preparado.
 
 ## ¿Cómo es la visita?
 
 1. Llegas sin cita, te registras y nos cuentas el motivo del estudio.
 2. Se realiza el ultrasonido en un espacio privado, con explicación en español.
-3. El personal médico revisa las imágenes y te explica los hallazgos en palabras claras.
+3. El equipo médico mira las imágenes contigo y te cuenta qué encontró, sin tecnicismos.
 4. Si se necesita, sales con tratamiento, estudios complementarios o referencia a especialista.
 
 ## Ultrasonido en una clínica hispana cerca de ti
 
-Si buscas ultrasonido en Houston a precio accesible y en español, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Ultrasound (sonography) is a safe, painless tool that lets us see inside your body for an accurate diagnosis. At Clínica Hispana Nueva Salud we have modern equipment and staff who explain everything in Spanish: no appointment, no insurance required and affordable pricing.
+Si buscas ultrasonido en Houston a precio accesible y en español, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
+    longDescriptionEn: `Ultrasound (sonography) lets us look at organs and tissue inside you, with no pain and no needles, to get a clearer picture of what's going on. At Clínica Hispana Nueva Salud we have modern equipment and staff who explain everything in Spanish: no appointment, no insurance required and affordable pricing.
 
 ## What types of ultrasound do we perform?
 
@@ -2880,15 +2670,15 @@ ${AREAS_ES}`,
 
 ## No radiation, no pain
 
-Unlike X-rays, ultrasound uses no radiation, so it's safe even during pregnancy and can be repeated as often as needed. The exam takes 15 to 30 minutes and you'll only feel the cool gel and light pressure from the probe.
+It relies on sound waves rather than the radiation X-rays use, which is why it's fine during pregnancy and can be repeated when needed. The exam takes 15 to 30 minutes and you'll only feel the cool gel and light pressure from the probe.
 
 ## How do I prepare?
 
 - **Abdominal:** fast for 6 to 8 hours (to see the gallbladder clearly).
-- **Pelvic and early pregnancy:** full bladder; drink 3 to 4 glasses of water an hour before and don't urinate.
+- **Pelvic and early pregnancy:** come with a full bladder; drink 3 or 4 glasses of water an hour ahead and hold it.
 - **Thyroid and soft tissue:** no preparation needed.
 
-If you have questions about your case, call us before coming and we'll tell you exactly how to prepare.
+Not sure which one you need? Message us first and we'll tell you how to come prepared.
 
 ## What is the visit like?
 
@@ -2899,13 +2689,7 @@ If you have questions about your case, call us before coming and we'll tell you 
 
 ## Ultrasound at a Hispanic clinic near you
 
-If you're looking for an affordable ultrasound in Houston in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for an affordable ultrasound in Houston in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "examen-dot",
@@ -2964,7 +2748,7 @@ ${AREAS_EN}`,
 ## ¿Quién necesita el examen DOT?
 
 - Conductores con licencia CDL clase A, B o C
-- Quienes manejan vehículos de más de 10,001 libras en comercio interestatal
+- Conductores de unidades de más de 10,001 libras que cruzan de un estado a otro
 - Conductores de autobuses o vehículos con capacidad para más de 8 o 15 pasajeros
 - Quienes transportan materiales peligrosos con placard
 - Conductores que van a renovar su certificado por vencimiento
@@ -2972,14 +2756,14 @@ ${AREAS_EN}`,
 ## ¿Qué debo llevar?
 
 - Licencia de conducir vigente
-- Lentes, lentes de contacto o audífonos si los usas
+- Tus lentes o pupilentes y, si usas, tus aparatos para oír
 - Lista de tus medicamentos con nombre y dosis
-- Si tienes diabetes, presión alta, problemas del corazón o apnea del sueño: tus últimos resultados de laboratorio, receta o reporte del CPAP
+- Con diabetes, hipertensión, un problema cardíaco o apnea del sueño: tus análisis más recientes, la receta vigente o el reporte de uso del CPAP
 - Formulario de la empresa, si tu empleador lo requiere
 
 ## ¿Cuánto dura el certificado DOT?
 
-Por lo general el certificado es válido por **2 años**. Si tienes una condición que requiere control, como presión alta o diabetes, el examinador puede emitirlo por 1 año, 6 meses o 3 meses. En esos casos te explicamos qué debes mejorar para lograr la vigencia completa en tu siguiente examen.
+Por lo general el certificado es válido por **2 años**. Cuando hay una condición que vigilar, como la presión o el azúcar, el examinador puede darlo por menos tiempo: 1 año, 6 meses o 3 meses. En esos casos te explicamos qué debes mejorar para lograr la vigencia completa en tu siguiente examen.
 
 ## Condiciones que pueden afectar el resultado
 
@@ -3009,19 +2793,13 @@ El examen físico DOT no incluye la prueba de drogas. Muchas empresas la piden p
 
 ## Examen DOT en una clínica hispana cerca de ti
 
-Si buscas examen DOT en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby, a minutos de las autopistas I-45 y 610), de lunes a domingo de 9 AM a 9 PM. Lee también nuestra [guía del examen DOT para camioneros](/blog/examen-dot-cdl-camioneros-houston).
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas examen DOT en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby, a minutos de las autopistas I-45 y 610), de lunes a domingo de 9 AM a 9 PM. Lee también nuestra [guía del examen DOT para camioneros](/blog/examen-dot-cdl-camioneros-houston).`,
     longDescriptionEn: `If you drive trucks, buses or any commercial vehicle, you need a current DOT (Department of Transportation) physical. Without that certificate you can't get or renew your CDL license, and companies can't put you behind the wheel. At Clínica Hispana Nueva Salud we do the exam with no appointment, in Spanish, and with your certificate ready the same day, so you don't lose hours of work or have to go to another clinic.
 
 ## What's included?
 
 - **Medical history review:** conditions, surgeries, medications and habits
-- **Vision test:** visual acuity (at least 20/40 in each eye, with or without glasses) and peripheral vision
+- **Eyesight:** each eye must reach 20/40, glasses allowed, and your side vision is checked too
 - **Hearing test:** forced-whisper test or audiometry
 - **Blood pressure and pulse**
 - **Urinalysis** to check for glucose, protein or blood (this is not a drug test)
@@ -3039,9 +2817,9 @@ ${AREAS_ES}`,
 ## What should I bring?
 
 - A valid driver's license
-- Glasses, contact lenses or hearing aids if you use them
+- Your glasses or contacts and, if you wear them, your hearing aids
 - A list of your medications with name and dose
-- If you have diabetes, high blood pressure, heart problems or sleep apnea: your latest lab results, prescription or CPAP report
+- With diabetes, hypertension, a heart condition or sleep apnea: your most recent labs, current prescription or CPAP usage report
 - Your company's form, if your employer requires one
 
 ## How long is the DOT certificate valid?
@@ -3076,13 +2854,7 @@ The DOT physical does not include a drug test. Many companies require it separat
 
 ## DOT physical at a Hispanic clinic near you
 
-If you're looking for a DOT physical in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area, minutes from I-45 and the 610 Loop), Monday through Sunday from 9 AM to 9 PM. Read our [DOT exam guide for truck drivers](/en/blog/examen-dot-cdl-camioneros-houston) too.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for a DOT physical in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area, minutes from I-45 and the 610 Loop), Monday through Sunday from 9 AM to 9 PM. Read our [DOT exam guide for truck drivers](/en/blog/examen-dot-cdl-camioneros-houston) too.`,
   },
   {
     slug: "examenes-inmigracion",
@@ -3147,13 +2919,7 @@ Identificación con foto, tu cartilla de vacunas (de aquí o de tu país), la li
 
 La visita en la clínica es una sola, pero el formulario se completa cuando llegan los resultados del laboratorio. Si alguna prueba sale alterada, puede hacer falta un estudio adicional antes de cerrarlo. Te avisamos en cuanto esté listo.
 
-Para conocer el paso a paso con más detalle, lee nuestra [guía del examen I-693](/blog/guia-examen-medico-inmigracion-i693-houston) y [qué es un civil surgeon](/blog/medicos-autorizados-uscis-houston-civil-surgeon).
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Para conocer el paso a paso con más detalle, lee nuestra [guía del examen I-693](/blog/guia-examen-medico-inmigracion-i693-houston) y [qué es un civil surgeon](/blog/medicos-autorizados-uscis-houston-civil-surgeon).`,
     longDescriptionEn: `If you are adjusting status to become a permanent resident, USCIS will ask for Form I-693 with the results of your medical exam. At Clínica Hispana Nueva Salud we perform it with a USCIS-authorized physician (*civil surgeon*), with sample collection and vaccines at the same clinic and everything explained in Spanish.
 
 ## What does the service include?
@@ -3176,13 +2942,7 @@ A photo ID, your vaccination record (from here or your home country), a list of 
 
 The clinic visit is a single one, but the form is completed once the lab results arrive. If a test comes back abnormal, an additional study may be needed before it can be finished. You'll hear from us the moment it's done.
 
-For a more detailed walkthrough, read our [I-693 exam guide](/en/blog/guia-examen-medico-inmigracion-i693-houston) and [what a civil surgeon is](/en/blog/medicos-autorizados-uscis-houston-civil-surgeon).
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+For a more detailed walkthrough, read our [I-693 exam guide](/en/blog/guia-examen-medico-inmigracion-i693-houston) and [what a civil surgeon is](/en/blog/medicos-autorizados-uscis-houston-civil-surgeon).`,
   },
   {
     slug: "vacunas",
@@ -3225,7 +2985,7 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Las vacunas son una de las formas más sencillas de cuidar tu salud y la de tu familia. En Clínica Hispana Nueva Salud aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico de forma segura y rápida: sin cita previa, sin seguro médico y en español.
+    longDescription: `Ponerte al día con tus vacunas toma unos minutos y te protege a ti y a quienes viven contigo. En Clínica Hispana Nueva Salud aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico de forma segura y rápida: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué vacunas aplicamos?
 
@@ -3256,26 +3016,20 @@ Si llegas con una herida, también la limpiamos y la tratamos: contamos con [cur
 
 ## ¿Cómo es la visita?
 
-1. Llegas sin cita y te registras en recepción.
+1. Vienes cuando puedas, sin cita, y te anotas al llegar.
 2. El personal médico revisa brevemente tu historial (alergias, embarazo, vacunas previas).
-3. Se aplica la vacuna en el brazo; toma menos de 5 minutos.
+3. La inyección va en el brazo y en menos de 5 minutos está lista.
 4. Te entregamos tu comprobante de vacunación para trabajo, escuela o tus registros.
 
 ## Vacunas en una clínica hispana cerca de ti
 
-Si buscas dónde ponerte la vacuna de la flu o el tétanos en Houston sin cita y en español, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Vaccines are one of the simplest ways to protect your health and your family's. At Clínica Hispana Nueva Salud we administer the flu vaccine and the tetanus toxoid safely and quickly: no appointment, no insurance required and in Spanish.
+Si buscas dónde ponerte la vacuna de la flu o el tétanos en Houston sin cita y en español, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
+    longDescriptionEn: `Catching up on your shots takes a few minutes and protects you and the people you live with. At Clínica Hispana Nueva Salud we administer the flu vaccine and the tetanus toxoid safely and quickly: no appointment, no insurance required and in Spanish.
 
 ## Which vaccines do we administer?
 
 - **Flu (influenza) vaccine:** recommended every year, ideally between September and November, before flu season starts in Houston.
-- **Tetanus toxoid (tetanus booster):** protects you from cuts, scrapes, wounds from rusty objects or bites. A booster is recommended every 10 years, or sooner if you have a dirty or deep wound and don't remember your last dose.
+- **Tetanus toxoid (tetanus booster):** protects you from cuts, scrapes, wounds from rusty objects or bites. Plan on a booster every 10 years, or earlier after a deep or dirty wound if you can't recall your last one.
 
 If you need another vaccine, ask us: we'll guide you on where to get it and which boosters you're due for based on your age.
 
@@ -3301,20 +3055,14 @@ If you come in with a wound, we also clean and treat it: we offer same-day [woun
 
 ## What is the visit like?
 
-1. Walk in without an appointment and check in at the front desk.
+1. Come by whenever you can, no appointment, and sign in when you arrive.
 2. The medical staff briefly reviews your history (allergies, pregnancy, previous vaccines).
-3. The vaccine is given in the arm; it takes less than 5 minutes.
+3. The shot goes in your arm and is done in under 5 minutes.
 4. We give you a vaccination record for work, school or your files.
 
 ## Vaccines at a Hispanic clinic near you
 
-If you're looking for where to get a flu shot or tetanus booster in Houston with no appointment and in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for where to get a flu shot or tetanus booster in Houston with no appointment and in Spanish, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "sueros-vitaminados",
@@ -3380,24 +3128,18 @@ ${AREAS_EN}`,
 
 ## ¿Es seguro?
 
-Sí, cuando lo aplica personal médico después de una evaluación. Antes de la sesión revisamos tu presión, alergias, embarazo y condiciones como problemas renales o cardíacos, que pueden contraindicar ciertos sueros. La mayoría de las personas solo sienten el pinchazo inicial y una sensación de frescura en el brazo.
+Sí, siempre que antes te evalúe el equipo médico y lo aplique personal capacitado. Antes de la sesión revisamos tu presión, alergias, embarazo y condiciones como problemas renales o cardíacos, que pueden contraindicar ciertos sueros. La mayoría de las personas solo sienten el pinchazo inicial y una sensación de frescura en el brazo.
 
 ## ¿Cómo es la sesión?
 
-1. Llegas sin cita y te registras en recepción.
+1. Vienes cuando puedas, sin cita, y te anotas al llegar.
 2. El personal médico te evalúa y elige el suero adecuado para ti.
 3. Se coloca la vía en el brazo y el suero pasa en 30 a 60 minutos, mientras descansas.
 4. Al terminar puedes retomar tu día normalmente; muchas personas notan más energía ese mismo día o al siguiente.
 
 ## Sueros vitaminados en una clínica hispana cerca de ti
 
-Si buscas sueros vitaminados en Houston aplicados por personal médico, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas sueros vitaminados en Houston aplicados por personal médico, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
     longDescriptionEn: `Vitamin IV drips (intravenous therapy) deliver hydration, vitamins and minerals straight into your bloodstream, with far greater absorption than pills. At Clínica Hispana Nueva Salud they're administered by medical staff in a comfortable, safe setting: no appointment, no insurance required and in Spanish.
 
 ## What's included?
@@ -3425,20 +3167,14 @@ Yes, when administered by medical staff after an evaluation. Before the session 
 
 ## What is the session like?
 
-1. Walk in without an appointment and check in at the front desk.
+1. Come by whenever you can, no appointment, and sign in when you arrive.
 2. The medical staff evaluates you and chooses the right drip for you.
 3. The IV line is placed in your arm and the drip runs for 30 to 60 minutes while you rest.
 4. When it's done you can go on with your day; many people notice more energy that same day or the next.
 
 ## Vitamin IV therapy at a Hispanic clinic near you
 
-If you're looking for vitamin IV drips in Houston administered by medical staff, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for vitamin IV drips in Houston administered by medical staff, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "suturas-heridas",
@@ -3509,13 +3245,7 @@ Mantén el vendaje seco las primeras 24 a 48 horas, luego lava con agua y jabón
 
 ## ¿Cuándo ir directo a urgencias?
 
-Si la sangre sale a chorros o no para con presión, si no puedes mover o sentir un dedo, si la mordedura de un animal es grande o si hay un objeto clavado.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si la sangre sale a chorros o no para con presión, si no puedes mover o sentir un dedo, si la mordedura de un animal es grande o si hay un objeto clavado.`,
     longDescriptionEn: `A cut in the kitchen, at work or while playing: most heal with cleaning and a bandage, but some need stitches to close properly, heal faster and leave less of a mark. At the clinic we assess the wound, close it under local anesthesia and tell you how to care for it.
 
 ## How do I know if my cut needs stitches?
@@ -3544,13 +3274,7 @@ For a day or two, don't let the dressing get wet. After that, clean the area wit
 
 ## When should I go straight to the ER?
 
-If blood is spurting or won't stop with pressure, if you can't move or feel a finger, if an animal bite is large or if something is stuck in the wound.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If blood is spurting or won't stop with pressure, if you can't move or feel a finger, if an animal bite is large or if something is stuck in the wound.`,
   },
   {
     slug: "curacion-heridas",
@@ -3593,13 +3317,13 @@ ${AREAS_EN}`,
       "Healing follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Una buena curación evita infecciones y ayuda a que la herida sane más rápido y con mejor cicatriz. En Clínica Hispana Nueva Salud limpiamos, curamos y vendamos tus heridas, y te damos seguimiento hasta que cicatricen: sin cita previa, sin seguro médico y en español.
+    longDescription: `Curar bien una herida la protege de infecciones y hace que cierre antes y deje menos marca. En Clínica Hispana Nueva Salud limpiamos, curamos y vendamos tus heridas, y te damos seguimiento hasta que cicatricen: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
 - **Limpieza y desinfección** de la herida con técnica estéril
 - **Retiro de tejido dañado** cuando es necesario para que sane
-- **Aplicación de apósitos y vendajes** adecuados al tipo de herida
+- **Gasas y vendajes** elegidos según cómo sea la herida
 - **Cambio periódico de vendajes** en la clínica
 - **Vigilancia de signos de infección** en cada visita
 - **Indicaciones de cuidado en casa**, en español
@@ -3616,7 +3340,7 @@ ${AREAS_EN}`,
 
 ## Señales de que una herida se está infectando
 
-- Enrojecimiento que se extiende alrededor de la herida
+- Piel roja que se va extendiendo alrededor
 - Calor, hinchazón o dolor que aumenta en lugar de disminuir
 - Pus o líquido con mal olor
 - Fiebre o escalofríos
@@ -3630,7 +3354,7 @@ Con diabetes, las heridas en los pies pueden sanar lento y pasar desapercibidas.
 
 ## ¿Cómo es la visita?
 
-1. Llegas sin cita y te registras en recepción.
+1. Vienes cuando puedas, sin cita, y te anotas al llegar.
 2. El personal médico evalúa la herida y decide el tipo de curación.
 3. Se limpia, se cura y se cubre con el apósito adecuado.
 4. Te explicamos cómo cuidarla en casa y cada cuánto regresar para cambiar el vendaje.
@@ -3638,20 +3362,14 @@ Con diabetes, las heridas en los pies pueden sanar lento y pasar desapercibidas.
 
 ## Curación de heridas en una clínica hispana cerca de ti
 
-Si buscas curación de heridas en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas curación de heridas en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
     longDescriptionEn: `Good wound care prevents infection and helps the wound heal faster with a better scar. At Clínica Hispana Nueva Salud we clean, dress and bandage your wounds and follow up until they heal: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
 - **Cleaning and disinfection** of the wound with sterile technique
 - **Removal of damaged tissue** when needed for healing
-- **Dressings and bandages** suited to the type of wound
+- **Gauze and bandages** chosen for the kind of wound you have
 - **Regular bandage changes** at the clinic
 - **Monitoring for signs of infection** at every visit
 - **Home-care instructions**, in Spanish
@@ -3682,7 +3400,7 @@ With diabetes, foot wounds can heal slowly and go unnoticed. Check your feet dai
 
 ## What is the visit like?
 
-1. Walk in without an appointment and check in at the front desk.
+1. Come by whenever you can, no appointment, and sign in when you arrive.
 2. The medical staff evaluates the wound and decides the type of care.
 3. It's cleaned, treated and covered with the right dressing.
 4. We explain how to care for it at home and how often to return for bandage changes.
@@ -3690,13 +3408,7 @@ With diabetes, foot wounds can heal slowly and go unnoticed. Check your feet dai
 
 ## Wound care at a Hispanic clinic near you
 
-If you're looking for wound care in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for wound care in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "cirugias-menores",
@@ -3739,7 +3451,7 @@ ${AREAS_EN}`,
       "Removal of moles, cysts and lipomas",
       "After-care explained",
     ],
-    longDescription: `Muchos problemas de piel y tejidos blandos se resuelven con un procedimiento sencillo, sin hospital. En Clínica Hispana Nueva Salud realizamos cirugías menores ambulatorias con anestesia local, el mismo día: sin cita previa, sin seguro médico y en español.
+    longDescription: `Un lunar molesto, un quiste o un lipoma pequeño casi siempre se retiran en consulta, sin ir al hospital. En Clínica Hispana Nueva Salud realizamos cirugías menores ambulatorias con anestesia local, el mismo día: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué procedimientos hacemos?
 
@@ -3782,13 +3494,7 @@ Retirarlo a tiempo es sencillo; esperar a que crezca o se infecte lo complica.
 
 ## Cirugías menores en una clínica hispana cerca de ti
 
-Si buscas dónde quitar un lunar, quiste o lipoma en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si buscas dónde quitar un lunar, quiste o lipoma en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
     longDescriptionEn: `Many skin and soft-tissue problems can be solved with a simple procedure, no hospital required. At Clínica Hispana Nueva Salud we perform outpatient minor surgery under local anesthesia, the same day: no appointment, no insurance required and in Spanish.
 
 ## What procedures do we perform?
@@ -3832,13 +3538,7 @@ Removing it early is simple; waiting until it grows or gets infected makes it ha
 
 ## Minor surgery at a Hispanic clinic near you
 
-If you're looking for where to remove a mole, cyst or lipoma in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you're looking for where to remove a mole, cyst or lipoma in Houston with no appointment, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "drenaje-abscesos",
@@ -3905,13 +3605,7 @@ Cambia la curación como te indicamos, lávate las manos antes y después, y no 
 
 ## ¿Cuándo es urgente?
 
-Si aparecen líneas rojas que se extienden desde el bulto, fiebre alta o escalofríos, si el absceso está en la cara cerca del ojo o si tienes diabetes o defensas bajas, no esperes.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Si aparecen líneas rojas que se extienden desde el bulto, fiebre alta o escalofríos, si el absceso está en la cara cerca del ojo o si tienes diabetes o defensas bajas, no esperes.`,
     longDescriptionEn: `A red, hot lump that keeps getting more painful and sometimes fills with pus: that is usually an abscess, a pocket of infection under the skin. Many won't heal on their own because antibiotics don't reach the inside well. What fixes it is opening and emptying it, which we do at the clinic under local anesthesia.
 
 ## What causes it?
@@ -3936,13 +3630,7 @@ Change the dressing as instructed, wash your hands before and after, and don't s
 
 ## When is it urgent?
 
-If red streaks spread from the lump, you get a high fever or chills, the abscess is on the face near the eye, or you have diabetes or a weakened immune system, don't wait.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If red streaks spread from the lump, you get a high fever or chills, the abscess is on the face near the eye, or you have diabetes or a weakened immune system, don't wait.`,
   },
   {
     slug: "unas-encarnadas",
@@ -4013,13 +3701,7 @@ La mayoría de las personas camina con normalidad en pocos días. Si la uña vue
 
 ## ¿Cómo evito que regrese?
 
-Corta las uñas en línea recta, sin redondear las esquinas, y déjalas al ras del dedo. Elige calzado donde los dedos no vayan apretados y sécate bien entre ellos después del baño.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+Corta las uñas en línea recta, sin redondear las esquinas, y déjalas al ras del dedo. Elige calzado donde los dedos no vayan apretados y sécate bien entre ellos después del baño.`,
     longDescriptionEn: `When the edge of a nail digs into the skin of the toe, especially the big toe, every step hurts. If it also gets infected, you get swelling, pus and sometimes a lump of red tissue that bleeds easily. At the clinic we remove the part that's digging in under local anesthesia so the pain eases.
 
 ## Why does a nail become ingrown?
@@ -4048,13 +3730,7 @@ Most people walk normally within a few days. If the nail keeps growing in again 
 
 ## Keeping it from growing in again
 
-Cut nails straight across, without rounding the corners, and leave them level with the tip of the toe. Wear shoes with room for your toes and keep your feet dry.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+Cut nails straight across, without rounding the corners, and leave them level with the tip of the toe. Wear shoes with room for your toes and keep your feet dry.`,
   },
   {
     slug: "farmacia",
@@ -4123,13 +3799,7 @@ Por lo general sí, y contienen el mismo principio activo que el de marca. Si el
 
 ## ¿Qué hago con las pastillas que sobran?
 
-No las tires por el lavabo ni las guardes "por si acaso". La FDA explica cómo [desecharlas de forma segura](https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know), por ejemplo en los puntos de recolección de algunas farmacias.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
+No las tires por el lavabo ni las guardes "por si acaso". La FDA explica cómo [desecharlas de forma segura](https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know), por ejemplo en los puntos de recolección de algunas farmacias.`,
     longDescriptionEn: `Finishing your visit and leaving with your treatment, without another stop, saves time, especially when you feel sick. At the clinic we provide the medications our medical team prescribes during your visit, plus over-the-counter products.
 
 ## What can you take home?
@@ -4156,13 +3826,7 @@ Usually yes, and they contain the same active ingredient as the brand-name drug.
 
 ## What do I do with leftover pills?
 
-Don't flush them or keep them "just in case." The FDA explains how to [dispose of them safely](https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know), for example at the take-back kiosks some pharmacies have.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+Don't flush them or keep them "just in case." The FDA explains how to [dispose of them safely](https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know), for example at the take-back kiosks some pharmacies have.`,
   },
 ];
 

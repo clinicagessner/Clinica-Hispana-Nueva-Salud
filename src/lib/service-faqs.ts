@@ -29,14 +29,14 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     {
       question: "¿Tengo que ir en ayunas para la prueba de tiroides?",
       answer: "Para la TSH no hace falta ayunar. Si tomas biotina o multivitamínicos para cabello y uñas, avísanos: la FDA advierte que en dosis altas puede alterar el resultado.",
-      questionEn: "Do I need to fast for a thyroid test?",
+      questionEn: "Should I skip breakfast before a thyroid test?",
       answerEn: "You don't need to fast for a TSH. If you take biotin or hair-and-nail multivitamins, let us know: the FDA warns that high doses can throw off the result.",
     },
     {
       question: "¿Cómo debo tomar la levotiroxina?",
-      answer: "En ayunas, con agua, entre 30 y 60 minutos antes del desayuno y lejos del calcio, el hierro y los antiácidos. Tomarla siempre igual ayuda a que la dosis se mantenga estable.",
+      answer: "Con el estómago vacío y un vaso de agua, media hora a una hora antes de desayunar, y separada del calcio, el hierro y los antiácidos. Tomarla siempre igual ayuda a que la dosis se mantenga estable.",
       questionEn: "How should I take levothyroxine?",
-      answerEn: "On an empty stomach with water, 30 to 60 minutes before breakfast and apart from calcium, iron and antacids. Taking it the same way every day keeps the dose steady.",
+      answerEn: "With an empty stomach and a glass of water, half an hour to an hour before breakfast, and spaced away from calcium, iron and antacids. Taking it the same way every day keeps the dose steady.",
     },
     {
       question: "¿Es importante revisar la tiroides en el embarazo?",
@@ -47,7 +47,7 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "alergias": [
     {
-      question: "¿Cómo sé si es alergia o un resfriado?",
+      question: "¿Alergia o resfriado: cómo los distingo?",
       answer: "El resfriado suele durar una o dos semanas y puede dar fiebre o dolor de cuerpo. La alergia no da fiebre, dura mientras estás expuesto y muchas veces se repite en la misma época del año, con picazón de ojos y nariz.",
       questionEn: "How can I tell an allergy from a cold?",
       answerEn: "A cold usually lasts one or two weeks and may cause fever or body aches. An allergy doesn't cause fever, lasts as long as you're exposed and often comes back at the same time each year, with itchy eyes and nose.",
@@ -67,9 +67,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "enfermedades-respiratorias": [
     {
-      question: "¿Cuánto tarda el resultado de la prueba de flu o COVID?",
+      question: "¿En cuánto tiempo sé si es flu o COVID?",
       answer: "Son pruebas rápidas: el resultado está en minutos, durante la misma visita.",
-      questionEn: "How long does the flu or COVID test take?",
+      questionEn: "How soon will I know if it's flu or COVID?",
       answerEn: "They're rapid tests: results are ready in minutes, during the same visit.",
     },
     {
@@ -85,15 +85,15 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "Yes. You leave with your diagnosis, prescription and medication the same day; we have a pharmacy inside the clinic.",
     },
     {
-      question: "¿Dan justificante médico para el trabajo o la escuela?",
+      question: "Si falto al trabajo o a clases, ¿me dan un comprobante de la consulta?",
       answer: "Sí, te lo entregamos en la misma visita si tu condición lo requiere.",
-      questionEn: "Do you provide a doctor's note for work or school?",
+      questionEn: "Can I get a note for my job or school?",
       answerEn: "Yes, we provide it during the same visit if your condition requires it.",
     },
     {
       question: "¿Cuándo debo ir a emergencias en lugar de la clínica?",
       answer: "Si tienes dificultad para respirar, labios morados, confusión o dolor fuerte en el pecho, acude de inmediato a una sala de emergencias.",
-      questionEn: "When should I go to the ER instead of the clinic?",
+      questionEn: "When is it the ER and not the clinic?",
       answerEn: "If you have trouble breathing, blue lips, confusion or severe chest pain, go to an emergency room immediately.",
     },
     {
@@ -101,18 +101,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Sí, atendemos a toda la familia. Los niños con fiebre alta, tos persistente o dificultad para respirar deben evaluarse pronto.",
       questionEn: "Do you see children with the flu or a cough?",
       answerEn: "Yes, we care for the whole family. Children with high fever, persistent cough or trouble breathing should be evaluated promptly.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examen-fisico-escolar": [
@@ -151,18 +139,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Sí. Llenamos el formulario de tu escuela, distrito (HISD, Pasadena ISD y otros) o liga deportiva; si no tienes uno, usamos el formato estándar.",
       questionEn: "Do you accept forms from any school district?",
       answerEn: "Yes. We complete the form from your school, district (HISD, Pasadena ISD and others) or sports league; if you don't have one, we use the standard format.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "ginecologia": [
@@ -217,10 +193,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "prueba-embarazo": [
     {
-      question: "¿Qué tan confiable es la prueba de embarazo?",
-      answer: "La prueba de sangre (hCG) es la más precisa y detecta el embarazo desde 7 a 10 días después de la concepción. La de orina es confiable desde el primer día de retraso.",
+      question: "¿Puedo fiarme del resultado?",
+      answer: "La prueba de sangre (hCG) es la más precisa y detecta el embarazo desde 7 a 10 días después de la concepción. La de orina ya es fiable desde el día en que te debía bajar la regla.",
       questionEn: "How reliable is the pregnancy test?",
-      answerEn: "The blood test (hCG) is the most precise and detects pregnancy 7 to 10 days after conception. The urine test is reliable from the first day of a missed period.",
+      answerEn: "The blood test (hCG) is the most precise and detects pregnancy 7 to 10 days after conception. The urine test can be trusted starting the day your period was due.",
     },
     {
       question: "¿Cuándo me puedo hacer la prueba de sangre?",
@@ -230,7 +206,7 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿En cuánto tiempo me dan el resultado?",
-      answer: "La prueba de orina se lee en minutos, en la misma visita. La de sangre la procesa el laboratorio y te avisamos en cuanto esté lista.",
+      answer: "El resultado en orina está en unos minutos, antes de que te vayas. La de sangre la procesa el laboratorio y te avisamos en cuanto esté lista.",
       questionEn: "How soon do I get the result?",
       answerEn: "The urine test is read in minutes, in the same visit. The blood test is processed by the lab and we let you know as soon as it's ready.",
     },
@@ -251,18 +227,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Sí. El resultado se entrega solo a ti, en un ambiente privado y sin juicios.",
       questionEn: "Is it confidential?",
       answerEn: "Yes. The result is given only to you, in a private setting and without judgment.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "anticonceptivos": [
@@ -302,18 +266,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       questionEn: "Do you see minors?",
       answerEn: "Yes, accompanied by a parent or guardian. The visit is confidential and respectful.",
     },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
-    },
   ],
   "extraccion-implantes": [
     {
@@ -324,9 +276,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cuánto tarda el procedimiento?",
-      answer: "Entre 10 y 20 minutos, incluyendo la anestesia y el vendaje. Sales caminando y puedes seguir con tu día.",
+      answer: "Entre 10 y 20 minutos, incluyendo la anestesia y el vendaje. Te vas por tu propio pie y sigues con tus actividades.",
       questionEn: "How long does the procedure take?",
-      answerEn: "Between 10 and 20 minutes, including anesthesia and bandaging. You walk out and can go on with your day.",
+      answerEn: "Between 10 and 20 minutes, including anesthesia and bandaging. You leave on your own and carry on with your plans.",
     },
     {
       question: "¿Puedo quitarme el implante antes de que se venza?",
@@ -342,27 +294,15 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cuándo puedo quedar embarazada después del retiro?",
-      answer: "La fertilidad regresa rápido, en la mayoría de los casos dentro del primer mes. Si no buscas embarazo, usa otro método desde el mismo día.",
+      answer: "Tu cuerpo vuelve a poder embarazarse pronto; casi siempre en las primeras semanas. Si no buscas embarazo, usa otro método desde el mismo día.",
       questionEn: "When can I get pregnant after removal?",
-      answerEn: "Fertility returns quickly, in most cases within the first month. If you're not trying to conceive, use another method starting the same day.",
+      answerEn: "Your ability to get pregnant comes back soon, usually within a few weeks. If you're not trying to conceive, use another method starting the same day.",
     },
     {
       question: "¿Necesito guardar reposo?",
       answer: "No. Solo evita cargar peso con ese brazo el primer día y deja el vendaje 24 horas. Puedes trabajar y hacer tus actividades normales.",
       questionEn: "Do I need to rest afterwards?",
       answerEn: "No. Just avoid lifting heavy things with that arm the first day and keep the bandage on for 24 hours. You can work and do your normal activities.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "salud-hombre": [
@@ -374,8 +314,8 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿A qué edad debo hacerme el PSA?",
-      answer: "En general desde los 50 años, o desde los 40-45 si tu padre o hermano tuvieron cáncer de próstata. Se repite cada 1 a 2 años según el resultado.",
-      questionEn: "At what age should I get a PSA test?",
+      answer: "Entre los 55 y los 69 años se decide con el médico, porque tiene beneficios y también posibles daños. Si tu padre o un hermano tuvo cáncer de próstata, la conversación puede empezar antes. Se repite cada 1 a 2 años según el resultado.",
+      questionEn: "When should the PSA test come up?",
       answerEn: "Generally from age 50, or from 40-45 if your father or brother had prostate cancer. It's repeated every 1 to 2 years depending on the result.",
     },
     {
@@ -401,18 +341,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Las muestras se procesan en laboratorio; te avisamos cuando estén listas y te explicamos los resultados en español.",
       questionEn: "How long do results take?",
       answerEn: "Samples are processed at the lab; we let you know when they're ready and explain the results in Spanish.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examenes-sangre": [
@@ -448,40 +376,28 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Qué pasa si un resultado sale alterado?",
-      answer: "El médico te explica qué significa y define el tratamiento o seguimiento en la misma visita. Si hace falta un especialista, te damos la referencia.",
+      answer: "El médico te explica qué significa y define el tratamiento o seguimiento en la misma visita. Cuando el caso lo pide, te orientamos para ver a un especialista.",
       questionEn: "What if a result comes back abnormal?",
       answerEn: "The doctor explains what it means and sets up treatment or follow-up in the same visit. If a specialist is needed, we give you the referral.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "infecciones-urinarias": [
     {
       question: "¿Me dan tratamiento en la misma visita?",
-      answer: "Hacemos el examen de orina en la clínica y, si hay infección, el equipo médico te indica el tratamiento. Los medicamentos indicados en la consulta los puedes recibir en nuestra farmacia.",
+      answer: "La orina se analiza aquí y, si hay infección, el equipo médico decide el tratamiento en esa consulta. Los medicamentos indicados en la consulta los puedes recibir en nuestra farmacia.",
       questionEn: "Do I get treatment at the same visit?",
       answerEn: "We run the urine test in-clinic and, if there's an infection, the medical team prescribes your treatment. You can get the medications indicated during your visit at our pharmacy.",
     },
     {
       question: "¿Cómo sé si tengo infección urinaria?",
-      answer: "Los síntomas típicos son ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. Un examen de orina lo confirma en minutos.",
-      questionEn: "How do I know if I have a UTI?",
-      answerEn: "Typical symptoms are burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdominal pain. A urine test confirms it in minutes.",
+      answer: "Lo más común es que arda al orinar, que tengas que ir a cada rato, que la orina se vea turbia o huela fuerte y que moleste el bajo vientre. Un examen de orina lo confirma en minutos.",
+      questionEn: "What does a urinary tract infection feel like?",
+      answerEn: "Most often it burns when you pee, you need to go again and again, the urine looks cloudy or smells strong and your lower belly aches. A urine test confirms it in minutes.",
     },
     {
       question: "¿Necesito ayunar o prepararme para el examen de orina?",
       answer: "No necesitas ayuno. Lo ideal es no haber orinado en la última hora para que la muestra sea adecuada. Te damos las instrucciones en la clínica.",
-      questionEn: "Do I need to fast or prepare for the urine test?",
+      questionEn: "Is there anything to do before the urine test?",
       answerEn: "No fasting needed. Ideally, don't urinate during the hour before so the sample is adequate. We give you instructions at the clinic.",
     },
     {
@@ -501,18 +417,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Sí, atendemos a toda la familia. En hombres y niños es especialmente importante evaluar la causa, así que no lo dejes pasar.",
       questionEn: "Do you treat UTIs in men and children?",
       answerEn: "Yes, we care for the whole family. In men and children it's especially important to evaluate the cause, so don't put it off.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examen-heces": [
@@ -589,9 +493,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "The most common ones: chlamydia, gonorrhea, syphilis, HIV, herpes, trichomonas and hepatitis, depending on your case and symptoms.",
     },
     {
-      question: "¿Cuánto tiempo después del contacto puedo hacerme la prueba?",
+      question: "¿Cuántos días después de la relación conviene hacerme la prueba?",
       answer: "Depende de la infección: clamidia y gonorrea desde 1-2 semanas; VIH y sífilis pueden necesitar algunas semanas más. Te indicamos cuándo hacer o repetir la prueba.",
-      questionEn: "How soon after exposure can I get tested?",
+      questionEn: "How many days after sex should I wait to test?",
       answerEn: "It depends on the infection: chlamydia and gonorrhea from 1-2 weeks; HIV and syphilis may need a few more weeks. We'll tell you when to test or retest.",
     },
     {
@@ -611,18 +515,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Sí, en la mayoría de los casos. Si no, es muy probable que se vuelvan a contagiar. Te orientamos sobre cómo hablarlo y cómo tratarse los dos.",
       questionEn: "Should my partner also get treated?",
       answerEn: "Yes, in most cases. Otherwise, you're very likely to reinfect each other. We'll guide you on how to talk about it and get treated together.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examen-alcohol-drogas": [
@@ -662,18 +554,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       questionEn: "Can my prescription medications affect the result?",
       answerEn: "Some may show up on the test. That's why it's worth bringing or listing them so it's documented correctly.",
     },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
-    },
   ],
   "electrocardiograma": [
     {
@@ -698,7 +578,7 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "ultrasonido": [
     {
       question: "¿El ultrasonido tiene radiación?",
-      answer: "No. El ultrasonido usa ondas de sonido, no radiación, por lo que es seguro incluso durante el embarazo y se puede repetir las veces necesarias.",
+      answer: "No. Sí. Funciona con sonido, no con radiación, así que se usa en el embarazo y se puede repetir sin riesgo.",
       questionEn: "Does ultrasound use radiation?",
       answerEn: "No. Ultrasound uses sound waves, not radiation, so it's safe even during pregnancy and can be repeated as needed.",
     },
@@ -732,42 +612,30 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       questionEn: "Do you do pregnancy ultrasounds without an appointment?",
       answerEn: "Yes. You can walk in to confirm or follow up on your pregnancy. For the first weeks, come with a full bladder.",
     },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
-    },
   ],
   "examen-dot": [
     {
-      question: "¿Me entregan el certificado DOT el mismo día?",
-      answer: "Sí, al terminar el examen físico DOT te entregamos tu certificado el mismo día.",
-      questionEn: "Do I get the DOT certificate the same day?",
-      answerEn: "Yes, after the DOT physical we give you your certificate the same day.",
+      question: "¿Salgo con el certificado DOT en la mano?",
+      answer: "Sí. Si cumples los requisitos, te llevas el certificado impreso ese mismo día, al terminar el examen.",
+      questionEn: "Do I leave with my DOT certificate in hand?",
+      answerEn: "Yes. If you meet the requirements, you take your printed certificate home that same day, right after the exam.",
     },
     {
       question: "¿Qué debo llevar al examen DOT?",
       answer: "Tu licencia, tus lentes o audífonos si los usas, la lista de tus medicamentos y, si tienes presión alta, diabetes o apnea, tus últimos resultados o reporte del CPAP.",
       questionEn: "What should I bring to the DOT physical?",
-      answerEn: "Your license, glasses or hearing aids if you use them, your medication list and, if you have high blood pressure, diabetes or sleep apnea, your latest results or CPAP report.",
+      answerEn: "Your driver's license, any glasses or hearing aids you use, a list of your medications and, with hypertension, diabetes or sleep apnea, your recent results or CPAP usage report.",
     },
     {
       question: "¿Cuánto tiempo es válido el certificado DOT?",
       answer: "Normalmente 2 años. Si tienes presión alta, diabetes u otra condición que requiere control, puede ser de 1 año, 6 meses o 3 meses.",
       questionEn: "How long is the DOT certificate valid?",
-      answerEn: "Usually 2 years. If you have high blood pressure, diabetes or another condition that needs monitoring, it may be 1 year, 6 months or 3 months.",
+      answerEn: "Usually 2 years. When a condition such as blood pressure or blood sugar needs watching, the examiner can issue it for less time: 1 year, 6 months or 3 months.",
     },
     {
       question: "¿El examen DOT incluye prueba de drogas?",
       answer: "No. La prueba de drogas es un requisito aparte de tu empleador. También la hacemos en la clínica y puedes hacer ambas en la misma visita.",
-      questionEn: "Does the DOT physical include a drug test?",
+      questionEn: "Is a drug screen part of the DOT physical?",
       answerEn: "No. The drug test is a separate employer requirement. We also do it at the clinic and you can do both in the same visit.",
     },
     {
@@ -781,18 +649,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "No. Come normalmente, toma tus medicamentos como siempre y evita el café o bebidas energéticas justo antes, porque pueden subir la presión.",
       questionEn: "Do I need to fast for the DOT physical?",
       answerEn: "No. Eat normally, take your medications as usual and avoid coffee or energy drinks right before, since they can raise your blood pressure.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. Te recomendamos llamar antes para confirmar la disponibilidad del examinador.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. We recommend calling ahead to confirm the examiner is available.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "examenes-inmigracion": [
@@ -818,26 +674,26 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "vacunas": [
     {
       question: "¿Qué vacunas aplican?",
-      answer: "Aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico. Si necesitas otra vacuna, pregúntanos y te orientamos sobre dónde obtenerla.",
+      answer: "Aquí te ponemos la vacuna de la influenza (flu) y la del tétanos (toxoide tetánico). Si necesitas otra vacuna, pregúntanos y te orientamos sobre dónde obtenerla.",
       questionEn: "Which vaccines do you offer?",
       answerEn: "We offer the flu (influenza) vaccine and the tetanus toxoid. If you need another vaccine, ask us and we'll guide you on where to get it.",
     },
     {
-      question: "¿Cuándo es mejor ponerse la vacuna de la flu?",
+      question: "¿En qué mes conviene vacunarse contra la flu?",
       answer: "Idealmente entre septiembre y noviembre, antes de la temporada de gripe, pero sirve en cualquier momento de la temporada. Se aplica una vez al año.",
-      questionEn: "When is the best time to get the flu shot?",
+      questionEn: "Is fall the right time for my flu vaccine?",
       answerEn: "Ideally between September and November, before flu season, but it helps at any point in the season. It's given once a year.",
     },
     {
       question: "¿La vacuna de la flu me puede dar gripe?",
       answer: "No. Contiene virus inactivados y no causa gripe. Es normal sentir el brazo adolorido o un poco de cansancio uno o dos días.",
-      questionEn: "Can the flu shot give me the flu?",
+      questionEn: "Could the flu vaccine make me sick with the flu?",
       answerEn: "No. It contains inactivated virus and can't cause the flu. A sore arm or mild tiredness for a day or two is normal.",
     },
     {
       question: "¿Cada cuánto necesito el refuerzo del tétanos?",
       answer: "Cada 10 años, o antes si tienes una herida sucia o profunda y no recuerdas tu última dosis.",
-      questionEn: "How often do I need a tetanus booster?",
+      questionEn: "How many years does a tetanus shot last?",
       answerEn: "Every 10 years, or sooner if you have a dirty or deep wound and don't remember your last dose.",
     },
     {
@@ -852,18 +708,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       questionEn: "Do you vaccinate children?",
       answerEn: "We give the flu and tetanus vaccines to the whole family according to the indicated age. Call us to confirm your child's age.",
     },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
-    },
   ],
   "sueros-vitaminados": [
     {
@@ -876,7 +720,7 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       question: "¿Cuánto dura la sesión?",
       answer: "Entre 30 y 60 minutos, según el suero. Puedes descansar cómodamente mientras pasa.",
       questionEn: "How long does the session take?",
-      answerEn: "Between 30 and 60 minutes, depending on the drip. You can rest comfortably while it runs.",
+      answerEn: "Plan on half an hour to an hour, depending on the bag. You can rest comfortably while it runs.",
     },
     {
       question: "¿Para qué sirve un suero vitaminado?",
@@ -891,7 +735,7 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answerEn: "It's safe when administered by medical staff after an evaluation. The most common effects are mild: discomfort at the needle site or a cool feeling in the arm.",
     },
     {
-      question: "¿Puedo ponerme un suero si estoy embarazada o tengo una enfermedad?",
+      question: "Si estoy embarazada o tengo alguna enfermedad, ¿me lo pueden poner?",
       answer: "Depende de tu caso. Antes de la sesión revisamos embarazo, alergias y condiciones como problemas renales o cardíacos para decidir si es adecuado.",
       questionEn: "Can I get a drip if I'm pregnant or have a medical condition?",
       answerEn: "It depends on your case. Before the session we check for pregnancy, allergies and conditions like kidney or heart problems to decide if it's appropriate.",
@@ -901,18 +745,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "No. De hecho, conviene que hayas comido algo ligero antes de la sesión.",
       questionEn: "Do I need to fast?",
       answerEn: "No. In fact, it's better to have eaten something light before the session.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "suturas-heridas": [
@@ -950,12 +782,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cómo sé si mi herida está infectada?",
-      answer: "Enrojecimiento que se extiende, calor, hinchazón, pus, mal olor o fiebre. Si notas alguno, ven el mismo día.",
-      questionEn: "How do I know if my wound is infected?",
+      answer: "Si el rojo crece, la zona está caliente o hinchada, sale pus, huele mal o tienes fiebre. Si notas alguno, ven el mismo día.",
+      questionEn: "What are the signs a wound is getting infected?",
       answerEn: "Spreading redness, warmth, swelling, pus, foul odor or fever. If you notice any of these, come in the same day.",
     },
     {
-      question: "Tengo diabetes y una llaga en el pie, ¿qué hago?",
+      question: "Vivo con diabetes y tengo una herida en el pie, ¿espero?",
       answer: "No esperes. Las heridas en pies de personas con diabetes sanan lento y pueden complicarse; acude a curación cuanto antes y mantén el seguimiento.",
       questionEn: "I have diabetes and a sore on my foot, what should I do?",
       answerEn: "Don't wait. Foot wounds in people with diabetes heal slowly and can get complicated; come in for wound care as soon as possible and keep up with follow-up.",
@@ -971,18 +803,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Sí. Trae las indicaciones de tu cirujano si las tienes y nos encargamos de las curaciones y el cambio de vendajes.",
       questionEn: "Do you care for wounds from surgery done elsewhere?",
       answerEn: "Yes. Bring your surgeon's instructions if you have them and we'll handle the wound care and bandage changes.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "cirugias-menores": [
@@ -1021,18 +841,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "En la mayoría de los casos sí. Si la lesión requiere un estudio previo o referencia, te lo indicamos en la primera visita.",
       questionEn: "Is it done the same day as the evaluation?",
       answerEn: "In most cases, yes. If the lesion needs a prior test or a referral, we let you know at the first visit.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "drenaje-abscesos": [
@@ -1078,7 +886,7 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "farmacia": [
     {
       question: "¿Tienen todos los medicamentos?",
-      answer: "Tenemos los que más se indican en consulta. Si el que necesitas no está disponible, te damos la receta para que la surtas en una farmacia.",
+      answer: "Tenemos los que más se indican en consulta. Cuando el tuyo no está en existencia, te llevas la receta para conseguirlo en una farmacia.",
       questionEn: "Do you carry every medication?",
       answerEn: "We stock the ones most often prescribed at visits. If the one you need isn't available, we give you the prescription to fill at a pharmacy.",
     },
@@ -1091,7 +899,7 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     {
       question: "¿Me explican cómo tomar el medicamento?",
       answer: "Sí. Antes de que te vayas repasamos contigo la dosis, el horario y los cuidados en español, y puedes escribirnos por WhatsApp si te queda una duda en casa.",
-      questionEn: "Will you explain how to take the medication?",
+      questionEn: "Does someone go over how to take it?",
       answerEn: "Yes. Before you leave we go over the dose, schedule and precautions with you in Spanish, and you can message us on WhatsApp if a question comes up at home.",
     },
   ],
