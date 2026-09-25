@@ -45,7 +45,7 @@ Si no tienes tu cartilla, trae lo que recuerdes y lo revisamos en consulta.
 ## ¿Qué de esto se hace en la clínica?
 
 - [Papanicolaou y cultivos](/services/ginecologia), con tratamiento de infecciones cuando hacen falta.
-- [Pruebas de enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual), de forma confidencial.
+- [Detección de infecciones de transmisión sexual](/services/enfermedades-transmision-sexual), con total discreción.
 - [Anticonceptivos](/services/anticonceptivos): pastillas e inyección, y [retiro de implantes](/services/extraccion-implantes).
 - [Pruebas de embarazo](/services/prueba-embarazo) y [ultrasonido](/services/ultrasonido) pélvico y de embarazo.
 - [Análisis de sangre](/services/examenes-sangre) y [control de diabetes, presión y colesterol](/services/condiciones-cronicas).

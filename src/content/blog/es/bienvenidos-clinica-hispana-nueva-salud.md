@@ -17,7 +17,7 @@ Clínica Hispana Nueva Salud está en el sureste de Houston, en 7640 Bellfort Av
 
 ## ¿Necesito hacer cita?
 
-No. Atendemos por orden de llegada todos los días, de lunes a domingo, de 9 AM a 9 PM, también sábados y domingos. Si vienes por un examen de trabajo, escuela o inmigración, trae los formularios que te entregaron. Si prefieres avisar antes o tienes una pregunta, escríbenos por WhatsApp o llama al **(832) 831-4016**: es el mismo número para las dos cosas.
+No. Te atendemos según vas llegando, cualquier día de la semana entre las 9 de la mañana y las 9 de la noche, fines de semana incluidos. Si vienes por un examen de trabajo, escuela o inmigración, trae los formularios que te entregaron. Si prefieres avisar antes o tienes una pregunta, escríbenos por WhatsApp o llama al **(832) 831-4016**: es el mismo número para las dos cosas.
 
 ## ¿Cómo llego y dónde estaciono?
 
@@ -45,7 +45,7 @@ Te atiende nuestro equipo médico, en español o en inglés, como te sientas má
 - [Consulta de medicina general](/services/condiciones-cronicas) y control de diabetes, presión alta y colesterol.
 - [Laboratorio clínico](/services/examenes-sangre) con toma de muestra en la clínica.
 - [Atención ginecológica](/services/ginecologia): papanicolaou, cultivos y tratamiento de infecciones.
-- [Examen de inmigración I-693](/services/examenes-inmigracion) con médico autorizado por USCIS.
+- El [examen médico I-693](/services/examenes-inmigracion) para tu trámite migratorio, firmado por un civil surgeon.
 - [Examen físico DOT](/services/examen-dot) para licencia CDL y [exámenes escolares y deportivos](/services/examen-fisico-escolar).
 - [Vacunas](/services/vacunas), [suturas](/services/suturas-heridas) y [cirugías menores](/services/cirugias-menores).
 
@@ -53,7 +53,7 @@ La lista completa está en la página de [servicios](/services).
 
 ## ¿Qué pasa después de la consulta?
 
-Sales con las indicaciones por escrito y, si el equipo médico te indicó tratamiento, puedes llevarte ahí mismo los medicamentos de la consulta. Si te tomamos muestras para laboratorio, te decimos cuándo esperar los resultados y cómo te los vamos a entregar. Para dudas después de la visita, el WhatsApp de la clínica es el camino más rápido: guarda el número en tu teléfono con el nombre de la clínica.
+Sales con las indicaciones por escrito y, si el equipo médico te indicó tratamiento, con tu receta. Si te tomamos muestras para laboratorio, te decimos cuándo esperar los resultados y cómo te los vamos a entregar. Para dudas después de la visita, el WhatsApp de la clínica es el camino más rápido: guarda el número en tu teléfono con el nombre de la clínica.
 
 ## ¿Y si no sé qué necesito?
 

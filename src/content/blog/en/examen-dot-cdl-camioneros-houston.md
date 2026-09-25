@@ -37,7 +37,7 @@ Up to 24 months. The examiner may issue a shorter one when a condition needs fol
 ## What do I bring?
 
 - Your driver's license.
-- Glasses, contact lenses or hearing aids, if you use them.
+- Whatever you wear to see or hear: glasses, contacts, hearing aids.
 - A list of your medications with doses.
 - If you use insulin: form MCSA-5870 completed by your treating clinician ([FMCSA](https://www.fmcsa.dot.gov/regulations/medical/insulin-treated-diabetes-mellitus-assessment-form-mcsa-5870)). It must be less than 45 days old when you come in for the exam.
 - If you have sleep apnea with CPAP: your machine's usage report.
@@ -59,4 +59,4 @@ It depends on the reason. Often it can be solved by getting the condition under 
 
 ## Your DOT physical on Bellfort Avenue
 
-At Clínica Hispana Nueva Salud (7640 Bellfort Ave, Suite A, Houston 77061) we perform the [DOT physical](/en/services/examen-dot) with no appointment and in Spanish. If you meet the requirements, you leave with your medical certificate that same day. We are open Monday through Sunday, 9 AM to 9 PM, so you can come before or after your route. Phone and WhatsApp: **(832) 831-4016**.
+At Clínica Hispana Nueva Salud (7640 Bellfort Ave, Suite A, Houston 77061) we perform the [DOT physical](/en/services/examen-dot) with no appointment and in Spanish. If you meet the requirements, you leave with your medical certificate that same day. Since we're open 9 AM to 9 PM on weekends too, you can stop by before heading out or once you're back. Phone and WhatsApp: **(832) 831-4016**.

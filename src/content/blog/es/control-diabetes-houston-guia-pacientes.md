@@ -13,7 +13,7 @@ keywords:
   - "guía diabetes pacientes"
 ---
 
-La diabetes es una de las condiciones más comunes en la comunidad hispana: cerca de 1 de cada 8 adultos latinos en Estados Unidos la tiene, y muchos más viven con prediabetes sin saberlo. La buena noticia es que, con el control adecuado, puedes llevar una vida plena y activa. Esta guía te explica lo esencial en palabras simples, para que sepas qué vigilar, qué comer y cuándo acudir al médico.
+La diabetes es una de las condiciones más comunes en la comunidad hispana: cerca de 1 de cada 8 adultos latinos en Estados Unidos la tiene, y muchos más viven con prediabetes sin saberlo. Con un seguimiento constante, la diabetes deja de mandar en tu día a día. Esta guía te explica lo esencial en palabras simples, para que sepas qué vigilar, qué comer y cuándo acudir al médico.
 
 ## Conoce tus números
 
@@ -47,7 +47,7 @@ Comer con diabetes no obliga a renunciar a la comida de casa: se trata de ajusta
 
 ## Muévete cada día
 
-Una caminata de 30 minutos al día ayuda a bajar el azúcar, la presión y el peso, y a sentirte mejor. No necesitas un gimnasio: camina por tu colonia, baila, sube escaleras, juega con tus hijos. Si llevas tiempo sin hacer ejercicio, empieza con 10 minutos y ve subiendo. Si usas insulina, pregunta a tu médico cómo ajustar para evitar bajones.
+Salir a caminar media hora diaria baja el azúcar, ayuda con la presión y el peso, y se nota en el ánimo. No necesitas un gimnasio: camina por tu colonia, baila, sube escaleras, juega con tus hijos. Si llevas tiempo sin hacer ejercicio, empieza con 10 minutos y ve subiendo. Si usas insulina, pregunta a tu médico cómo ajustar para evitar bajones.
 
 ## Revisa tus pies y tus ojos
 
@@ -63,4 +63,4 @@ Es la mejor oportunidad de evitar la diabetes. Bajar entre el 5 y el 7% de tu pe
 
 ## Cuenta con nosotros
 
-En Clínica Hispana Nueva Salud tenemos un [programa de control de diabetes](/services/condiciones-cronicas) en español, con laboratorio en la misma visita, sin cita previa y sin necesidad de seguro médico. Te explicamos tus números, ajustamos tu plan y te acompañamos paso a paso. Llámanos al **(832) 831-4016** o ven directamente a 7640 Bellfort Ave, Houston, TX 77061, de lunes a domingo de 9 AM a 9 PM.
+En Clínica Hispana Nueva Salud llevamos tu [control de diabetes](/services/condiciones-cronicas) en español: la toma de muestra se hace en la misma visita, no hace falta cita y no necesitas seguro. Te explicamos tus números, ajustamos tu plan y te acompañamos paso a paso. Llámanos al **(832) 831-4016** o ven directamente a 7640 Bellfort Ave, Houston, TX 77061, de lunes a domingo de 9 AM a 9 PM.

@@ -44,7 +44,7 @@ En Clínica Hispana Nueva Salud puedes hacerte estos exámenes sin cita previa y
 
 ## Exámenes recomendados por edad
 
-Resumen de las recomendaciones del [Grupo de Trabajo de Servicios Preventivos de EE. UU. (USPSTF)](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) para hombres sin síntomas. Tus antecedentes pueden adelantar o cambiar algunas.
+La tabla resume lo que aconseja el [Grupo de Trabajo de Servicios Preventivos de EE. UU. (USPSTF)](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) para hombres sin síntomas. Tus antecedentes pueden adelantar o cambiar algunas.
 
 | Edad | Qué revisar |
 | --- | --- |

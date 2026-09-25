@@ -15,7 +15,7 @@ keywords:
   - "hispanic clinic houston men"
 ---
 
-It's common for a man to put off a checkup "until there's time" and only come in when something keeps him from working. The problem is that the most dangerous conditions — high blood pressure, diabetes, cholesterol, prostate problems — progress for years **without symptoms**. A timely preventive checkup can catch them while they are still easy to control.
+It's common for a man to put off a checkup "until there's time" and only come in when something keeps him from working. Trouble is, the conditions that do the most harm, such as high blood pressure, diabetes, cholesterol and prostate problems, can go on for years **with no symptoms at all**. A timely preventive checkup can catch them while they are still easy to control.
 
 ## Why get checked even if you feel fine?
 

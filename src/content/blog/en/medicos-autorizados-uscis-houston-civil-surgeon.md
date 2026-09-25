@@ -33,7 +33,7 @@ The exam follows the technical instructions the CDC publishes for civil surgeons
 
 - **Medical history and a full physical exam.**
 - **A mental health evaluation** and questions about alcohol or drug use.
-- **A tuberculosis blood test** (IGRA) from age 2.
+- **A blood test for tuberculosis** (IGRA) for anyone 2 or older.
 - **Lab tests** for certain infections, depending on the age ranges in the CDC table.
 - **A vaccine review**: your record is checked and any missing doses are given.
 

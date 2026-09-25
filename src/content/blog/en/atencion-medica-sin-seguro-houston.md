@@ -17,7 +17,7 @@ Texas has the highest share of people without health insurance in the country, a
 
 ## Where do I go, depending on what's wrong?
 
-- **A real emergency** (chest pain, trouble breathing, signs of a stroke, bleeding that won't stop): go to the emergency room or call 911, insured or not. Under federal law, hospitals with emergency departments must evaluate and stabilize you even if you can't pay.
+- **A real emergency** (chest pain, trouble breathing, signs of a stroke, bleeding that won't stop): go to the emergency room or call 911, insured or not. A federal law (EMTALA) requires hospital emergency rooms to assess and stabilize you whether or not you can pay.
 - **Everyday problems** (infections, fever, sore throat, cuts, blood pressure or blood sugar checks, lab work, work or school exams): a walk-in clinic with per-service pricing is usually the fastest and most affordable option.
 - **Long-term follow-up with financial help**: community health centers and county programs.
 

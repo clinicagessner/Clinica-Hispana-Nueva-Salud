@@ -17,9 +17,9 @@ A blood test is the most direct way to see how your blood sugar, cholesterol, ki
 
 ## What does each test measure?
 
-- **Complete blood count (CBC):** red cells, white cells and platelets. It helps detect anemia, infections and other blood problems ([MedlinePlus](https://medlineplus.gov/lab-tests/complete-blood-count-cbc/)).
+- **Complete blood count (CBC):** counts your red and white cells and your platelets. It helps detect anemia, infections and other blood problems ([MedlinePlus](https://medlineplus.gov/lab-tests/complete-blood-count-cbc/)).
 - **Blood chemistry panel:** glucose, kidney and liver function and electrolytes, depending on the panel.
-- **Fasting glucose and hemoglobin A1c:** glucose is a snapshot of the moment; A1c shows your average blood sugar over the past two to three months ([MedlinePlus](https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/)).
+- **Fasting glucose and hemoglobin A1c:** glucose captures a single moment, while A1c reflects roughly the last two to three months ([MedlinePlus](https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/)).
 - **Lipid panel:** total cholesterol, LDL ("bad"), HDL ("good") and triglycerides.
 - **Thyroid tests:** mainly TSH, which helps show whether the thyroid is overactive or underactive.
 

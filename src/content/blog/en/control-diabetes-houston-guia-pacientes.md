@@ -17,7 +17,7 @@ Diabetes is one of the most common conditions in the Hispanic community: about 1
 
 ## Know your numbers
 
-The first step is knowing where you stand. These are the values your doctor checks and what they mean:
+It starts with knowing your current numbers. These are the values your doctor checks and what they mean:
 
 - **Fasting glucose:** your blood sugar after 8 hours without food. Normal: under 100 mg/dL. Prediabetes: 100-125. Diabetes: 126 or higher on two readings.
 - **Hemoglobin A1c:** shows how your blood sugar has been, on average, over about 3 months. Normal: under 5.7%. Prediabetes: 5.7-6.4%. Diabetes: 6.5% or higher. If you already have diabetes, the goal for most people is **under 7%**.

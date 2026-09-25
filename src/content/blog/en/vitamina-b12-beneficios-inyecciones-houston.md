@@ -17,9 +17,9 @@ keywords:
 
 Tiredness that sleep doesn't fix, tingling hands, forgetting things you used to remember. Many people put it down to stress or age, but sometimes the explanation is a vitamin: **B12**. Low levels are common in certain groups, a simple blood test detects them and, when treated early, the effects usually reverse.
 
-## What does vitamin B12 do in the body?
+## Why does your body need B12?
 
-The body can't make it: it has to come from animal products, fortified foods or supplements. According to the [National Institutes of Health (NIH)](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/), an adult needs about 2.4 micrograms a day. With that, it handles several jobs:
+The body can't make it: it has to come from animal products, fortified foods or supplements. The [National Institutes of Health (NIH)](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/) put an adult's daily need at about 2.4 micrograms. With that, it handles several jobs:
 
 - **Making red blood cells.** Without enough, a type of anemia appears, with large, poorly working cells.
 - **Protecting nerves.** A long-lasting shortage can damage them and cause tingling or numbness.

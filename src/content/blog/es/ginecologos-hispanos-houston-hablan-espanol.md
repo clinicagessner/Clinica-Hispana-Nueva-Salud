@@ -24,7 +24,7 @@ La atención ginecológica básica la da el equipo médico general de la clínic
 1. **Conversación en privado.** Te preguntamos por tu último periodo, tus síntomas, embarazos anteriores y el método anticonceptivo que usas. Todo lo que cuentas es confidencial.
 2. **Revisión.** Si hace falta un examen pélvico, te explicamos antes qué se va a hacer y para qué. Puedes pedir que haya otra persona del personal presente, o venir acompañada.
 3. **Toma de muestras**, si corresponde: papanicolaou, cultivo vaginal o prueba de embarazo.
-4. **Plan.** Te decimos qué encontramos, qué tratamiento sigue y cuándo volver. Si necesitas medicamento, puedes recibir ahí mismo el indicado en la consulta.
+4. **Plan.** Te decimos qué encontramos, qué tratamiento sigue y cuándo volver. Si necesitas medicamento, te damos la receta con las indicaciones.
 
 En cualquier momento puedes pedir que paremos o hacer preguntas. Es tu cuerpo y tu visita.
 

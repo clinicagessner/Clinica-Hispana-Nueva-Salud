@@ -17,7 +17,7 @@ keywords:
 
 Cansancio que no se quita durmiendo, manos que hormiguean, olvidos que antes no tenías. Mucha gente lo atribuye al estrés o a la edad, pero a veces la explicación es una vitamina: la **B12**. Su falta es frecuente en ciertos grupos, se detecta con un análisis sencillo y, cuando se trata a tiempo, sus efectos suelen revertirse.
 
-## ¿Qué hace la vitamina B12 en el cuerpo?
+## ¿Para qué necesita tu cuerpo la B12?
 
 El organismo no la fabrica: hay que obtenerla de productos de origen animal, de alimentos fortificados o de suplementos. Según los [Institutos Nacionales de la Salud (NIH)](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/), un adulto necesita alrededor de 2.4 microgramos al día. Con eso cumple varias tareas:
 
@@ -66,7 +66,7 @@ No hay un esquema único. Muchas veces se empieza con dosis más seguidas para r
 ## Por qué hacerlo con nosotros
 
 - Todo el proceso en español, desde que llegas.
-- Sin cita previa, los siete días de la semana.
+- Puedes venir sin cita cualquier día.
 - Precios accesibles y sin necesidad de seguro.
 - Toma de muestra en la misma clínica.
 - Cerca de ti en el sureste de Houston: Glenbrook Valley, Park Place, Gulfgate, Pecan Park, Golfcrest, la zona de Hobby y South Houston.

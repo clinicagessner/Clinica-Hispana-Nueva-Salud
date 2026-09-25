@@ -21,12 +21,12 @@ Mainly people applying for permanent residence from inside the United States wit
 
 ## What do I bring on exam day?
 
-- **A valid photo ID**: passport, driver's license or state ID.
+- **Photo ID that hasn't expired**: a passport, driver's license or state ID card.
 - **Your vaccination card or records**, from your home country or from here. Spanish-language records are fine.
 - **A list of your medications** and past illnesses or surgeries.
 - **Previous tuberculosis results** if you were ever treated.
-- **Glasses or hearing aids**, if you use them.
-- Your A-Number, if you already have one.
+- **Your glasses or hearing aids**, if you rely on them.
+- Your A-Number, if USCIS has already assigned you one.
 
 Don't sign the form before you arrive: it is signed in front of the doctor.
 

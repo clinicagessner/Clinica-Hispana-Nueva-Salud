@@ -17,7 +17,7 @@ El Formulario I-693 (*Report of Immigration Medical Examination and Vaccination 
 
 ## ¿Quién necesita el I-693?
 
-Sobre todo quien solicita la residencia permanente desde dentro de Estados Unidos con el Formulario I-485. Otras solicitudes también lo piden; las instrucciones de cada formulario en [uscis.gov](https://www.uscis.gov/i-693) indican si te corresponde. Si tienes dudas, consulta a tu abogado o representante antes de hacerte el examen.
+Principalmente quien pide la green card sin salir de Estados Unidos, mediante el Formulario I-485. Otras solicitudes también lo piden; las instrucciones de cada formulario en [uscis.gov](https://www.uscis.gov/i-693) indican si te corresponde. Si tienes dudas, consulta a tu abogado o representante antes de hacerte el examen.
 
 ## ¿Qué llevo el día del examen?
 
@@ -52,4 +52,4 @@ USCIS fija un plazo entre la firma del médico y la presentación de tu solicitu
 
 ## ¿Dónde hacerlo en el sureste de Houston?
 
-En Clínica Hispana Nueva Salud, en 7640 Bellfort Ave Suite A (77061), hacemos el [examen I-693](/services/examenes-inmigracion) con médico autorizado por USCIS, la [prueba de tuberculosis](/services/prueba-tuberculosis), los análisis de sangre y las [vacunas](/services/vacunas) en la misma clínica, todo explicado en español. Si todavía estás eligiendo médico, lee [qué es un civil surgeon y cómo verificarlo](/blog/medicos-autorizados-uscis-houston-civil-surgeon). Sin cita, todos los días de 9 AM a 9 PM; teléfono y WhatsApp **(832) 831-4016**.
+En Clínica Hispana Nueva Salud, en 7640 Bellfort Ave Suite A (77061), hacemos el [examen I-693](/services/examenes-inmigracion) con médico autorizado por USCIS, la [prueba de tuberculosis](/services/prueba-tuberculosis), los análisis de sangre y las [vacunas](/services/vacunas) en la misma clínica, todo explicado en español. Si todavía estás eligiendo médico, lee [qué es un civil surgeon y cómo verificarlo](/blog/medicos-autorizados-uscis-houston-civil-surgeon). Ven sin cita cualquier día, de 9 AM a 9 PM, o escríbenos antes al **(832) 831-4016**.

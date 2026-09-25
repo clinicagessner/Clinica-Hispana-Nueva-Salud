@@ -17,18 +17,18 @@ Many women put off their gynecology checkup out of embarrassment, because they c
 
 ## Who sees me?
 
-Basic gynecology care is provided by the clinic's general medical team, in Spanish. We handle the most common needs: [Pap smears](/en/services/ginecologia), vaginal cultures, infection treatment, [pregnancy tests](/en/services/prueba-embarazo), [birth control](/en/services/anticonceptivos) and pelvic or pregnancy [ultrasound](/en/services/ultrasonido). When a result needs a specialist, we guide you through the referral and explain why.
+Routine gynecology visits are handled by the clinic's general medical team, all in Spanish. We handle the most common needs: [Pap smears](/en/services/ginecologia), vaginal cultures, infection treatment, [pregnancy tests](/en/services/prueba-embarazo), [birth control](/en/services/anticonceptivos) and pelvic or pregnancy [ultrasound](/en/services/ultrasonido). When a result needs a specialist, we guide you through the referral and explain why.
 
 ## How does the visit go, step by step?
 
 1. **A private conversation.** We ask about your last period, your symptoms, past pregnancies and the birth control you use. Everything you share is confidential.
 2. **The exam.** If a pelvic exam is needed, we explain beforehand what will be done and why. You can ask for another staff member to be present, or bring someone with you.
 3. **Samples**, when needed: Pap smear, vaginal culture or pregnancy test.
-4. **A plan.** We tell you what we found, what treatment comes next and when to come back. If you need medication, you can take home the one prescribed at the visit.
+4. **A plan.** We tell you what we found, what treatment comes next and when to come back. If you need medication, we give you the prescription and instructions.
 
 You can ask us to stop or ask questions at any point. It is your body and your visit.
 
-## How do I prepare for a Pap smear?
+## Getting ready for a Pap smear
 
 - Try not to schedule it during your period; if it starts, let us know and we will reschedule.
 - For the two days before, avoid douching, vaginal suppositories, vaginal creams and intercourse, since they can affect the sample.

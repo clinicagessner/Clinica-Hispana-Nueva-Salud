@@ -35,7 +35,7 @@ Se hace en la clínica y tarda pocos minutos: una punción en el brazo y uno o v
 
 ## ¿Cuándo tengo los resultados?
 
-El plazo depende de cada prueba y te lo decimos al tomar la muestra. Cuando llegan los resultados, te los explicamos en español, sin tecnicismos, para que entiendas qué significa cada número y qué sigue.
+El plazo depende de cada prueba y te lo decimos al tomar la muestra. Con los resultados en la mano, repasamos contigo en español cada valor y lo que conviene hacer después.
 
 ## ¿Qué hago si algo sale alterado?
 
@@ -47,4 +47,4 @@ No hay una sola respuesta. Una persona sana y joven puede necesitarlos pocas vec
 
 ## Laboratorio en Bellfort Avenue
 
-En Clínica Hispana Nueva Salud (7640 Bellfort Ave, Suite A, Houston 77061) hacemos [análisis de sangre](/services/examenes-sangre) con toma de muestra en la clínica, sin cita y sin necesidad de seguro. Revisa las [promociones](/promociones) vigentes de chequeo general. Abrimos todos los días de 9 AM a 9 PM; teléfono y WhatsApp **(832) 831-4016**.
+En Clínica Hispana Nueva Salud (7640 Bellfort Ave, Suite A, Houston 77061) hacemos [análisis de sangre](/services/examenes-sangre) con toma de muestra en la clínica, sin cita y sin necesidad de seguro. Revisa las [promociones](/promociones) vigentes de chequeo general. Estamos de 9 AM a 9 PM los siete días; si quieres saber si te toca ayunar, pregunta al **(832) 831-4016**.

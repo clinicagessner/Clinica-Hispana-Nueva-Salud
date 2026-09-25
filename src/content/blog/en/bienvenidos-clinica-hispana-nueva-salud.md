@@ -26,9 +26,9 @@ The clinic has free on-site parking. The entrance, restrooms and parking are whe
 ## What do I bring to my first visit?
 
 - A photo ID, if you have one.
-- A list of the medications you take, or the boxes.
+- Your current medications, written down or in their original boxes.
 - Previous results or prescriptions related to your problem.
-- Your vaccination record if you are coming for a school, work or immigration exam.
+- Your shot record, if the visit is for a school, job or immigration exam.
 
 You don't need health insurance. If you have it, ask at the front desk how it works in your case.
 
@@ -42,10 +42,10 @@ Our medical team sees you in Spanish or in English, whichever you prefer. We tak
 
 ## What can I take care of here?
 
-- [General medicine](/en/services/condiciones-cronicas) and management of diabetes, high blood pressure and cholesterol.
+- [Everyday medical care](/en/services/condiciones-cronicas), plus ongoing care for diabetes, blood pressure and cholesterol.
 - A [clinical lab](/en/services/examenes-sangre) with in-clinic sample collection.
 - [Gynecology care](/en/services/ginecologia): Pap smears, cultures and infection treatment.
-- The [I-693 immigration exam](/en/services/examenes-inmigracion) with a USCIS-authorized physician.
+- The [I-693 medical exam](/en/services/examenes-inmigracion) for your immigration case, signed by a civil surgeon.
 - The [DOT physical](/en/services/examen-dot) for a CDL, plus [school and sports physicals](/en/services/examen-fisico-escolar).
 - [Vaccines](/en/services/vacunas), [stitches](/en/services/suturas-heridas) and [minor surgery](/en/services/cirugias-menores).
 
@@ -53,7 +53,7 @@ The full list is on the [services](/en/services) page.
 
 ## What happens after the visit?
 
-You leave with written instructions and, if the medical team prescribed treatment, you can take the medications from your visit home with you. If we drew samples for the lab, we tell you when to expect the results and how we will deliver them. For questions after your visit, the clinic's WhatsApp is the fastest way: save the number in your phone under the clinic's name.
+You leave with written instructions and, if the medical team prescribed treatment, with your prescription. If we drew samples for the lab, we tell you when to expect the results and how we will deliver them. For questions after your visit, the clinic's WhatsApp is the fastest way: save the number in your phone under the clinic's name.
 
 ## What if I don't know what I need?
 
