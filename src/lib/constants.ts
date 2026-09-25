@@ -26,9 +26,9 @@ export const SITE_CONFIG = {
   tagline: "Centro médico 100% en español en Houston, TX",
   taglineEn: "Medical center 100% in Spanish in Houston, TX",
   description:
-    "Clínica hispana en Houston, TX: centro médico con atención profesional en español, sin cita previa y con precios accesibles. No necesitas seguro médico. Médico primario, medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "Clínica Hispana Nueva Salud, en 7640 Bellfort Ave (sureste de Houston, TX): medicina general y familiar, laboratorio, ginecología básica, exámenes de inmigración I-693 y DOT. Sin cita, sin seguro y en español.",
   descriptionEn:
-    "Hispanic clinic in Houston, TX: a medical center with professional care in Spanish, walk-ins welcome, no insurance needed. Primary care, family medicine, immigration exams, lab work and more.",
+    "Clínica Hispana Nueva Salud at 7640 Bellfort Ave (southeast Houston, TX): general and family medicine, lab work, basic gynecology, I-693 immigration and DOT exams. Walk-in, no insurance needed, in Spanish.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-nueva-salud.webp",
@@ -133,7 +133,7 @@ export const PROMOTIONS: Promotion[] = [
     price: "$99",
     title: "Chequeo General Completo",
     blurb:
-      "Cuídate hoy, vive mejor mañana. Chequeo general completo por solo $99 (valor regular $250) con consulta médica gratis: examen general de sangre, A1C (hemoglobina glicosilada) y examen general de orina. Agenda tu cita hoy.",
+      "Un chequeo para saber cómo estás por dentro: examen general de sangre, hemoglobina A1C y examen general de orina, más la consulta médica gratis, por $99 (valor regular $250). Ven sin cita cualquier día de 9 AM a 9 PM.",
     includes: [
       "Examen general de sangre",
       "A1C (hemoglobina glicosilada)",
@@ -143,7 +143,7 @@ export const PROMOTIONS: Promotion[] = [
     alt: "Flyer de la promoción Chequeo General Completo por $99 con consulta gratis en Clínica Hispana Nueva Salud, Houston",
     titleEn: "Complete General Check-Up",
     blurbEn:
-      "Take care today, live better tomorrow. Complete general check-up for only $99 (regular value $250) with a free medical consultation: general blood test, A1C (glycated hemoglobin) and general urine test. Book your appointment today.",
+      "A checkup to see how you're doing on the inside: general blood test, hemoglobin A1C and general urine test, plus a free medical visit, for $99 (regular value $250). Come in any day, 9 AM to 9 PM, without booking.",
     includesEn: [
       "General blood test",
       "A1C (glycated hemoglobin)",
@@ -401,31 +401,6 @@ export const SERVICE_CATEGORIES: {
   { value: "laboratorio", label: "Laboratorio y pruebas", labelEn: "Lab & testing" },
   { value: "tratamientos", label: "Tratamientos", labelEn: "Treatments" },
 ];
-
-// Bloques de copy reutilizados (marca Nueva Salud + Houston).
-const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud?
-
-Somos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
-
-const WHY_EN = `## Why choose Clínica Hispana Nueva Salud?
-
-We are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. Find your medical center near you at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
-
-const PAYMENT_ES = `## Formas de pago
-
-No es necesario tener seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.`;
-
-const PAYMENT_EN = `## Payment
-
-You don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.`;
-
-const AREAS_ES = `## Áreas que servimos
-
-Atendemos a pacientes del sureste de Houston, TX y de toda el área metropolitana de Houston: Glenbrook Valley, Park Place, Gulfgate, Pecan Park, Golfcrest, Hobby Area y South Houston.`;
-
-const AREAS_EN = `## Areas we serve
-
-We care for patients across southeast Houston, TX and the greater Houston area: Glenbrook Valley, Park Place, Gulfgate, Pecan Park, Golfcrest, Hobby Area and South Houston.`;
 
 
 export const SERVICES: Service[] = [
@@ -1068,7 +1043,7 @@ If you're looking for a school or sports physical in Houston with no appointment
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces: sin cita previa, sin seguro médico y con precios accesibles.
+    longDescription: `Hablar de tu salud íntima es más fácil cuando te escuchan con calma y en tu idioma. En Clínica Hispana Nueva Salud ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces: sin cita previa, sin seguro médico y con precios accesibles.
 
 ## ¿Qué incluye la consulta ginecológica?
 
@@ -1097,7 +1072,7 @@ Una infección vaginal mal tratada o tratada "por internet" suele regresar. Con 
 
 ## ¿Cómo es la visita?
 
-1. Llegas sin cita y te registras en recepción, en español.
+1. Vienes cuando puedas, sin cita, y te anotas al llegar; desde la entrada te atienden en español.
 2. Platicas tus síntomas o el motivo de tu chequeo con el personal médico, en privado.
 3. Se realiza la revisión y, si aplica, se toma el Papanicolaou o el cultivo.
 4. Si hay infección evidente, sales con tu tratamiento el mismo día.
@@ -1105,16 +1080,10 @@ Una infección vaginal mal tratada o tratada "por internet" suele regresar. Con 
 
 **Consejo:** para el Papanicolaou es mejor no estar menstruando y evitar relaciones, duchas vaginales u óvulos 48 horas antes. Si tienes dudas, llámanos y te orientamos.
 
-## Ginecología en una clínica hispana cerca de ti
+## Atención ginecológica en Bellfort Avenue
 
-Si buscas ginecología en Houston o un lugar donde hablen tu idioma, en nuestra clínica hispana te atendemos cerca de ti: en español, sin cita previa y con precios accesibles, en el sureste de Houston (zona Bellfort / Hobby). Aquí nadie te juzga; solo queremos que te sientas bien y tranquila con tu salud.
-
-${WHY_ES}
-
-${PAYMENT_ES}
-
-${AREAS_ES}`,
-    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud we offer gynecology care in Spanish, with the privacy and respect you deserve: no appointment needed, no insurance required and affordable pricing.
+Si buscas ginecología en Houston donde te hablen en español, estamos en el sureste de la ciudad, en Bellfort Avenue cerca del aeropuerto Hobby: sin cita previa y con precios accesibles. Aquí nadie te juzga; solo queremos que te sientas bien y tranquila con tu salud.`,
+    longDescriptionEn: `Talking about intimate health is easier when someone listens calmly, in your language. At Clínica Hispana Nueva Salud, gynecology care happens in Spanish and in private, with no appointment, no insurance requirement and affordable prices.
 
 ## What does the gynecology visit include?
 
@@ -1143,7 +1112,7 @@ A vaginal infection that's poorly treated or self-treated "from the internet" us
 
 ## What is the visit like?
 
-1. Walk in without an appointment and check in at the front desk, in Spanish.
+1. Come by whenever you can, no appointment, and sign in; you're greeted in Spanish from the start.
 2. Talk about your symptoms or the reason for your checkup with the medical staff, in private.
 3. The exam is performed and, if needed, the Pap smear or culture is taken.
 4. If there's an obvious infection, you leave with treatment the same day.
@@ -1151,15 +1120,9 @@ A vaginal infection that's poorly treated or self-treated "from the internet" us
 
 **Tip:** for a Pap smear it's best not to be on your period and to avoid intercourse, douching or vaginal suppositories for 48 hours beforehand. If you have questions, call us and we'll guide you.
 
-## Gynecology at a Hispanic clinic near you
+## Gynecology care on Bellfort Avenue
 
-If you're looking for gynecology care in Houston or a place where they speak your language, our Hispanic clinic is near you: care in Spanish, walk-ins welcome and affordable pricing, in southeast Houston (Bellfort / Hobby area). Nobody judges you here; we just want you to feel well and at ease about your health.
-
-${WHY_EN}
-
-${PAYMENT_EN}
-
-${AREAS_EN}`,
+If you want gynecology care in Houston from people who speak Spanish, we're in the southeast part of the city, on Bellfort Avenue near Hobby Airport: walk-ins welcome and affordable prices. Nobody judges you here; we just want you to feel well and at ease about your health.`,
   },
   {
     slug: "prueba-embarazo",

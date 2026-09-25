@@ -10,9 +10,9 @@ const BASE = SITE_CONFIG.baseUrl;
 // build, Google no tiene señal de qué recorrer cuando el contenido cambia.
 // /privacy es noindex: no va en el sitemap para no enviar señales contradictorias.
 const PAGE_DATES: Record<string, string> = {
-  "/": "2026-09-25", // reseñas reales de Google, FAQ del I-693
+  "/": "2026-09-25", // reseñas reales, FAQ propia, promo de $99
   "/services": "2026-09-25", // §9 y contenido propio de los 29 servicios (B3)
-  "/promociones": "2026-09-01",
+  "/promociones": "2026-09-25", // texto propio de la promo de $99
   "/walk-in": "2026-08-02",
   "/landing/comparacion-clinicas-houston": "2026-09-25", // reseñas reales, plazos de laboratorio
 };

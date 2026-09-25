@@ -144,20 +144,20 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "ginecologia": [
     {
       question: "¿Necesito cita para el papanicolaou?",
-      answer: "No es obligatorio, atendemos sin cita; pero puedes llamarnos para reservar un horario cómodo.",
-      questionEn: "Do I need an appointment for a Pap smear?",
-      answerEn: "It's not required, we welcome walk-ins; but you can call us to reserve a convenient time.",
+      answer: "No hace falta cita. Si prefieres llegar a una hora concreta, escríbenos antes por WhatsApp.",
+      questionEn: "Can I just walk in for a Pap smear?",
+      answerEn: "Yes, no appointment needed. If you'd like to come at a set time, message us on WhatsApp first.",
     },
     {
       question: "¿Cada cuánto debo hacerme el Papanicolaou?",
       answer: "En general, desde los 21 años y cada 3 años si el resultado es normal. Si nunca te lo has hecho o tuviste un resultado anormal, conviene hacerlo cuanto antes.",
-      questionEn: "How often should I get a Pap smear?",
+      questionEn: "How many years apart should my Pap smears be?",
       answerEn: "Generally from age 21 and every 3 years if the result is normal. If you've never had one or had an abnormal result, it's best to get it done soon.",
     },
     {
       question: "¿Cómo me preparo para el Papanicolaou?",
       answer: "Procura no estar en tu periodo y evita relaciones, duchas vaginales, óvulos o cremas 48 horas antes. Así el resultado es más confiable.",
-      questionEn: "How do I prepare for a Pap smear?",
+      questionEn: "Is there anything to do before a Pap smear?",
       answerEn: "Try not to be on your period and avoid intercourse, douching, suppositories or creams for 48 hours before. That makes the result more reliable.",
     },
     {
@@ -175,20 +175,8 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     {
       question: "¿Tratan infecciones vaginales el mismo día?",
       answer: "Sí. Si los síntomas son claros, sales con tu tratamiento ese mismo día; si es necesario, tomamos un cultivo para confirmar la causa y ajustar el medicamento.",
-      questionEn: "Do you treat vaginal infections the same day?",
+      questionEn: "Can a vaginal infection be treated at the same visit?",
       answerEn: "Yes. If symptoms are clear, you leave with treatment that same day; if needed, we take a culture to confirm the cause and adjust the medication.",
-    },
-    {
-      question: "¿Necesito cita previa?",
-      answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario.",
-      questionEn: "Do I need an appointment?",
-      answerEn: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time.",
-    },
-    {
-      question: "¿Atienden a pacientes sin seguro?",
-      answer: "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-      questionEn: "Do you accept patients without insurance?",
-      answerEn: "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
     },
   ],
   "prueba-embarazo": [
