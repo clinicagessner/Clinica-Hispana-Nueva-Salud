@@ -18,7 +18,9 @@ export function Logo({
     <span className={cn("inline-flex items-center gap-2.5", className)}>
       <Image
         src="/logo-nueva-salud.webp"
-        alt="Logo de Clínica Hispana Nueva Salud"
+        // Decorativo: el wordmark de al lado ya nombra la clínica, y así el
+        // nombre accesible del enlace coincide con el texto visible.
+        alt=""
         width={512}
         height={512}
         className="h-11 w-11 shrink-0 object-contain"
