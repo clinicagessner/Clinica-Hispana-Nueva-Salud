@@ -93,7 +93,7 @@ export function FloatingButtons() {
           target="_blank"
           rel="noopener noreferrer"
           aria-label={t("whatsapp")}
-          className="pointer-events-auto flex h-14 w-14 items-center justify-center rounded-full bg-whatsapp font-heading text-sm font-semibold text-white shadow-lg shadow-whatsapp/30 transition-all hover:scale-[1.03] hover:bg-whatsapp-dark sm:h-12 sm:w-auto sm:gap-2 sm:px-5"
+          className="pointer-events-auto flex h-14 w-14 items-center justify-center rounded-full bg-whatsapp font-heading text-sm font-semibold text-whatsapp-foreground shadow-lg shadow-whatsapp/30 transition-all hover:scale-[1.03] hover:bg-whatsapp-dark sm:h-12 sm:w-auto sm:gap-2 sm:px-5"
         >
           <WhatsappLogoIcon className="h-5 w-5 shrink-0" weight="fill" />
           <span className="hidden sm:inline">{t("whatsapp")}</span>

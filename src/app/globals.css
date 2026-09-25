@@ -26,7 +26,8 @@
   --cloud: #f7fafd;
 
   /* ROJO — acento (corazón / "Clínica Hispana") */
-  --red-accent: #e03b3b;
+  /* #e03b3b no llegaba a 4,5:1 en texto pequeño (Lighthouse, 2026-09-25). */
+  --red-accent: #d32f2f;
   --red-dark: #b82a2a;
   --red-light: #f6c9c9;
   --red-bg: #fdf1f1;
@@ -51,6 +52,8 @@
   /* WhatsApp (color oficial de la marca) */
   --whatsapp: #25d366;
   --whatsapp-dark: #1da851;
+  /* Texto sobre el verde de WhatsApp: el blanco daba 1,98:1; este, 7,5:1. */
+  --whatsapp-foreground: #0b2e1a;
 
   /* ── Tokens shadcn mapeados a la paleta (modo claro) ── */
   --background: #ffffff;
@@ -205,6 +208,7 @@
   --color-warning: var(--warning);
   --color-whatsapp: var(--whatsapp);
   --color-whatsapp-dark: var(--whatsapp-dark);
+  --color-whatsapp-foreground: var(--whatsapp-foreground);
 
   /* Escala de radios — estética "fresca" muy redondeada */
   --radius-sm: calc(var(--radius) * 0.6);

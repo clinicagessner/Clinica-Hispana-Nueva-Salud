@@ -140,7 +140,6 @@ export async function Hero() {
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <a
               href={`tel:${CONTACT_INFO.phone}`}
-              aria-label={`${t("ctaCall")} ${CONTACT_INFO.phoneFormatted}`}
               className="group inline-flex h-14 items-center justify-center gap-2.5 rounded-full bg-red-accent px-7 font-heading text-base font-semibold text-white shadow-lg shadow-red-accent/40 transition-all duration-200 hover:bg-red-dark hover:shadow-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
             >
               <Phone className="h-5 w-5 shrink-0 transition-transform group-hover:scale-110" />
@@ -153,7 +152,7 @@ export async function Hero() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label={tc("whatsapp")}
-              className="group inline-flex h-14 w-full items-center justify-center gap-2.5 rounded-full bg-whatsapp px-7 font-heading text-base font-semibold text-white shadow-xl shadow-whatsapp/30 ring-1 ring-white/10 transition-all duration-200 hover:bg-whatsapp-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white sm:w-auto"
+              className="group inline-flex h-14 w-full items-center justify-center gap-2.5 rounded-full bg-whatsapp px-7 font-heading text-base font-semibold text-whatsapp-foreground shadow-xl shadow-whatsapp/30 ring-1 ring-white/10 transition-all duration-200 hover:bg-whatsapp-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white sm:w-auto"
             >
               <WhatsappLogoIcon
                 className="size-5 shrink-0 transition-transform group-hover:scale-110"

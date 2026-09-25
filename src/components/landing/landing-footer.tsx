@@ -28,10 +28,10 @@ export function LandingFooter() {
               {CONTACT_INFO.phoneFormatted}
             </a>
           </div>
-          <p className="mt-2 max-w-xl text-xs text-sky-bg/50">
+          <p className="mt-2 max-w-xl text-xs text-sky-bg/60">
             {t("disclaimer")}
           </p>
-          <div className="mt-2 flex items-center gap-4 text-xs text-sky-bg/50">
+          <div className="mt-2 flex items-center gap-4 text-xs text-sky-bg/60">
             <span>
               © {year} {SITE_CONFIG.name}.
             </span>
