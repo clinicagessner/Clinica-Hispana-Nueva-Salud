@@ -4,10 +4,9 @@ import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
-import { GoogleAnalytics } from "@next/third-parties/google";
 import { MetaPixel } from "@/components/tracking/meta-pixel";
 import { MetaPixelSPATracker } from "@/components/tracking/meta-pixel-spa-tracker";
-import { GoogleAds } from "@/components/tracking/google-ads";
+import { GoogleTags } from "@/components/tracking/google-tags";
 import { CallRail } from "@/components/tracking/callrail";
 import { routing } from "@/i18n/routing";
 import { fontVariables } from "@/lib/fonts";
@@ -79,7 +78,6 @@ export default async function LocaleLayout({
   }
   setRequestLocale(locale as Locale);
   const messages = await getMessages();
-  const gaId = process.env.NEXT_PUBLIC_GA_ID;
 
   return (
     <html lang={locale} className={fontVariables} suppressHydrationWarning>
@@ -90,9 +88,8 @@ export default async function LocaleLayout({
           <MetaPixelSPATracker />
           {children}
         </NextIntlClientProvider>
-        <GoogleAds />
+        <GoogleTags />
         <CallRail />
-        {gaId ? <GoogleAnalytics gaId={gaId} /> : null}
       </body>
     </html>
   );

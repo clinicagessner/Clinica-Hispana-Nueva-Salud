@@ -15,6 +15,6 @@ export function CallRail() {
   if (!swapUrl) return null;
 
   return (
-    <Script id="callrail-swap" strategy="afterInteractive" src={swapUrl} />
+    <Script id="callrail-swap" strategy="lazyOnload" src={swapUrl} />
   );
 }
