@@ -12,6 +12,7 @@ import { ServiceIcon } from "@/components/shared/service-icon";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import {
   JsonLdBreadcrumb,
+  JsonLdClinicRef,
   JsonLdFaqPage,
   JsonLdMedicalProcedure,
 } from "@/components/seo/json-ld";
@@ -100,6 +101,8 @@ export default async function ServiceDetailPage({
 
   return (
     <>
+      {/* Referencia a la clínica; el nodo completo vive en la home (B0.14). */}
+      <JsonLdClinicRef locale={locale as Locale} />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },

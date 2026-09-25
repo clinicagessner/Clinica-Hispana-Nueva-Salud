@@ -30,8 +30,10 @@ const postalAddress = {
 };
 
 /**
- * MedicalClinic global (montado en (default)/layout). Async: trae rating y
- * reseñas 5★ en vivo (cache 1h) con fallback a GOOGLE_REVIEWS_DATA.
+ * Nodo COMPLETO de la clínica: solo en la home. El resto de páginas emite
+ * JsonLdClinicRef con el mismo @id; si lo pusiera el layout, el nodo completo
+ * (rating, 29 servicios, reseñas) se repetiría en las 92 URLs.
+ * Async: rating y reseñas 5★ en vivo con respaldo de reseñas reales.
  * availableService usa MedicalProcedure (sin price → no rompe validación).
  */
 export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
@@ -53,7 +55,9 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
     logo: `${SITE_CONFIG.baseUrl}${SITE_CONFIG.logoUrl}`,
     priceRange: "$$",
     currenciesAccepted: "USD",
-    paymentAccepted: "Cash, Credit Card",
+    // Del volcado de "Acerca de tu negocio" de la ficha (2026-09-25).
+    paymentAccepted:
+      "Cash, Credit Card, Debit Card, Visa, Mastercard, American Express, Discover",
     address: postalAddress,
     geo: {
       "@type": "GeoCoordinates",
@@ -70,9 +74,28 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
       SOCIAL_LINKS.linkedin,
       SOCIAL_LINKS.x,
     ],
-    medicalSpecialty: ["PrimaryCare", "Gynecologic"],
+    // Solo atención primaria: sin ginecólogo titulado no se declara la
+    // especialidad (la ginecología básica va como servicio, no como especialidad).
+    medicalSpecialty: ["PrimaryCare"],
+    // La ficha solo declara Houston como área de servicio.
     areaServed: { "@type": "City", name: "Houston" },
     availableLanguage: ["es", "en"],
+    isAcceptingNewPatients: true,
+    // Atributos de la ficha de Google (2026-09-25).
+    amenityFeature: [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible parking lot",
+      "Free parking lot",
+      "On-site parking",
+      "Restroom",
+      "Walk-ins accepted",
+      "Latino-owned",
+    ].map((name) => ({
+      "@type": "LocationFeatureSpecification",
+      name,
+      value: true,
+    })),
     openingHoursSpecification: OPENING_HOURS.map((h) => ({
       "@type": "OpeningHoursSpecification",
       dayOfWeek: `https://schema.org/${h.day}`,
@@ -107,6 +130,26 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
   }
 
   return <JsonLd data={data} />;
+}
+
+/**
+ * Referencia ligera a la clínica, con el mismo @id que el nodo completo de la
+ * home. La ponen todas las páginas que no son la home.
+ */
+export function JsonLdClinicRef({ locale }: { locale: Locale }) {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "MedicalClinic",
+        "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
+        name: SITE_CONFIG.name,
+        url: absoluteUrl("/", locale),
+        telephone: CONTACT_INFO.phone,
+        address: postalAddress,
+      }}
+    />
+  );
 }
 
 export function JsonLdBreadcrumb({

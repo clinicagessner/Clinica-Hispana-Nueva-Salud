@@ -11,6 +11,7 @@ import { BlogPreview } from "@/components/sections/blog-preview";
 import { Faq } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
+import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import { buildAlternates } from "@/lib/seo";
 import type { Locale } from "@/types";
 
@@ -44,6 +45,8 @@ export default async function HomePage({
 
   return (
     <>
+      {/* Nodo completo de la clínica: solo aquí (B0.14). */}
+      <JsonLdMedicalClinic locale={locale as Locale} />
       <Hero />
       <Promotions />
       <Services />

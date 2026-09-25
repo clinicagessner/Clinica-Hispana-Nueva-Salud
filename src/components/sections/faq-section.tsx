@@ -9,13 +9,17 @@ import type { Locale, ServiceFaq } from "@/types";
 /**
  * Bloque de FAQ reutilizable (centrado) + JSON-LD FAQPage.
  * Se usa en las páginas que no tienen un FAQ propio (services, blog, posts).
+ * Con las FAQ de la home, `withSchema={false}`: el FAQPage de la home repetido
+ * en cada página es contenido duplicado para Google.
  */
 export function FaqSection({
   items,
   className,
+  withSchema = true,
 }: {
   items: ServiceFaq[];
   className?: string;
+  withSchema?: boolean;
 }) {
   const t = useTranslations("Faq");
   const locale = useLocale() as Locale;
@@ -25,7 +29,7 @@ export function FaqSection({
 
   return (
     <section className={cn("bg-cloud py-20 lg:py-24", className)}>
-      <JsonLdFaqPage faqs={faqs} />
+      {withSchema ? <JsonLdFaqPage faqs={faqs} /> : null}
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
         <Reveal className="text-center">
           <p className="text-xs font-semibold uppercase tracking-[0.25em] text-teal-deep">

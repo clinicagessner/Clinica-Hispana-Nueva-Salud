@@ -1,3 +1,4 @@
+import { JsonLdClinicRef } from "@/components/seo/json-ld";
 import type { Metadata } from "next";
 import { setRequestLocale } from "next-intl/server";
 import { FaqSection } from "@/components/sections/faq-section";
@@ -89,6 +90,8 @@ export default async function PrivacyPage({
 
   return (
     <>
+      {/* Referencia a la clínica; el nodo completo vive en la home (B0.14). */}
+      <JsonLdClinicRef locale={locale as Locale} />
     <section className="bg-cloud py-16 lg:py-24">
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
         <h1 className="font-heading text-4xl font-extrabold tracking-tight text-slate-dark">
@@ -112,7 +115,7 @@ export default async function PrivacyPage({
         </div>
       </div>
     </section>
-    <FaqSection items={HOME_FAQS} className="bg-sky-bg" />
+    <FaqSection items={HOME_FAQS} withSchema={false} className="bg-sky-bg" />
     </>
   );
 }

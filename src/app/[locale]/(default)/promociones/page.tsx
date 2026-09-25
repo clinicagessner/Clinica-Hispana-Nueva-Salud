@@ -5,7 +5,11 @@ import { Link } from "@/i18n/navigation";
 import { Reveal } from "@/components/animations/reveal";
 import { StarRating } from "@/components/shared/star-rating";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
-import { JsonLdBreadcrumb, JsonLdFaqPage } from "@/components/seo/json-ld";
+import {
+  JsonLdBreadcrumb,
+  JsonLdClinicRef,
+  JsonLdFaqPage,
+} from "@/components/seo/json-ld";
 import { PromotionsGrid } from "@/components/promotions/promotions-grid";
 import { ContactForm } from "@/components/forms/contact-form";
 import { CONTACT_INFO } from "@/lib/constants";
@@ -74,6 +78,8 @@ export default async function PromotionsPage({
 
   return (
     <>
+      {/* Referencia a la clínica; el nodo completo vive en la home (B0.14). */}
+      <JsonLdClinicRef locale={locale as Locale} />
       <JsonLdBreadcrumb
         items={[
           { name: loc === "en" ? "Home" : "Inicio", url: absoluteUrl("/", loc) },

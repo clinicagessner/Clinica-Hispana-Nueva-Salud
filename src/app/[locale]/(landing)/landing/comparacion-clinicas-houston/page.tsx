@@ -4,7 +4,11 @@ import { Check, Phone, Star, X } from "lucide-react";
 import { Reveal } from "@/components/animations/reveal";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import { ContactForm } from "@/components/forms/contact-form";
-import { JsonLdBreadcrumb, JsonLdFaqPage } from "@/components/seo/json-ld";
+import {
+  JsonLdBreadcrumb,
+  JsonLdClinicRef,
+  JsonLdFaqPage,
+} from "@/components/seo/json-ld";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { getServiceCardData } from "@/lib/services";
@@ -53,6 +57,8 @@ export default async function ComparacionLandingPage({
 
   return (
     <>
+      {/* Referencia a la clínica; el nodo completo vive en la home (B0.14). */}
+      <JsonLdClinicRef locale={locale as Locale} />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },

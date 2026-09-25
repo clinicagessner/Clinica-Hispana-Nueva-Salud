@@ -11,7 +11,11 @@ import {
 import { Link } from "@/i18n/navigation";
 import { Reveal } from "@/components/animations/reveal";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
-import { JsonLdBreadcrumb, JsonLdFaqPage } from "@/components/seo/json-ld";
+import {
+  JsonLdBreadcrumb,
+  JsonLdClinicRef,
+  JsonLdFaqPage,
+} from "@/components/seo/json-ld";
 import { CONTACT_INFO } from "@/lib/constants";
 import { absoluteUrl, buildAlternates } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
@@ -134,6 +138,8 @@ export default async function WalkInPage({
 
   return (
     <>
+      {/* Referencia a la clínica; el nodo completo vive en la home (B0.14). */}
+      <JsonLdClinicRef locale={locale as Locale} />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },

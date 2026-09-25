@@ -3,7 +3,11 @@ import { getLocale, getTranslations, setRequestLocale } from "next-intl/server";
 import { Reveal } from "@/components/animations/reveal";
 import { BlogCard } from "@/components/blog/blog-card";
 import { FaqSection } from "@/components/sections/faq-section";
-import { JsonLdBreadcrumb, JsonLdCollectionPage } from "@/components/seo/json-ld";
+import {
+  JsonLdBreadcrumb,
+  JsonLdClinicRef,
+  JsonLdCollectionPage,
+} from "@/components/seo/json-ld";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { getAllPosts } from "@/lib/blog";
 import { absoluteUrl, buildAlternates } from "@/lib/seo";
@@ -41,6 +45,8 @@ export default async function BlogIndexPage({
 
   return (
     <>
+      {/* Referencia a la clínica; el nodo completo vive en la home (B0.14). */}
+      <JsonLdClinicRef locale={locale as Locale} />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },
@@ -94,7 +100,7 @@ export default async function BlogIndexPage({
         </div>
       </section>
 
-      <FaqSection items={HOME_FAQS} className="bg-sky-bg" />
+      <FaqSection items={HOME_FAQS} withSchema={false} className="bg-sky-bg" />
     </>
   );
 }
