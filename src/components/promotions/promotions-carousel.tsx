@@ -2,6 +2,7 @@
 
 import { useCallback, useState } from "react";
 import Image from "next/image";
+import { thumb } from "@/lib/image-thumb";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 import { ChevronLeft, ChevronRight, Eye } from "lucide-react";
@@ -58,7 +59,7 @@ export function PromotionsCarousel({
                 className="group relative block aspect-4/5 w-full overflow-hidden rounded-3xl border border-blue-light bg-sky-bg shadow-sm transition-all duration-200 hover:-translate-y-1 hover:border-blue-primary/30 hover:shadow-xl hover:shadow-blue-primary/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-primary focus-visible:ring-offset-2"
               >
                 <Image
-                  src={promo.image}
+                  src={thumb(promo.image)}
                   alt={promo.alt}
                   fill
                   sizes="(max-width: 640px) 82vw, (max-width: 1024px) 50vw, 33vw"

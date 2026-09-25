@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Image from "next/image";
+import { thumb } from "@/lib/image-thumb";
 import { ArrowRight } from "lucide-react";
 import {
   PromotionDialog,
@@ -58,7 +59,7 @@ export function PromotionsGrid({
               className="group relative block aspect-4/5 w-full overflow-hidden bg-sky-bg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-blue-primary"
             >
               <Image
-                src={promo.image}
+                src={thumb(promo.image)}
                 alt={promo.alt}
                 fill
                 sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"

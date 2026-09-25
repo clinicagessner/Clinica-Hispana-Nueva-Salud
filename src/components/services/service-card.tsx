@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { thumb } from "@/lib/image-thumb";
 import { ArrowRight } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
@@ -26,7 +27,7 @@ export function ServiceCard({
         )}
       >
         <Image
-          src={service.image}
+          src={thumb(service.image)}
           alt={service.title}
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"

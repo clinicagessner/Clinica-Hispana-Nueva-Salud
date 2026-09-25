@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { preload } from "react-dom";
 import {
   ArrowRight,
   Check,
@@ -13,7 +13,19 @@ import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { StarRating } from "@/components/shared/star-rating";
 
+const HERO_SRC = "/images/hero-fachada-v3.webp";
+const HERO_SRCSET = "/images/sm/hero-fachada-v3.webp 828w, /images/hero-fachada-v3.webp 1508w";
+
 export async function Hero() {
+  // Precarga con el mismo srcSet que el <img>: el navegador elige la variante
+  // antes de parsear el cuerpo y el LCP no espera a descubrir la imagen.
+  preload(HERO_SRC, {
+    as: "image",
+    imageSrcSet: HERO_SRCSET,
+    imageSizes: "100vw",
+    fetchPriority: "high",
+  });
+
   const [t, tc, place] = await Promise.all([
     getTranslations("Hero"),
     getTranslations("Common"),
@@ -31,13 +43,18 @@ export async function Hero() {
       className="relative isolate flex min-h-[660px] items-end overflow-hidden sm:min-h-[90vh]"
     >
       {/* Fachada real del local — protagonista, a pantalla completa */}
-      <Image
-        src="/images/hero-fachada-v3.webp"
-        alt="Fachada y letrero de Clínica Hispana Nueva Salud en 7640 Bellfort Ave, Houston, TX"
-        fill
-        priority
+      {/* <img> nativo con srcSet: con `images.unoptimized` (cuota 402 de Vercel)
+          next/image sirve siempre el original de 1508 px, también en móvil.
+          La variante de 828 px la genera scripts/build-image-variants.mjs. */}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={HERO_SRC}
+        srcSet={HERO_SRCSET}
         sizes="100vw"
-        className="absolute inset-0 -z-20 object-cover object-[center_40%]"
+        alt="Fachada y letrero de Clínica Hispana Nueva Salud en 7640 Bellfort Ave, Houston, TX"
+        fetchPriority="high"
+        decoding="async"
+        className="absolute inset-0 -z-20 h-full w-full object-cover object-[center_40%]"
       />
       {/* Oscurecido principal abajo: arriba la foto clara, abajo texto legible.
           Base sólida en el pie para máximo contraste de título y botones. */}

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { thumb } from "@/lib/image-thumb";
 import { ArrowRight, CalendarDays, Clock, Newspaper } from "lucide-react";
 import { useLocale } from "next-intl";
 import { Link } from "@/i18n/navigation";
@@ -28,7 +29,7 @@ export function BlogCard({
         {post.hasCover ? (
           <>
             <Image
-              src={post.cover}
+              src={thumb(post.cover)}
               alt={post.coverAlt || post.title}
               fill
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
