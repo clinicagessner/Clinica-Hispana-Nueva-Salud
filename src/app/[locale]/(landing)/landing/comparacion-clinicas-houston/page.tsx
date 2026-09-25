@@ -3,7 +3,7 @@ import { setRequestLocale } from "next-intl/server";
 import { Check, Phone, Star, X } from "lucide-react";
 import { Reveal } from "@/components/animations/reveal";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
-import { ContactForm } from "@/components/forms/contact-form";
+import { LazyContactForm } from "@/components/forms/lazy-contact-form";
 import {
   JsonLdBreadcrumb,
   JsonLdClinicRef,
@@ -262,7 +262,7 @@ export default async function ComparacionLandingPage({
               {CONTACT_INFO.phoneFormatted}
             </a>
           </div>
-          <ContactForm services={services} />
+          <LazyContactForm services={services} />
         </div>
       </section>
     </>

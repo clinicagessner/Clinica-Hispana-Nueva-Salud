@@ -11,7 +11,7 @@ import {
   JsonLdFaqPage,
 } from "@/components/seo/json-ld";
 import { PromotionsGrid } from "@/components/promotions/promotions-grid";
-import { ContactForm } from "@/components/forms/contact-form";
+import { LazyContactForm } from "@/components/forms/lazy-contact-form";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedPromotions } from "@/lib/promotions";
 import { getAllServices } from "@/lib/services";
@@ -169,7 +169,7 @@ export default async function PromotionsPage({
             </a>
           </Reveal>
           <div className="mt-10">
-            <ContactForm services={services} />
+            <LazyContactForm services={services} />
           </div>
         </div>
       </section>
