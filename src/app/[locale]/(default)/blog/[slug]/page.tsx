@@ -76,9 +76,14 @@ export default async function BlogPostPage({
 
   const t = await getTranslations("BlogPost");
   const url = absoluteUrl(`/blog/${slug}`, loc);
-  const related = getAllPosts(loc)
-    .filter((p) => p.slug !== slug)
-    .slice(0, 3);
+  // Rotación circular: cada post enlaza a los 3 siguientes. Con `slice` sobre
+  // la lista por fecha, los posts más antiguos solo recibían 1 enlace.
+  const posts = getAllPosts(loc);
+  const at = posts.findIndex((p) => p.slug === slug);
+  const related = Array.from(
+    { length: Math.min(3, posts.length - 1) },
+    (_, i) => posts[(at + 1 + i) % posts.length],
+  );
 
   return (
     <>
