@@ -719,38 +719,54 @@ ${AREAS_EN}`,
       "Management of rhinitis and congestion",
       "Care in Spanish",
     ],
-    longDescription: `Las alergias pueden afectar tu respiración, tu piel y tu descanso. En Clínica Hispana Nueva Salud identificamos qué las provoca y te ayudamos a controlarlas para que recuperes tu bienestar.
+    longDescription: `Estornudos en serie al salir de casa, ojos que pican, nariz tapada que no se quita o ronchas que aparecen sin saber por qué. Las alergias no son "solo un resfriado largo": si no se tratan, quitan sueño, concentración y ganas de salir. En la clínica te ayudamos a entender qué las provoca y a controlarlas.
 
-## ¿Qué incluye?
+## ¿Qué alergias atendemos?
 
-- Evaluación de síntomas y posibles desencadenantes
-- Tratamiento de alergias estacionales y respiratorias
-- Manejo de rinitis, estornudos y congestión
-- Atención de alergias en la piel (ronchas, comezón)
-- Recomendaciones para evitar las crisis
+- **Rinitis alérgica**: estornudos, congestión, nariz que gotea y picazón en la garganta.
+- **Conjuntivitis alérgica**: ojos rojos, llorosos y con comezón.
+- **Urticaria**: ronchas que pican y cambian de lugar.
+- **Dermatitis**: piel seca, roja o irritada por contacto con algo.
+- **Tos o silbido en el pecho** que empeora con el polvo o el polen.
 
-## Cuándo consultar
+## ¿Por qué en Houston hay tantas alergias?
 
-Estornudos frecuentes, ojos llorosos, comezón, ronchas o congestión que no mejora son señales de alergia. Un tratamiento adecuado marca la diferencia.
+El clima húmedo y cálido hace que haya polen casi todo el año: de los árboles en primavera, de los pastos en verano y de la ambrosía en otoño, además de moho en cualquier temporada. El Departamento de Salud de Houston publica cada día el [conteo de polen y moho](https://www.houstonhealth.org/services/pollen-mold): revisarlo te ayuda a saber cuándo cerrar ventanas o salir más tarde.
+
+## ¿Cómo es la consulta?
+
+Te preguntamos cuándo empezaron los síntomas, en qué época empeoran, dónde vives y trabajas, si tienes mascotas y qué medicamentos has probado. Con eso y la revisión física definimos un plan: antihistamínicos, aerosoles nasales, cremas para la piel y cambios concretos en casa. Si los síntomas no ceden o sospechamos una alergia más compleja, te orientamos para ver a un alergólogo, que es quien hace las pruebas cutáneas y las vacunas de alergia.
+
+## ¿Cuándo es una emergencia?
+
+Si después de un alimento, un medicamento o una picadura aparecen hinchazón de labios o garganta, dificultad para respirar, mareo o desmayo, llama al 911: puede ser una [anafilaxia](https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/anaphylaxis) y necesita atención inmediata.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Allergies can affect your breathing, your skin and your rest. At Clínica Hispana Nueva Salud we identify what triggers them and help you control them so you feel well again.
+    longDescriptionEn: `Sneezing fits every time you step outside, itchy eyes, a stuffy nose that never clears or hives that show up for no clear reason. Allergies are not "just a long cold": left untreated, they cost you sleep, focus and time outdoors. At the clinic we help you understand what triggers them and get them under control.
 
-## What's included?
+## Which allergies do we treat?
 
-- Evaluation of symptoms and possible triggers
-- Treatment of seasonal and respiratory allergies
-- Management of rhinitis, sneezing and congestion
-- Care for skin allergies (hives, itching)
-- Recommendations to avoid flare-ups
+- **Allergic rhinitis**: sneezing, congestion, runny nose and an itchy throat.
+- **Allergic conjunctivitis**: red, watery, itchy eyes.
+- **Hives**: itchy welts that move around.
+- **Dermatitis**: dry, red or irritated skin from contact with something.
+- **Coughing or wheezing** that gets worse with dust or pollen.
 
-## When to seek care
+## Why are allergies so common in Houston?
 
-Frequent sneezing, watery eyes, itching, hives or congestion that won't improve are signs of allergy. The right treatment makes the difference.
+The warm, humid climate means pollen almost year-round: trees in spring, grasses in summer and ragweed in fall, plus mold in any season. The Houston Health Department posts a daily [pollen and mold count](https://www.houstonhealth.org/services/pollen-mold); checking it tells you when to keep windows closed or head out later.
+
+## What is the visit like?
+
+We ask when your symptoms started, what time of year they get worse, where you live and work, whether you have pets and which medications you have tried. With that and a physical exam we build a plan: antihistamines, nasal sprays, skin creams and specific changes at home. If symptoms don't let up or we suspect a more complex allergy, we guide you to an allergist, who does skin testing and allergy shots.
+
+## When is it an emergency?
+
+If a food, a medication or an insect sting is followed by swelling of the lips or throat, trouble breathing, dizziness or fainting, call 911: it may be [anaphylaxis](https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/anaphylaxis) and needs immediate care.
 
 ${WHY_EN}
 
@@ -2078,38 +2094,66 @@ ${AREAS_EN}`,
       "Digestive symptom evaluation",
       "Results explained in Spanish",
     ],
-    longDescription: `Los problemas digestivos a veces tienen una causa que solo un análisis de heces puede revelar. En Clínica Hispana Nueva Salud realizamos exámenes de heces fecales para encontrar el origen y darte el tratamiento correcto.
+    longDescription: `Diarrea que no se quita, dolor de estómago que va y viene, gases, cambios en la forma de ir al baño o bajar de peso sin buscarlo. Muchas veces la causa está en el intestino y la forma más directa de encontrarla es un análisis de heces.
 
-## ¿Qué incluye?
+## ¿Qué se busca en la muestra?
 
-- Análisis general de heces fecales
-- Detección de parásitos
-- Identificación de infecciones intestinales
-- Evaluación de sangre oculta cuando se requiere
-- Resultados explicados en español
+- **Parásitos y sus huevos**, revisados al microscopio en el laboratorio ([MedlinePlus](https://medlineplus.gov/lab-tests/ova-and-parasite-test/)).
+- **Bacterias** que causan infecciones intestinales, mediante un cultivo cuando el médico lo indica.
+- **Sangre oculta**: rastros invisibles que avisan de un posible sangrado en el intestino.
+- **Características generales**: consistencia, grasa, restos de alimentos o signos de inflamación.
 
-## Cuándo es útil
+El equipo médico decide qué estudios pedir según tus síntomas, para no repetir pruebas que no aportan.
 
-Diarrea persistente, dolor abdominal, gases, cambios en las evacuaciones o pérdida de peso sin explicación. El examen ayuda a un diagnóstico preciso.
+## ¿Cómo recojo la muestra?
+
+1. Te damos un recipiente limpio y las instrucciones.
+2. Recoge la evacuación sin que se mezcle con orina, agua del inodoro ni papel.
+3. Tapa bien el recipiente y anota la fecha y la hora.
+4. Tráela lo antes posible; si no puedes, pregúntanos cómo conservarla.
+
+Para buscar parásitos a veces se piden varias muestras de días distintos, porque no siempre aparecen en todas.
+
+## ¿La sangre oculta tiene que ver con el cáncer de colon?
+
+Sí. La prueba de sangre oculta en heces es una de las formas de detección del cáncer de colon que se recomiendan a partir de los 45 años, aunque no tengas síntomas. Si sale positiva, el siguiente paso suele ser una colonoscopia con un especialista.
+
+## ¿Cuándo no esperar?
+
+Si hay sangre visible, heces negras como el alquitrán, fiebre alta, deshidratación o dolor muy fuerte, busca atención ese mismo día o acude a urgencias.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Digestive problems sometimes have a cause that only a stool test can reveal. At Clínica Hispana Nueva Salud we perform stool tests to find the source and give you the right treatment.
+    longDescriptionEn: `Diarrhea that won't go away, stomach pain that comes and goes, gas, changes in your bathroom habits or losing weight without trying. Often the cause is in the gut, and the most direct way to find it is a stool test.
 
-## What's included?
+## What does the sample show?
 
-- General stool analysis
-- Parasite detection
-- Identification of intestinal infections
-- Occult-blood evaluation when needed
-- Results explained in Spanish
+- **Parasites and their eggs**, checked under the microscope at the lab ([MedlinePlus](https://medlineplus.gov/lab-tests/ova-and-parasite-test/)).
+- **Bacteria** that cause intestinal infections, through a culture when the doctor orders it.
+- **Hidden blood**, invisible to the eye, which may point to bleeding in the digestive tract.
+- **General features**: consistency, fat, food remnants or signs of inflammation.
 
-## When it helps
+The medical team decides which tests to order based on your symptoms, so you don't repeat tests that add nothing.
 
-Persistent diarrhea, abdominal pain, gas, changes in bowel movements or unexplained weight loss. The test helps with an accurate diagnosis.
+## How do I collect the sample?
+
+1. We give you a clean container and instructions.
+2. Collect the stool without mixing it with urine, toilet water or paper.
+3. Close the container tightly and write down the date and time.
+4. Bring it in as soon as you can; if you can't, ask us how to store it.
+
+When looking for parasites, several samples from different days are sometimes needed, because they don't show up in every one.
+
+## Does hidden blood have to do with colon cancer?
+
+Yes. A fecal occult blood test is one of the recommended ways to screen for colon cancer starting at age 45, even without symptoms. If it comes back positive, the next step is usually a colonoscopy with a specialist.
+
+## When shouldn't you wait?
+
+If you see blood, have tar-black stools, a high fever, dehydration or very severe pain, get care that same day or go to the emergency room.
 
 ${WHY_EN}
 
@@ -2158,38 +2202,62 @@ ${AREAS_EN}`,
       "Treatment if positive",
       "Walk-in care in Spanish",
     ],
-    longDescription: `No todo dolor de garganta es igual: la faringitis por estreptococo necesita tratamiento específico. En Clínica Hispana Nueva Salud hacemos la prueba rápida de strep y te damos el resultado y el tratamiento el mismo día.
+    longDescription: `El dolor de garganta casi siempre lo causa un virus y se quita solo. Pero una parte de los casos, sobre todo en niños, se debe a la bacteria estreptococo del grupo A y sí necesita antibiótico. La prueba rápida de strep ayuda a distinguirlos en la misma visita.
 
-## ¿Qué incluye?
+## ¿Cómo se hace la prueba?
 
-- Prueba rápida de estreptococo (hisopado de garganta)
-- Resultado en pocos minutos
-- Evaluación del dolor de garganta
-- Tratamiento adecuado si el resultado es positivo
-- Indicaciones de recuperación
+Con un hisopo tomamos una muestra del fondo de la garganta y de las amígdalas. Dura unos segundos y puede dar un poco de náusea, pero no duele. El resultado está en minutos, así que sales de la consulta sabiendo si es strep o no.
 
-## Cuándo hacerla
+Si la prueba rápida sale negativa en un niño o adolescente con síntomas claros, puede hacer falta un cultivo de garganta para confirmar, como recomiendan los [CDC](https://www.cdc.gov/group-a-strep/about/strep-throat.html).
 
-Dolor de garganta fuerte, fiebre, dificultad para tragar o placas blancas en las amígdalas, sobre todo en niños. La prueba evita tratamientos innecesarios.
+## ¿Qué síntomas hacen pensar en strep?
+
+- Dolor de garganta de inicio rápido y dolor al tragar.
+- Fiebre.
+- Amígdalas rojas e hinchadas, a veces con placas blancas.
+- Ganglios del cuello inflamados.
+- En niños, dolor de cabeza, de estómago o vómito.
+
+La tos, la nariz tapada y la ronquera apuntan más a un virus.
+
+## ¿Qué pasa si sale positivo?
+
+El equipo médico te indica el antibiótico adecuado y puedes recibirlo en la clínica. Tómalo completo aunque te sientas mejor a los dos días: dejarlo a medias favorece complicaciones. Los CDC indican que, sin fiebre y con 12 horas o más de antibiótico, ya se puede regresar a clases o al trabajo.
+
+## ¿Y si sale negativo?
+
+Tratamos los síntomas: líquidos, alivio del dolor y reposo. Los antibióticos no sirven contra los virus y usarlos sin necesidad trae efectos secundarios. Vuelve si aparece fiebre alta, dificultad para respirar o para abrir la boca.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Not every sore throat is the same: strep throat needs specific treatment. At Clínica Hispana Nueva Salud we run the rapid strep test and give you the result and treatment the same day.
+    longDescriptionEn: `A sore throat is almost always caused by a virus and clears up on its own. But some cases, especially in children, are due to group A strep bacteria and do need antibiotics. The rapid strep test helps tell them apart at the same visit.
 
-## What's included?
+## How is the test done?
 
-- Rapid strep test (throat swab)
-- Result in minutes
-- Sore-throat evaluation
-- Appropriate treatment if the result is positive
-- Recovery instructions
+We swab the back of the throat and the tonsils. It takes a few seconds and may make you gag a little, but it doesn't hurt. The result is ready in minutes, so you leave the visit knowing whether it's strep or not.
 
-## When to get it
+If the rapid test is negative in a child or teen with clear symptoms, a throat culture may be needed to confirm, as the [CDC](https://www.cdc.gov/group-a-strep/about/strep-throat.html) recommends.
 
-Severe sore throat, fever, trouble swallowing or white patches on the tonsils, especially in children. The test avoids unnecessary treatments.
+## Which symptoms suggest strep?
+
+- A sore throat that starts fast and pain when swallowing.
+- Fever.
+- Red, swollen tonsils, sometimes with white patches.
+- Swollen lymph nodes in the neck.
+- In children, headache, stomach ache or vomiting.
+
+Coughing, a stuffy nose and hoarseness point more toward a virus.
+
+## What if it's positive?
+
+The medical team prescribes the right antibiotic and you can get it at the clinic. Finish it even if you feel better after two days: stopping early raises the risk of complications. The CDC says that once the fever is gone and the antibiotic has been going for 12 hours or more, it's fine to head back to school or work.
+
+## And if it's negative?
+
+We treat the symptoms: fluids, pain relief and rest. Antibiotics don't work against viruses, and using them when not needed brings side effects. Come back if you develop a high fever or trouble breathing or opening your mouth.
 
 ${WHY_EN}
 
@@ -2238,36 +2306,62 @@ ${AREAS_EN}`,
       "Useful for work and school",
       "Care in Spanish",
     ],
-    longDescription: `Muchos trabajos y escuelas piden una prueba de tuberculosis al día. En Clínica Hispana Nueva Salud la aplicamos y leemos el resultado, con todo explicado en español.
+    longDescription: `Muchos empleos, escuelas, programas de voluntariado y trámites piden un resultado de tuberculosis vigente. La prueba detecta si en algún momento tuviste contacto con la bacteria, aunque te sientas perfectamente.
 
-## ¿Qué incluye?
+## ¿Qué tipos de prueba hay?
 
-- Prueba cutánea de tuberculosis (PPD)
-- Cita de lectura del resultado (48–72 horas después)
-- Documentación del resultado para tu trámite
-- Orientación si el resultado requiere seguimiento
+Según los [CDC](https://www.cdc.gov/tb/testing/index.html) hay dos:
 
-## Para qué la piden
+- **Prueba cutánea (PPD o TST):** se inyecta una pequeña cantidad de líquido bajo la piel del antebrazo. Se hace en **dos visitas**: un día se aplica y, de 48 a 72 horas después, se lee.
+- **Prueba en sangre (IGRA):** se hace con una muestra de sangre en **una sola visita**. Es la preferida si recibiste la vacuna BCG de niño, porque esa vacuna puede dar un falso positivo en la prueba cutánea.
 
-Empleos de salud, escuelas, trámites y voluntariado suelen requerir una prueba de TB vigente. Te ayudamos a cumplir el requisito sin complicaciones.
+Pregunta a tu empleador o escuela cuál aceptan antes de venir.
+
+## ¿Cómo es la prueba cutánea?
+
+1. Aplicamos el líquido en el antebrazo con una aguja muy fina; se forma una pequeña roncha que desaparece.
+2. No la cubras, no la rasques y no le pongas cremas.
+3. Regresas entre las 48 y 72 horas para la lectura. Si no vuelves a tiempo, la prueba se tiene que repetir.
+4. Te entregamos el resultado documentado para tu trámite.
+
+## ¿Qué significa un resultado positivo?
+
+Que tuviste contacto con la bacteria, no necesariamente que estés enfermo ni que contagies. El siguiente paso es una radiografía de tórax y una evaluación para distinguir entre infección latente, que no contagia, y tuberculosis activa. Ambas tienen tratamiento. Te orientamos en cada paso.
+
+## ¿Cuándo sospechar tuberculosis activa?
+
+Tos de más de tres semanas, sangre al toser, fiebre, sudores nocturnos o pérdida de peso sin explicación. En ese caso no esperes al requisito del trabajo: consulta cuanto antes.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and schools require an up-to-date tuberculosis test. At Clínica Hispana Nueva Salud we administer it and read the result, with everything explained in Spanish.
+    longDescriptionEn: `Many jobs, schools, volunteer programs and applications require a current tuberculosis result. The test shows whether you have ever been exposed to the bacteria, even if you feel perfectly fine.
 
-## What's included?
+## What kinds of tests are there?
 
-- Tuberculosis skin test (PPD)
-- Result-reading appointment (48–72 hours later)
-- Documentation of the result for your paperwork
-- Guidance if the result needs follow-up
+According to the [CDC](https://www.cdc.gov/tb/testing/index.html), there are two:
 
-## Why it's required
+- **Skin test (PPD or TST):** a small amount of fluid is injected under the skin of the forearm. It takes **two visits**: the placement and the reading 48 to 72 hours later.
+- **Blood test (IGRA):** done with a blood sample in **a single visit**. It's the better choice for anyone vaccinated with BCG in childhood, since that shot can make the skin test read positive when it isn't.
 
-Healthcare jobs, schools, paperwork and volunteering often require a current TB test. We help you meet the requirement without hassle.
+Ask your employer or school which one they accept before you come in.
+
+## How does the skin test work?
+
+1. We place the fluid in your forearm with a very fine needle; a small bump forms and then fades.
+2. Don't cover it, scratch it or put creams on it.
+3. Come back between 48 and 72 hours later for the reading. If you miss that window, the test has to be repeated.
+4. We give you the documented result for your paperwork.
+
+## What does a positive result mean?
+
+That you've been exposed to the bacteria, not necessarily that you are sick or contagious. The next step is a chest X-ray and an evaluation to tell latent infection, which isn't contagious, from active tuberculosis. Both are treatable. We guide you through each step.
+
+## When to suspect active tuberculosis?
+
+A cough lasting more than three weeks, coughing up blood, fever, night sweats or unexplained weight loss. In that case, don't wait for a work requirement: get checked as soon as possible.
 
 ${WHY_EN}
 
@@ -2590,36 +2684,66 @@ ${AREAS_EN}`,
       "Useful for medical exams",
       "Results in Spanish",
     ],
-    longDescription: `El electrocardiograma (EKG) registra la actividad eléctrica de tu corazón en pocos minutos y sin ninguna molestia. En Clínica Hispana Nueva Salud lo realizamos como parte de chequeos y exámenes médicos.
+    longDescription: `Con el electrocardiograma (EKG o ECG) vemos en papel cómo late tu corazón. Es rápido, no duele y da información valiosa sobre el ritmo y el funcionamiento del corazón, por eso es una de las pruebas más pedidas en chequeos y exámenes para trabajo o cirugía.
 
-## ¿Qué incluye?
+## ¿Cómo se hace?
 
-- Estudio del ritmo y la actividad del corazón
-- Interpretación por personal médico
-- Útil para exámenes de trabajo, deporte o cirugía
-- Resultados explicados en español
+Mientras estás recostado, pegamos pequeños electrodos en el pecho y en las extremidades. Durante unos minutos debes quedarte quieto y respirar con normalidad mientras el equipo registra las señales. No pasa electricidad hacia tu cuerpo: solo se "escucha" la que produce tu corazón ([MedlinePlus](https://medlineplus.gov/spanish/pruebas-de-laboratorio/electrocardiograma/)).
 
-## Cuándo se recomienda
+**Para prepararte:** ven con ropa de dos piezas, para descubrir el pecho con facilidad, y evita cremas o aceites en la piel ese día, porque impiden que los electrodos se peguen bien.
 
-Si tienes palpitaciones, presión alta, dolor en el pecho o necesitas un examen médico completo, el EKG aporta información valiosa sobre tu corazón.
+## ¿Qué puede mostrar?
+
+- Latidos demasiado rápidos, lentos o irregulares.
+- Señales de que el corazón ha trabajado de más, como en la presión alta de años.
+- Indicios de un infarto antiguo que pasó sin notarse.
+- Alteraciones que conviene estudiar con más detalle.
+
+Un EKG normal es una buena noticia, pero no descarta todos los problemas del corazón: es una fotografía de ese momento. Si el resultado o tus síntomas lo piden, te orientamos para estudios de cardiología.
+
+## ¿Cuándo conviene hacerlo?
+
+- Si sientes palpitaciones o el corazón "se salta" latidos.
+- Si vives con hipertensión, azúcar alta o colesterol elevado.
+- Antes de una cirugía, cuando el cirujano lo solicita.
+- En chequeos de trabajo o deporte que lo exigen.
+
+## ¿Y si tengo dolor en el pecho ahora?
+
+Eso no es para la clínica, es para el 911. Opresión fuerte en el pecho acompañada de ahogo, sudoración fría o molestia que baja al brazo o sube a la mandíbula puede ser un infarto.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The electrocardiogram (EKG) records your heart's electrical activity in just a few minutes with no discomfort. At Clínica Hispana Nueva Salud we perform it as part of checkups and medical exams.
+    longDescriptionEn: `An electrocardiogram (EKG or ECG) puts on paper how your heart is beating. It is quick, painless and gives valuable information about heart rhythm and function, which is why it is one of the most requested tests in checkups and exams for work or surgery.
 
-## What's included?
+## How is it done?
 
-- Study of your heart's rhythm and activity
-- Interpretation by medical staff
-- Useful for work, sports or surgery exams
-- Results explained in Spanish
+While you lie down, we stick small electrodes on your chest and limbs. For a few minutes you stay still and breathe normally while the machine records the signals. No electricity goes into your body: it only "listens" to what your heart produces ([MedlinePlus](https://medlineplus.gov/lab-tests/electrocardiogram/)).
 
-## When it's recommended
+**To prepare:** wear a two-piece outfit so your chest is easy to uncover, and skip lotions or oils on your skin that day, since they keep the electrodes from sticking well.
 
-If you have palpitations, high blood pressure, chest discomfort or need a complete medical exam, the EKG provides valuable information about your heart.
+## What can it show?
+
+- Heartbeats that are too fast, too slow or irregular.
+- Signs the heart has been overworked, as with years of high blood pressure.
+- Evidence of an old heart attack that went unnoticed.
+- Changes that call for a closer look.
+
+A normal EKG is good news, but it doesn't rule out every heart problem: it is a snapshot of that moment. If the result or your symptoms call for it, we guide you toward cardiology testing.
+
+## When is it a good idea?
+
+- If you feel palpitations or your heart "skips" beats.
+- If you live with hypertension, high blood sugar or elevated cholesterol.
+- Before surgery, when the surgeon requests it.
+- For work or sports checkups that require it.
+
+## What if I have chest pain right now?
+
+That's a job for 911, not the clinic. Heavy chest pressure along with breathlessness, a cold sweat or discomfort moving down the arm or up to the jaw may be a heart attack.
 
 ${WHY_EN}
 
@@ -2979,38 +3103,58 @@ ${AREAS_EN}`,
       "Required vaccines available",
       "Process explained in Spanish",
     ],
-    longDescription: `El examen médico de inmigración (Formulario I-693) es un requisito para el ajuste de estatus. En Clínica Hispana Nueva Salud lo realizamos con un médico autorizado por USCIS (civil surgeon) y te entregamos el formulario sellado listo para enviar.
+    longDescription: `Si estás ajustando tu estatus para obtener la residencia permanente, USCIS te pedirá el Formulario I-693 con el resultado de tu examen médico. En Clínica Hispana Nueva Salud lo realizamos con médico autorizado por USCIS (*civil surgeon*), con la toma de muestras y las vacunas en la misma clínica y todo explicado en español.
 
-## ¿Qué incluye?
+## ¿Qué incluye el servicio?
 
-- Revisión de historial médico y de vacunas
-- Examen físico completo
-- Pruebas requeridas por USCIS (incluida la de tuberculosis)
-- Aplicación de las vacunas que te falten
-- Formulario I-693 completado y sellado en sobre oficial
+- Revisión de tu historial médico y de tu cartilla de vacunación.
+- Examen físico y evaluación de salud mental y de consumo de sustancias, como pide el CDC.
+- Prueba de tuberculosis en sangre (IGRA) y los análisis de laboratorio que correspondan a tu edad.
+- Aplicación de las vacunas que te falten.
+- Llenado y firma del I-693 por el médico autorizado cuando están todos los resultados.
 
-## Qué traer a tu cita
+## ¿Cómo compruebo que el médico está autorizado?
 
-Identificación con foto, registro de vacunas si lo tienes y cualquier documento médico relevante. Te explicamos todo el proceso en español para que llegues tranquilo.
+En el buscador oficial [Find a Civil Surgeon](https://www.uscis.gov/tools/find-a-civil-surgeon) de USCIS puedes buscar por código postal. Te recomendamos hacerlo con cualquier clínica antes de pagar.
+
+## ¿Qué debo traer?
+
+Identificación con foto, tu cartilla de vacunas (de aquí o de tu país), la lista de tus medicamentos y, si alguna vez te trataron por tuberculosis, esos documentos. No firmes el formulario antes de venir.
+
+## ¿Cuánto tarda todo el proceso?
+
+La visita en la clínica es una sola, pero el formulario se completa cuando llegan los resultados del laboratorio. Si alguna prueba sale alterada, puede hacer falta un estudio adicional antes de cerrarlo. Te avisamos en cuanto esté listo.
+
+Para conocer el paso a paso con más detalle, lee nuestra [guía del examen I-693](/blog/guia-examen-medico-inmigracion-i693-houston) y [qué es un civil surgeon](/blog/medicos-autorizados-uscis-houston-civil-surgeon).
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The immigration medical exam (Form I-693) is required for adjustment of status. At Clínica Hispana Nueva Salud we perform it with a USCIS-authorized physician (civil surgeon) and give you the sealed form ready to submit.
+    longDescriptionEn: `If you are adjusting status to become a permanent resident, USCIS will ask for Form I-693 with the results of your medical exam. At Clínica Hispana Nueva Salud we perform it with a USCIS-authorized physician (*civil surgeon*), with sample collection and vaccines at the same clinic and everything explained in Spanish.
 
-## What's included?
+## What does the service include?
 
-- Review of medical and vaccination history
-- Complete physical exam
-- USCIS-required tests (including tuberculosis)
-- Administration of any missing vaccines
-- Form I-693 completed and sealed in the official envelope
+- A review of your medical history and vaccination record.
+- A physical exam plus mental health and substance use evaluation, as the CDC requires.
+- A tuberculosis blood test (IGRA) and the lab tests that apply to your age.
+- Any vaccines you are missing.
+- Completion and signature of the I-693 by the authorized physician once all results are in.
 
-## What to bring
+## How can I confirm the doctor is authorized?
 
-Photo ID, your vaccination record if you have it and any relevant medical documents. We explain the entire process in Spanish so you arrive with peace of mind.
+USCIS's official [Find a Civil Surgeon](https://www.uscis.gov/tools/find-a-civil-surgeon) tool lets you search by ZIP code. We recommend doing this with any clinic before you pay.
+
+## What should I bring?
+
+A photo ID, your vaccination record (from here or your home country), a list of your medications and, if you were ever treated for tuberculosis, those documents. Don't sign the form before you come in.
+
+## How long does the whole process take?
+
+The clinic visit is a single one, but the form is completed once the lab results arrive. If a test comes back abnormal, an additional study may be needed before it can be finished. You'll hear from us the moment it's done.
+
+For a more detailed walkthrough, read our [I-693 exam guide](/en/blog/guia-examen-medico-inmigracion-i693-houston) and [what a civil surgeon is](/en/blog/medicos-autorizados-uscis-houston-civil-surgeon).
 
 ${WHY_EN}
 
