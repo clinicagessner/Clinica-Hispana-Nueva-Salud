@@ -1,19 +1,23 @@
 "use client";
 
 import { useLocale } from "next-intl";
-import { usePathname, useRouter } from "@/i18n/navigation";
+import { usePathname } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
 import { cn } from "@/lib/utils";
+
+/**
+ * Enlaces reales, escritos a mano. Antes eran <button> con router.replace:
+ * sin `href` en el HTML, Google no tenía por dónde descubrir /en. El `Link`
+ * de next-intl con `locale` tampoco sirve aquí: genera `/es/...`, que redirige.
+ */
+function localeHref(locale: string, pathname: string): string {
+  const path = pathname === "/" ? "" : pathname;
+  return locale === routing.defaultLocale ? path || "/" : `/${locale}${path}`;
+}
 
 export function LanguageSwitcher({ className }: { className?: string }) {
   const locale = useLocale();
   const pathname = usePathname();
-  const router = useRouter();
-
-  function switchLocale(next: string) {
-    if (next === locale) return;
-    router.replace(pathname, { locale: next });
-  }
 
   return (
     <div
@@ -25,10 +29,10 @@ export function LanguageSwitcher({ className }: { className?: string }) {
       aria-label="Language"
     >
       {routing.locales.map((l) => (
-        <button
+        <a
           key={l}
-          type="button"
-          onClick={() => switchLocale(l)}
+          href={localeHref(l, pathname)}
+          hrefLang={l}
           aria-current={l === locale ? "true" : undefined}
           className={cn(
             "rounded-full px-2.5 py-1 uppercase tracking-wide transition-colors",
@@ -38,7 +42,7 @@ export function LanguageSwitcher({ className }: { className?: string }) {
           )}
         >
           {l}
-        </button>
+        </a>
       ))}
     </div>
   );
