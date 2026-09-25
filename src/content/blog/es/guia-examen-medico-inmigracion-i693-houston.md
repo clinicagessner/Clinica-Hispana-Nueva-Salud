@@ -1,7 +1,8 @@
 ---
 title: "Guía del examen médico de inmigración I-693 en Houston"
-description: "Todo sobre el examen médico I-693 en Houston: qué incluye, qué vacunas necesitas y cómo recibir el formulario sellado por un médico autorizado por USCIS."
+description: "Guía del examen médico I-693 en Houston: qué llevar, cómo es la visita, qué vacunas pueden pedirte y qué pasa después, explicado en español."
 date: "2026-03-18"
+updated: "2026-09-25"
 author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Inmigración"
 cover: "/images/blog/guia-examen-medico-inmigracion-i693-houston.webp"
@@ -12,34 +13,43 @@ keywords:
   - "civil surgeon houston español"
 ---
 
-El examen médico de inmigración (Formulario I-693) es un paso obligatorio en muchos procesos de ajuste de estatus. Conocer cómo funciona te ayuda a llegar preparado y evitar retrasos.
+El Formulario I-693 (*Report of Immigration Medical Examination and Vaccination Record*) es el documento con el que USCIS confirma que cumples los requisitos de salud para ajustar tu estatus. Esta guía está pensada para el día del examen: qué llevar, cómo transcurre la visita y qué pasa después.
 
-## ¿Para qué sirve el I-693?
+## ¿Quién necesita el I-693?
 
-USCIS exige este examen para confirmar que no existen condiciones de salud que afecten tu solicitud. Debe realizarlo un **médico autorizado por USCIS**, conocido como *civil surgeon*.
+Sobre todo quien solicita la residencia permanente desde dentro de Estados Unidos con el Formulario I-485. Otras solicitudes también lo piden; las instrucciones de cada formulario en [uscis.gov](https://www.uscis.gov/i-693) indican si te corresponde. Si tienes dudas, consulta a tu abogado o representante antes de hacerte el examen.
 
-## ¿Qué incluye el examen?
+## ¿Qué llevo el día del examen?
 
-- Revisión de tu historial médico y de vacunas
-- Examen físico completo
-- Pruebas requeridas, incluida la de [tuberculosis](/services/prueba-tuberculosis)
-- Aplicación de las [vacunas](/services/vacunas) que te falten
-- Formulario I-693 completado y **sellado en sobre oficial**
+- **Identificación con foto** vigente: pasaporte, licencia o ID.
+- **Cartilla o comprobantes de vacunación**, de tu país o de aquí. Sirven aunque estén en español.
+- **Lista de tus medicamentos** y de enfermedades u operaciones anteriores.
+- **Resultados previos de tuberculosis** si alguna vez te trataron.
+- **Lentes o aparatos para oír**, si los usas.
+- Tu número A (*A-Number*), si ya tienes uno.
 
-## ¿Qué vacunas necesito?
+No firmes el formulario antes de llegar: se firma delante del médico.
 
-USCIS requiere ciertas vacunas según tu edad e historial (por ejemplo, influenza, tétanos, hepatitis, entre otras). Si te falta alguna, podemos aplicarla el mismo día.
+## ¿Cómo es la visita, paso a paso?
 
-## ¿Qué debo llevar?
+1. **Registro y revisión de documentos.** Se confirma tu identidad y se revisan tus vacunas.
+2. **Historia clínica.** Preguntas sobre enfermedades, hospitalizaciones, salud mental y consumo de alcohol o drogas. Contesta con honestidad: es una evaluación médica, no un interrogatorio.
+3. **Examen físico** general.
+4. **Toma de muestras.** Sangre para la prueba de tuberculosis (IGRA) y para los análisis que marca el CDC según tu edad; en algunos casos, también orina.
+5. **Vacunas.** Se aplican las que te falten según tu edad.
 
-1. Identificación con foto.
-2. Tu registro de vacunas, si lo tienes.
-3. Cualquier documento médico relevante.
+## ¿Qué vacunas me pueden pedir?
 
-## Consejo importante
+Depende de la edad y de lo que ya tengas. La lista del CDC incluye, entre otras, sarampión, paperas y rubéola (MMR), tétanos y difteria con tos ferina, polio, varicela, hepatitis B y, en temporada, influenza. Si te falta alguna, se pone en la misma visita. La tabla completa está en la [sección de vacunación de las instrucciones del CDC](https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/vaccination.html).
 
-No abras el sobre sellado. Si lo abres, el formulario puede invalidarse y tendrías que repetir el proceso.
+## ¿Y después de la visita?
 
-## Te acompañamos en cada paso
+Cuando llegan todos los resultados de laboratorio, el médico completa y firma el I-693. Si algo sale alterado, por ejemplo una prueba de tuberculosis positiva, puede hacer falta una radiografía de tórax o una evaluación adicional antes de cerrarlo. El formulario se entrega como indican las instrucciones vigentes de USCIS; si te lo dan en un sobre sellado, no lo abras, porque USCIS podría rechazarlo.
 
-En Clínica Hispana Nueva Salud realizamos el [examen I-693 con médico autorizado](/services/examenes-inmigracion), todo en español y con el formulario sellado listo para enviar. Llámanos al **(832) 831-4016**.
+## ¿Cuánto tiempo es válido?
+
+USCIS fija un plazo entre la firma del médico y la presentación de tu solicitud. Esas reglas han cambiado en los últimos años, así que confirma el plazo actual en la [página del I-693](https://www.uscis.gov/i-693) y coordina la fecha del examen con tu abogado.
+
+## ¿Dónde hacerlo en el sureste de Houston?
+
+En Clínica Hispana Nueva Salud, en 7640 Bellfort Ave Suite A (77061), hacemos el [examen I-693](/services/examenes-inmigracion) con médico autorizado por USCIS, la [prueba de tuberculosis](/services/prueba-tuberculosis), los análisis de sangre y las [vacunas](/services/vacunas) en la misma clínica, todo explicado en español. Si todavía estás eligiendo médico, lee [qué es un civil surgeon y cómo verificarlo](/blog/medicos-autorizados-uscis-houston-civil-surgeon). Sin cita, todos los días de 9 AM a 9 PM; teléfono y WhatsApp **(832) 831-4016**.

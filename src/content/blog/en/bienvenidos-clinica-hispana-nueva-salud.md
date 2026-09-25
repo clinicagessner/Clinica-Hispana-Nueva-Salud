@@ -1,7 +1,8 @@
 ---
 title: "Welcome to Clínica Hispana Nueva Salud"
-description: "Get to know Clínica Hispana Nueva Salud: healthcare 100% in Spanish in Houston, TX, walk-ins welcome and affordable pricing, no insurance needed."
+description: "Your first visit to Clínica Hispana Nueva Salud at 7640 Bellfort Ave, Houston: hours, parking, what to bring, how to pay and which services we offer."
 date: "2026-01-15"
+updated: "2026-09-25"
 author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Clinic"
 cover: "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp"
@@ -12,29 +13,50 @@ keywords:
   - "walk in clinic houston"
 ---
 
-At Clínica Hispana Nueva Salud we believe that taking care of your health shouldn't be complicated or expensive—and certainly not held back by language. That's why we opened our doors in Houston with a clear mission: to offer professional, caring healthcare **100% in Spanish** for the entire Hispanic community.
+Clínica Hispana Nueva Salud is in southeast Houston at 7640 Bellfort Ave, Suite A, ZIP code 77061, near Hobby Airport. If this is your first time with us, here is what you need to know so your visit is simple from the moment you arrive until you leave.
 
-## Who we are
+## Do I need an appointment?
 
-We are a family medical clinic located at **7640 Bellfort Ave Ste A, Houston, TX 77061**. We care for children and adults, with affordable pricing and no insurance needed, and no appointment is required. Our hours are **Monday to Sunday, 9:00 AM to 9:00 PM**, because health doesn't wait for the weekend.
+No. We see patients in order of arrival every day, Monday through Sunday, 9 AM to 9 PM, weekends included. If you would rather let us know ahead of time or have a question, send us a WhatsApp message or call **(832) 831-4016**: the same number works for both.
 
-## What you'll find with us
+## How do I get there and where do I park?
 
-We offer a wide range of services under one roof:
+The clinic has free on-site parking. The entrance, restrooms and parking are wheelchair accessible, so you can bring an older relative without worrying about stairs.
 
-- Family medicine for all ages
-- [I-693 immigration medical exam](/en/services/examenes-inmigracion) with a USCIS-authorized physician
-- [Clinical lab](/en/services/examenes-sangre) with in-clinic sample collection
-- [Ultrasound](/en/services/ultrasonido) and [electrocardiogram](/en/services/electrocardiograma)
-- [Diabetes, hypertension and cholesterol management](/en/services/condiciones-cronicas)
-- [Gynecology and women's health](/en/services/ginecologia)
-- [DOT physical exam](/en/services/examen-dot) for CDL license
-- [Vaccines](/en/services/vacunas) for children and adults
+## What do I bring to my first visit?
 
-## Why choose us
+- A photo ID, if you have one.
+- A list of the medications you take, or the boxes.
+- Previous results or prescriptions related to your problem.
+- Your vaccination record if you are coming for a school, work or immigration exam.
 
-What sets us apart isn't just what we do, but **how we do it**. We welcome you in your language, explain every step without jargon, and treat you with the respect and time you deserve. You don't need insurance, and we offer affordable, transparent pricing.
+You don't need health insurance. If you have it, ask at the front desk how it works in your case.
 
-## We're waiting for you
+## How do I pay?
 
-Caring for your health is the best investment you can make for yourself and your family. [Walk in](/en/walk-in) or call us at **(832) 831-4016**. At Clínica Hispana Nueva Salud, we treat you like family.
+We accept cash and debit and credit cards: Visa, Mastercard, American Express and Discover. Before any test or procedure we tell you the price, so you can decide calmly. When there are current promotions, we post them on the [promotions](/en/promociones) page.
+
+## Who sees me, and in what language?
+
+Our medical team sees you in Spanish or in English, whichever you prefer. We take the time to explain the diagnosis, the treatment and the next steps without technical jargon, and you are welcome to bring whoever you like.
+
+## What can I take care of here?
+
+- [General medicine](/en/services/condiciones-cronicas) and management of diabetes, high blood pressure and cholesterol.
+- A [clinical lab](/en/services/examenes-sangre) with in-clinic sample collection.
+- [Gynecology care](/en/services/ginecologia): Pap smears, cultures and infection treatment.
+- The [I-693 immigration exam](/en/services/examenes-inmigracion) with a USCIS-authorized physician.
+- The [DOT physical](/en/services/examen-dot) for a CDL, plus [school and sports physicals](/en/services/examen-fisico-escolar).
+- [Vaccines](/en/services/vacunas), [stitches](/en/services/suturas-heridas) and [minor surgery](/en/services/cirugias-menores).
+
+The full list is on the [services](/en/services) page.
+
+## What happens after the visit?
+
+You leave with written instructions and, if the medical team prescribed treatment, you can take the medications from your visit home with you. If we drew samples for the lab, we tell you when to expect the results and how we will deliver them. For questions after your visit, the clinic's WhatsApp is the fastest way: save the number in your phone under the clinic's name.
+
+## What if I don't know what I need?
+
+Come in anyway. Many people arrive with a symptom and no idea which test to ask for; the medical team evaluates you and points you in the right direction. If something needs a specialist, we tell you where to go.
+
+We look forward to seeing you on Bellfort Avenue. To learn how to get care without insurance, read our [guide to healthcare without insurance in Houston](/en/blog/atencion-medica-sin-seguro-houston).

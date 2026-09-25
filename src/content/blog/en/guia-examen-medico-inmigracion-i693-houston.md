@@ -1,7 +1,8 @@
 ---
 title: "Guide to the I-693 immigration medical exam in Houston"
-description: "Everything about the I-693 medical exam in Houston: what it includes, which vaccines you need and how a USCIS-authorized physician seals the form."
+description: "Guide to the I-693 medical exam in Houston: what to bring, how the visit goes, which vaccines you may need and what happens next, explained in Spanish."
 date: "2026-03-18"
+updated: "2026-09-25"
 author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Immigration"
 cover: "/images/blog/guia-examen-medico-inmigracion-i693-houston.webp"
@@ -12,34 +13,43 @@ keywords:
   - "civil surgeon houston"
 ---
 
-The immigration medical exam (Form I-693) is a required step in many adjustment-of-status processes. Understanding how it works helps you arrive prepared and avoid delays.
+Form I-693 (*Report of Immigration Medical Examination and Vaccination Record*) is how USCIS confirms that you meet the health requirements to adjust your status. This guide is about exam day itself: what to bring, how the visit goes and what happens next.
 
-## What is the I-693 for?
+## Who needs Form I-693?
 
-USCIS requires this exam to confirm there are no health conditions affecting your application. It must be performed by a **USCIS-authorized physician**, known as a *civil surgeon*.
+Mainly people applying for permanent residence from inside the United States with Form I-485. Some other applications also require it; the instructions for each form on [uscis.gov](https://www.uscis.gov/i-693) say whether it applies to you. If in doubt, check with your attorney or representative before taking the exam.
 
-## What does the exam include?
+## What do I bring on exam day?
 
-- Review of your medical and vaccination history
-- Complete physical exam
-- Required tests, including [tuberculosis](/en/services/prueba-tuberculosis)
-- Administration of any missing [vaccines](/en/services/vacunas)
-- Form I-693 completed and **sealed in the official envelope**
+- **A valid photo ID**: passport, driver's license or state ID.
+- **Your vaccination card or records**, from your home country or from here. Spanish-language records are fine.
+- **A list of your medications** and past illnesses or surgeries.
+- **Previous tuberculosis results** if you were ever treated.
+- **Glasses or hearing aids**, if you use them.
+- Your A-Number, if you already have one.
 
-## Which vaccines do I need?
+Don't sign the form before you arrive: it is signed in front of the doctor.
 
-USCIS requires certain vaccines depending on your age and history (for example, influenza, tetanus, hepatitis, among others). If you're missing any, we can administer them the same day.
+## How does the visit go, step by step?
 
-## What should I bring?
+1. **Check-in and document review.** Your identity is confirmed and your vaccines are reviewed.
+2. **Medical history.** Questions about illnesses, hospital stays, mental health and alcohol or drug use. Answer honestly: it is a medical evaluation, not an interrogation.
+3. **General physical exam.**
+4. **Sample collection.** Blood for the tuberculosis test (IGRA) and for the tests the CDC requires for your age; in some cases, urine as well.
+5. **Vaccines.** Any doses you are missing for your age are given.
 
-1. Photo ID.
-2. Your vaccination record, if you have it.
-3. Any relevant medical documents.
+## Which vaccines might I need?
 
-## Important tip
+It depends on your age and what you already have. The CDC list includes, among others, measles, mumps and rubella (MMR), tetanus and diphtheria with pertussis, polio, varicella, hepatitis B and, in season, influenza. If you are missing one, it is given at the same visit. The full table is in the [vaccination section of the CDC instructions](https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/vaccination.html).
 
-Do not open the sealed envelope. If you open it, the form may be invalidated and you'd have to repeat the process.
+## What happens after the visit?
 
-## We're with you every step
+Once all the lab results are in, the doctor completes and signs the I-693. If something comes back abnormal, such as a positive tuberculosis test, a chest X-ray or further evaluation may be needed before the form can be finished. The form is delivered as current USCIS instructions require; if you receive it in a sealed envelope, do not open it, or USCIS may reject it.
 
-At Clínica Hispana Nueva Salud we perform the [I-693 exam with an authorized physician](/en/services/examenes-inmigracion), all in Spanish and with the sealed form ready to submit. Call us at **(832) 831-4016**.
+## How long is it valid?
+
+USCIS sets a time limit between the doctor's signature and your filing. Those rules have changed in recent years, so confirm the current limit on the [I-693 page](https://www.uscis.gov/i-693) and plan the exam date with your attorney.
+
+## Where to do it in southeast Houston?
+
+At Clínica Hispana Nueva Salud, 7640 Bellfort Ave Suite A (77061), we do the [I-693 exam](/en/services/examenes-inmigracion) with a USCIS-authorized physician, plus the [tuberculosis test](/en/services/prueba-tuberculosis), blood work and [vaccines](/en/services/vacunas) at the same clinic, all explained in Spanish. If you are still choosing a doctor, read [what a civil surgeon is and how to verify one](/en/blog/medicos-autorizados-uscis-houston-civil-surgeon). Walk-ins welcome every day, 9 AM to 9 PM; phone and WhatsApp **(832) 831-4016**.
