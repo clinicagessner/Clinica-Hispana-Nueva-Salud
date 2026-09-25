@@ -1,3 +1,4 @@
+import { MedicalReview } from "@/components/shared/medical-review";
 import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -191,6 +192,12 @@ export default async function BlogPostPage({
               {post.content}
             </ReactMarkdown>
           </article>
+
+          <MedicalReview
+            locale={loc}
+            published={post.date}
+            reviewed={post.updated ?? post.date}
+          />
 
           {/* CTA */}
           <div className="mt-8 rounded-3xl bg-gradient-to-br from-blue-primary to-blue-dark p-7 text-center text-white shadow-lg">

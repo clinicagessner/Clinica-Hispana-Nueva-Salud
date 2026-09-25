@@ -90,6 +90,11 @@ export const SOCIAL_LINKS = {
   x: "https://x.com/CHispNuevaSalud",
 } as const;
 
+// Última revisión de contenido de las páginas de servicio: caja de revisión
+// médica, `lastReviewed` del schema y `lastmod` del sitemap. Se toca en el
+// mismo commit que cambia el texto de los servicios.
+export const SERVICES_LAST_REVIEWED = "2026-09-01";
+
 // Fallback de build para rating/reseñas. La data en vivo la trae
 // getGooglePlaceData() cuando hay GOOGLE_PLACES_API_KEY + GOOGLE_PLACE_ID.
 // Comprobado con Places el 2026-09-25: 5,0 · 853 reseñas.

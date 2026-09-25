@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { SITE_CONFIG } from "@/lib/constants";
+import { SERVICES_LAST_REVIEWED, SITE_CONFIG } from "@/lib/constants";
 import { getAllServiceSlugs } from "@/lib/services";
 import { getPost, getPostSlugs } from "@/lib/blog";
 
@@ -16,9 +16,6 @@ const PAGE_DATES: Record<string, string> = {
   "/walk-in": "2026-08-02",
   "/landing/comparacion-clinicas-houston": "2026-09-25", // reseñas reales
 };
-
-// Última revisión del contenido de los servicios (constants.ts + service-faqs.ts).
-const SERVICES_LAST_MODIFIED = "2026-09-01";
 
 // Cada ruta genera dos entradas <url> (es + /en) con hreflang cruzado.
 // Google trata las alternates solo como pistas; las URLs /en/ deben ser
@@ -55,7 +52,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ];
 
   const services: MetadataRoute.Sitemap = getAllServiceSlugs().flatMap(
-    (slug) => entries(`/services/${slug}`, SERVICES_LAST_MODIFIED),
+    (slug) => entries(`/services/${slug}`, SERVICES_LAST_REVIEWED),
   );
 
   const postEntries: MetadataRoute.Sitemap = posts.flatMap((p) =>

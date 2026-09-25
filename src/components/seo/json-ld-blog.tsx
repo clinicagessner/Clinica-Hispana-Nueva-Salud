@@ -37,6 +37,8 @@ export function JsonLdBlogPosting({
         // sin @id (o con otro nombre para el mismo @id) crea otra entidad.
         author: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
         publisher: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+        // Revisión médica (B2): sin médico nombrado, revisa la clínica.
+        reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
       }}
     />
   );

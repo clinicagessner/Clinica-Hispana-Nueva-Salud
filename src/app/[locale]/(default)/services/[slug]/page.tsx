@@ -15,6 +15,7 @@ import {
   JsonLdClinicRef,
   JsonLdFaqPage,
   JsonLdMedicalProcedure,
+  JsonLdMedicalWebPage,
 } from "@/components/seo/json-ld";
 import {
   getAllServiceSlugs,
@@ -24,13 +25,14 @@ import {
   hasServiceImage,
 } from "@/lib/services";
 import { getServiceFaqs } from "@/lib/service-faqs";
-import { CONTACT_INFO } from "@/lib/constants";
+import { CONTACT_INFO, SERVICES_LAST_REVIEWED } from "@/lib/constants";
 import {
   getLocalizedFaq,
   getLocalizedService,
   serviceImagePath,
 } from "@/lib/utils";
 import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
+import { MedicalReview } from "@/components/shared/medical-review";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -116,6 +118,13 @@ export default async function ServiceDetailPage({
         url={url}
       />
       <JsonLdFaqPage faqs={faqs} />
+      <JsonLdMedicalWebPage
+        name={l.title}
+        description={l.description}
+        url={absoluteUrl(`/services/${slug}`, loc)}
+        lastReviewed={SERVICES_LAST_REVIEWED}
+        locale={loc}
+      />
 
       {/* Hero del servicio (foto del servicio de fondo + overlay verde) */}
       <section className="relative isolate overflow-hidden bg-gradient-to-br from-blue-deep via-blue-dark to-blue-deep py-16 text-sky-bg lg:py-20">
@@ -220,6 +229,8 @@ export default async function ServiceDetailPage({
                 {l.longDescription}
               </ReactMarkdown>
             </div>
+
+            <MedicalReview locale={loc} reviewed={SERVICES_LAST_REVIEWED} />
 
             {/* FAQ */}
             {faqs.length > 0 && (

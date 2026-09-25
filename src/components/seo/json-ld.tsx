@@ -152,6 +152,40 @@ export function JsonLdClinicRef({ locale }: { locale: Locale }) {
   );
 }
 
+/**
+ * `MedicalWebPage` con `lastReviewed` y `reviewedBy` apuntando al `@id` de la
+ * clínica (B2): señal de que el contenido médico tiene revisión y fecha.
+ */
+export function JsonLdMedicalWebPage({
+  name,
+  description,
+  url,
+  lastReviewed,
+  locale,
+}: {
+  name: string;
+  description: string;
+  url: string;
+  lastReviewed: string;
+  locale: Locale;
+}) {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        name,
+        description,
+        url,
+        inLanguage: locale,
+        lastReviewed,
+        reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+        about: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+      }}
+    />
+  );
+}
+
 export function JsonLdBreadcrumb({
   items,
 }: {
