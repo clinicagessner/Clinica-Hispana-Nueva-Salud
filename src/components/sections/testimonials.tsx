@@ -1,38 +1,29 @@
-import { getLocale, getTranslations } from "next-intl/server";
+import { getTranslations } from "next-intl/server";
 import { StarRating } from "@/components/shared/star-rating";
 import { Reveal } from "@/components/animations/reveal";
 import {
   TestimonialsCarousel,
   type CarouselTestimonial,
 } from "@/components/sections/testimonials-carousel";
-import { CONTACT_INFO, FALLBACK_TESTIMONIALS } from "@/lib/constants";
+import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
-import type { Locale } from "@/types";
 
 export async function Testimonials() {
   const t = await getTranslations("Testimonials");
   const tc = await getTranslations("Common");
-  const locale = (await getLocale()) as Locale;
   const place = await getGooglePlaceData();
 
-  // Reseñas en vivo si existen; si no, testimonios de respaldo localizados.
-  const items: CarouselTestimonial[] =
-    place.reviews.length >= 3
-      ? place.reviews.map((r) => ({
-          author: r.author,
-          rating: r.rating,
-          text: r.text,
-          relativeTime: r.relativeTime,
-          photoUrl: r.photoUrl,
-        }))
-      : FALLBACK_TESTIMONIALS.map((r) => ({
-          author: r.author,
-          rating: r.rating,
-          text: locale === "en" ? r.textEn : r.text,
-          relativeTime: r.relativeTime,
-        }));
+  // Siempre reseñas reales de Google: en vivo o, si la API falla, la copia
+  // de GOOGLE_REVIEWS_SNAPSHOT que devuelve getGooglePlaceData().
+  const items: CarouselTestimonial[] = place.reviews.map((r) => ({
+    author: r.author,
+    rating: r.rating,
+    text: r.text,
+    relativeTime: r.relativeTime,
+    photoUrl: r.photoUrl,
+  }));
 
   return (
     <section className="bg-linear-to-b from-sky-bg to-cloud py-20 lg:py-28">
@@ -52,7 +43,10 @@ export async function Testimonials() {
 
           <Reveal delay={120} className="lg:col-span-5 lg:text-right">
             <div className="inline-flex items-center gap-3 rounded-3xl border border-blue-light bg-white px-5 py-3 shadow-sm">
-              <StarRating rating={place.averageRating} starClassName="h-5 w-5" />
+              <StarRating
+                rating={place.averageRating}
+                starClassName="h-5 w-5"
+              />
               <span className="font-heading text-sm font-bold text-blue-dark">
                 {tc("ratingSummary", { count: place.totalReviews })}
               </span>

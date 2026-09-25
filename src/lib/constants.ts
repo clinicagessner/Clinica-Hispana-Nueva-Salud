@@ -3,7 +3,6 @@ import type {
   Promotion,
   Service,
   ServiceCategory,
-  Testimonial,
 } from "@/types";
 
 // Normaliza la URL del sitio: añade https:// si falta el esquema y quita la
@@ -93,9 +92,10 @@ export const SOCIAL_LINKS = {
 
 // Fallback de build para rating/reseñas. La data en vivo la trae
 // getGooglePlaceData() cuando hay GOOGLE_PLACES_API_KEY + GOOGLE_PLACE_ID.
+// Comprobado con Places el 2026-09-25: 5,0 · 853 reseñas.
 export const GOOGLE_REVIEWS_DATA = {
   averageRating: 5.0,
-  totalReviews: 674,
+  totalReviews: 853,
 } as const;
 
 // Navbar (header): sin "Sin cita".
@@ -3879,41 +3879,38 @@ ${AREAS_EN}`,
   },
 ];
 
-// Testimonios de respaldo para el carrusel cuando no hay data en vivo de Google.
-export const FALLBACK_TESTIMONIALS: Testimonial[] = [
+// Copia de las 5 reseñas REALES que devuelve Google Places para esta ficha
+// (place ChIJSRxrneGXQIYRlwEtNdb7TX4), capturada el 2026-09-25. Solo se usa si
+// la API falla y no hay caché previa, para que el sitio nunca muestre reseñas
+// inventadas. Refrescar cuando se actualice GOOGLE_REVIEWS_DATA.
+export const GOOGLE_REVIEWS_SNAPSHOT: {
+  author: string;
+  rating: number;
+  text: string;
+}[] = [
   {
-    author: "María G.",
+    author: "Adriannes Guevara",
     rating: 5,
-    text: "Excelente atención y todo en español. Me explicaron cada paso de mi examen. Muy recomendados.",
-    textEn: "Excellent care and everything in Spanish. They explained every step of my exam. Highly recommended.",
-    relativeTime: "Hace 2 semanas",
+    text: "Tuve una muy buena experiencia en Clínica Hispana Nueva Salud. El personal fue amable, atento y profesional desde el momento en que llegué. Me atendieron con paciencia, respondieron mis preguntas y me hicieron sentir en confianza. Las instalaciones estaban limpias y el servicio fue rápido y eficiente. Recomiendo esta clínica a cualquier persona que busque atención médica de calidad en un ambiente agradable.”",
   },
   {
-    author: "José R.",
+    author: "Daniela Navarro",
     rating: 5,
-    text: "Llegué sin cita por una infección y me atendieron rápido. El doctor muy amable y los precios accesibles.",
-    textEn: "I walked in without an appointment for an infection and was seen quickly. The doctor was very kind and the prices affordable.",
-    relativeTime: "Hace 1 mes",
+    text: "Tuve una excelente experiencia en la Clínica Nueva Salud. Desde el momento en que llegué, el personal fue muy amable, atento y profesional. Los médicos se tomaron el tiempo para escuchar mis inquietudes y explicarme todo con claridad. Las instalaciones son limpias, cómodas y transmiten mucha confianza. Se nota el compromiso que tienen con el bienestar de sus pacientes. Sin duda, recomiendo esta clínica a quienes buscan atención médica de calidad y un trato humano excepcional. ¡Muchas gracias por su excelente servicio!",
   },
   {
-    author: "Carmen L.",
+    author: "Orestes Diaz Mejias",
     rating: 5,
-    text: "Llevo mi control de diabetes aquí y me siento muy bien cuidada. El seguimiento es muy bueno.",
-    textEn: "I manage my diabetes here and feel very well cared for. The follow-up is excellent.",
-    relativeTime: "Hace 1 mes",
+    text: "✨ Estoy súper agradecido con la atención de Clinica Hispana Nueva Salud. Desde que llegas te hacen sentir en confianza y realmente se preocupan por cada paciente. Me encantó que ofrecen muchísimos servicios en un mismo lugar, desde consultas médicas y laboratorios hasta ultrasonidos y chequeos completos, todo con atención en español y precios súper accesibles. 💙\n\nEl personal es muy amable, profesional y siempre dispuesto a ayudarte con paciencia y buena actitud. Se nota el compromiso que tienen con nuestra comunidad hispana y eso hace toda la diferencia. 🙌\n\nDefinitivamente recomiendo esta clínica a cualquier persona que busque buena atención médica, excelentes precios y un lugar donde te traten con respeto, cariño y profesionalismo. 🌟",
   },
   {
-    author: "Luis M.",
+    author: "anabel Aurioles",
     rating: 5,
-    text: "Hice mi examen DOT y salí el mismo día con mi certificado. Proceso rápido y sin complicaciones.",
-    textEn: "I did my DOT exam and left the same day with my certificate. Fast process with no complications.",
-    relativeTime: "Hace 2 meses",
+    text: "Fui a consulta y me atendieron muy bien desde el primer momento. Me sorprendió gratamente que, con un solo examen de orina, lograron determinar y explicarme muchas cosas sobre mi salud con gran profesionalismo. Estoy muy feliz con el servicio, la amabilidad del personal y lo limpio del lugar. ¡Los recomiendo 100%!",
   },
   {
-    author: "Ana P.",
+    author: "Nancy Joya",
     rating: 5,
-    text: "Una clínica donde te tratan con respeto y cariño. El laboratorio entregó mis resultados muy rápido.",
-    textEn: "A clinic where they treat you with respect and care. The lab delivered my results very fast.",
-    relativeTime: "Hace 3 meses",
+    text: "Tuve una experiencia maravillosa en la Clínica Hispana Nueva Salud. Desde que llegué el trato fue excepcional, me explicaron todo con mucha claridad y, lo mejor de todo, ¡la atención fue muy rápida! \"Me sentí muy complacido en esta clínica, me atendieron muy bien, atencion rápida y certera.\" como explican en los servicios de la Clínica Hispana nueva salud . Da gusto encontrar lugares donde verdaderamente se preocupan por la comunidad y todo te lo explican en español. ¡Cinco estrellas!",
   },
 ];

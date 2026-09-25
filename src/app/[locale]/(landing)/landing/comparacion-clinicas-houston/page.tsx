@@ -5,7 +5,8 @@ import { Reveal } from "@/components/animations/reveal";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import { ContactForm } from "@/components/forms/contact-form";
 import { JsonLdBreadcrumb, JsonLdFaqPage } from "@/components/seo/json-ld";
-import { CONTACT_INFO, FALLBACK_TESTIMONIALS } from "@/lib/constants";
+import { CONTACT_INFO } from "@/lib/constants";
+import { getGooglePlaceData } from "@/lib/google-places";
 import { getServiceCardData } from "@/lib/services";
 import { getLandingContent } from "@/lib/landing-conquesting";
 import { absoluteUrl, buildAlternates } from "@/lib/seo";
@@ -47,7 +48,8 @@ export default async function ComparacionLandingPage({
     value: s.slug,
     label: s.title,
   }));
-  const reviews = FALLBACK_TESTIMONIALS.slice(0, 3);
+  // Reseñas reales de Google (en vivo o la copia de respaldo), nunca inventadas.
+  const reviews = (await getGooglePlaceData()).reviews.slice(0, 3);
 
   return (
     <>
@@ -206,14 +208,11 @@ export default async function ComparacionLandingPage({
               >
                 <div className="flex gap-0.5">
                   {Array.from({ length: 5 }).map((_, s) => (
-                    <Star
-                      key={s}
-                      className="h-4 w-4 fill-teal text-teal"
-                    />
+                    <Star key={s} className="h-4 w-4 fill-teal text-teal" />
                   ))}
                 </div>
                 <blockquote className="mt-4 flex-1 text-sm leading-relaxed text-slate-primary">
-                  {loc === "en" ? r.textEn : r.text}
+                  {r.text}
                 </blockquote>
                 <figcaption className="mt-5 border-t border-blue-light pt-4 font-heading font-bold text-slate-dark">
                   {r.author}
