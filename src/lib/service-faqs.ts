@@ -80,9 +80,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Dan tratamiento el mismo día?",
-      answer: "Sí. Sales con tu diagnóstico, receta y medicamento el mismo día; tenemos farmacia dentro de la clínica.",
+      answer: "Sí. Si la prueba y la revisión lo confirman, sales con tu diagnóstico y tu receta ese mismo día.",
       questionEn: "Do you provide same-day treatment?",
-      answerEn: "Yes. You leave with your diagnosis, prescription and medication the same day; we have a pharmacy inside the clinic.",
+      answerEn: "Yes. If the test and exam confirm it, you leave with your diagnosis and prescription that same day.",
     },
     {
       question: "Si falto al trabajo o a clases, ¿me dan un comprobante de la consulta?",
@@ -372,9 +372,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "infecciones-urinarias": [
     {
       question: "¿Me dan tratamiento en la misma visita?",
-      answer: "La orina se analiza aquí y, si hay infección, el equipo médico decide el tratamiento en esa consulta. Los medicamentos indicados en la consulta los puedes recibir en nuestra farmacia.",
+      answer: "La orina se analiza aquí y, si hay infección, el equipo médico decide el tratamiento en esa consulta.",
       questionEn: "Do I get treatment at the same visit?",
-      answerEn: "We run the urine test in-clinic and, if there's an infection, the medical team prescribes your treatment. You can get the medications indicated during your visit at our pharmacy.",
+      answerEn: "We run the urine test in-clinic and, if there's an infection, the medical team prescribes your treatment.",
     },
     {
       question: "¿Cómo sé si tengo infección urinaria?",
@@ -869,26 +869,6 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "No. Con diabetes, cualquier herida o infección en los pies merece revisión pronto, porque la cicatrización es más lenta y las complicaciones avanzan rápido.",
       questionEn: "I have diabetes. Should I wait and see if it improves?",
       answerEn: "No. With diabetes, any wound or infection on the feet should be checked early, because healing is slower and complications move fast.",
-    },
-  ],
-  "farmacia": [
-    {
-      question: "¿Tienen todos los medicamentos?",
-      answer: "Tenemos los que más se indican en consulta. Cuando el tuyo no está en existencia, te llevas la receta para conseguirlo en una farmacia.",
-      questionEn: "Do you carry every medication?",
-      answerEn: "We stock the ones most often prescribed at visits. If the one you need isn't available, we give you the prescription to fill at a pharmacy.",
-    },
-    {
-      question: "¿Puedo comprar aquí algo de venta libre sin pasar a consulta?",
-      answer: "Pregunta en recepción. De todos modos, si los síntomas duran más de unos días o son fuertes, conviene que te revise el equipo médico.",
-      questionEn: "Can I buy something over the counter without a visit?",
-      answerEn: "Ask at the front desk. Either way, if symptoms last more than a few days or are severe, it's best to have the medical team check you.",
-    },
-    {
-      question: "¿Me explican cómo tomar el medicamento?",
-      answer: "Sí. Antes de que te vayas repasamos contigo la dosis, el horario y los cuidados en español, y puedes escribirnos por WhatsApp si te queda una duda en casa.",
-      questionEn: "Does someone go over how to take it?",
-      answerEn: "Yes. Before you leave we go over the dose, schedule and precautions with you in Spanish, and you can message us on WhatsApp if a question comes up at home.",
     },
   ],
 };

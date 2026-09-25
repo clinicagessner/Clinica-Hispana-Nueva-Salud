@@ -39,7 +39,6 @@ const SERVICE_IMAGE_SLUGS = new Set<string>([
   "cirugias-menores",
   "drenaje-abscesos",
   "unas-encarnadas",
-  "farmacia",
 ]);
 
 export function hasServiceImage(slug: string): boolean {

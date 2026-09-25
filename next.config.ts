@@ -59,6 +59,22 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "maps.googleapis.com" },
     ],
   },
+  async redirects() {
+    return [
+      // Servicio de farmacia retirado (decisión del cliente, 2026-09-25). La
+      // URL estaba indexada: 308 al índice de servicios en vez de un 404.
+      {
+        source: "/services/farmacia",
+        destination: "/services",
+        permanent: true,
+      },
+      {
+        source: "/en/services/farmacia",
+        destination: "/en/services",
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {

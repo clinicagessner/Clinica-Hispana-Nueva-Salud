@@ -785,7 +785,7 @@ If a food, a medication or an insect sting is followed by swelling of the lips o
 - **[Prueba de estreptococo](/services/prueba-strep)** si el dolor de garganta lo sugiere
 - **Evaluación de síntomas respiratorios** y revisión de pulmones y garganta
 - **Atención de gripe, tos, bronquitis, sinusitis y garganta infectada**
-- **Receta y medicamento el mismo día**; contamos con [farmacia dentro de la clínica](/services/farmacia)
+- **Receta el mismo día** cuando el equipo médico indica tratamiento
 - **Indicaciones de recuperación y cuidado en casa**, en español
 
 ## ¿Flu, COVID o resfriado común?
@@ -832,7 +832,7 @@ Si buscas prueba de flu o COVID en Houston sin cita, en español y a precio acce
 - **[Strep test](/en/services/prueba-strep)** if the sore throat suggests it
 - **Evaluation of respiratory symptoms** and a check of lungs and throat
 - **Treatment for the flu, cough, bronchitis, sinusitis and throat infections**
-- **Same-day prescription and medication**; we have a [pharmacy inside the clinic](/en/services/farmacia)
+- **Same-day prescription** when the medical team starts treatment
 - **Recovery and home-care instructions**, in Spanish
 
 ## Flu, COVID or common cold?
@@ -1859,7 +1859,7 @@ Si te da infección varias veces al año, no es normal y tiene solución. En la 
 1. Vienes cuando puedas, sin cita, y te anotas al llegar.
 2. Das una muestra de orina en la clínica (lo ideal es no haber orinado en la última hora).
 3. El personal médico evalúa tus síntomas y el resultado del examen.
-4. Si hay infección, el equipo médico te indica el tratamiento y puedes recibir los medicamentos en nuestra [farmacia dentro de la clínica](/services/farmacia).
+4. Si hay infección, el equipo médico te indica el tratamiento y te entrega la receta.
 5. Te indicamos cuándo volver si las molestias no mejoran en 2-3 días.
 
 ## Infección urinaria: atención en Bellfort Avenue
@@ -1899,7 +1899,7 @@ If you get infections several times a year, that's not normal and it can be fixe
 1. Come by whenever you can, no appointment, and sign in when you arrive.
 2. Provide a urine sample at the clinic (ideally without having urinated in the past hour).
 3. The medical staff evaluates your symptoms and the test result.
-4. If there's an infection, the medical team prescribes your treatment and you can get the medications at our [pharmacy inside the clinic](/en/services/farmacia).
+4. If there's an infection, the medical team prescribes your treatment and hands you the prescription.
 5. If you're not feeling better in 2 or 3 days, we tell you when to return.
 
 ## UTI care on Bellfort Avenue
@@ -2063,7 +2063,7 @@ La tos, la nariz tapada y la ronquera apuntan más a un virus.
 
 ## ¿Qué pasa si sale positivo?
 
-El equipo médico te indica el antibiótico adecuado y puedes recibirlo en la clínica. Tómalo completo aunque te sientas mejor a los dos días: dejarlo a medias favorece complicaciones. Los CDC indican que, sin fiebre y con 12 horas o más de antibiótico, ya se puede regresar a clases o al trabajo.
+El equipo médico te receta el antibiótico adecuado. Tómalo completo aunque te sientas mejor a los dos días: dejarlo a medias favorece complicaciones. Los CDC indican que, sin fiebre y con 12 horas o más de antibiótico, ya se puede regresar a clases o al trabajo.
 
 ## ¿Y si sale negativo?
 
@@ -2088,7 +2088,7 @@ Coughing, a stuffy nose and hoarseness point more toward a virus.
 
 ## What if it's positive?
 
-The medical team prescribes the right antibiotic and you can get it at the clinic. Finish it even if you feel better after two days: stopping early raises the risk of complications. The CDC says that once the fever is gone and the antibiotic has been going for 12 hours or more, it's fine to head back to school or work.
+The medical team prescribes the right antibiotic. Finish it even if you feel better after two days: stopping early raises the risk of complications. The CDC says that once the fever is gone and the antibiotic has been going for 12 hours or more, it's fine to head back to school or work.
 
 ## And if it's negative?
 
@@ -3694,102 +3694,6 @@ Most people walk normally within a few days. If the nail keeps growing in again 
 ## Keeping it from growing in again
 
 Cut nails straight across, without rounding the corners, and leave them level with the tip of the toe. Wear shoes with room for your toes and keep your feet dry.`,
-  },
-  {
-    slug: "farmacia",
-    order: 29,
-    category: "tratamientos",
-    icon: "Pill",
-    title: "Farmacia",
-    titleEn: "Pharmacy",
-    metaTitle: "Farmacia en Houston, TX | Clínica Hispana Nueva Salud",
-    metaTitleEn: "Pharmacy in Houston, TX | Clínica Hispana Nueva Salud",
-    shortDescription:
-      "Llévate los medicamentos que te indiquen en la consulta, sin otra parada.",
-    shortDescriptionEn:
-      "Take home the medications prescribed at your visit — no second stop.",
-    description:
-      "Farmacia en Houston, TX dentro de la clínica: entrega de los medicamentos indicados en tu consulta y productos de venta libre, en español.",
-    descriptionEn:
-      "Pharmacy in Houston, TX inside the clinic: medications prescribed during your visit plus over-the-counter products, in Spanish.",
-    keywords: [
-      "farmacia en houston",
-      "farmacia hispana houston",
-      "farmacia cerca de mí houston",
-      "medicamentos en la clinica houston",
-    ],
-    keywordsEn: [
-      "pharmacy houston",
-      "hispanic pharmacy houston",
-      "pharmacy near me houston",
-      "clinic medications houston",
-    ],
-    features: [
-      "Medicamentos indicados en tu consulta",
-      "Medicamentos de marca y genéricos",
-      "Medicamentos de venta libre (OTC)",
-      "Asesoría sobre tus medicamentos en español",
-    ],
-    featuresEn: [
-      "Medications prescribed during your visit",
-      "Brand-name and generic medications",
-      "Over-the-counter (OTC) medications",
-      "Guidance about your medications in Spanish",
-    ],
-    longDescription: `Terminar la consulta y llevarte el tratamiento sin hacer otra parada ahorra tiempo, sobre todo cuando te sientes mal. En la clínica te entregamos los medicamentos que te indica nuestro equipo médico durante la visita, además de productos de venta libre.
-
-## ¿Qué te puedes llevar?
-
-- Los medicamentos que el equipo médico te indica en la consulta, de marca o genéricos según haya disponibilidad.
-- Productos de venta libre para síntomas comunes: fiebre, dolor, congestión, acidez o picazón.
-- Material básico para curaciones cuando te atendemos una herida.
-
-## ¿Puedo traer una receta de otro médico?
-
-No. Solo entregamos lo indicado durante tu consulta aquí. Surtir recetas de otros médicos requiere una licencia de farmacia del estado de Texas, que la clínica no tiene; para eso tendrás que ir a una farmacia.
-
-## ¿Qué conviene preguntar antes de irte?
-
-- Para qué sirve el medicamento y cuánto tiempo debo tomarlo.
-- A qué hora y si va con comida o en ayunas.
-- Qué hacer si se me olvida una dosis.
-- Qué efectos secundarios son normales y cuáles son motivo para volver.
-- Si choca con algo que ya tomo, incluidos vitaminas y remedios naturales.
-
-## ¿Cuestan menos los genéricos?
-
-Por lo general sí, y contienen el mismo principio activo que el de marca. Si el precio te preocupa, dilo en la consulta: casi siempre hay una opción más económica igual de eficaz.
-
-## ¿Qué hago con las pastillas que sobran?
-
-No las tires por el lavabo ni las guardes "por si acaso". La FDA explica cómo [desecharlas de forma segura](https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know), por ejemplo en los puntos de recolección de algunas farmacias.`,
-    longDescriptionEn: `Finishing your visit and leaving with your treatment, without another stop, saves time, especially when you feel sick. At the clinic we provide the medications our medical team prescribes during your visit, plus over-the-counter products.
-
-## What can you take home?
-
-- The medications the medical team prescribes at your visit, brand-name or generic depending on availability.
-- Over-the-counter products for common symptoms: fever, pain, congestion, heartburn or itching.
-- Basic dressing supplies when we treat a wound.
-
-## What about a prescription written somewhere else?
-
-No. We only provide what is prescribed during your visit here. Filling other doctors' prescriptions requires a Texas pharmacy license, which the clinic doesn't hold; for that you'll need a pharmacy.
-
-## What should I ask before leaving?
-
-- What the medication is for and how long to take it.
-- What time to take it and whether with food or on an empty stomach.
-- What to do if I miss a dose.
-- Which side effects are normal and which mean I should come back.
-- Whether it clashes with anything I already take, including vitamins and natural remedies.
-
-## Do generics cost less?
-
-Usually yes, and they contain the same active ingredient as the brand-name drug. If price is a concern, say so during your visit: there's almost always a cheaper option that works just as well.
-
-## What do I do with leftover pills?
-
-Don't flush them or keep them "just in case." The FDA explains how to [dispose of them safely](https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know), for example at the take-back kiosks some pharmacies have.`,
   },
 ];
 
