@@ -12,18 +12,18 @@ por IndexNow el 2026-09-25.
 
 Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su encabezado.
 
-## Tanda 1
+## Tanda 1  ✅ PEDIDA 25/09/2026
 
-- [ ] `/services/examen-fisico-escolar` — desconocida · 0 impr.
-- [ ] `/services/infecciones-urinarias` — desconocida · 0 impr.
-- [ ] `/services/salud-hombre` — desconocida · 0 impr.
-- [ ] `/blog/laboratorio-clinico-houston-analisis-sangre` — rastreada sin indexar · 409 impr.
-- [ ] `/services/anticonceptivos` — descubierta sin indexar · 0 impr.
-- [ ] `/services/cirugias-menores` — descubierta sin indexar · 0 impr.
-- [ ] `/services/curacion-heridas` — descubierta sin indexar · 0 impr.
-- [ ] `/services/enfermedades-respiratorias` — descubierta sin indexar · 0 impr.
-- [ ] `/services/enfermedades-transmision-sexual` — descubierta sin indexar · 0 impr.
-- [ ] `/services/sueros-vitaminados` — descubierta sin indexar · 0 impr.
+- [x] `/services/examen-fisico-escolar` — desconocida · 0 impr.
+- [x] `/services/infecciones-urinarias` — desconocida · 0 impr.
+- [x] `/services/salud-hombre` — desconocida · 0 impr.
+- [x] `/blog/laboratorio-clinico-houston-analisis-sangre` — rastreada sin indexar · 409 impr.
+- [x] `/services/anticonceptivos` — descubierta sin indexar · 0 impr.
+- [x] `/services/cirugias-menores` — descubierta sin indexar · 0 impr.
+- [x] `/services/curacion-heridas` — descubierta sin indexar · 0 impr.
+- [x] `/services/enfermedades-respiratorias` — descubierta sin indexar · 0 impr.
+- [x] `/services/enfermedades-transmision-sexual` — descubierta sin indexar · 0 impr.
+- [x] `/services/sueros-vitaminados` — descubierta sin indexar · 0 impr.
 
 ## Tanda 2
 
