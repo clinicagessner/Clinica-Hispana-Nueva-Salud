@@ -25,18 +25,18 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 - [x] `/services/enfermedades-transmision-sexual` — descubierta sin indexar · 0 impr.
 - [x] `/services/sueros-vitaminados` — descubierta sin indexar · 0 impr.
 
-## Tanda 2
+## Tanda 2  ✅ PEDIDA 27/09/2026
 
-- [ ] `/services/tiroides` — descubierta sin indexar · 0 impr.
-- [ ] `/services/ultrasonido` — descubierta sin indexar · 0 impr.
-- [ ] `/services/vacunas` — descubierta sin indexar · 0 impr.
-- [ ] `/en/blog/laboratorio-clinico-houston-analisis-sangre` — desconocida · 0 impr.
-- [ ] `/en/services/salud-hombre` — desconocida · 0 impr.
-- [ ] `/en/services/sueros-vitaminados` — desconocida · 0 impr.
-- [ ] `/en/blog/guia-examen-medico-inmigracion-i693-houston` — rastreada sin indexar · 15 impr.
-- [ ] `/en/blog` — rastreada sin indexar · 7 impr.
-- [ ] `/en/blog/bienvenidos-clinica-hispana-nueva-salud` — descubierta sin indexar · 0 impr.
-- [ ] `/en/blog/control-diabetes-houston-guia-pacientes` — descubierta sin indexar · 0 impr.
+- [x] `/services/tiroides` — descubierta sin indexar · 0 impr.
+- [x] `/services/ultrasonido` — descubierta sin indexar · 0 impr.
+- [x] `/services/vacunas` — descubierta sin indexar · 0 impr.
+- [x] `/en/blog/laboratorio-clinico-houston-analisis-sangre` — desconocida · 0 impr.
+- [x] `/en/services/salud-hombre` — desconocida · 0 impr.
+- [x] `/en/services/sueros-vitaminados` — desconocida · 0 impr.
+- [x] `/en/blog/guia-examen-medico-inmigracion-i693-houston` — rastreada sin indexar · 15 impr.
+- [x] `/en/blog` — rastreada sin indexar · 7 impr.
+- [x] `/en/blog/bienvenidos-clinica-hispana-nueva-salud` — descubierta sin indexar · 0 impr.
+- [x] `/en/blog/control-diabetes-houston-guia-pacientes` — descubierta sin indexar · 0 impr.
 
 ## Tanda 3
 
