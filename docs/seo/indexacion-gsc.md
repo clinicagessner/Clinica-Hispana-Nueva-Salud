@@ -38,18 +38,18 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 - [x] `/en/blog/bienvenidos-clinica-hispana-nueva-salud` — descubierta sin indexar · 0 impr.
 - [x] `/en/blog/control-diabetes-houston-guia-pacientes` — descubierta sin indexar · 0 impr.
 
-## Tanda 3
+## Tanda 3  ✅ PEDIDA 30/09/2026
 
-- [ ] `/en/blog/examen-dot-cdl-camioneros-houston` — descubierta sin indexar · 0 impr.
-- [ ] `/en/blog/ginecologos-hispanos-houston-hablan-espanol` — descubierta sin indexar · 0 impr.
-- [ ] `/en/blog/medicos-autorizados-uscis-houston-civil-surgeon` — descubierta sin indexar · 0 impr.
-- [ ] `/en/blog/salud-hombre-houston-chequeos-preventivos` — descubierta sin indexar · 0 impr.
-- [ ] `/en/blog/salud-mujer-houston-servicios-ginecologia` — descubierta sin indexar · 0 impr.
-- [ ] `/en/services/cirugias-menores` — descubierta sin indexar · 0 impr.
-- [ ] `/en/services/enfermedades-respiratorias` — descubierta sin indexar · 0 impr.
-- [ ] `/en/services/enfermedades-transmision-sexual` — descubierta sin indexar · 0 impr.
-- [ ] `/en/services/examen-alcohol-drogas` — descubierta sin indexar · 0 impr.
-- [ ] `/en/services/infecciones-urinarias` — descubierta sin indexar · 0 impr.
+- [x] `/en/blog/examen-dot-cdl-camioneros-houston` — descubierta sin indexar · 0 impr.
+- [x] `/en/blog/ginecologos-hispanos-houston-hablan-espanol` — descubierta sin indexar · 0 impr.
+- [x] `/en/blog/medicos-autorizados-uscis-houston-civil-surgeon` — descubierta sin indexar · 0 impr.
+- [x] `/en/blog/salud-hombre-houston-chequeos-preventivos` — descubierta sin indexar · 0 impr.
+- [x] `/en/blog/salud-mujer-houston-servicios-ginecologia` — descubierta sin indexar · 0 impr.
+- [x] `/en/services/cirugias-menores` — descubierta sin indexar · 0 impr.
+- [x] `/en/services/enfermedades-respiratorias` — descubierta sin indexar · 0 impr.
+- [x] `/en/services/enfermedades-transmision-sexual` — descubierta sin indexar · 0 impr.
+- [x] `/en/services/examen-alcohol-drogas` — descubierta sin indexar · 0 impr.
+- [x] `/en/services/infecciones-urinarias` — descubierta sin indexar · 0 impr.
 
 ## Tanda 4
 
