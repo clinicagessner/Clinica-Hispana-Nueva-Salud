@@ -15,7 +15,10 @@ import Script from "next/script";
 export function GoogleTags() {
   const gaId = process.env.NEXT_PUBLIC_GA_ID;
   const adsId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID;
-  const srcId = gaId || adsId;
+  // gtag.js se pide con el ID de Ads: el de este flujo de GA4 devuelve 404 en
+  // googletagmanager.com (visto el 2026-10-03) y entonces no se medía nada. Con
+  // el de Ads como cargador, GA4 recibe sus hits igual por su `config`.
+  const srcId = adsId || gaId;
   if (!srcId) return null;
 
   const config = [
