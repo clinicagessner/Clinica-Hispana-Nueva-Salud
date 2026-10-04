@@ -1825,7 +1825,7 @@ If you're looking for blood tests in Houston with no appointment, no insurance a
       "Treatment prescribed by the medical team",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El ardor al orinar no es algo con lo que debas "aguantar". En Clínica Hispana Nueva Salud te hacemos el examen de orina en la clínica y, si hay infección urinaria, el equipo médico te indica el tratamiento: sin cita previa, sin seguro médico y en español.
+    longDescription: `El ardor al orinar no es algo con lo que debas "aguantar". En Clínica Hispana Nueva Salud te hacemos el examen de orina en la clínica y, si hay infección urinaria, sales con tu tratamiento el mismo día, indicado por el equipo médico: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
@@ -1865,7 +1865,7 @@ Si te da infección varias veces al año, no es normal y tiene solución. En la 
 ## Infección urinaria: atención en Bellfort Avenue
 
 Estamos en Bellfort Avenue, cerca del aeropuerto Hobby. El examen de orina se hace aquí mismo y, si confirma la infección, sales con el tratamiento indicado; abrimos todos los días de 9 AM a 9 PM y te atendemos en español.`,
-    longDescriptionEn: `Burning when you urinate isn't something you should "put up with." At Clínica Hispana Nueva Salud we run the urine test in-clinic and, if there's a urinary tract infection, the medical team prescribes your treatment: no appointment, no insurance required, and in Spanish.
+    longDescriptionEn: `Burning when you urinate isn't something you should "put up with." At Clínica Hispana Nueva Salud we run the urine test in-clinic and, if there's a urinary tract infection, you leave with your treatment the same day, prescribed by the medical team: no appointment, no insurance required, and in Spanish.
 
 ## What's included?
 
