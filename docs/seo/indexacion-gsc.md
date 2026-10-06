@@ -6,26 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL). Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-05; URL Inspection API, datos de hoy 2026-10-05):** 65 de 90 URLs del sitemap indexadas · 25 sin indexar (14 descubierta sin indexar · 10 desconocida · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-06; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 65 de 90 URLs del sitemap indexadas · 25 sin indexar (14 descubierta sin indexar · 10 desconocida · 1 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 68 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 58 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 4  ✅ PEDIDA 05/10/2026
-
-- [x] https://www.hispananuevasalud.com/services/extraccion-implantes  — cambiada 2026-09-25 · rastreada 2026-09-21 · indexada · 2661 impr.
-- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 1606 impr.
-- [x] https://www.hispananuevasalud.com/services/examen-alcohol-drogas  — cambiada 2026-09-25 · rastreada 2026-08-24 · indexada · 697 impr.
-- [x] https://www.hispananuevasalud.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 482 impr.
-- [x] https://www.hispananuevasalud.com/services/examen-dot  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 362 impr.
-- [x] https://www.hispananuevasalud.com/services  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 298 impr.
-- [x] https://www.hispananuevasalud.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-09-25 · rastreada 2026-08-18 · indexada · 279 impr.
-- [x] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-09-25 · rastreada 2026-09-13 · indexada · 207 impr.
-- [x] https://www.hispananuevasalud.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-25 · rastreada 2026-09-03 · indexada · 199 impr.
-- [x] https://www.hispananuevasalud.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · rastreada 2026-09-03 · indexada · 167 impr.
-
-## Tanda 5
+## Tanda 5  📨 ENVIADA 06/10/2026
 
 - [ ] https://www.hispananuevasalud.com/promociones  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 155 impr.
 - [ ] https://www.hispananuevasalud.com/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 147 impr.
@@ -151,3 +138,16 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 - [x] `/en/services/enfermedades-transmision-sexual` — descubierta sin indexar · 0 impr.
 - [x] `/en/services/examen-alcohol-drogas` — descubierta sin indexar · 0 impr.
 - [x] `/en/services/infecciones-urinarias` — descubierta sin indexar · 0 impr.
+
+## Tanda 4  ✅ PEDIDA 05/10/2026
+
+- [x] https://www.hispananuevasalud.com/services/extraccion-implantes  — cambiada 2026-09-25 · rastreada 2026-09-21 · indexada · 2661 impr.
+- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 1606 impr.
+- [x] https://www.hispananuevasalud.com/services/examen-alcohol-drogas  — cambiada 2026-09-25 · rastreada 2026-08-24 · indexada · 697 impr.
+- [x] https://www.hispananuevasalud.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 482 impr.
+- [x] https://www.hispananuevasalud.com/services/examen-dot  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 362 impr.
+- [x] https://www.hispananuevasalud.com/services  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 298 impr.
+- [x] https://www.hispananuevasalud.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-09-25 · rastreada 2026-08-18 · indexada · 279 impr.
+- [x] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-09-25 · rastreada 2026-09-13 · indexada · 207 impr.
+- [x] https://www.hispananuevasalud.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-25 · rastreada 2026-09-03 · indexada · 199 impr.
+- [x] https://www.hispananuevasalud.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · rastreada 2026-09-03 · indexada · 167 impr.
