@@ -12,18 +12,18 @@ Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL). Límite: 10 pe
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 5  📨 ENVIADA 06/10/2026
+## Tanda 5  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.hispananuevasalud.com/promociones  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 155 impr.
-- [ ] https://www.hispananuevasalud.com/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 147 impr.
-- [ ] https://www.hispananuevasalud.com/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-09-14 · indexada · 108 impr.
-- [ ] https://www.hispananuevasalud.com/services/suturas-heridas  — cambiada 2026-09-25 · rastreada 2026-09-23 · indexada · 85 impr.
-- [ ] https://www.hispananuevasalud.com/services/alergias  — cambiada 2026-09-25 · rastreada 2026-09-17 · indexada · 46 impr.
-- [ ] https://www.hispananuevasalud.com/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 30 impr.
-- [ ] https://www.hispananuevasalud.com/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-07-07 · indexada · 27 impr.
-- [ ] https://www.hispananuevasalud.com/landing/comparacion-clinicas-houston  — cambiada 2026-09-25 · rastreada 2026-08-18 · indexada · 21 impr.
-- [ ] https://www.hispananuevasalud.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-25 · rastreada 2026-07-20 · indexada · 12 impr.
-- [ ] https://www.hispananuevasalud.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 11 impr.
+- [x] https://www.hispananuevasalud.com/promociones  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 155 impr.
+- [x] https://www.hispananuevasalud.com/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 147 impr.
+- [x] https://www.hispananuevasalud.com/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-09-14 · indexada · 108 impr.
+- [x] https://www.hispananuevasalud.com/services/suturas-heridas  — cambiada 2026-09-25 · rastreada 2026-09-23 · indexada · 85 impr.
+- [x] https://www.hispananuevasalud.com/services/alergias  — cambiada 2026-09-25 · rastreada 2026-09-17 · indexada · 46 impr.
+- [x] https://www.hispananuevasalud.com/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 30 impr.
+- [x] https://www.hispananuevasalud.com/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-07-07 · indexada · 27 impr.
+- [x] https://www.hispananuevasalud.com/landing/comparacion-clinicas-houston  — cambiada 2026-09-25 · rastreada 2026-08-18 · indexada · 21 impr.
+- [x] https://www.hispananuevasalud.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-25 · rastreada 2026-07-20 · indexada · 12 impr.
+- [x] https://www.hispananuevasalud.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 11 impr.
 
 ## Tanda 6
 
