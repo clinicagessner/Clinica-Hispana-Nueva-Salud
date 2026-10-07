@@ -3,29 +3,16 @@
 **Este archivo es la fuente de verdad del progreso.** Al pedir una tanda, marcar sus casillas y
 poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día por propiedad.
 
-Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL). Límite: 10 peticiones al día.
+Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-06; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 65 de 90 URLs del sitemap indexadas · 25 sin indexar (14 descubierta sin indexar · 10 desconocida · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-07; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 65 de 90 URLs del sitemap indexadas · 25 sin indexar (14 descubierta sin indexar · 10 desconocida · 1 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 58 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 48 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 5  ✅ PEDIDA 06/10/2026
-
-- [x] https://www.hispananuevasalud.com/promociones  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 155 impr.
-- [x] https://www.hispananuevasalud.com/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 147 impr.
-- [x] https://www.hispananuevasalud.com/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-09-14 · indexada · 108 impr.
-- [x] https://www.hispananuevasalud.com/services/suturas-heridas  — cambiada 2026-09-25 · rastreada 2026-09-23 · indexada · 85 impr.
-- [x] https://www.hispananuevasalud.com/services/alergias  — cambiada 2026-09-25 · rastreada 2026-09-17 · indexada · 46 impr.
-- [x] https://www.hispananuevasalud.com/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 30 impr.
-- [x] https://www.hispananuevasalud.com/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-07-07 · indexada · 27 impr.
-- [x] https://www.hispananuevasalud.com/landing/comparacion-clinicas-houston  — cambiada 2026-09-25 · rastreada 2026-08-18 · indexada · 21 impr.
-- [x] https://www.hispananuevasalud.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-25 · rastreada 2026-07-20 · indexada · 12 impr.
-- [x] https://www.hispananuevasalud.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 11 impr.
-
-## Tanda 6
+## Tanda 6  📨 ENVIADA 07/10/2026
 
 - [ ] https://www.hispananuevasalud.com/services/examen-heces  — cambiada 2026-09-25 · rastreada 2026-08-14 · indexada · 8 impr.
 - [ ] https://www.hispananuevasalud.com/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-23 · indexada · 3 impr.
@@ -151,3 +138,16 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 - [x] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-09-25 · rastreada 2026-09-13 · indexada · 207 impr.
 - [x] https://www.hispananuevasalud.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-25 · rastreada 2026-09-03 · indexada · 199 impr.
 - [x] https://www.hispananuevasalud.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · rastreada 2026-09-03 · indexada · 167 impr.
+
+## Tanda 5  ✅ PEDIDA 06/10/2026
+
+- [x] https://www.hispananuevasalud.com/promociones  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 155 impr.
+- [x] https://www.hispananuevasalud.com/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 147 impr.
+- [x] https://www.hispananuevasalud.com/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-09-14 · indexada · 108 impr.
+- [x] https://www.hispananuevasalud.com/services/suturas-heridas  — cambiada 2026-09-25 · rastreada 2026-09-23 · indexada · 85 impr.
+- [x] https://www.hispananuevasalud.com/services/alergias  — cambiada 2026-09-25 · rastreada 2026-09-17 · indexada · 46 impr.
+- [x] https://www.hispananuevasalud.com/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-09-22 · indexada · 30 impr.
+- [x] https://www.hispananuevasalud.com/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-07-07 · indexada · 27 impr.
+- [x] https://www.hispananuevasalud.com/landing/comparacion-clinicas-houston  — cambiada 2026-09-25 · rastreada 2026-08-18 · indexada · 21 impr.
+- [x] https://www.hispananuevasalud.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-25 · rastreada 2026-07-20 · indexada · 12 impr.
+- [x] https://www.hispananuevasalud.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 11 impr.
