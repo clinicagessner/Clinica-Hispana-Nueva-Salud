@@ -6,13 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-07; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 65 de 90 URLs del sitemap indexadas · 25 sin indexar (14 descubierta sin indexar · 10 desconocida · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-08; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 65 de 90 URLs del sitemap indexadas · 25 sin indexar (14 descubierta sin indexar · 10 desconocida · 1 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 48 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 38 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 6  📨 ENVIADA 07/10/2026
+## Tanda 6  📨 ENVIADA 08/10/2026
 
 - [ ] https://www.hispananuevasalud.com/services/examen-heces  — cambiada 2026-09-25 · rastreada 2026-08-14 · indexada · 8 impr.
 - [ ] https://www.hispananuevasalud.com/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-23 · indexada · 3 impr.
