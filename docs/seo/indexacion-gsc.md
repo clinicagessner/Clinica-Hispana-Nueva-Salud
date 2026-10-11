@@ -12,18 +12,18 @@ Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clini
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 6  📨 ENVIADA 10/10/2026
+## Tanda 6  ✅ PEDIDA 11/10/2026
 
-- [ ] https://www.hispananuevasalud.com/services/examen-heces  — cambiada 2026-09-25 · rastreada 2026-08-14 · indexada · 8 impr.
-- [ ] https://www.hispananuevasalud.com/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-23 · indexada · 3 impr.
-- [ ] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/infecciones-urinarias  — cambiada 2026-10-04 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/salud-hombre  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/examen-heces  — cambiada 2026-09-25 · rastreada 2026-08-14 · indexada · 8 impr.
+- [x] https://www.hispananuevasalud.com/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-23 · indexada · 3 impr.
+- [x] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/infecciones-urinarias  — cambiada 2026-10-04 · desconocida · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/salud-hombre  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 
 ## Tanda 7
 
