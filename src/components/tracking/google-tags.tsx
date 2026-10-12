@@ -1,46 +1,113 @@
 "use client";
 
-import Script from "next/script";
+import { useEffect } from "react";
 
 /**
- * GA4 + Google Ads en un solo `gtag/js`, con `lazyOnload`.
+ * GA4 y Google Ads (un solo gtag.js) y Meta Pixel se cargan con la PRIMERA
+ * interacción del visitante (toque, clic, tecla o scroll), no al cargar la
+ * página. Misma receta que Airline, Corazón y Vida y 529 (decisión del usuario,
+ * 2026-10-03): en móvil sumaban ~1 s de bloqueo del hilo principal y la home
+ * se quedaba por debajo de 70 en Lighthouse.
  *
- * Antes: `@next/third-parties` inyectaba su propio preload de gtm y el tag de
- * Ads cargaba otro `gtag/js` con `afterInteractive`. Salían tres `gtag/js` en
- * el HTML y el preload competía con el LCP.
+ * Coste asumido: quien entra y sale sin tocar ni desplazar nada no se mide.
+ * Las conversiones sí: para llamar, escribir o enviar el formulario hay que
+ * tocar la página, y ese toque ya dispara la carga. `dataLayer` y `gtag`
+ * existen desde el montaje, así que lo que se encole antes se envía al cargar.
  *
- * No se pierde medición: GA4 y Ads encolan en `dataLayer` y envían al
- * inicializarse. No-op si faltan las dos variables de entorno.
+ * CallRail se queda en `lazyOnload` (layout): cambia el número visible y, si
+ * llegara tarde, la llamada de un visitante de Ads iría al número sin rastrear.
+ * IDs desde env: NEXT_PUBLIC_GOOGLE_ADS_ID, NEXT_PUBLIC_GA_ID y
+ * NEXT_PUBLIC_META_PIXEL_ID. El gtag.js se pide con el ID de Ads: algunos
+ * flujos de GA4 de la red devuelven 404 en googletagmanager.com y, con el de
+ * Ads como cargador, GA4 mide igual.
  */
+
+const INTERACTION_EVENTS = ["pointerdown", "touchstart", "keydown", "scroll", "wheel"] as const;
+
+type Fbq = ((...args: unknown[]) => void) & {
+  callMethod?: (...args: unknown[]) => void;
+  queue: unknown[][];
+  push: Fbq;
+  loaded: boolean;
+  version: string;
+};
+
+type TagsWindow = Window & {
+  dataLayer?: unknown[];
+  gtag?: (...args: unknown[]) => void;
+  fbq?: Fbq;
+  _fbq?: Fbq;
+  __tagsLoaded?: boolean;
+  __gtagConfigured?: boolean;
+};
+
+function loadScript(src: string) {
+  const s = document.createElement("script");
+  s.async = true;
+  s.src = src;
+  document.head.appendChild(s);
+}
+
+function loadTags(w: TagsWindow, ids: string[], pixelId: string | undefined) {
+  if (w.__tagsLoaded) return;
+  w.__tagsLoaded = true;
+
+  if (w.gtag && !w.__gtagConfigured) {
+    w.__gtagConfigured = true;
+    w.gtag("js", new Date());
+    for (const id of ids) w.gtag("config", id);
+  }
+  if (ids[0]) loadScript(`https://www.googletagmanager.com/gtag/js?id=${ids[0]}`);
+
+  if (pixelId && !w.fbq) {
+    const fbq = function (...args: unknown[]) {
+      if (fbq.callMethod) fbq.callMethod(...args);
+      else fbq.queue.push(args);
+    } as Fbq;
+    fbq.push = fbq;
+    fbq.loaded = true;
+    fbq.version = "2.0";
+    fbq.queue = [];
+    w.fbq = fbq;
+    w._fbq = fbq;
+    loadScript("https://connect.facebook.net/en_US/fbevents.js");
+    fbq("init", pixelId);
+    fbq("track", "PageView");
+  }
+}
+
 export function GoogleTags() {
-  const gaId = process.env.NEXT_PUBLIC_GA_ID;
   const adsId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID;
-  // gtag.js se pide con el ID de Ads: el de este flujo de GA4 devuelve 404 en
-  // googletagmanager.com (visto el 2026-10-03) y entonces no se medía nada. Con
-  // el de Ads como cargador, GA4 recibe sus hits igual por su `config`.
-  const srcId = adsId || gaId;
-  if (!srcId) return null;
+  const gaId = process.env.NEXT_PUBLIC_GA_ID;
+  const pixelId = process.env.NEXT_PUBLIC_META_PIXEL_ID;
 
-  const config = [
-    gaId && `gtag('config', '${gaId}');`,
-    adsId && `gtag('config', '${adsId}');`,
-  ]
-    .filter(Boolean)
-    .join("\n");
+  useEffect(() => {
+    const w = window as TagsWindow;
+    const ids = [adsId, gaId].filter(Boolean) as string[];
+    w.dataLayer = w.dataLayer || [];
+    if (typeof w.gtag !== "function") {
+      w.gtag = function gtag() {
+        // gtag.js espera el objeto `arguments`, no un array.
+        // eslint-disable-next-line prefer-rest-params
+        w.dataLayer!.push(arguments);
+      };
+    }
+    // `trackEvent` (conversion-events.tsx) también puede crear `gtag`; la
+    // configuración (`js` + `config`) se hace una sola vez, en loadTags.
+    if (w.__tagsLoaded) return;
+    if (ids.length === 0 && !pixelId) return;
 
-  return (
-    <>
-      <Script
-        id="gtag-src"
-        src={`https://www.googletagmanager.com/gtag/js?id=${srcId}`}
-        strategy="lazyOnload"
-      />
-      <Script id="gtag-init" strategy="lazyOnload">
-        {`window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-${config}`}
-      </Script>
-    </>
-  );
+    const onFirstInteraction = () => {
+      for (const e of INTERACTION_EVENTS) window.removeEventListener(e, onFirstInteraction);
+      loadTags(w, ids, pixelId);
+    };
+    for (const e of INTERACTION_EVENTS) {
+      window.addEventListener(e, onFirstInteraction, { once: true, passive: true });
+    }
+    return () => {
+      for (const e of INTERACTION_EVENTS) window.removeEventListener(e, onFirstInteraction);
+    };
+  }, [adsId, gaId, pixelId]);
+
+  return null;
 }

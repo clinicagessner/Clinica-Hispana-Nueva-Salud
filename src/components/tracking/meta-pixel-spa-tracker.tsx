@@ -9,8 +9,8 @@ type FbqWindow = Window & {
 
 /**
  * Dispara PageView de Meta SOLO en cambios de ruta (SPA). No carga el pixel:
- * de eso se encarga MetaPixel (script crudo en el layout). Evita duplicar el
- * PageView inicial que ya emite el script base.
+ * de eso se encarga GoogleTags con la primera interacción. Evita duplicar el
+ * PageView inicial que ya emite la carga del pixel.
  */
 export function MetaPixelSPATracker() {
   const pathname = usePathname();

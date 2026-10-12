@@ -4,7 +4,6 @@ import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
-import { MetaPixel } from "@/components/tracking/meta-pixel";
 import { MetaPixelSPATracker } from "@/components/tracking/meta-pixel-spa-tracker";
 import { GoogleTags } from "@/components/tracking/google-tags";
 import { CallRail } from "@/components/tracking/callrail";
@@ -83,8 +82,6 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={fontVariables} suppressHydrationWarning>
       <body className="flex min-h-dvh flex-col bg-background text-foreground">
-        {/* Meta Pixel: script crudo, antes de la hidratación */}
-        <MetaPixel />
         <NextIntlClientProvider locale={locale} messages={messages}>
           <MetaPixelSPATracker />
           {children}
