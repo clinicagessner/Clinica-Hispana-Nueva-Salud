@@ -13,7 +13,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 7  📨 ENVIADA 11/10/2026
+## Tanda 7  📨 ENVIADA 12/10/2026
 
 - [ ] https://www.hispananuevasalud.com/blog/gripe-sin-seguro-que-incluye-visita-precio  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/sueros-vitaminados  — cambiada 2026-09-25 · desconocida · 0 impr.
