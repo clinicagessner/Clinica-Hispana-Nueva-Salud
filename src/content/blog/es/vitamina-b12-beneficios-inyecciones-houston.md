@@ -1,8 +1,9 @@
 ---
 title: "Vitamina B12: beneficios, deficiencia e inyecciones"
-description: "Para qué sirve la vitamina B12, cómo reconocer una deficiencia y cuándo conviene la inyección. Prueba de B12 en español en Houston, sin cita y sin seguro."
+metaTitle: "Vitamina B12 inyectable: para qué sirve y cuándo se usa"
+description: "Para qué sirve la vitamina B12 inyectable, cómo saber si te falta y cuándo conviene la inyección o las pastillas. Prueba de B12 en Houston, sin cita."
 date: "2026-08-18"
-updated: "2026-09-25"
+updated: "2026-10-12"
 author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Salud"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
@@ -53,9 +54,9 @@ En el hígado y las almejas hay cantidades muy altas; el salmón, el atún y la 
 
 Ahora bien, si tu cuerpo no la absorbe bien, la dieta no basta: puedes comer de todo y aun así tenerla baja.
 
-## ¿Inyección o pastillas?
+## ¿Para qué sirve la vitamina B12 inyectable?
 
-Cuando la absorción intestinal es normal y el déficit es leve, las pastillas suelen funcionar, también como mantenimiento. La inyección intramuscular llega a la sangre sin pasar por el intestino, así que se prefiere cuando el déficit es importante, hay síntomas en los nervios o existe un problema de absorción.
+La inyección sirve para reponer la B12 cuando un análisis confirma que falta, y es la vía que se elige cuando el cuerpo no logra absorberla bien por la boca. Cuando la absorción intestinal es normal y el déficit es leve, las pastillas suelen funcionar, también como mantenimiento. La inyección intramuscular llega a la sangre sin pasar por el intestino, así que se prefiere cuando el déficit es importante, hay síntomas en los nervios o existe un problema de absorción.
 
 En la clínica aplicamos inyecciones de vitamina B12 y ofrecemos [sueros vitaminados](/services/sueros-vitaminados) con hidratación. Si el análisis muestra otra causa del cansancio, como la [tiroides](/services/tiroides), anemia por falta de hierro o una [condición crónica](/services/condiciones-cronicas), la atendemos también.
 
