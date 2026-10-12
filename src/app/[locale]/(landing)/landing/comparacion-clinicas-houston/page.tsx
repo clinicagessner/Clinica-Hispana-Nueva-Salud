@@ -71,7 +71,7 @@ export default async function ComparacionLandingPage({
       <section className="relative overflow-hidden bg-gradient-to-br from-blue-deep via-blue-dark to-blue-primary py-20 text-sky-bg lg:py-28">
         <div
           aria-hidden
-          className="pointer-events-none absolute -left-24 top-0 h-96 w-96 rounded-full bg-teal/15 blur-3xl"
+          className="pointer-events-none absolute -left-24 top-0 h-96 w-96 rounded-full bg-radial from-teal/15 to-transparent to-70%"
         />
         <div className="relative mx-auto max-w-4xl px-4 text-center sm:px-6">
           <Reveal>

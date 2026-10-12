@@ -18,7 +18,7 @@ export function Gynecology() {
           <div className="relative overflow-hidden rounded-4xl border border-blue-light bg-white px-6 py-12 shadow-xl shadow-blue-deep/10 sm:px-10 lg:px-14 lg:py-16">
             <div
               aria-hidden
-              className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-teal/10 blur-3xl"
+              className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-radial from-teal/10 to-transparent to-70%"
             />
 
             <div className="relative grid gap-10 lg:grid-cols-2 lg:items-center">

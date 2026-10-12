@@ -43,7 +43,7 @@ export function Contact() {
             />
             <div
               aria-hidden
-              className="pointer-events-none absolute -right-24 top-1/4 z-0 h-80 w-80 rounded-full bg-teal/10 blur-3xl"
+              className="pointer-events-none absolute -right-24 top-1/4 z-0 h-80 w-80 rounded-full bg-radial from-teal/10 to-transparent to-70%"
             />
             <div className="relative z-10 grid gap-12 lg:grid-cols-12 lg:items-center">
               {/* Info */}

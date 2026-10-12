@@ -123,7 +123,7 @@ export default async function BlogPostPage({
         ) : (
           <div
             aria-hidden
-            className="pointer-events-none absolute -right-16 top-0 h-72 w-72 rounded-full bg-blue-primary/30 blur-3xl"
+            className="pointer-events-none absolute -right-16 top-0 h-72 w-72 rounded-full bg-radial from-blue-primary/30 to-transparent to-70%"
           />
         )}
         <div className="relative mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
