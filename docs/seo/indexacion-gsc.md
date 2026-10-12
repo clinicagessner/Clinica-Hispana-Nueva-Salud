@@ -6,9 +6,9 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-11; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 65 de 92 URLs del sitemap indexadas · 27 sin indexar (14 descubierta sin indexar · 10 desconocida · 2 sin datos · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-12; URL Inspection API, datos de hoy 2026-10-12):** 66 de 92 URLs del sitemap indexadas · 26 sin indexar (15 desconocida · 10 descubierta sin indexar · 1 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 40 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
@@ -26,46 +26,53 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · rastreada 2026-06-18 · indexada · 59 impr.
 - [ ] https://www.hispananuevasalud.com/en/landing/comparacion-clinicas-houston  — cambiada 2026-09-25 · rastreada 2026-07-22 · indexada · 43 impr.
 
-## Tanda 8
+## Tanda 12 — cambios del 2026-10-12 (análisis diario: etiquetas en toda la web, título y meta)
 
-- [ ] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 43 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 35 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-09-25 · rastreada 2026-07-23 · indexada · 28 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 23 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 22 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-09-23 · indexada · 15 impr.
-- [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 14 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-09-25 · rastreada 2026-07-25 · indexada · 11 impr.
-- [ ] https://www.hispananuevasalud.com/en/services  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 7 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/anticonceptivos  — cambiada 2026-09-25 · rastreada 2026-06-28 · indexada · 7 impr.
+- [ ] https://www.hispananuevasalud.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-12
+- [ ] https://www.hispananuevasalud.com/services/extraccion-implantes  — cambiada 2026-10-12
+- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-10-12
+- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-10-12
 
-## Tanda 9
+## Tanda 13
 
-- [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 7 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 7 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 6 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examen-heces  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 6 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/curacion-heridas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 4 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 23 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 17 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 16 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 9 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-09-25 · rastreada 2026-07-23 · indexada · 9 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-09-23 · indexada · 8 impr.
+- [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 6 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 6 impr.
+- [ ] https://www.hispananuevasalud.com/en/services  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 3 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/anticonceptivos  — cambiada 2026-09-25 · rastreada 2026-06-28 · indexada · 3 impr.
+
+## Tanda 14
+
+- [ ] https://www.hispananuevasalud.com/en/services/curacion-heridas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 3 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 3 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 2 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-09-25 · rastreada 2026-07-25 · indexada · 2 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 1 impr.
-- [ ] https://www.hispananuevasalud.com/en/blog/gripe-sin-seguro-que-incluye-visita-precio  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/blog/gripe-sin-seguro-que-incluye-visita-precio  — cambiada 2026-10-09 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · desconocida · 0 impr.
 
-## Tanda 10
+## Tanda 15
 
-- [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-09-25 · rastreada 2026-07-05 · indexada · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examen-heces  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-12 · rastreada 2026-07-05 · indexada · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/suturas-heridas  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/tiroides  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/suturas-heridas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/tiroides  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 
-## Tanda 11
+## Tanda 16
 
 - [ ] https://www.hispananuevasalud.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-09-25 · rastreada 2026-09-30 · rastreada sin indexar · 0 impr.
 
