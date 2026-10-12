@@ -1377,14 +1377,14 @@ If you're looking for confidential, affordable birth control counseling in Houst
     icon: "Bandage",
     title: "Extracción de Implantes Subdérmicos",
     titleEn: "Subdermal Implant Removal",
-    metaTitle: "Retiro de Implante en Houston | Clínica Hispana Nueva Salud",
+    metaTitle: "Retiro de Implante del Brazo y Cuidados | Nueva Salud",
     metaTitleEn: "Implant Removal in Houston | Clínica Hispana Nueva Salud",
     shortDescription:
       "Retiro seguro de implantes anticonceptivos subdérmicos del brazo, por personal capacitado.",
     shortDescriptionEn:
       "Safe removal of subdermal arm contraceptive implants by trained staff.",
     description:
-      "Extracción de implantes subdérmicos en Houston, TX, procedimiento seguro y en español. Con precios accesibles. Sin cita y sin seguro médico.",
+      "Retiro del implante anticonceptivo del brazo en Houston, con anestesia local y en español. Te explicamos los cuidados después del retiro. Sin cita.",
     descriptionEn:
       "Subdermal implant removal in Houston, TX, a safe procedure in Spanish. With affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
