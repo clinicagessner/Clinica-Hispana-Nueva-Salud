@@ -20,18 +20,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · rastreada 2026-06-18 · indexada · 59 impr.
 - [ ] https://www.hispananuevasalud.com/en/landing/comparacion-clinicas-houston  — cambiada 2026-09-25 · rastreada 2026-07-22 · indexada · 43 impr.
 
-## Tanda 12 — cambios del 2026-10-12 (análisis diario: etiquetas en toda la web, título y meta)  📨 ENVIADA 13/10/2026
+## Tanda 12 — cambios del 2026-10-12 (análisis diario: etiquetas en toda la web, título y meta)  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.hispananuevasalud.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-12
-- [ ] https://www.hispananuevasalud.com/services/extraccion-implantes  — cambiada 2026-10-12
-- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-10-12
-- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-10-12
-- [ ] https://www.hispananuevasalud.com/blog/gripe-sin-seguro-que-incluye-visita-precio  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/sueros-vitaminados  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/tiroides  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/ultrasonido  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/vacunas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-09-25 · rastreada 2026-08-19 · indexada · 219 impr.
+- [x] https://www.hispananuevasalud.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-12
+- [x] https://www.hispananuevasalud.com/services/extraccion-implantes  — cambiada 2026-10-12
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-10-12
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-10-12
+- [x] https://www.hispananuevasalud.com/blog/gripe-sin-seguro-que-incluye-visita-precio  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/sueros-vitaminados  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/tiroides  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/ultrasonido  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/vacunas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [x] https://www.hispananuevasalud.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-09-25 · rastreada 2026-08-19 · indexada · 219 impr.
 
 ## Tanda 13
 
