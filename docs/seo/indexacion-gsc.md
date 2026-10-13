@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
+## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)
+
+- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-10-13
+- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-10-13
+
 ## Tanda 7
 
 - [ ] https://www.hispananuevasalud.com/en/walk-in  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 102 impr.
