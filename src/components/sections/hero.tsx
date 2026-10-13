@@ -134,6 +134,13 @@ export async function Hero() {
           <p className="mt-6 max-w-xl text-base font-medium leading-relaxed text-white/95 [text-shadow:0_1px_10px_rgba(7,22,40,0.7)] sm:text-lg">
             {t("subtitle")}
           </p>
+          {/* Consulta inicial gratis (confirmado por el usuario, 2026-10-13) */}
+          <p className="mt-5 flex justify-center sm:justify-start">
+            <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-semibold text-gray-900 shadow-md md:text-base">
+              <Check className="h-5 w-5 shrink-0 text-green-600" aria-hidden="true" />
+              {t("freeConsultation")}
+            </span>
+          </p>
 
           {/* CTAs píldora */}
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
