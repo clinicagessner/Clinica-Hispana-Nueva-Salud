@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-15; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 66 de 92 URLs del sitemap indexadas · 26 sin indexar (15 desconocida · 10 descubierta sin indexar · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-16; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 66 de 92 URLs del sitemap indexadas · 26 sin indexar (15 desconocida · 10 descubierta sin indexar · 1 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 34 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 12 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)  📨 ENVIADA 15/10/2026
+## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)  📨 ENVIADA 16/10/2026
 
 - [ ] https://www.hispananuevasalud.com/  — cambiada 2026-10-13
 - [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-10-13
