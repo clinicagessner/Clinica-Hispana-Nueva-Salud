@@ -13,10 +13,23 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 12 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)  📨 ENVIADA 16/10/2026
+## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home + post del blog semanal + receta electrónica en servicios)  📨 ENVIADA 16/10/2026
 
+- [ ] https://www.hispananuevasalud.com/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-16 (post nuevo / receta electrónica)
+- [ ] https://www.hispananuevasalud.com/en/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-16 (post nuevo / receta electrónica)
+- [ ] https://www.hispananuevasalud.com/services/infecciones-urinarias  — cambiada 2026-10-16 (post nuevo / receta electrónica)
+- [ ] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 (post nuevo / receta electrónica)
+- [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-16 (post nuevo / receta electrónica)
+- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-16 (post nuevo / receta electrónica)
+- [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 (post nuevo / receta electrónica)
+- [ ] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-16 (post nuevo / receta electrónica)
 - [ ] https://www.hispananuevasalud.com/  — cambiada 2026-10-13
 - [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-10-13
+
+## Tanda 22 — cambios del 2026-10-16 (redacción del equipo médico en exámenes de sangre)
+
+- [ ] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-10-16
+- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-10-16
 
 ## Tanda 18
 
@@ -24,11 +37,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/walk-in  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 28 impr.
 - [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · rastreada 2026-06-18 · indexada · 23 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 23 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 17 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 16 impr.
 - [ ] https://www.hispananuevasalud.com/en/landing/comparacion-clinicas-houston  — cambiada 2026-09-25 · rastreada 2026-07-22 · indexada · 9 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 9 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-09-25 · rastreada 2026-07-23 · indexada · 9 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-09-23 · indexada · 8 impr.
 
 ## Tanda 19
@@ -47,12 +58,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 20
 
 - [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-heces  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-12 · rastreada 2026-07-05 · indexada · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-09-25 · desconocida · 0 impr.
