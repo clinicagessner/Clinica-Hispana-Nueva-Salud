@@ -174,9 +174,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Tratan infecciones vaginales el mismo día?",
-      answer: "Sí. Si los síntomas son claros, sales con tu tratamiento ese mismo día; si es necesario, tomamos un cultivo para confirmar la causa y ajustar el medicamento.",
+      answer: "Sí. Si los síntomas son claros, ese mismo día enviamos tu receta a la farmacia que elijas; si es necesario, tomamos un cultivo para confirmar la causa y ajustar el medicamento.",
       questionEn: "Can a vaginal infection be treated at the same visit?",
-      answerEn: "Yes. If symptoms are clear, you leave with treatment that same day; if needed, we take a culture to confirm the cause and adjust the medication.",
+      answerEn: "Yes. If symptoms are clear, we send your prescription that same day to the pharmacy you choose; if needed, we take a culture to confirm the cause and adjust the medication.",
     },
   ],
   "prueba-embarazo": [
