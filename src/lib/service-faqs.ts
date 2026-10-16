@@ -371,10 +371,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "infecciones-urinarias": [
     {
-      question: "¿Me dan el tratamiento el mismo día?",
-      answer: "Sí. La orina se analiza aquí y, si hay infección, sales con tu tratamiento el mismo día. Si además hace falta un urocultivo, ese resultado tarda unos días.",
-      questionEn: "Do I get treatment the same day?",
-      answerEn: "Yes. We run the urine test in-clinic and, if there's an infection, you leave with your treatment the same day. If a urine culture is also needed, that result takes a few days.",
+      question: "¿Me dan la receta el mismo día?",
+      answer: "Sí. La orina se analiza aquí y, si hay infección, ese mismo día enviamos tu receta de forma electrónica a la farmacia que elijas. Si además hace falta un urocultivo, ese resultado tarda unos días.",
+      questionEn: "Do I get my prescription the same day?",
+      answerEn: "Yes. We run the urine test in-clinic and, if there's an infection, we send your prescription electronically that same day to the pharmacy you choose. If a urine culture is also needed, that result takes a few days.",
     },
     {
       question: "¿Cómo sé si tengo infección urinaria?",

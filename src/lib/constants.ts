@@ -817,7 +817,7 @@ La [vacuna anual contra la flu](/services/vacunas) reduce el riesgo de enfermar 
 1. Vienes cuando puedas, sin cita, y te anotas al llegar.
 2. El personal médico evalúa tus síntomas y te revisa garganta, oídos y pulmones.
 3. Se hace la prueba rápida de flu, COVID o estreptococo según el caso; el resultado está en minutos.
-4. Sales con tu diagnóstico, tu receta y tu tratamiento el mismo día.
+4. Sales con tu diagnóstico y, si hace falta tratamiento, ese mismo día enviamos tu receta a la farmacia que elijas.
 5. Si necesitas justificante médico para trabajo o escuela, te lo entregamos.
 
 ## Pruebas de flu y COVID en una clínica hispana cerca de ti
@@ -864,7 +864,7 @@ The [annual flu vaccine](/en/services/vacunas) reduces the risk of severe illnes
 1. Come by whenever you can, no appointment, and sign in when you arrive.
 2. The medical staff evaluates your symptoms and checks your throat, ears and lungs.
 3. A rapid flu, COVID or strep test is done as needed; results are ready in minutes.
-4. You leave with your diagnosis, prescription and treatment the same day.
+4. You leave with your diagnosis and, if treatment is needed, we send your prescription that same day to the pharmacy you choose.
 5. If you need a doctor's note for work or school, we provide it.
 
 ## Flu and COVID testing at a Hispanic clinic near you
@@ -1075,7 +1075,7 @@ Una infección vaginal mal tratada o tratada "por internet" suele regresar. Con 
 1. Vienes cuando puedas, sin cita, y te anotas al llegar; desde la entrada te atienden en español.
 2. Platicas tus síntomas o el motivo de tu chequeo con el personal médico, en privado.
 3. Se realiza la revisión y, si aplica, se toma el Papanicolaou o el cultivo.
-4. Si hay infección evidente, sales con tu tratamiento el mismo día.
+4. Si hay infección evidente, ese mismo día enviamos tu receta a la farmacia que elijas.
 5. Te avisamos cuando los resultados de laboratorio estén listos y te explicamos qué significan.
 
 **Consejo:** para el Papanicolaou es mejor no estar menstruando y evitar relaciones, duchas vaginales u óvulos 48 horas antes. Si tienes dudas, llámanos y te orientamos.
@@ -1115,7 +1115,7 @@ A vaginal infection that's poorly treated or self-treated "from the internet" us
 1. Come by whenever you can, no appointment, and sign in; you're greeted in Spanish from the start.
 2. Talk about your symptoms or the reason for your checkup with the medical staff, in private.
 3. The exam is performed and, if needed, the Pap smear or culture is taken.
-4. If there's an obvious infection, you leave with treatment the same day.
+4. If there's an obvious infection, we send your prescription that same day to the pharmacy you choose.
 5. We let you know when lab results are ready and explain what they mean.
 
 **Tip:** for a Pap smear it's best not to be on your period and to avoid intercourse, douching or vaginal suppositories for 48 hours beforehand. If you have questions, call us and we'll guide you.
@@ -1720,7 +1720,7 @@ Depende del examen. Para glucosa, colesterol y triglicéridos conviene un ayuno 
 2. El médico o enfermera revisa tus síntomas y confirma qué exámenes necesitas.
 3. Se toma la muestra de sangre en la clínica; el procedimiento dura pocos minutos.
 4. Cuando el laboratorio entrega los resultados, te llamamos o te los entregamos en tu visita de control.
-5. El médico te explica cada valor en español y, si algo sale alterado, inicias tratamiento o seguimiento ese mismo día.
+5. El equipo médico de la clínica te explica cada valor en español y, si algo sale alterado, inicias tratamiento o seguimiento ese mismo día.
 
 ## Resultados claros, en tu idioma
 
@@ -1774,7 +1774,7 @@ It depends on the test. For glucose, cholesterol and triglycerides an 8 to 12 ho
 2. The doctor or nurse reviews your symptoms and confirms which tests you need.
 3. Your blood sample is drawn at the clinic; it takes just a few minutes.
 4. When the lab delivers the results, we call you or hand them to you at your follow-up visit.
-5. The doctor explains every value in Spanish and, if something is off, you start treatment or follow-up the same day.
+5. The clinic's medical team explains every value in Spanish and, if something is off, you start treatment or follow-up the same day.
 
 ## Clear results, in your language
 
@@ -1825,7 +1825,7 @@ If you're looking for blood tests in Houston with no appointment, no insurance a
       "Treatment prescribed by the medical team",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El ardor al orinar no es algo con lo que debas "aguantar". En Clínica Hispana Nueva Salud te hacemos el examen de orina en la clínica y, si hay infección urinaria, sales con tu tratamiento el mismo día, indicado por el equipo médico: sin cita previa, sin seguro médico y en español.
+    longDescription: `El ardor al orinar no es algo con lo que debas "aguantar". En Clínica Hispana Nueva Salud te hacemos el examen de orina en la clínica y, si hay infección urinaria, ese mismo día enviamos tu receta a la farmacia que elijas, indicada por el equipo médico: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
@@ -1864,8 +1864,8 @@ Si te da infección varias veces al año, no es normal y tiene solución. En la 
 
 ## Infección urinaria: atención en Bellfort Avenue
 
-Estamos en Bellfort Avenue, cerca del aeropuerto Hobby. El examen de orina se hace aquí mismo y, si confirma la infección, sales con el tratamiento indicado; abrimos todos los días de 9 AM a 9 PM y te atendemos en español.`,
-    longDescriptionEn: `Burning when you urinate isn't something you should "put up with." At Clínica Hispana Nueva Salud we run the urine test in-clinic and, if there's a urinary tract infection, you leave with your treatment the same day, prescribed by the medical team: no appointment, no insurance required, and in Spanish.
+Estamos en Bellfort Avenue, cerca del aeropuerto Hobby. El examen de orina se hace aquí mismo y, si confirma la infección, tu receta sale de forma electrónica a la farmacia que elijas; abrimos todos los días de 9 AM a 9 PM y te atendemos en español.`,
+    longDescriptionEn: `Burning when you urinate isn't something you should "put up with." At Clínica Hispana Nueva Salud we run the urine test in-clinic and, if there's a urinary tract infection, we send your prescription that same day to the pharmacy you choose, written by the medical team: no appointment, no insurance required, and in Spanish.
 
 ## What's included?
 
