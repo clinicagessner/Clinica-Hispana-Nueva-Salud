@@ -13,7 +13,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 12 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home + post del blog semanal + receta electrónica en servicios)  📨 ENVIADA 16/10/2026
+## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home + post del blog semanal + receta electrónica en servicios)  ✅ PEDIDA 16/10/2026
+
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-10-13
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-10-13
+
+## Tanda 23 — pendientes de la tanda anterior (no salieron el 16/10)
 
 - [ ] https://www.hispananuevasalud.com/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-16 (post nuevo / receta electrónica)
 - [ ] https://www.hispananuevasalud.com/en/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-16 (post nuevo / receta electrónica)
@@ -23,8 +28,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-16 (post nuevo / receta electrónica)
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 (post nuevo / receta electrónica)
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-16 (post nuevo / receta electrónica)
-- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-10-13
-- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-10-13
 
 ## Tanda 22 — cambios del 2026-10-16 (redacción del equipo médico en exámenes de sangre)
 
