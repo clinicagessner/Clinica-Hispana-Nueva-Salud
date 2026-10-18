@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 10 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 27 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  📨 ENVIADA 18/10/2026
+## Tanda 27 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  ✅ PEDIDA 18/10/2026
 
-- [ ] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-10-16
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-10-16
-- [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-16 · rastreada 2026-09-28 · indexada · 136 impr.
-- [ ] https://www.hispananuevasalud.com/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/infecciones-urinarias  — cambiada 2026-10-16 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-16 · rastreada 2026-07-19 · indexada · 17 impr.
-- [ ] https://www.hispananuevasalud.com/en/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-16 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-12 · rastreada 2026-07-05 · indexada · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-10-16
+- [x] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-10-16
+- [x] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-16 · rastreada 2026-09-28 · indexada · 136 impr.
+- [x] https://www.hispananuevasalud.com/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.hispananuevasalud.com/services/infecciones-urinarias  — cambiada 2026-10-16 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-16 · rastreada 2026-07-19 · indexada · 17 impr.
+- [x] https://www.hispananuevasalud.com/en/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
+- [x] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-16 · desconocida · 0 impr.
+- [x] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-12 · rastreada 2026-07-05 · indexada · 0 impr.
 
 ## Tanda 28
 
