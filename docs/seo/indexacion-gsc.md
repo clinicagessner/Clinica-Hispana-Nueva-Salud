@@ -13,8 +13,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 13 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 31 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  📨 ENVIADA 19/10/2026
-- [ ] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 · descubierta sin indexar · 0 impr.
+## Tanda 31 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  ✅ PEDIDA 19/10/2026
+- [x] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 · descubierta sin indexar · 0 impr.
 
 ## Tanda 28
 
