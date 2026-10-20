@@ -6,17 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-19; URL Inspection API, datos de hoy 2026-10-19):** 69 de 94 URLs del sitemap indexadas · 25 sin indexar (16 desconocida · 8 descubierta sin indexar · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-20; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 69 de 94 URLs del sitemap indexadas · 25 sin indexar (16 desconocida · 8 descubierta sin indexar · 1 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 28 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 27 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-13 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+14 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 31 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  ✅ PEDIDA 19/10/2026
-- [x] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 · descubierta sin indexar · 0 impr.
-
-## Tanda 28
+## Tanda 32
 
 - [ ] https://www.hispananuevasalud.com/en/walk-in  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 112 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 72 impr.
@@ -29,7 +26,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 12 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-09-25 · rastreada 2026-07-25 · indexada · 11 impr.
 
-## Tanda 29
+## Tanda 33
 
 - [ ] https://www.hispananuevasalud.com/en/services/anticonceptivos  — cambiada 2026-09-25 · rastreada 2026-06-28 · indexada · 7 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 7 impr.
@@ -42,7 +39,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 
-## Tanda 30
+## Tanda 34
 
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-09-25 · desconocida · 0 impr.
@@ -172,3 +169,7 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 - [x] https://www.hispananuevasalud.com/en/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
 - [x] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-16 · desconocida · 0 impr.
 - [x] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-12 · rastreada 2026-07-05 · indexada · 0 impr.
+
+## Tanda 31 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  ✅ PEDIDA 19/10/2026
+
+- [x] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 · descubierta sin indexar · 0 impr.
