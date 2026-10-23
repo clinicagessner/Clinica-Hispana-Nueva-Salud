@@ -1053,7 +1053,6 @@ If you're looking for a school or sports physical in Houston with no appointment
 - **Tratamiento de infecciones vaginales:** medicamento adecuado según el resultado, no "a ciegas".
 - **Evaluación de flujo anormal, comezón, ardor o mal olor.**
 - **Orientación sobre [anticonceptivos](/services/anticonceptivos) y [prueba de embarazo](/services/prueba-embarazo)** si lo necesitas en la misma visita.
-- **Referencia a especialista** cuando el caso lo requiere (ultrasonido, colposcopia, ginecólogo/a de alta especialidad).
 
 ## ¿Cuándo debo hacerme el Papanicolaou?
 
@@ -1093,7 +1092,6 @@ Si buscas ginecología en Houston donde te hablen en español, estamos en el sur
 - **Treatment of vaginal infections:** the right medication based on the result, not a guess.
 - **Evaluation of abnormal discharge, itching, burning or odor.**
 - **Guidance on [birth control](/en/services/anticonceptivos) and [pregnancy testing](/en/services/prueba-embarazo)** if you need it during the same visit.
-- **Specialist referral** when the case requires it (ultrasound, colposcopy, a high-specialty gynecologist).
 
 ## When should I get a Pap smear?
 
@@ -1174,7 +1172,6 @@ If you want gynecology care in Houston from people who speak Spanish, we're in t
 - **Confirmación médica** del resultado y cálculo aproximado de las semanas
 - **Orientación** sobre control prenatal, vitaminas y cuidados iniciales
 - **[Ultrasonido](/services/ultrasonido)** para confirmar el embarazo y su ubicación cuando está indicado
-- **Referencia** a ginecología u obstetricia para tu control prenatal
 
 ## ¿Prueba de orina o de sangre?
 
@@ -1198,7 +1195,7 @@ La **prueba de orina** es rápida y confiable a partir del primer día de retras
 
 ## Si el resultado es positivo
 
-Un embarazo confirmado necesita control prenatal desde el inicio. Te explicamos qué cuidados empezar de inmediato (ácido fólico, alimentación, qué medicamentos evitar), te hacemos los [exámenes de sangre iniciales](/services/examenes-sangre) si lo deseas y te damos la referencia para tu seguimiento obstétrico. Si no planeabas un embarazo, también te escuchamos y te informamos de tus opciones con respeto.
+Un embarazo confirmado necesita control prenatal desde el inicio. Te explicamos qué cuidados empezar de inmediato (ácido fólico, alimentación, qué medicamentos evitar) y te hacemos los [exámenes de sangre iniciales](/services/examenes-sangre) si lo deseas. Si no planeabas un embarazo, también te escuchamos y te informamos de tus opciones con respeto.
 
 ## Si el resultado es negativo
 
@@ -1216,7 +1213,6 @@ Si buscas dónde hacerte una prueba de embarazo de sangre en Houston sin cita, e
 - **Medical confirmation** of the result and an estimate of how many weeks along you are
 - **Guidance** on prenatal care, vitamins and early precautions
 - **[Ultrasound](/en/services/ultrasonido)** to confirm the pregnancy and its location when indicated
-- **Referral** to gynecology or obstetrics for your prenatal care
 
 ## Urine or blood test?
 
@@ -1240,7 +1236,7 @@ The **urine test** is fast and reliable from the first day of a missed period. T
 
 ## If the result is positive
 
-A confirmed pregnancy needs prenatal care from the start. We explain which precautions to begin right away (folic acid, diet, which medications to avoid), run the [initial blood tests](/en/services/examenes-sangre) if you wish, and give you the referral for your obstetric follow-up. If you weren't planning a pregnancy, we listen and inform you of your options with respect.
+A confirmed pregnancy needs prenatal care from the start. We explain which precautions to begin right away (folic acid, diet, which medications to avoid) and run the [initial blood tests](/en/services/examenes-sangre) if you wish. If you weren't planning a pregnancy, we listen and inform you of your options with respect.
 
 ## If the result is negative
 
@@ -1300,7 +1296,6 @@ If you're looking for where to get a blood pregnancy test in Houston with no app
 - **Pastillas anticonceptivas e inyección anticonceptiva**, con inicio en la clínica
 - **Inicio y seguimiento del método elegido**, para ajustar si algo no te sienta bien
 - **Resolución de dudas** sobre olvidos, sangrados irregulares u otros efectos
-- **Referencia** si prefieres un método que requiere especialista (DIU, implante)
 
 Si ya tienes un implante y quieres retirarlo, contamos con [extracción de implantes subdérmicos](/services/extraccion-implantes).
 
@@ -1339,7 +1334,6 @@ Si buscas orientación anticonceptiva en Houston en español, confidencial y a p
 - **Birth control pills and the contraceptive injection**, started at the clinic
 - **Starting and following up on your chosen method**, to adjust if something doesn't suit you
 - **Answers to your questions** about missed doses, irregular bleeding or other effects
-- **Referral** if you prefer a method that requires a specialist (IUD, implant)
 
 If you already have an implant and want it removed, we offer [subdermal implant removal](/en/services/extraccion-implantes).
 
@@ -1552,7 +1546,6 @@ If you're looking for where to get the arm implant removed in Houston with no ap
 - **Nivel de testosterona:** la hormona que influye en energía, ánimo, masa muscular y deseo sexual
 - **Chequeo general:** presión arterial, peso, signos vitales y revisión de síntomas
 - **Evaluación de síntomas urinarios** (levantarse de noche a orinar, chorro débil, goteo) o de falta de energía
-- **Referencia a urólogo o especialista** cuando el resultado lo amerita
 
 Si quieres un panorama completo, podemos combinarlo con [exámenes de sangre](/services/examenes-sangre) de glucosa, colesterol y [tiroides](/services/tiroides) en la misma extracción.
 
@@ -1596,7 +1589,6 @@ Si buscas un examen de próstata (PSA) o de testosterona en Houston sin cita, en
 - **Testosterone level:** the hormone that affects energy, mood, muscle mass and sex drive
 - **General checkup:** blood pressure, weight, vital signs and symptom review
 - **Evaluation of urinary symptoms** (getting up at night to urinate, weak stream, dribbling) or low energy
-- **Referral to a urologist or specialist** when the result warrants it
 
 If you want a full picture, we can combine it with [blood tests](/en/services/examenes-sangre) for glucose, cholesterol and [thyroid](/en/services/tiroides) in the same draw.
 

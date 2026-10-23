@@ -2,7 +2,7 @@
 title: "Atención ginecológica en español en Houston"
 description: "Cómo es una visita de ginecología en español en Houston: quién te atiende, cómo prepararte para el papanicolaou y cuándo no esperar. Sin cita."
 date: "2026-03-05"
-updated: "2026-09-25"
+updated: "2026-10-23"
 author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Salud de la mujer"
 cover: "/images/blog/ginecologos-hispanos-houston-hablan-espanol.webp"
@@ -15,9 +15,9 @@ keywords:
 
 Muchas mujeres posponen la revisión ginecológica por vergüenza, por no saber explicar lo que sienten en inglés o por miedo a lo que les van a hacer. Poder hablar en tu idioma cambia la experiencia por completo. Aquí te contamos cómo es una visita de ginecología en nuestra clínica, qué conviene preparar y cuándo no deberías esperar.
 
-## ¿Quién me atiende?
+## ¿Qué atendemos en la consulta?
 
-La atención ginecológica básica la da el equipo médico general de la clínica, en español. Resolvemos lo más frecuente: [papanicolaou](/services/ginecologia), cultivos vaginales, tratamiento de infecciones, [pruebas de embarazo](/services/prueba-embarazo), [métodos anticonceptivos](/services/anticonceptivos) y [ultrasonido](/services/ultrasonido) pélvico o de embarazo. Cuando un resultado necesita un especialista, te orientamos para la referencia y te explicamos por qué.
+Damos atención ginecológica en español y resolvemos lo más frecuente: [papanicolaou](/services/ginecologia), cultivos vaginales, tratamiento de infecciones, [pruebas de embarazo](/services/prueba-embarazo), [métodos anticonceptivos](/services/anticonceptivos) y [ultrasonido](/services/ultrasonido) pélvico o de embarazo.
 
 ## ¿Cómo es la visita, paso a paso?
 

@@ -2,7 +2,7 @@
 title: "Menopausia e infecciones urinarias que se repiten"
 description: "Por qué después de la menopausia las infecciones de orina vuelven más seguido, qué señales vigilar y qué se revisa en la consulta en Bellfort, Houston."
 date: "2026-10-16"
-updated: "2026-10-16"
+updated: "2026-10-23"
 author: "Equipo médico de Clínica Hispana Nueva Salud"
 category: "Salud"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -58,7 +58,7 @@ Además, según tu caso, puede valorar:
 - Si conviene revisar el **azúcar en sangre**, porque la glucosa alta también facilita las infecciones. Esto se hace con [exámenes de sangre](/services/examenes-sangre) y, si ya vives con diabetes, con el seguimiento de [condiciones crónicas](/services/condiciones-cronicas).
 - Si la vejiga **se vacía por completo** o si hay escapes que conviene estudiar aparte.
 
-Cuando un resultado muestra algo que necesita estudio más a fondo, por ejemplo sangre en la orina que no se explica por la infección o infecciones que siguen volviendo a pesar del tratamiento, el equipo médico de la clínica orienta la referencia a un urólogo o a otro especialista y te explica por qué y qué llevar a esa cita.
+Cuando un resultado muestra algo que necesita estudio más a fondo, por ejemplo sangre en la orina que no se explica por la infección o infecciones que siguen volviendo a pesar del tratamiento, conviene una valoración especializada.
 
 ## Hábitos que ayudan a espaciar las infecciones
 

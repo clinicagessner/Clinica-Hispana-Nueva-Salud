@@ -2,7 +2,7 @@
 title: "Gynecology care in Spanish in Houston"
 description: "What a gynecology visit in Spanish is like in Houston: who sees you, how to prepare for a Pap smear and when not to wait. Walk-ins welcome."
 date: "2026-03-05"
-updated: "2026-09-25"
+updated: "2026-10-23"
 author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Women's health"
 cover: "/images/blog/ginecologos-hispanos-houston-hablan-espanol.webp"
@@ -15,9 +15,9 @@ keywords:
 
 Many women put off their gynecology checkup out of embarrassment, because they can't describe what they feel in English, or because they are nervous about what will happen. Being able to talk in your own language changes the whole experience. Here is how a gynecology visit works at our clinic, what to prepare and when you shouldn't wait.
 
-## Who sees me?
+## What do we handle at the visit?
 
-Routine gynecology visits are handled by the clinic's general medical team, all in Spanish. We handle the most common needs: [Pap smears](/en/services/ginecologia), vaginal cultures, infection treatment, [pregnancy tests](/en/services/prueba-embarazo), [birth control](/en/services/anticonceptivos) and pelvic or pregnancy [ultrasound](/en/services/ultrasonido). When a result needs a specialist, we guide you through the referral and explain why.
+We provide gynecology care in Spanish and handle the most common needs: [Pap smears](/en/services/ginecologia), vaginal cultures, infection treatment, [pregnancy tests](/en/services/prueba-embarazo), [birth control](/en/services/anticonceptivos) and pelvic or pregnancy [ultrasound](/en/services/ultrasonido).
 
 ## How does the visit go, step by step?
 

@@ -2,7 +2,7 @@
 title: "Menopause and UTIs that keep coming back"
 description: "Why urinary infections return more often after menopause, which signs to watch for and what gets checked at your visit near Bellfort and Hobby, Houston."
 date: "2026-10-16"
-updated: "2026-10-16"
+updated: "2026-10-23"
 author: "Clínica Hispana Nueva Salud Medical Team"
 category: "Health"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -58,7 +58,7 @@ Depending on your situation, the team may also look at:
 - Whether your **blood sugar** should be checked, since high glucose also makes infections easier. That's done with [blood tests](/en/services/examenes-sangre), and if you already live with diabetes, through [chronic condition follow-up](/en/services/condiciones-cronicas).
 - Whether the bladder **empties completely**, or whether leaks deserve a separate look.
 
-When a result points to something that needs a closer look, such as blood in the urine that the infection doesn't explain, or infections that keep returning despite treatment, the clinic's medical team arranges a referral to a urologist or another specialist and tells you why and what to bring to that appointment.
+When a result points to something that needs a closer look, such as blood in the urine that the infection doesn't explain, or infections that keep returning despite treatment, a specialist evaluation is worth getting.
 
 ## Habits that help space infections out
 
