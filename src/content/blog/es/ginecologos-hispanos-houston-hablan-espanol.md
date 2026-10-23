@@ -36,7 +36,7 @@ En cualquier momento puedes pedir que paremos o hacer preguntas. Es tu cuerpo y 
 
 ## ¿Y si el papanicolaou sale anormal?
 
-No te asustes antes de tiempo. Un resultado anormal casi nunca significa cáncer: la mayoría de las veces se trata de cambios leves causados por el virus del papiloma humano (VPH), que el cuerpo suele eliminar por sí solo. Según el resultado, lo siguiente puede ser repetir la prueba, hacer la del VPH o una colposcopia, que es una revisión más detallada del cuello uterino con un especialista. Te explicamos qué significa tu resultado y, si hace falta, te orientamos para la referencia.
+No te asustes antes de tiempo. Un resultado anormal casi nunca significa cáncer: la mayoría de las veces se trata de cambios leves causados por el virus del papiloma humano (VPH), que el cuerpo suele eliminar por sí solo. Según el resultado, lo siguiente puede ser repetir la prueba, hacer la del VPH o una colposcopia, que es una revisión más detallada del cuello uterino con un especialista. Te explicamos qué significa tu resultado.
 
 ## ¿Cuándo no deberías esperar a la revisión de rutina?
 

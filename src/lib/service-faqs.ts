@@ -206,9 +206,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "Si salgo positiva, ¿qué sigue?",
-      answer: "Te confirmamos las semanas aproximadas, te indicamos vitaminas prenatales y cuidados iniciales, y te damos la referencia para tu control prenatal. Si lo necesitas, hacemos un ultrasonido.",
+      answer: "Te confirmamos las semanas aproximadas, y te indicamos vitaminas prenatales y cuidados iniciales. Si lo necesitas, hacemos un ultrasonido.",
       questionEn: "If I'm positive, what's next?",
-      answerEn: "We estimate the weeks, recommend prenatal vitamins and early precautions, and give you the referral for your prenatal care. If needed, we do an ultrasound.",
+      answerEn: "We estimate the weeks, and recommend prenatal vitamins and early precautions. If needed, we do an ultrasound.",
     },
     {
       question: "¿Es confidencial?",
@@ -220,9 +220,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "anticonceptivos": [
     {
       question: "¿Qué métodos anticonceptivos ofrecen?",
-      answer: "Pastillas anticonceptivas e inyección anticonceptiva, con orientación para elegir. Si prefieres DIU o implante, te referimos; también retiramos implantes subdérmicos.",
+      answer: "Pastillas anticonceptivas e inyección anticonceptiva, con orientación para elegir. También retiramos implantes subdérmicos.",
       questionEn: "Which birth control methods do you offer?",
-      answerEn: "Birth control pills and the contraceptive injection, with counseling to choose. If you prefer an IUD or implant, we refer you; we also remove subdermal implants.",
+      answerEn: "Birth control pills and the contraceptive injection, with counseling to choose. We also remove subdermal implants.",
     },
     {
       question: "¿Necesito hacerme un examen antes de empezar?",

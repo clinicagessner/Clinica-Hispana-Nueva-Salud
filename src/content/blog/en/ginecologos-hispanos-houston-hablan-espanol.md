@@ -36,7 +36,7 @@ You can ask us to stop or ask questions at any point. It is your body and your v
 
 ## What if my Pap smear is abnormal?
 
-Don't panic. An abnormal result almost never means cancer: most of the time it reflects mild changes caused by human papillomavirus (HPV), which the body often clears on its own. Depending on the result, the next step may be repeating the test, an HPV test or a colposcopy, which is a closer look at the cervix with a specialist. We explain what your result means and, if needed, guide you through the referral.
+Don't panic. An abnormal result almost never means cancer: most of the time it reflects mild changes caused by human papillomavirus (HPV), which the body often clears on its own. Depending on the result, the next step may be repeating the test, an HPV test or a colposcopy, which is a closer look at the cervix with a specialist. We explain what your result means.
 
 ## When shouldn't you wait for a routine checkup?
 
