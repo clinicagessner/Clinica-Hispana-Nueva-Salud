@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 14 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
+## Tanda 35 — cambios del 2026-10-23 (post del blog semanal)  📨 ENVIADA 23/10/2026
+
+- [ ] https://www.hispananuevasalud.com/blog/miomas-utero-sintomas-ultrasonido-pelvico  — cambiada 2026-10-23
+- [ ] https://www.hispananuevasalud.com/en/blog/miomas-utero-sintomas-ultrasonido-pelvico  — cambiada 2026-10-23
+
 ## Tanda 32
 
 - [ ] https://www.hispananuevasalud.com/en/walk-in  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 112 impr.
