@@ -6,19 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 69 de 96 URLs del sitemap indexadas · 27 sin indexar (16 desconocida · 8 descubierta sin indexar · 2 sin datos · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-24; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 69 de 96 URLs del sitemap indexadas · 27 sin indexar (16 desconocida · 8 descubierta sin indexar · 2 sin datos · 1 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 26 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-12 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+14 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 35 — cambios del 2026-10-23 (post del blog semanal)  ✅ PEDIDA 24/10/2026
-
-- [x] https://www.hispananuevasalud.com/blog/miomas-utero-sintomas-ultrasonido-pelvico  — cambiada 2026-10-23
-- [x] https://www.hispananuevasalud.com/en/blog/miomas-utero-sintomas-ultrasonido-pelvico  — cambiada 2026-10-23
-
-## Tanda 36 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
+## Tanda 36 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 24/10/2026
 
 - [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.hispananuevasalud.com/services/prueba-embarazo  — cambiada 2026-10-23
@@ -28,6 +23,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-23
 - [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+
+## Tanda 40 — cambios del 2026-10-23 (resto de la regla Ads = referencia; cupo del 24/10 ya usado)
+
 - [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-23
 - [ ] https://www.hispananuevasalud.com/en/services/anticonceptivos  — cambiada 2026-10-23
 
@@ -190,3 +188,8 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 ## Tanda 31 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  ✅ PEDIDA 19/10/2026
 
 - [x] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 · descubierta sin indexar · 0 impr.
+
+## Tanda 35 — cambios del 2026-10-23 (post del blog semanal)  ✅ PEDIDA 24/10/2026
+
+- [x] https://www.hispananuevasalud.com/blog/miomas-utero-sintomas-ultrasonido-pelvico  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/en/blog/miomas-utero-sintomas-ultrasonido-pelvico  — cambiada 2026-10-23
