@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 10 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
 <!-- /tandas:auto -->
 
-## Tanda 36 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026 (aplazada del 24/10 por el usuario)
+## Tanda 36 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
 
-- [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.hispananuevasalud.com/services/prueba-embarazo  — cambiada 2026-10-23
-- [ ] https://www.hispananuevasalud.com/services/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-10-23
-- [ ] https://www.hispananuevasalud.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23
-- [ ] https://www.hispananuevasalud.com/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-23
-- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-10-23
-- [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.hispananuevasalud.com/en/services/anticonceptivos  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.hispananuevasalud.com/en/services/anticonceptivos  — cambiada 2026-10-23
 
 ## Tanda 41
 
