@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-24; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 69 de 96 URLs del sitemap indexadas · 27 sin indexar (16 desconocida · 8 descubierta sin indexar · 2 sin datos · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-25; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 69 de 96 URLs del sitemap indexadas · 27 sin indexar (16 desconocida · 8 descubierta sin indexar · 2 sin datos · 1 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 26 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 26 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 5 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-14 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+10 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
 <!-- /tandas:auto -->
 
-## Tanda 36 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 24/10/2026 · APLAZADA por el usuario: la pide el 25/10/2026, va primero ese día (no repetir en otra tanda)
+## Tanda 36 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026 (aplazada del 24/10 por el usuario)
 
 - [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.hispananuevasalud.com/services/prueba-embarazo  — cambiada 2026-10-23
@@ -23,13 +23,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-23
 - [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-10-23
-
-## Tanda 40 — cambios del 2026-10-23 (resto de la regla Ads = referencia; cupo del 24/10 ya usado)
-
 - [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-23
 - [ ] https://www.hispananuevasalud.com/en/services/anticonceptivos  — cambiada 2026-10-23
 
-## Tanda 37
+## Tanda 41
 
 - [ ] https://www.hispananuevasalud.com/en/walk-in  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 112 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 72 impr.
@@ -42,7 +39,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 14 impr.
 - [ ] https://www.hispananuevasalud.com/en/services  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 12 impr.
 
-## Tanda 38
+## Tanda 42
 
 - [ ] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-09-25 · rastreada 2026-07-25 · indexada · 11 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 7 impr.
@@ -55,7 +52,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · desconocida · 0 impr.
 
-## Tanda 39
+## Tanda 43
 
 - [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-09-25 · desconocida · 0 impr.
@@ -63,6 +60,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/tiroides  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
+
+## Tanda 44
+
 - [ ] https://www.hispananuevasalud.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-09-25 · rastreada 2026-09-30 · rastreada sin indexar · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
