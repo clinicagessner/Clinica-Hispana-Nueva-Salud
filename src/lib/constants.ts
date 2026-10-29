@@ -1191,7 +1191,7 @@ La **prueba de orina** es rápida y confiable a partir del primer día de retras
 
 1. Llegas sin cita y te registras en recepción, en un ambiente discreto.
 2. Se toma la muestra de orina o de sangre, según el caso.
-3. El médico te da el resultado y lo confirma; en la prueba de orina es en la misma visita.
+3. El equipo médico de la clínica te da el resultado y lo confirma; en la prueba de orina es en la misma visita.
 4. Si es positivo, calculamos las semanas aproximadas, te indicamos vitaminas prenatales y te orientamos sobre el control prenatal.
 5. Si es negativo y el periodo sigue sin llegar, evaluamos otras causas como [problemas de tiroides](/services/tiroides), estrés o cambios hormonales.
 
@@ -1232,7 +1232,7 @@ The **urine test** is fast and reliable from the first day of a missed period. T
 
 1. Come in whenever you can, no appointment, and sign in; everything is handled discreetly.
 2. A urine or blood sample is taken, depending on the case.
-3. The doctor gives you the result and confirms it; for the urine test it's in the same visit.
+3. The clinic's medical team gives you the result and confirms it; for the urine test it's in the same visit.
 4. If it's positive, we estimate the weeks, recommend prenatal vitamins and guide you on prenatal care.
 5. If it's negative and your period still hasn't come, we look at other causes such as [thyroid problems](/en/services/tiroides), stress or hormonal changes.
 
@@ -1553,7 +1553,7 @@ Si quieres un panorama completo, podemos combinarlo con [exámenes de sangre](/s
 
 ## ¿A qué edad y cada cuánto?
 
-- **PSA:** entre los 55 y los 69 años se decide con el médico si conviene hacerlo; si tu padre o un hermano tuvo cáncer de próstata, puede adelantarse. Se repite cada 1 a 2 años según el resultado.
+- **PSA:** entre los 55 y los 69 años se decide con el equipo médico de la clínica si conviene hacerlo; si tu padre o un hermano tuvo cáncer de próstata, puede adelantarse. Se repite cada 1 a 2 años según el resultado.
 - **Testosterona:** a cualquier edad si tienes síntomas de testosterona baja (ver abajo). Se mide en la mañana, que es cuando está más alta.
 
 ## Señales de que conviene revisarte
@@ -1693,7 +1693,7 @@ If you're looking for a prostate (PSA) or testosterone test in Houston with no a
 - **Pruebas de infecciones:** VIH, sífilis, hepatitis y otras [enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual)
 - **Prueba de embarazo en sangre:** más sensible que la de orina
 
-Si no sabes qué examen necesitas, cuéntanos tus síntomas y el médico te indica el panel adecuado.
+Si no sabes qué examen necesitas, cuéntanos tus síntomas y el equipo médico de la clínica te indica el panel adecuado.
 
 ## ¿Cuándo debo hacerme un análisis de sangre?
 
@@ -1711,14 +1711,14 @@ Depende del examen. Para glucosa, colesterol y triglicéridos conviene un ayuno 
 ## ¿Cómo es la visita?
 
 1. Vienes cuando puedas, sin cita, y te anotas al llegar.
-2. El médico o enfermera revisa tus síntomas y confirma qué exámenes necesitas.
+2. El equipo médico de la clínica revisa tus síntomas y confirma qué exámenes necesitas.
 3. Se toma la muestra de sangre en la clínica; el procedimiento dura pocos minutos.
 4. Cuando el laboratorio entrega los resultados, te llamamos o te los entregamos en tu visita de control.
 5. El equipo médico de la clínica te explica cada valor en español y, si algo sale alterado, inicias tratamiento o seguimiento ese mismo día.
 
 ## Resultados claros, en tu idioma
 
-Un resultado de laboratorio lleno de siglas no sirve de mucho si nadie te lo explica. Por eso cada análisis incluye la revisión con el médico: te decimos qué valores están bien, cuáles necesitan atención y qué hacer al respecto. Si necesitas [sueros o vitaminas inyectadas](/services/sueros-vitaminados), medicamento o una referencia a un especialista, lo resolvemos en la misma visita.
+Un resultado de laboratorio lleno de siglas no sirve de mucho si nadie te lo explica. Por eso cada análisis incluye la revisión con el equipo médico de la clínica: te decimos qué valores están bien, cuáles necesitan atención y qué hacer al respecto. Si necesitas [sueros o vitaminas inyectadas](/services/sueros-vitaminados), medicamento o una referencia a un especialista, lo resolvemos en la misma visita.
 
 ## Análisis de sangre en Bellfort Avenue
 
@@ -1747,7 +1747,7 @@ Si buscas exámenes de sangre en Houston sin cita, sin seguro y en español, te 
 - **Infection tests:** HIV, syphilis, hepatitis and other [sexually transmitted diseases](/en/services/enfermedades-transmision-sexual)
 - **Blood pregnancy test:** more sensitive than the urine test
 
-If you're not sure which test you need, tell us your symptoms and the doctor will order the right panel.
+If you're not sure which test you need, tell us your symptoms and the clinic's medical team will order the right panel.
 
 ## When should I get blood work?
 
@@ -1765,14 +1765,14 @@ It depends on the test. For glucose, cholesterol and triglycerides an 8 to 12 ho
 ## What is the visit like?
 
 1. Come by whenever you can, no appointment, and sign in when you arrive.
-2. The doctor or nurse reviews your symptoms and confirms which tests you need.
+2. The clinic's medical team reviews your symptoms and confirms which tests you need.
 3. Your blood sample is drawn at the clinic; it takes just a few minutes.
 4. When the lab delivers the results, we call you or hand them to you at your follow-up visit.
 5. The clinic's medical team explains every value in Spanish and, if something is off, you start treatment or follow-up the same day.
 
 ## Clear results, in your language
 
-A lab report full of abbreviations isn't much use if nobody explains it. That's why every test includes a review with the doctor: we tell you which values are fine, which need attention and what to do about it. If you need [IV fluids or vitamin injections](/en/services/sueros-vitaminados), medication or a specialist referral, we take care of it in the same visit.
+A lab report full of abbreviations isn't much use if nobody explains it. That's why every test includes a review with the clinic's medical team: we tell you which values are fine, which need attention and what to do about it. If you need [IV fluids or vitamin injections](/en/services/sueros-vitaminados), medication or a specialist referral, we take care of it in the same visit.
 
 ## Blood lab at a Hispanic clinic near you
 
@@ -1946,7 +1946,7 @@ We are a Hispanic clinic near you in Houston, in the Bellfort / Hobby area: we r
 ## ¿Qué se busca en la muestra?
 
 - **Parásitos y sus huevos**, revisados al microscopio en el laboratorio ([MedlinePlus](https://medlineplus.gov/lab-tests/ova-and-parasite-test/)).
-- **Bacterias** que causan infecciones intestinales, mediante un cultivo cuando el médico lo indica.
+- **Bacterias** que causan infecciones intestinales, mediante un cultivo cuando el equipo médico de la clínica lo indica.
 - **Sangre oculta**: rastros invisibles que avisan de un posible sangrado en el intestino.
 - **Características generales**: consistencia, grasa, restos de alimentos o signos de inflamación.
 
@@ -1973,7 +1973,7 @@ Si hay sangre visible, heces negras como el alquitrán, fiebre alta, deshidratac
 ## What does the sample show?
 
 - **Parasites and their eggs**, checked under the microscope at the lab ([MedlinePlus](https://medlineplus.gov/lab-tests/ova-and-parasite-test/)).
-- **Bacteria** that cause intestinal infections, through a culture when the doctor orders it.
+- **Bacteria** that cause intestinal infections, through a culture when the clinic's medical team orders it.
 - **Hidden blood**, invisible to the eye, which may point to bleeding in the digestive tract.
 - **General features**: consistency, fat, food remnants or signs of inflammation.
 
@@ -2602,7 +2602,7 @@ Si no sabes cuál te toca, escríbenos antes y te decimos cómo venir preparado.
 1. Llegas sin cita, te registras y nos cuentas el motivo del estudio.
 2. Se realiza el ultrasonido en un espacio privado, con explicación en español.
 3. El equipo médico mira las imágenes contigo y te cuenta qué encontró, sin tecnicismos.
-4. Si se necesita, sales con tratamiento, estudios complementarios o referencia a especialista.
+4. Si hace falta tratamiento, ese mismo día enviamos tu receta a la farmacia que elijas; si se necesitan estudios complementarios o una referencia a especialista, te lo explicamos.
 
 ## Ultrasonido en una clínica hispana cerca de ti
 
@@ -2642,7 +2642,7 @@ Not sure which one you need? Message us first and we'll tell you how to come pre
 1. Walk in without an appointment, check in and tell us the reason for the exam.
 2. The ultrasound is performed in a private room, with explanations in Spanish.
 3. The medical staff reviews the images and explains the findings in plain words.
-4. If needed, you leave with treatment, additional tests or a specialist referral.
+4. If treatment is needed, we send your prescription that same day to the pharmacy you choose; if additional tests or a specialist referral are needed, we explain the next step.
 
 ## Ultrasound at a Hispanic clinic near you
 

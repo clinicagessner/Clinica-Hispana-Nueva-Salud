@@ -302,7 +302,7 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿A qué edad debo hacerme el PSA?",
-      answer: "Entre los 55 y los 69 años se decide con el médico, porque tiene beneficios y también posibles daños. Si tu padre o un hermano tuvo cáncer de próstata, la conversación puede empezar antes. Se repite cada 1 a 2 años según el resultado.",
+      answer: "Entre los 55 y los 69 años se decide con el equipo médico de la clínica, porque tiene beneficios y también posibles daños. Si tu padre o un hermano tuvo cáncer de próstata, la conversación puede empezar antes. Se repite cada 1 a 2 años según el resultado.",
       questionEn: "When should the PSA test come up?",
       answerEn: "Generally from age 50, or from 40-45 if your father or brother had prostate cancer. It's repeated every 1 to 2 years depending on the result.",
     },
@@ -364,9 +364,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Qué pasa si un resultado sale alterado?",
-      answer: "El médico te explica qué significa y define el tratamiento o seguimiento en la misma visita. Cuando el caso lo pide, te orientamos para ver a un especialista.",
+      answer: "El equipo médico de la clínica te explica qué significa y define el tratamiento o seguimiento en la misma visita. Cuando el caso lo pide, te orientamos para ver a un especialista.",
       questionEn: "What if a result comes back abnormal?",
-      answerEn: "The doctor explains what it means and sets up treatment or follow-up in the same visit. If a specialist is needed, we give you the referral.",
+      answerEn: "The clinic's medical team explains what it means and sets up treatment or follow-up in the same visit. If a specialist is needed, we give you the referral.",
     },
   ],
   "infecciones-urinarias": [
@@ -648,9 +648,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Sirven mis vacunas de mi país?",
-      answer: "Sí, si tienes el comprobante con fechas. El médico las revisa y solo aplica las que falten según los requisitos del CDC.",
+      answer: "Sí, si tienes el comprobante con fechas. El equipo médico de la clínica las revisa y solo aplica las que falten según los requisitos del CDC.",
       questionEn: "Do vaccines from my home country count?",
-      answerEn: "Yes, if you have the record with dates. The doctor reviews them and only gives the ones still missing under CDC requirements.",
+      answerEn: "Yes, if you have the record with dates. The clinic's medical team reviews them and only gives the ones still missing under CDC requirements.",
     },
     {
       question: "¿Hacen el examen a niños?",
