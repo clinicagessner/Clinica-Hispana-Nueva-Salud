@@ -13,6 +13,28 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 7 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-01).
 <!-- /tandas:auto -->
 
+## Tanda 46 — cambios del 2026-10-29 (análisis diario: ginecología alineada con sus anuncios y firma del equipo médico)  📨 ENVIADA 29/10/2026
+
+- [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/services/ultrasonido  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/services/salud-hombre  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/services/prueba-embarazo  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/services/examen-heces  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-10-29
+
+## Tanda 47 — cambios del 2026-10-29 (análisis diario: firma del equipo médico, versión en inglés)
+
+- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-10-29
+- [ ] https://www.hispananuevasalud.com/en/services/examen-heces  — cambiada 2026-10-29
+
 ## Tanda 42
 
 - [ ] https://www.hispananuevasalud.com/en/walk-in  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 115 impr.
@@ -24,7 +46,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 20 impr.
 - [ ] https://www.hispananuevasalud.com/en/services  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 17 impr.
 - [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 16 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-09-25 · rastreada 2026-07-25 · indexada · 12 impr.
 
 ## Tanda 43
 
@@ -33,7 +54,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 6 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 5 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 2 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examen-heces  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 2 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
@@ -43,7 +63,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.hispananuevasalud.com/en/services/suturas-heridas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/tiroides  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
