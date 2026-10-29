@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-01).
 <!-- /tandas:auto -->
 
-## Tanda 46 — cambios del 2026-10-29 (análisis diario: ginecología alineada con sus anuncios y firma del equipo médico)  📨 ENVIADA 29/10/2026
+## Tanda 46 — cambios del 2026-10-29 (análisis diario: ginecología alineada con sus anuncios y firma del equipo médico)  ✅ PEDIDA 29/10/2026
 
-- [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/services/ultrasonido  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/services/salud-hombre  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/services/prueba-embarazo  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/services/examen-heces  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/services/ultrasonido  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/services/salud-hombre  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/services/prueba-embarazo  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/services/examen-heces  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-10-29
 
 ## Tanda 47 — cambios del 2026-10-29 (análisis diario: firma del equipo médico, versión en inglés)
 
