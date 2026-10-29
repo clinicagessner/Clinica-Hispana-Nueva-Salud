@@ -1005,45 +1005,45 @@ If you're looking for a school or sports physical in Houston with no appointment
     category: "salud-mujer",
     icon: "Flower2",
     highlighted: true,
-    title: "Atención Ginecológica: Papanicolaou y Cultivos",
-    titleEn: "Gynecology Care: Pap Smear & Cultures",
+    title: "Ginecología y Clínica para la Mujer: Papanicolaou y Ultrasonido",
+    titleEn: "Gynecology & Women's Clinic: Pap Smear and Ultrasound",
     metaTitle: "Ginecología en Houston, TX | Clínica Hispana Nueva Salud",
     metaTitleEn: "Gynecology in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
-      "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
+      "Clínica para la mujer: papanicolaou, cultivos, ultrasonido pélvico e inyección anticonceptiva, con privacidad y en español.",
     shortDescriptionEn:
-      "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
+      "Women's clinic: Pap smear, cultures, pelvic ultrasound and the birth control shot, with privacy and in Spanish.",
     description:
-      "Atención ginecológica en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
+      "Clínica para la mujer en Houston, TX: papanicolaou, cultivos vaginales, ultrasonido pélvico e inyección anticonceptiva. Consulta inicial gratis, en español.",
     descriptionEn:
-      "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
+      "Women's clinic in Houston, TX: Pap smear, vaginal cultures, pelvic ultrasound and the birth control shot. Free initial consultation, in Spanish. Walk-ins welcome.",
     keywords: [
       "ginecologia en houston",
-      "ginecologo houston español",
+      "clinica para la mujer houston",
       "papanicolaou houston",
       "cultivo vaginal houston",
       "infeccion vaginal tratamiento houston",
     ],
     keywordsEn: [
       "gynecology houston",
-      "gynecologist houston spanish",
+      "womens clinic houston",
       "pap smear houston",
       "vaginal culture houston",
       "vaginal infection treatment houston",
     ],
     features: [
       "Papanicolaou y chequeo ginecológico",
-      "Cultivos vaginales",
-      "Tratamiento de infecciones vaginales",
+      "Cultivos y tratamiento de infecciones vaginales",
+      "Ultrasonido pélvico e inyección anticonceptiva",
       "Atención privada en español",
     ],
     featuresEn: [
       "Pap smear and gynecological checkup",
-      "Vaginal cultures",
-      "Treatment of vaginal infections",
+      "Vaginal cultures and infection treatment",
+      "Pelvic ultrasound and birth control shot",
       "Private care in Spanish",
     ],
-    longDescription: `Hablar de tu salud íntima es más fácil cuando te escuchan con calma y en tu idioma. En Clínica Hispana Nueva Salud ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces: sin cita previa, sin seguro médico y con precios accesibles.
+    longDescription: `Hablar de tu salud íntima es más fácil cuando te escuchan con calma y en tu idioma. Clínica Hispana Nueva Salud funciona también como clínica para la mujer en Bellfort: la consulta de ginecología es en español, con la privacidad y el respeto que mereces, sin seguro médico y con precios accesibles. Puedes llegar sin cita previa o, si te queda mejor, llamar y agendar tu cita. La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte.
 
 ## ¿Qué incluye la consulta ginecológica?
 
@@ -1052,7 +1052,8 @@ If you're looking for a school or sports physical in Houston with no appointment
 - **Cultivos vaginales:** identifican con exactitud si la molestia es por hongos (candidiasis), bacterias (vaginosis) o tricomonas.
 - **Tratamiento de infecciones vaginales:** medicamento adecuado según el resultado, no "a ciegas".
 - **Evaluación de flujo anormal, comezón, ardor o mal olor.**
-- **Orientación sobre [anticonceptivos](/services/anticonceptivos) y [prueba de embarazo](/services/prueba-embarazo)** si lo necesitas en la misma visita.
+- **Ultrasonido pélvico en la clínica:** útil cuando hay dolor en el bajo vientre o sangrado irregular; más detalles en [ultrasonido](/services/ultrasonido).
+- **Inyección anticonceptiva y otros [anticonceptivos](/services/anticonceptivos):** te explicamos cada opción y, si eliges la inyección, se aplica en la misma visita. También hacemos la [prueba de embarazo](/services/prueba-embarazo) si la necesitas.
 
 ## ¿Cuándo debo hacerme el Papanicolaou?
 
@@ -1082,7 +1083,7 @@ Una infección vaginal mal tratada o tratada "por internet" suele regresar. Con 
 ## Atención ginecológica en Bellfort Avenue
 
 Si buscas ginecología en Houston donde te hablen en español, estamos en el sureste de la ciudad, en Bellfort Avenue cerca del aeropuerto Hobby: sin cita previa y con precios accesibles. Aquí nadie te juzga; solo queremos que te sientas bien y tranquila con tu salud.`,
-    longDescriptionEn: `Talking about intimate health is easier when someone listens calmly, in your language. At Clínica Hispana Nueva Salud, gynecology care happens in Spanish and in private, with no appointment, no insurance requirement and affordable prices.
+    longDescriptionEn: `Talking about intimate health is easier when someone listens calmly, in your language. Clínica Hispana Nueva Salud also works as a women's clinic on Bellfort: gynecology visits happen in Spanish and in private, with no insurance requirement and affordable prices. You can walk in or, if it suits you better, call and book an appointment. The initial consultation is free; tests and treatment are paid separately.
 
 ## What does the gynecology visit include?
 
@@ -1091,7 +1092,8 @@ Si buscas ginecología en Houston donde te hablen en español, estamos en el sur
 - **Vaginal cultures:** pinpoint whether the discomfort is caused by yeast (candidiasis), bacteria (bacterial vaginosis) or trichomonas.
 - **Treatment of vaginal infections:** the right medication based on the result, not a guess.
 - **Evaluation of abnormal discharge, itching, burning or odor.**
-- **Guidance on [birth control](/en/services/anticonceptivos) and [pregnancy testing](/en/services/prueba-embarazo)** if you need it during the same visit.
+- **Pelvic ultrasound at the clinic:** helpful for lower-belly pain or irregular bleeding; more details on our [ultrasound](/en/services/ultrasonido) page.
+- **Birth control shot and other [birth control](/en/services/anticonceptivos) options:** we walk you through each one and, if you choose the shot, it's given during the same visit. We also do [pregnancy testing](/en/services/prueba-embarazo) if you need it.
 
 ## When should I get a Pap smear?
 
