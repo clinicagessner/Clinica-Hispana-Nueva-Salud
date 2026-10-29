@@ -28,6 +28,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 47 — cambios del 2026-10-29 (análisis diario: firma del equipo médico, versión en inglés)
 
+- [ ] https://www.hispananuevasalud.com/services/extraccion-implantes  — cambiada 2026-10-29 (título y meta)
 - [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-10-29
 - [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29
 - [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-29
