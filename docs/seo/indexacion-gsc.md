@@ -6,15 +6,20 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-30; URL Inspection API, datos ANTIGUOS del 2026-10-29: antiguos (2026-10-29): --sin-fetch):** 72 de 96 URLs del sitemap indexadas · 24 sin indexar (13 descubierta sin indexar · 9 desconocida · 2 rastreada sin indexar).
+**Estado (actualizado 2026-10-30; URL Inspection API, datos ANTIGUOS del 2026-10-29: antiguos (2026-10-29): --sin-fetch):** 72 de 98 URLs del sitemap indexadas · 26 sin indexar (13 descubierta sin indexar · 9 desconocida · 2 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 20 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-01).
 <!-- /tandas:auto -->
 
-## Tanda 47 — cambios del 2026-10-29 (análisis diario: firma del equipo médico, versión en inglés)  📨 ENVIADA 30/10/2026
+## Tanda 47 — cambios del 2026-10-29 (análisis diario: firma del equipo médico, versión en inglés)
 
+
+## Tanda 51 — cambios del 2026-10-30 (post del blog semanal)  📨 ENVIADA 30/10/2026
+
+- [ ] https://www.hispananuevasalud.com/blog/menopausia-corazon-presion-colesterol  — cambiada 2026-10-30
+- [ ] https://www.hispananuevasalud.com/en/blog/menopausia-corazon-presion-colesterol  — cambiada 2026-10-30
 - [ ] https://www.hispananuevasalud.com/services/extraccion-implantes  — cambiada 2026-10-29 (título y meta)
 - [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-10-29
 - [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29
@@ -24,7 +29,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/examen-heces  — cambiada 2026-10-29
 - [ ] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-29 (firma del equipo médico)
 
-## Tanda 48
+## Tanda 52
 
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 44 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 25 impr.
@@ -37,7 +42,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/curacion-heridas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 2 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 2 impr.
 
-## Tanda 49
+## Tanda 53
 
 - [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 1 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 1 impr.
@@ -50,7 +55,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/tiroides  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · desconocida · 0 impr.
 
-## Tanda 50
+## Tanda 54
 
 - [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
