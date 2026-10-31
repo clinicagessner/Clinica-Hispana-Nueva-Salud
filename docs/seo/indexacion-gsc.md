@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-01).
 <!-- /tandas:auto -->
 
-## Tanda 51 — cambios del 2026-10-30 (post del blog semanal)  📨 ENVIADA 31/10/2026
+## Tanda 51 — cambios del 2026-10-30 (post del blog semanal)  ✅ PEDIDA 31/10/2026
 
-- [ ] https://www.hispananuevasalud.com/blog/menopausia-corazon-presion-colesterol  — cambiada 2026-10-30
-- [ ] https://www.hispananuevasalud.com/en/blog/menopausia-corazon-presion-colesterol  — cambiada 2026-10-30
-- [ ] https://www.hispananuevasalud.com/services/extraccion-implantes  — cambiada 2026-10-29 (título y meta)
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/en/services/examen-heces  — cambiada 2026-10-29
-- [ ] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-29 (firma del equipo médico)
+- [x] https://www.hispananuevasalud.com/blog/menopausia-corazon-presion-colesterol  — cambiada 2026-10-30
+- [x] https://www.hispananuevasalud.com/en/blog/menopausia-corazon-presion-colesterol  — cambiada 2026-10-30
+- [x] https://www.hispananuevasalud.com/services/extraccion-implantes  — cambiada 2026-10-29 (título y meta)
+- [x] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/en/services/examen-heces  — cambiada 2026-10-29
+- [x] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-29 (firma del equipo médico)
 
 ## Tanda 52
 
