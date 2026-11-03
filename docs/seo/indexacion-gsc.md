@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))  📨 ENVIADA 03/11/2026
+## Tanda 56 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))  ✅ PEDIDA 03/11/2026
 
-- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-11-02
-- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-11-02
-- [ ] https://www.hispananuevasalud.com/services  — cambiada 2026-11-02
-- [ ] https://www.hispananuevasalud.com/en/services  — cambiada 2026-11-02
-- [ ] https://www.hispananuevasalud.com/services/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-02
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-02
-- [ ] https://www.hispananuevasalud.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
-- [ ] https://www.hispananuevasalud.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/services  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en/services  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
 
 ## Tanda 60 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
 
