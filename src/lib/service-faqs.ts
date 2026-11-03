@@ -143,6 +143,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "ginecologia": [
     {
+      question: "¿La consulta de ginecología es gratis?",
+      answer: "Sí, la consulta inicial de ginecología es gratis; los exámenes y el tratamiento se pagan aparte. La consulta ginecológica, el papanicolaou y el ultrasonido se hacen en un mismo lugar, en un espacio cómodo, seguro y confidencial.",
+      questionEn: "Is the gynecology visit free?",
+      answerEn: "Yes, the initial gynecology visit is free; tests and treatment are paid separately. The gynecology visit, the Pap smear and the ultrasound are done in one place, in a comfortable, safe and confidential space.",
+    },
+    {
       question: "¿Necesito cita para el papanicolaou?",
       answer: "No hace falta cita. Si prefieres llegar a una hora concreta, escríbenos antes por WhatsApp.",
       questionEn: "Can I just walk in for a Pap smear?",

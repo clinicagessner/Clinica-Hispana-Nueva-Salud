@@ -1036,12 +1036,14 @@ If you're looking for a school or sports physical in Houston with no appointment
       "Cultivos y tratamiento de infecciones vaginales",
       "Ultrasonido pélvico e inyección anticonceptiva",
       "Atención privada en español",
+      "Espacio cómodo, seguro y confidencial",
     ],
     featuresEn: [
       "Pap smear and gynecological checkup",
       "Vaginal cultures and infection treatment",
       "Pelvic ultrasound and birth control shot",
       "Private care in Spanish",
+      "A comfortable, safe and confidential space",
     ],
     longDescription: `Hablar de tu salud íntima es más fácil cuando te escuchan con calma y en tu idioma. Clínica Hispana Nueva Salud funciona también como clínica para la mujer en Bellfort: la consulta de ginecología es en español, con la privacidad y el respeto que mereces, sin seguro médico y con precios accesibles. Puedes llegar sin cita previa o, si te queda mejor, llamar y agendar tu cita. La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte.
 
@@ -1054,6 +1056,15 @@ If you're looking for a school or sports physical in Houston with no appointment
 - **Evaluación de flujo anormal, comezón, ardor o mal olor.**
 - **Ultrasonido pélvico en la clínica:** útil cuando hay dolor en el bajo vientre o sangrado irregular; más detalles en [ultrasonido](/services/ultrasonido).
 - **Inyección anticonceptiva y otros [anticonceptivos](/services/anticonceptivos):** te explicamos cada opción y, si eliges la inyección, se aplica en la misma visita. También hacemos la [prueba de embarazo](/services/prueba-embarazo) si la necesitas.
+
+## Clínica para la mujer: cómoda, segura y confidencial
+
+La consulta ginecológica, el papanicolaou y el ultrasonido se hacen en un mismo lugar, en un espacio cómodo, seguro y confidencial, con el equipo hispano de Nueva Salud:
+
+- **Consulta de ginecología gratis:** la consulta inicial no se cobra
+- **Ultrasonidos** en la clínica
+- **Anticoncepción hormonal**, incluida la inyección anticonceptiva
+- **Agenda tu cita** o llega sin cita
 
 ## ¿Cuándo debo hacerme el Papanicolaou?
 
@@ -1094,6 +1105,15 @@ Si buscas ginecología en Houston donde te hablen en español, estamos en el sur
 - **Evaluation of abnormal discharge, itching, burning or odor.**
 - **Pelvic ultrasound at the clinic:** helpful for lower-belly pain or irregular bleeding; more details on our [ultrasound](/en/services/ultrasonido) page.
 - **Birth control shot and other [birth control](/en/services/anticonceptivos) options:** we walk you through each one and, if you choose the shot, it's given during the same visit. We also do [pregnancy testing](/en/services/prueba-embarazo) if you need it.
+
+## Women's clinic: comfortable, safe and confidential
+
+The gynecology visit, the Pap smear and the ultrasound are done in one place, in a comfortable, safe and confidential space, with the Hispanic team at Nueva Salud:
+
+- **Free gynecology visit:** the initial visit is free of charge
+- **Ultrasounds** at the clinic
+- **Hormonal birth control**, including the birth control shot
+- **Book your appointment** or walk in
 
 ## When should I get a Pap smear?
 
