@@ -1718,7 +1718,7 @@ Depende del examen. Para glucosa, colesterol y triglicéridos conviene un ayuno 
 
 ## Resultados claros, en tu idioma
 
-Un resultado de laboratorio lleno de siglas no sirve de mucho si nadie te lo explica. Por eso cada análisis incluye la revisión con el equipo médico de la clínica: te decimos qué valores están bien, cuáles necesitan atención y qué hacer al respecto. Si necesitas [sueros o vitaminas inyectadas](/services/sueros-vitaminados), medicamento o una referencia a un especialista, lo resolvemos en la misma visita.
+Un resultado de laboratorio lleno de siglas no sirve de mucho si nadie te lo explica. Por eso cada análisis incluye la revisión con el equipo médico de la clínica: te decimos qué valores están bien, cuáles necesitan atención y qué hacer al respecto. Si necesitas [suero de vitamina B12 o vitaminas inyectadas](/services/sueros-vitaminados), medicamento o una referencia a un especialista, lo resolvemos en la misma visita.
 
 ## Análisis de sangre en Bellfort Avenue
 
@@ -1772,7 +1772,7 @@ It depends on the test. For glucose, cholesterol and triglycerides an 8 to 12 ho
 
 ## Clear results, in your language
 
-A lab report full of abbreviations isn't much use if nobody explains it. That's why every test includes a review with the clinic's medical team: we tell you which values are fine, which need attention and what to do about it. If you need [IV fluids or vitamin injections](/en/services/sueros-vitaminados), medication or a specialist referral, we take care of it in the same visit.
+A lab report full of abbreviations isn't much use if nobody explains it. That's why every test includes a review with the clinic's medical team: we tell you which values are fine, which need attention and what to do about it. If you need [a vitamin B12 IV or vitamin injections](/en/services/sueros-vitaminados), medication or a specialist referral, we take care of it in the same visit.
 
 ## Blood lab at a Hispanic clinic near you
 
@@ -3026,112 +3026,102 @@ If you're looking for where to get a flu shot or tetanus booster in Houston with
     order: 23,
     category: "tratamientos",
     icon: "Droplets",
-    title: "Sueros Vitaminados (Terapia IV)",
-    titleEn: "Vitamin IV Therapy",
-    metaTitle: "Sueros Vitaminados en Houston | Clínica Hispana Nueva Salud",
-    metaTitleEn: "Vitamin IV Therapy Houston | Clínica Hispana Nueva Salud",
+    title: "Suero de Vitamina B12 (Terapia IV)",
+    titleEn: "Vitamin B12 IV Therapy",
+    metaTitle: "Suero de Vitamina B12 Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Vitamin B12 IV Therapy Houston | Clínica Hispana Nueva Salud",
     shortDescription:
-      "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
+      "Suero intravenoso de vitamina B12, aplicado por personal médico.",
     shortDescriptionEn:
-      "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
+      "Intravenous vitamin B12 drip, administered by medical staff.",
     description:
-      "Sueros vitaminados (terapia IV) en Houston, TX. Hidratación y vitaminas en español, con precios accesibles. Sin cita y sin seguro médico.",
+      "Suero de vitamina B12 (terapia IV) en Houston, TX. En español, con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "Vitamin IV therapy in Houston, TX. Hydration and vitamins in Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
+      "Vitamin B12 IV therapy in Houston, TX. In Spanish, with affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "sueros vitaminados houston",
       "terapia iv houston",
       "suero de vitaminas houston",
-      "hidratacion intravenosa houston",
+      "suero de vitamina b12 houston",
     ],
     keywordsEn: [
       "vitamin iv therapy houston",
       "iv drip houston",
-      "iv hydration houston",
+      "vitamin b12 iv houston",
       "vitamin drip houston",
     ],
     features: [
-      "Hidratación intravenosa",
-      "Vitaminas y minerales",
+      "Suero de vitamina B12",
+      "Evaluación antes de aplicarlo",
       "Aplicación por personal médico",
       "Atención en español",
     ],
     featuresEn: [
-      "Intravenous hydration",
-      "Vitamins and minerals",
+      "Vitamin B12 IV drip",
+      "Evaluation before starting",
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados (terapia intravenosa o IV) aportan hidratación, vitaminas y minerales directamente a tu torrente sanguíneo, con una absorción mucho mayor que las pastillas. En Clínica Hispana Nueva Salud los aplicamos con personal médico, en un ambiente cómodo y seguro: sin cita previa, sin seguro médico y en español.
+    longDescription: `El suero que aplicamos en Clínica Hispana Nueva Salud es de vitamina B12 (terapia intravenosa o IV): la vitamina llega directamente a tu torrente sanguíneo. Lo aplicamos con personal médico, en un ambiente cómodo y seguro: sin cita previa, sin seguro médico y en español.
 
 ## ¿Qué incluye?
 
-- **Evaluación médica breve** para confirmar que el suero es adecuado para ti y elegir la fórmula
-- **Hidratación intravenosa** con solución salina
-- **Vitaminas y minerales** según tu necesidad (por ejemplo, complejo B, vitamina C, magnesio)
+- **Evaluación médica breve** para confirmar que el suero es adecuado para ti
+- **Vitamina B12** por vía intravenosa
 - **Aplicación y monitoreo** por personal médico durante toda la sesión
 - **Atención en español** y un espacio tranquilo para relajarte
 
-## ¿Cuándo puede ayudarte un suero vitaminado?
+## ¿Cuándo puede ayudarte el suero de vitamina B12?
 
 - Cansancio o falta de energía que no mejora con descanso
-- Deshidratación por calor, trabajo pesado, ejercicio intenso o una noche de fiesta
-- Después de una gripe, vómito o diarrea, cuando cuesta reponerse
-- Apoyo al sistema inmune en temporada de gripe
-- Jornadas largas de trabajo físico bajo el sol de Houston
 - Cuando te cuesta absorber vitaminas por vía oral
 
-**Importante:** el suero vitaminado es un complemento, no sustituye el tratamiento de una enfermedad. Si tu cansancio es constante, conviene buscar la causa con [exámenes de sangre](/services/examenes-sangre) (anemia, [tiroides](/services/tiroides), vitamina B12, diabetes). Nosotros te orientamos.
+**Importante:** el suero de vitamina B12 es un complemento, no sustituye el tratamiento de una enfermedad. Si tu cansancio es constante, conviene buscar la causa con [exámenes de sangre](/services/examenes-sangre) (anemia, [tiroides](/services/tiroides), vitamina B12, diabetes). Nosotros te orientamos.
 
 ## ¿Es seguro?
 
-Sí, siempre que antes te evalúe el equipo médico y lo aplique personal capacitado. Antes de la sesión revisamos tu presión, alergias, embarazo y condiciones como problemas renales o cardíacos, que pueden contraindicar ciertos sueros. La mayoría de las personas solo sienten el pinchazo inicial y una sensación de frescura en el brazo.
+Sí, siempre que antes te evalúe el equipo médico y lo aplique personal capacitado. Antes de la sesión revisamos tu presión, alergias, embarazo y condiciones como problemas renales o cardíacos, que pueden contraindicar el suero. La mayoría de las personas solo sienten el pinchazo inicial y una sensación de frescura en el brazo.
 
 ## ¿Cómo es la sesión?
 
 1. Vienes cuando puedas, sin cita, y te anotas al llegar.
-2. El personal médico te evalúa y elige el suero adecuado para ti.
+2. El personal médico te evalúa y confirma que el suero es adecuado para ti.
 3. Se coloca la vía en el brazo y el suero pasa en 30 a 60 minutos, mientras descansas.
 4. Al terminar puedes retomar tu día normalmente; muchas personas notan más energía ese mismo día o al siguiente.
 
-## Sueros vitaminados en una clínica hispana cerca de ti
+## Suero de vitamina B12 en una clínica hispana cerca de ti
 
-Si buscas sueros vitaminados en Houston aplicados por personal médico, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
-    longDescriptionEn: `Vitamin IV drips (intravenous therapy) deliver hydration, vitamins and minerals straight into your bloodstream, with far greater absorption than pills. At Clínica Hispana Nueva Salud they're administered by medical staff in a comfortable, safe setting: no appointment, no insurance required and in Spanish.
+Si buscas un suero de vitamina B12 en Houston aplicado por personal médico, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby), de lunes a domingo de 9 AM a 9 PM.`,
+    longDescriptionEn: `The IV we give at Clínica Hispana Nueva Salud is a vitamin B12 drip (intravenous therapy): the vitamin goes straight into your bloodstream. It's administered by medical staff in a comfortable, safe setting: no appointment, no insurance required and in Spanish.
 
 ## What's included?
 
-- **Brief medical evaluation** to confirm the drip is right for you and choose the formula
-- **IV hydration** with saline solution
-- **Vitamins and minerals** based on your needs (for example, B complex, vitamin C, magnesium)
+- **Brief medical evaluation** to confirm the drip is right for you
+- **Vitamin B12** given intravenously
 - **Administration and monitoring** by medical staff throughout the session
 - **Care in Spanish** and a quiet space to relax
 
-## When can a vitamin drip help?
+## When can a vitamin B12 drip help?
 
 - Tiredness or low energy that doesn't improve with rest
-- Dehydration from heat, heavy work, intense exercise or a night out
-- After the flu, vomiting or diarrhea, when it's hard to bounce back
-- Immune support during flu season
-- Long days of physical work under the Houston sun
 - When you have trouble absorbing vitamins orally
 
-**Important:** a vitamin drip is a supplement, not a replacement for treating an illness. If your tiredness is constant, it's worth finding the cause with [blood tests](/en/services/examenes-sangre) (anemia, [thyroid](/en/services/tiroides), vitamin B12, diabetes). We'll guide you.
+**Important:** a vitamin B12 drip is a supplement, not a replacement for treating an illness. If your tiredness is constant, it's worth finding the cause with [blood tests](/en/services/examenes-sangre) (anemia, [thyroid](/en/services/tiroides), vitamin B12, diabetes). We'll guide you.
 
 ## Is it safe?
 
-Yes, when administered by medical staff after an evaluation. Before the session we check your blood pressure, allergies, pregnancy and conditions like kidney or heart problems, which may rule out certain drips. Most people only feel the initial needle stick and a cool sensation in the arm.
+Yes, when administered by medical staff after an evaluation. Before the session we check your blood pressure, allergies, pregnancy and conditions like kidney or heart problems, which may rule out the drip. Most people only feel the initial needle stick and a cool sensation in the arm.
 
 ## What is the session like?
 
 1. Come by whenever you can, no appointment, and sign in when you arrive.
-2. The medical staff evaluates you and chooses the right drip for you.
+2. The medical staff evaluates you and confirms the drip is right for you.
 3. The IV line is placed in your arm and the drip runs for 30 to 60 minutes while you rest.
 4. When it's done you can go on with your day; many people notice more energy that same day or the next.
 
-## Vitamin IV therapy at a Hispanic clinic near you
+## Vitamin B12 IV therapy at a Hispanic clinic near you
 
-If you're looking for vitamin IV drips in Houston administered by medical staff, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
+If you're looking for a vitamin B12 IV drip in Houston administered by medical staff, in Spanish and at an affordable price, we're near you in southeast Houston (Bellfort / Hobby area), Monday to Sunday from 9 AM to 9 PM.`,
   },
   {
     slug: "suturas-heridas",

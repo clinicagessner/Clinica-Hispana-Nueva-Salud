@@ -58,7 +58,7 @@ Ahora bien, si tu cuerpo no la absorbe bien, la dieta no basta: puedes comer de 
 
 La inyección sirve para reponer la B12 cuando un análisis confirma que falta, y es la vía que se elige cuando el cuerpo no logra absorberla bien por la boca. Cuando la absorción intestinal es normal y el déficit es leve, las pastillas suelen funcionar, también como mantenimiento. La inyección intramuscular llega a la sangre sin pasar por el intestino, así que se prefiere cuando el déficit es importante, hay síntomas en los nervios o existe un problema de absorción.
 
-En la clínica aplicamos inyecciones de vitamina B12 y ofrecemos [sueros vitaminados](/services/sueros-vitaminados) con hidratación. Si el análisis muestra otra causa del cansancio, como la [tiroides](/services/tiroides), anemia por falta de hierro o una [condición crónica](/services/condiciones-cronicas), la atendemos también.
+En la clínica aplicamos inyecciones de vitamina B12 y ofrecemos [suero de vitamina B12](/services/sueros-vitaminados). Si el análisis muestra otra causa del cansancio, como la [tiroides](/services/tiroides), anemia por falta de hierro o una [condición crónica](/services/condiciones-cronicas), la atendemos también.
 
 ## ¿Con qué frecuencia se pone la inyección?
 

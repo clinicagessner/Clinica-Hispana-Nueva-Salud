@@ -57,7 +57,7 @@ That said, if your body doesn't absorb it well, diet isn't enough: you can eat e
 
 When intestinal absorption is normal and the shortage is mild, pills usually work, including for maintenance. An intramuscular injection reaches the blood without going through the gut, so it is preferred when the deficiency is significant, there are nerve symptoms or there is an absorption problem.
 
-At the clinic we give vitamin B12 injections and offer [vitamin IV therapy](/en/services/sueros-vitaminados) with hydration. If the blood test points to another cause of fatigue, such as the [thyroid](/en/services/tiroides), iron-deficiency anemia or a [chronic condition](/en/services/condiciones-cronicas), we treat that too.
+At the clinic we give vitamin B12 injections and offer [vitamin B12 IV therapy](/en/services/sueros-vitaminados). If the blood test points to another cause of fatigue, such as the [thyroid](/en/services/tiroides), iron-deficiency anemia or a [chronic condition](/en/services/condiciones-cronicas), we treat that too.
 
 ## How often is the shot given?
 

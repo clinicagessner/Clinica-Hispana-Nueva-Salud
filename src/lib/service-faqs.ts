@@ -699,22 +699,22 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "sueros-vitaminados": [
     {
-      question: "¿Quién aplica el suero vitaminado?",
+      question: "¿Quién aplica el suero de vitamina B12?",
       answer: "Siempre personal médico, después de una evaluación breve y con monitoreo durante toda la sesión.",
-      questionEn: "Who administers the vitamin drip?",
+      questionEn: "Who administers the vitamin B12 drip?",
       answerEn: "Always medical staff, after a brief evaluation and with monitoring throughout the session.",
     },
     {
       question: "¿Cuánto dura la sesión?",
-      answer: "Entre 30 y 60 minutos, según el suero. Puedes descansar cómodamente mientras pasa.",
+      answer: "Entre 30 y 60 minutos. Puedes descansar cómodamente mientras pasa.",
       questionEn: "How long does the session take?",
-      answerEn: "Plan on half an hour to an hour, depending on the bag. You can rest comfortably while it runs.",
+      answerEn: "Plan on half an hour to an hour. You can rest comfortably while it runs.",
     },
     {
-      question: "¿Para qué sirve un suero vitaminado?",
-      answer: "Ayuda a rehidratarte y reponer vitaminas y minerales cuando hay cansancio, deshidratación, recuperación de una gripe o malestar, o jornadas de trabajo intensas.",
-      questionEn: "What is a vitamin drip for?",
-      answerEn: "It helps rehydrate you and replenish vitamins and minerals when you're tired, dehydrated, recovering from the flu or feeling unwell, or after intense workdays.",
+      question: "¿Para qué sirve el suero de vitamina B12?",
+      answer: "Aporta vitamina B12 por vía intravenosa. Puede ayudarte si tienes cansancio que no mejora con descanso o te cuesta absorber vitaminas por vía oral; si el cansancio es constante, conviene buscar la causa con un análisis de sangre.",
+      questionEn: "What is the vitamin B12 drip for?",
+      answerEn: "It delivers vitamin B12 intravenously. It may help if you have tiredness that doesn't improve with rest or trouble absorbing vitamins orally; if the tiredness is constant, it's worth finding the cause with a blood test.",
     },
     {
       question: "¿Es seguro? ¿Tiene efectos secundarios?",
