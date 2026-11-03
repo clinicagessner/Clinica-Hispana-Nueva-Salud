@@ -13,7 +13,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))
+## Tanda 56 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))  📨 ENVIADA 03/11/2026
 
 - [ ] https://www.hispananuevasalud.com/  — cambiada 2026-11-02
 - [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-11-02
