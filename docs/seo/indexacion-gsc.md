@@ -26,7 +26,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
 - [ ] https://www.hispananuevasalud.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
 
-## Tanda 57
+## Tanda 60 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
+
+- [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-11-02
+
+## Tanda 61
 
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · ? · 84 impr.
 - [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · rastreada 2026-06-18 · rastreada sin indexar · 52 impr.
@@ -39,7 +44,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 6 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 5 impr.
 
-## Tanda 58
+## Tanda 62
 
 - [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 2 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
@@ -52,7 +57,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 
-## Tanda 59
+## Tanda 63
 
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
