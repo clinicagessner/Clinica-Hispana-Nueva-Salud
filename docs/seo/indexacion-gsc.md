@@ -6,27 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 73 de 98 URLs del sitemap indexadas · 25 sin indexar (11 desconocida · 11 descubierta sin indexar · 2 rastreada sin indexar · 1 otra).
+**Estado (actualizado 2026-11-04; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 73 de 98 URLs del sitemap indexadas · 25 sin indexar (11 desconocida · 11 descubierta sin indexar · 2 rastreada sin indexar · 1 otra).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 11 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))  ✅ PEDIDA 03/11/2026
-
-- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-02
-- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-02
-- [x] https://www.hispananuevasalud.com/services  — cambiada 2026-11-02
-- [x] https://www.hispananuevasalud.com/en/services  — cambiada 2026-11-02
-- [x] https://www.hispananuevasalud.com/services/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-02
-- [x] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-02
-- [x] https://www.hispananuevasalud.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
-- [x] https://www.hispananuevasalud.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
-
-## Tanda 60 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
+## Tanda 60 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026
 
 - [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-11-02
 - [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-11-02
@@ -240,3 +227,16 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 - [x] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-10-29
 - [x] https://www.hispananuevasalud.com/en/services/examen-heces  — cambiada 2026-10-29
 - [x] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-29 (firma del equipo médico)
+
+## Tanda 56 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))  ✅ PEDIDA 03/11/2026
+
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/services  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en/services  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
+- [x] https://www.hispananuevasalud.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
