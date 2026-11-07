@@ -6,19 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-06; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 73 de 98 URLs del sitemap indexadas · 25 sin indexar (11 desconocida · 11 descubierta sin indexar · 2 rastreada sin indexar · 1 otra).
+**Estado (actualizado 2026-11-07; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 73 de 100 URLs del sitemap indexadas · 27 sin indexar (11 desconocida · 11 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos · 1 otra).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 11 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 64 — cambios del 2026-11-06 (post del blog semanal)  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
-
-- [x] https://www.hispananuevasalud.com/blog/primera-menstruacion-ninas-que-es-normal  — cambiada 2026-11-06
-- [x] https://www.hispananuevasalud.com/en/blog/primera-menstruacion-ninas-que-es-normal  — cambiada 2026-11-06
-
-## Tanda 61
+## Tanda 65
 
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · ? · 84 impr.
 - [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · rastreada 2026-06-18 · rastreada sin indexar · 52 impr.
@@ -31,7 +26,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 6 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 5 impr.
 
-## Tanda 62
+## Tanda 66
 
 - [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 2 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
@@ -44,7 +39,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 
-## Tanda 63
+## Tanda 67
 
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
@@ -245,3 +240,8 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 
 - [x] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-11-02
 - [x] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-11-02
+
+## Tanda 64 — cambios del 2026-11-06 (post del blog semanal)  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
+
+- [x] https://www.hispananuevasalud.com/blog/primera-menstruacion-ninas-que-es-normal  — cambiada 2026-11-06
+- [x] https://www.hispananuevasalud.com/en/blog/primera-menstruacion-ninas-que-es-normal  — cambiada 2026-11-06
