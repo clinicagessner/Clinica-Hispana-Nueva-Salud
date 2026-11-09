@@ -6,22 +6,22 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-08; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 73 de 100 URLs del sitemap indexadas · 27 sin indexar (11 desconocida · 11 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos · 1 otra).
+**Estado (actualizado 2026-11-09; URL Inspection API, datos de hoy 2026-11-09):** 76 de 100 URLs del sitemap indexadas · 24 sin indexar (17 descubierta sin indexar · 6 desconocida · 1 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 12 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-7 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-12).
+5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-12).
 <!-- /tandas:auto -->
 
 ## Tanda 65
 
-- [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · ? · 84 impr.
-- [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · rastreada 2026-06-18 · rastreada sin indexar · 52 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 51 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 43 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 89 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 52 impr.
+- [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · descubierta sin indexar · 50 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 41 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 20 impr.
-- [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 19 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/curacion-heridas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 7 impr.
+- [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 18 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/curacion-heridas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 8 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 7 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 6 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 5 impr.
@@ -29,21 +29,21 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 66
 
 - [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 2 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/suturas-heridas  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/tiroides  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/tiroides  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 
 ## Tanda 67
 
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/infecciones-urinarias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/tiroides  — cambiada 2026-09-25 · desconocida · pedida 2026-10-13 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/vacunas  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
