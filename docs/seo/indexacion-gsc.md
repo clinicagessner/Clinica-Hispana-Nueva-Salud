@@ -13,15 +13,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 68 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 14/11/2026
+## Tanda 68 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
 
-- [ ] https://www.hispananuevasalud.com/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
-- [ ] https://www.hispananuevasalud.com/en/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
+- [x] https://www.hispananuevasalud.com/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
+- [x] https://www.hispananuevasalud.com/en/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
 
-## Tanda 69 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026
+## Tanda 69 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
 
-- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
-- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-11-14 (YouTube en el footer)
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-14 (YouTube en el footer)
 
 ## Tanda 70
 
