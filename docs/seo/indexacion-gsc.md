@@ -18,6 +18,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
 - [ ] https://www.hispananuevasalud.com/en/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
 
+## Tanda 69 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.hispananuevasalud.com/es  — cambiada 2026-11-14
+
 ## Tanda 65
 
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 89 impr.
