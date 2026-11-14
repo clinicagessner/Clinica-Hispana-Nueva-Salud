@@ -85,6 +85,7 @@ export const OPENING_HOURS = [
 export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicahispananuevasaludhoustontexas",
   instagram: "https://www.instagram.com/clinicahispananuevasalud/",
+  youtube: "https://www.youtube.com/@ClinicaHispanaNuevaSalud",
   // Perfiles declarados en Google Business Profile (2026-09-01).
   linkedin: "https://www.linkedin.com/in/clinica-hispana-nueva-salud",
   x: "https://x.com/CHispNuevaSalud",
