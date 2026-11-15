@@ -6,11 +6,11 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-14; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 76 de 102 URLs del sitemap indexadas · 26 sin indexar (17 descubierta sin indexar · 6 desconocida · 2 sin datos · 1 rastreada sin indexar).
+**Estado (actualizado 2026-11-15; URL Inspection API, datos de hoy 2026-11-15):** 76 de 102 URLs del sitemap indexadas · 26 sin indexar (18 descubierta sin indexar · 5 desconocida · 3 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 19 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 15 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 14 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
+1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
 ## Tanda 74 — cambios del 2026-11-15 (análisis diario: frases de los anuncios en home y ginecología, título de exámenes de sangre + servicios sin indexar)  📨 ENVIADA 15/11/2026
@@ -26,56 +26,48 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/services/sueros-vitaminados  — sin indexar (descubierta, no indexada)
 - [ ] https://www.hispananuevasalud.com/services/tiroides  — sin indexar (descubierta, no indexada)
 
-## Tanda 68 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
+## Tanda 75
 
-- [x] https://www.hispananuevasalud.com/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
-- [x] https://www.hispananuevasalud.com/en/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
+- [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 30 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 17 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 11 impr.
+- [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · descubierta sin indexar · 8 impr.
+- [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 5 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/curacion-heridas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 3 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 3 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 1 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 1 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 1 impr.
 
-## Tanda 69 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
+## Tanda 76
 
-- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
-- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-14 (YouTube en el footer)
-
-## Tanda 70
-
-- [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 89 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 52 impr.
-- [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-25 · descubierta sin indexar · 50 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 41 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 20 impr.
-- [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 18 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/curacion-heridas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 8 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 7 impr.
-
-## Tanda 71
-
-- [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 6 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 5 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 2 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/suturas-heridas  — cambiada 2026-09-25 · desconocida · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/tiroides  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-07-07 · rastreada sin indexar · pedida 2026-10-06 · 15 impr.
 - [ ] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 
-## Tanda 72
+## Tanda 77
 
-- [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/vacunas  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-29 · rastreada 2026-07-05 · rastreada sin indexar · pedida 2026-10-31 · 1 impr.
 - [ ] https://www.hispananuevasalud.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-09-25 · rastreada 2026-09-30 · rastreada sin indexar · 0 impr.
-
-## Tanda 73
-
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-29 · desconocida · pedida 2026-10-31 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29 · desconocida · pedida 2026-10-31 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 · desconocida · pedida 2026-10-19 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-29 · descubierta sin indexar · pedida 2026-10-31 · 0 impr.
+
+## Tanda 78
+
+- [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29 · descubierta sin indexar · pedida 2026-10-31 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -272,3 +264,13 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 
 - [x] https://www.hispananuevasalud.com/blog/primera-menstruacion-ninas-que-es-normal  — cambiada 2026-11-06
 - [x] https://www.hispananuevasalud.com/en/blog/primera-menstruacion-ninas-que-es-normal  — cambiada 2026-11-06
+
+## Tanda 68 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
+
+- [x] https://www.hispananuevasalud.com/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
+- [x] https://www.hispananuevasalud.com/en/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
+
+## Tanda 69 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
+
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-14 (YouTube en el footer)
