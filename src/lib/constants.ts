@@ -1060,7 +1060,7 @@ If you're looking for a school or sports physical in Houston with no appointment
 
 ## Clínica para la mujer: cómoda, segura y confidencial
 
-La consulta ginecológica, el papanicolaou y el ultrasonido se hacen en un mismo lugar, en un espacio cómodo, seguro y confidencial, con el equipo hispano de Nueva Salud:
+Muchas pacientes de Bellfort nos buscan como clínica para mujeres o como clínica hispana de ginecología, y las dos cosas son ciertas: en una sola visita puedes tener tu revisión ginecológica, tu papanicolaou y tu ultrasonido, con un equipo hispano y en un espacio cómodo, seguro y confidencial:
 
 - **Consulta de ginecología gratis:** la consulta inicial no se cobra
 - **Ultrasonidos** en la clínica
@@ -1109,7 +1109,7 @@ Si buscas ginecología en Houston donde te hablen en español, estamos en el sur
 
 ## Women's clinic: comfortable, safe and confidential
 
-The gynecology visit, the Pap smear and the ultrasound are done in one place, in a comfortable, safe and confidential space, with the Hispanic team at Nueva Salud:
+Many patients around Bellfort look for us as a clinic for women or as a Hispanic gynecology clinic, and both are true: in a single visit you can have your gynecology checkup, your Pap smear and your ultrasound, with a Hispanic team and in a comfortable, safe and confidential space:
 
 - **Free gynecology visit:** the initial visit is free of charge
 - **Ultrasounds** at the clinic
