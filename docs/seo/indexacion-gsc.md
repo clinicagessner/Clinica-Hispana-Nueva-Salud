@@ -13,6 +13,19 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
+## Tanda 74 — cambios del 2026-11-15 (análisis diario: frases de los anuncios en home y ginecología, título de exámenes de sangre + servicios sin indexar)  📨 ENVIADA 15/11/2026
+
+- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-11-15
+- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-11-15
+- [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-11-15
+- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-11-15
+- [ ] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-15
+- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-15
+- [ ] https://www.hispananuevasalud.com/services/salud-hombre  — sin indexar (descubierta, no indexada)
+- [ ] https://www.hispananuevasalud.com/services/infecciones-urinarias  — sin indexar (descubierta, no indexada)
+- [ ] https://www.hispananuevasalud.com/services/sueros-vitaminados  — sin indexar (descubierta, no indexada)
+- [ ] https://www.hispananuevasalud.com/services/tiroides  — sin indexar (descubierta, no indexada)
+
 ## Tanda 68 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
 
 - [x] https://www.hispananuevasalud.com/blog/lunares-manchas-que-cambian-cuando-revisarlos  — cambiada 2026-11-13
@@ -54,9 +67,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/infecciones-urinarias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/salud-hombre  — cambiada 2026-10-29 · descubierta sin indexar · pedida 2026-10-29 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/tiroides  — cambiada 2026-09-25 · desconocida · pedida 2026-10-13 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/vacunas  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-09-25 · rastreada 2026-09-30 · rastreada sin indexar · 0 impr.
 
