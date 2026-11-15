@@ -1656,8 +1656,8 @@ If you're looking for a prostate (PSA) or testosterone test in Houston with no a
     highlighted: true,
     title: "Análisis y Exámenes de Sangre | Laboratorio",
     titleEn: "Blood Tests | Lab",
-    metaTitle: "Exámenes de Sangre en Houston | Clínica Hispana Nueva Salud",
-    metaTitleEn: "Blood Tests in Houston, TX | Clínica Hispana Nueva Salud",
+    metaTitle: "Exámenes de Sangre Sin Cita en Houston | Clínica Hispana Nueva Salud",
+    metaTitleEn: "Walk-In Blood Tests in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
       "Análisis de sangre completos con resultados rápidos e interpretación en español, sin cita previa.",
     shortDescriptionEn:
