@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 74 — cambios del 2026-11-15 (análisis diario: frases de los anuncios en home y ginecología, título de exámenes de sangre + servicios sin indexar)  📨 ENVIADA 15/11/2026
+## Tanda 74 — cambios del 2026-11-15 (análisis diario: frases de los anuncios en home y ginecología, título de exámenes de sangre + servicios sin indexar)  📨 ENVIADA 15/11/2026  ✅ PEDIDA 15/11/2026
 
-- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-11-15
-- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-11-15
-- [ ] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-11-15
-- [ ] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-11-15
-- [ ] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-15
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-15
-- [ ] https://www.hispananuevasalud.com/services/salud-hombre  — sin indexar (descubierta, no indexada)
-- [ ] https://www.hispananuevasalud.com/services/infecciones-urinarias  — sin indexar (descubierta, no indexada)
-- [ ] https://www.hispananuevasalud.com/services/sueros-vitaminados  — sin indexar (descubierta, no indexada)
-- [ ] https://www.hispananuevasalud.com/services/tiroides  — sin indexar (descubierta, no indexada)
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-15
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-15
+- [x] https://www.hispananuevasalud.com/services/ginecologia  — cambiada 2026-11-15
+- [x] https://www.hispananuevasalud.com/en/services/ginecologia  — cambiada 2026-11-15
+- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-15
+- [x] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-15
+- [x] https://www.hispananuevasalud.com/services/salud-hombre  — sin indexar (descubierta, no indexada)
+- [x] https://www.hispananuevasalud.com/services/infecciones-urinarias  — sin indexar (descubierta, no indexada)
+- [x] https://www.hispananuevasalud.com/services/sueros-vitaminados  — sin indexar (descubierta, no indexada)
+- [x] https://www.hispananuevasalud.com/services/tiroides  — sin indexar (descubierta, no indexada)
 
 ## Tanda 75
 
