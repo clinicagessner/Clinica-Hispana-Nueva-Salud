@@ -6,19 +6,19 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-20; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 76 de 102 URLs del sitemap indexadas · 26 sin indexar (12 descubierta sin indexar · 11 desconocida · 3 rastreada sin indexar).
+**Estado (actualizado 2026-11-21; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 76 de 104 URLs del sitemap indexadas · 28 sin indexar (12 descubierta sin indexar · 11 desconocida · 3 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 15 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
 <!-- /tandas:auto -->
 
-## Tanda 79 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 20/11/2026
+## Tanda 79 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026
 
 - [ ] https://www.hispananuevasalud.com/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
 - [ ] https://www.hispananuevasalud.com/en/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
 
-## Tanda 75
+## Tanda 80
 
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 95 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 56 impr.
@@ -31,7 +31,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 6 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 5 impr.
 
-## Tanda 76
+## Tanda 81
 
 - [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 2 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
@@ -44,7 +44,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 
-## Tanda 77
+## Tanda 82
 
 - [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 · desconocida · pedida 2026-10-18 · 0 impr.
@@ -57,7 +57,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 · desconocida · pedida 2026-10-19 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-29 · descubierta sin indexar · pedida 2026-10-31 · 0 impr.
 
-## Tanda 78
+## Tanda 83
 
 - [ ] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29 · descubierta sin indexar · pedida 2026-10-31 · 0 impr.
