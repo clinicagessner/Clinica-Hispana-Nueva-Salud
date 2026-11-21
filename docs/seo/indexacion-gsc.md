@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
 <!-- /tandas:auto -->
 
-## Tanda 79 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026
+## Tanda 79 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
 
-- [ ] https://www.hispananuevasalud.com/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
-- [ ] https://www.hispananuevasalud.com/en/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
+- [x] https://www.hispananuevasalud.com/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
+- [x] https://www.hispananuevasalud.com/en/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
 
 ## Tanda 80
 
