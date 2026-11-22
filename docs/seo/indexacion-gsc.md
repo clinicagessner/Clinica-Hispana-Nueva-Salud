@@ -6,17 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-21; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 76 de 104 URLs del sitemap indexadas · 28 sin indexar (12 descubierta sin indexar · 11 desconocida · 3 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-22; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 76 de 104 URLs del sitemap indexadas · 28 sin indexar (12 descubierta sin indexar · 11 desconocida · 3 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 15 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
+6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
 <!-- /tandas:auto -->
-
-## Tanda 79 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
-
-- [x] https://www.hispananuevasalud.com/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
-- [x] https://www.hispananuevasalud.com/en/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
 
 ## Tanda 80
 
@@ -280,3 +275,8 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 - [x] https://www.hispananuevasalud.com/services/infecciones-urinarias  — sin indexar (descubierta, no indexada)
 - [x] https://www.hispananuevasalud.com/services/sueros-vitaminados  — sin indexar (descubierta, no indexada)
 - [x] https://www.hispananuevasalud.com/services/tiroides  — sin indexar (descubierta, no indexada)
+
+## Tanda 79 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
+
+- [x] https://www.hispananuevasalud.com/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
+- [x] https://www.hispananuevasalud.com/en/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
