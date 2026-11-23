@@ -40,7 +40,7 @@ Eating with diabetes doesn't mean giving up home cooking: it's about adjusting a
 
 1. **Cut back on sugary drinks:** sodas, juices and sweetened aguas frescas are the easiest sugar source to eliminate. Switch to water, water with lime or unsweetened tea.
 2. **Watch portions of tortillas, rice, bread and potatoes:** no need to remove them, but limit them to one serving (2 tortillas, half a cup of rice) and pair them with protein and vegetables.
-3. **Fill half your plate with vegetables:** nopales, squash, chayote, green beans, salad. They're cheap, filling and barely raise your sugar.
+3. **Fill half your plate with vegetables:** nopales, squash, chayote, green beans, salad. They're budget-friendly, filling and barely raise your sugar.
 4. **Choose beans from the pot** over refried beans with lard, and **grilled or stewed meats** over breaded or fried.
 5. **Don't skip meals.** Eating 3 times a day at regular hours prevents spikes and crashes.
 6. **Whole fruit, not juice:** one orange, yes; a glass of orange juice equals 3-4 oranges without the fiber.

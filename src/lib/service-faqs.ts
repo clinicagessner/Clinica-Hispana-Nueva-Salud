@@ -352,9 +352,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Puedo hacerme exámenes sin orden de otro médico?",
-      answer: "Sí. Nuestro médico te evalúa en la misma visita, indica los exámenes que necesitas y luego te explica los resultados.",
+      answer: "Sí. Nuestro equipo médico te evalúa en la misma visita, indica los exámenes que necesitas y luego te explica los resultados.",
       questionEn: "Can I get tests without an order from another doctor?",
-      answerEn: "Yes. Our doctor evaluates you in the same visit, orders the tests you need and then explains the results.",
+      answerEn: "Yes. Our medical team evaluates you in the same visit, orders the tests you need and then explains the results.",
     },
     {
       question: "¿Qué exámenes incluye un chequeo general?",
@@ -610,9 +610,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "examen-dot": [
     {
       question: "¿Salgo con el certificado DOT en la mano?",
-      answer: "Sí. Si cumples los requisitos, te llevas el certificado impreso ese mismo día, al terminar el examen.",
+      answer: "Sí. Si cumples los requisitos, te llevas el certificado impreso al terminar el examen.",
       questionEn: "Do I leave with my DOT certificate in hand?",
-      answerEn: "Yes. If you meet the requirements, you take your printed certificate home that same day, right after the exam.",
+      answerEn: "Yes. If you meet the requirements, you take your printed certificate home right after the exam.",
     },
     {
       question: "¿Qué debo llevar al examen DOT?",

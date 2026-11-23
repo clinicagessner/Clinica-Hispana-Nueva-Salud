@@ -23,9 +23,9 @@ Es un médico con licencia al que USCIS designa para hacer exámenes médicos de
 
 USCIS tiene un buscador público, [Find a Doctor](https://www.uscis.gov/tools/find-a-civil-surgeon): escribes tu código postal y aparece la lista de civil surgeons cercanos. Antes de ir:
 
-1. Busca el nombre del médico en ese buscador, no solo el nombre de la clínica.
+1. Busca el nombre del civil surgeon en ese buscador, no solo el nombre de la clínica.
 2. Pregunta por teléfono qué médico firmará tu formulario.
-3. Desconfía de las ofertas que prometen "sin análisis de sangre" o "todo en 15 minutos": las pruebas las exige el CDC, no el médico.
+3. Desconfía de las ofertas que prometen "sin análisis de sangre" o "todo en 15 minutos": las pruebas las exige el CDC, no la clínica.
 
 ## ¿Qué revisa el civil surgeon?
 
@@ -41,7 +41,7 @@ Si ya tienes una [prueba de tuberculosis](/services/prueba-tuberculosis) recient
 
 ## ¿Por qué no sirve cualquier médico?
 
-Porque USCIS solo acepta el I-693 firmado por un civil surgeon designado. Si lo firma otro médico, aunque tenga licencia y haga bien el examen, el formulario se rechaza y tendrás que repetirlo todo y pagar otra vez. USCIS también fija un plazo entre la firma del médico y la presentación de tu solicitud; revisa las reglas vigentes en la [página oficial del I-693](https://www.uscis.gov/i-693) antes de agendar, para que el examen no caduque antes de enviarlo.
+Porque USCIS solo acepta el I-693 firmado por un civil surgeon designado. Si lo firma otro médico, aunque tenga licencia y haga bien el examen, el formulario se rechaza y tendrás que repetirlo todo y pagar otra vez. USCIS también fija un plazo entre la firma del civil surgeon y la presentación de tu solicitud; revisa las reglas vigentes en la [página oficial del I-693](https://www.uscis.gov/i-693) antes de agendar, para que el examen no caduque antes de enviarlo.
 
 ## ¿Qué preguntar antes de agendar?
 

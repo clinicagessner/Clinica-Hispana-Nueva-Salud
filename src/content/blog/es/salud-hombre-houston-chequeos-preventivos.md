@@ -52,7 +52,7 @@ La tabla resume lo que aconseja el [Grupo de Trabajo de Servicios Preventivos de
 | 35 a 70 | Azúcar en sangre si tienes sobrepeso u obesidad |
 | 40 a 75 | Valorar tu riesgo cardiovascular con el colesterol, para decidir si conviene tratamiento |
 | 45 a 75 | Detección de cáncer de colon |
-| 55 a 69 | Decidir con el médico si hacerte el PSA: tiene beneficios y también posibles daños ([USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening)) |
+| 55 a 69 | Decidir con el equipo médico si hacerte el PSA: tiene beneficios y también posibles daños ([USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening)) |
 | 65 a 75 | Un ultrasonido de aorta abdominal si alguna vez fumaste |
 
 ## Señales de alarma: no las ignores

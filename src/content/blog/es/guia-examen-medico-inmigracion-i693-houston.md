@@ -28,7 +28,7 @@ Principalmente quien pide la green card sin salir de Estados Unidos, mediante el
 - **Lentes o aparatos para oír**, si los usas.
 - Tu número A (*A-Number*), si ya tienes uno.
 
-No firmes el formulario antes de llegar: se firma delante del médico.
+No firmes el formulario antes de llegar: se firma delante del civil surgeon.
 
 ## ¿Cómo es la visita, paso a paso?
 
@@ -44,11 +44,11 @@ Depende de la edad y de lo que ya tengas. La lista del CDC incluye, entre otras,
 
 ## ¿Y después de la visita?
 
-Cuando llegan todos los resultados de laboratorio, el médico completa y firma el I-693. Si algo sale alterado, por ejemplo una prueba de tuberculosis positiva, puede hacer falta una radiografía de tórax o una evaluación adicional antes de cerrarlo. El formulario se entrega como indican las instrucciones vigentes de USCIS; si te lo dan en un sobre sellado, no lo abras, porque USCIS podría rechazarlo.
+Cuando llegan todos los resultados de laboratorio, el civil surgeon completa y firma el I-693. Si algo sale alterado, por ejemplo una prueba de tuberculosis positiva, puede hacer falta una radiografía de tórax o una evaluación adicional antes de cerrarlo. El formulario se entrega como indican las instrucciones vigentes de USCIS; si te lo dan en un sobre sellado, no lo abras, porque USCIS podría rechazarlo.
 
 ## ¿Cuánto tiempo es válido?
 
-USCIS fija un plazo entre la firma del médico y la presentación de tu solicitud. Esas reglas han cambiado en los últimos años, así que confirma el plazo actual en la [página del I-693](https://www.uscis.gov/i-693) y coordina la fecha del examen con tu abogado.
+USCIS fija un plazo entre la firma del civil surgeon y la presentación de tu solicitud. Esas reglas han cambiado en los últimos años, así que confirma el plazo actual en la [página del I-693](https://www.uscis.gov/i-693) y coordina la fecha del examen con tu abogado.
 
 ## ¿Dónde hacerlo en el sureste de Houston?
 

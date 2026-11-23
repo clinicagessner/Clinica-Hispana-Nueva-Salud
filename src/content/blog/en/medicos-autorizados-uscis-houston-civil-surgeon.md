@@ -17,15 +17,15 @@ If you are applying for permanent residence (a green card) from inside the Unite
 
 ## What does "civil surgeon" mean?
 
-It is a licensed physician whom USCIS designates to perform immigration medical exams inside the country. The word *surgeon* is misleading: the doctor does not have to be a surgeon. What matters is the USCIS designation, which is granted to each physician individually, not to a clinic as a building. If your case is processed abroad, a different professional does the exam: a *panel physician* appointed by the Department of State.
+It is a licensed physician whom USCIS designates to perform immigration medical exams inside the country. The word *surgeon* is misleading: a civil surgeon does not have to be a surgeon. What matters is the USCIS designation, which is granted to each physician individually, not to a clinic as a building. If your case is processed abroad, a different professional does the exam: a *panel physician* appointed by the Department of State.
 
 ## How do I know a doctor is authorized?
 
 USCIS runs a public search tool, [Find a Doctor](https://www.uscis.gov/tools/find-a-civil-surgeon): enter your ZIP code and it lists nearby civil surgeons. Before you go:
 
-1. Search for the doctor's name in that tool, not just the clinic's name.
+1. Search for the civil surgeon's name in that tool, not just the clinic's name.
 2. Call and ask which physician will sign your form.
-3. Be wary of offers promising "no blood work" or "done in 15 minutes": the tests are required by the CDC, not chosen by the doctor.
+3. Be wary of offers promising "no blood work" or "done in 15 minutes": the tests are required by the CDC, not chosen by the clinic.
 
 ## What does the civil surgeon check?
 
@@ -41,7 +41,7 @@ If you already have a recent [tuberculosis test](/en/services/prueba-tuberculosi
 
 ## Why won't any doctor do?
 
-Because USCIS only accepts an I-693 signed by a designated civil surgeon. If another doctor signs it, even a licensed one who does the exam well, the form is rejected and you will have to repeat everything and pay again. USCIS also sets a time limit between the doctor's signature and your filing; check the current rules on the [official I-693 page](https://www.uscis.gov/i-693) before you book, so the exam does not expire before you submit it.
+Because USCIS only accepts an I-693 signed by a designated civil surgeon. If another doctor signs it, even a licensed one who does the exam well, the form is rejected and you will have to repeat everything and pay again. USCIS also sets a time limit between the civil surgeon's signature and your filing; check the current rules on the [official I-693 page](https://www.uscis.gov/i-693) before you book, so the exam does not expire before you submit it.
 
 ## What to ask before booking
 

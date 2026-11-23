@@ -39,7 +39,7 @@ Hasta 24 meses. El examinador puede darte uno más corto cuando una condición n
 - Tu licencia de manejar.
 - Lentes, lentes de contacto o aparatos para oír, si los usas.
 - La lista de tus medicamentos con la dosis.
-- Con diabetes tratada con insulina: el MCSA-5870, completado por el médico que lleva tu tratamiento ([FMCSA](https://www.fmcsa.dot.gov/regulations/medical/insulin-treated-diabetes-mellitus-assessment-form-mcsa-5870)). Debe tener menos de 45 días cuando llegues al examen.
+- Con diabetes tratada con insulina: el MCSA-5870, completado por tu médico tratante ([FMCSA](https://www.fmcsa.dot.gov/regulations/medical/insulin-treated-diabetes-mellitus-assessment-form-mcsa-5870)). Debe tener menos de 45 días cuando llegues al examen.
 - Si tienes apnea del sueño con CPAP: el reporte de uso del equipo.
 - Informes recientes del especialista si tienes una condición del corazón.
 
@@ -59,4 +59,4 @@ Depende del motivo. Muchas veces se resuelve controlando la condición: bajar la
 
 ## Tu examen DOT en Bellfort Avenue
 
-En Clínica Hispana Nueva Salud (7640 Bellfort Ave, Suite A, Houston 77061) hacemos el [examen físico DOT](/services/examen-dot) sin cita y en español. Si cumples los requisitos, te llevas tu certificado médico ese mismo día. Como abrimos de 9 AM a 9 PM también sábado y domingo, puedes pasar antes de salir a carretera o al volver. Teléfono y WhatsApp: **(832) 831-4016**.
+En Clínica Hispana Nueva Salud (7640 Bellfort Ave, Suite A, Houston 77061) hacemos el [examen físico DOT](/services/examen-dot) sin cita y en español. Si cumples los requisitos, te llevas tu certificado médico. Como abrimos de 9 AM a 9 PM también sábado y domingo, puedes pasar antes de salir a carretera o al volver. Teléfono y WhatsApp: **(832) 831-4016**.

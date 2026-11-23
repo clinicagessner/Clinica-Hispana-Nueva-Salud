@@ -28,7 +28,7 @@ Mainly people applying for permanent residence from inside the United States wit
 - **Your glasses or hearing aids**, if you rely on them.
 - Your A-Number, if USCIS has already assigned you one.
 
-Don't sign the form before you arrive: it is signed in front of the doctor.
+Don't sign the form before you arrive: it is signed in front of the civil surgeon.
 
 ## How does the visit go, step by step?
 
@@ -44,11 +44,11 @@ It depends on your age and what you already have. The CDC list includes, among o
 
 ## What happens after the visit?
 
-Once all the lab results are in, the doctor completes and signs the I-693. If something comes back abnormal, such as a positive tuberculosis test, a chest X-ray or further evaluation may be needed before the form can be finished. The form is delivered as current USCIS instructions require; if you receive it in a sealed envelope, do not open it, or USCIS may reject it.
+Once all the lab results are in, the civil surgeon completes and signs the I-693. If something comes back abnormal, such as a positive tuberculosis test, a chest X-ray or further evaluation may be needed before the form can be finished. The form is delivered as current USCIS instructions require; if you receive it in a sealed envelope, do not open it, or USCIS may reject it.
 
 ## How long is it valid?
 
-USCIS sets a time limit between the doctor's signature and your filing. Those rules have changed in recent years, so confirm the current limit on the [I-693 page](https://www.uscis.gov/i-693) and plan the exam date with your attorney.
+USCIS sets a time limit between the civil surgeon's signature and your filing. Those rules have changed in recent years, so confirm the current limit on the [I-693 page](https://www.uscis.gov/i-693) and plan the exam date with your attorney.
 
 ## Where to do it in southeast Houston?
 

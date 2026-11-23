@@ -59,4 +59,4 @@ It depends on the reason. Often it can be solved by getting the condition under 
 
 ## Your DOT physical on Bellfort Avenue
 
-At Clínica Hispana Nueva Salud (7640 Bellfort Ave, Suite A, Houston 77061) we perform the [DOT physical](/en/services/examen-dot) with no appointment and in Spanish. If you meet the requirements, you leave with your medical certificate that same day. Since we're open 9 AM to 9 PM on weekends too, you can stop by before heading out or once you're back. Phone and WhatsApp: **(832) 831-4016**.
+At Clínica Hispana Nueva Salud (7640 Bellfort Ave, Suite A, Houston 77061) we perform the [DOT physical](/en/services/examen-dot) with no appointment and in Spanish. If you meet the requirements, you leave with your medical certificate. Since we're open 9 AM to 9 PM on weekends too, you can stop by before heading out or once you're back. Phone and WhatsApp: **(832) 831-4016**.

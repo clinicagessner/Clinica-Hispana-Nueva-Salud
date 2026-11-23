@@ -30,13 +30,13 @@ La prevención en la mujer no es un solo examen: cambia con la edad. Saber qué 
 **Desde los 65 años**
 - **Densidad ósea** para detectar osteoporosis ([USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening)).
 - Mamografía hasta los 74 años.
-- El papanicolaou puede suspenderse si los anteriores fueron normales; lo decides con el médico.
+- El papanicolaou puede suspenderse si los anteriores fueron normales; lo decides con el equipo médico.
 
 Estas son recomendaciones generales. Si tienes antecedentes familiares, síntomas o resultados anteriores alterados, el calendario cambia.
 
 ## ¿Qué vacunas conviene revisar?
 
-- **VPH:** se recomienda de forma rutinaria en la adolescencia y como puesta al día hasta los 26 años; entre los 27 y los 45 se decide caso por caso con el médico.
+- **VPH:** se recomienda de forma rutinaria en la adolescencia y como puesta al día hasta los 26 años; entre los 27 y los 45 se decide caso por caso con el equipo médico.
 - **Tétanos, difteria y tos ferina (Tdap):** una dosis en cada embarazo, para proteger al bebé en sus primeros meses.
 - **Influenza:** cada año, sobre todo si estás embarazada o tienes una enfermedad crónica.
 

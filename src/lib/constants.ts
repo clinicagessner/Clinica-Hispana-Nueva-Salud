@@ -2684,13 +2684,13 @@ If you're looking for an affordable ultrasound in Houston in Spanish, we're near
     metaTitle: "Examen DOT para CDL en Houston | Clínica Hispana Nueva Salud",
     metaTitleEn: "DOT Physical in Houston, TX | Clínica Hispana Nueva Salud",
     shortDescription:
-      "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",
+      "Examen físico DOT para conductores comerciales (CDL), sin cita previa y en español.",
     shortDescriptionEn:
-      "DOT physical exam for commercial drivers (CDL), with same-day certificate.",
+      "DOT physical exam for commercial drivers (CDL), walk-in and in Spanish.",
     description:
-      "Examen físico DOT en Houston, TX para licencia CDL, certificado el mismo día y en español. Con precios accesibles. Sin cita y sin seguro médico.",
+      "Examen físico DOT en Houston, TX para licencia CDL, en español. Con precios accesibles. Sin cita y sin seguro médico.",
     descriptionEn:
-      "DOT physical exam in Houston, TX for CDL license, same-day certificate, in Spanish. With affordable pricing. Walk-ins welcome, no insurance needed.",
+      "DOT physical exam in Houston, TX for CDL license, in Spanish. With affordable pricing. Walk-ins welcome, no insurance needed.",
     keywords: [
       "examen dot houston",
       "examen fisico dot houston español",
@@ -2704,18 +2704,18 @@ If you're looking for an affordable ultrasound in Houston in Spanish, we're near
       "dot medical exam houston",
     ],
     features: [
-      "Certificado DOT el mismo día",
+      "Certificado médico DOT",
       "Para licencia CDL",
       "Proceso rápido",
       "Atención en español",
     ],
     featuresEn: [
-      "Same-day DOT certificate",
+      "DOT medical certificate",
       "For CDL license",
       "Fast process",
       "Care in Spanish",
     ],
-    longDescription: `Si manejas camiones, autobuses o cualquier vehículo comercial, necesitas tener vigente tu examen físico DOT (Department of Transportation). Sin ese certificado no puedes obtener ni renovar tu licencia CDL, y las empresas no pueden ponerte a manejar. En Clínica Hispana Nueva Salud hacemos el examen sin cita previa, en español y con el certificado listo el mismo día, para que no pierdas horas de trabajo ni tengas que ir a otra clínica.
+    longDescription: `Si manejas camiones, autobuses o cualquier vehículo comercial, necesitas tener vigente tu examen físico DOT (Department of Transportation). Sin ese certificado no puedes obtener ni renovar tu licencia CDL, y las empresas no pueden ponerte a manejar. En Clínica Hispana Nueva Salud hacemos el examen sin cita previa y en español, para que no pierdas horas de trabajo ni tengas que ir a otra clínica.
 
 ## ¿Qué incluye?
 
@@ -2725,7 +2725,7 @@ If you're looking for an affordable ultrasound in Houston in Spanish, we're near
 - **Presión arterial y pulso**
 - **Análisis de orina** para detectar glucosa, proteína o sangre (no es prueba de drogas)
 - **Examen físico completo:** corazón, pulmones, abdomen, columna, extremidades y sistema nervioso
-- **Certificado médico DOT** (Medical Examiner's Certificate) el mismo día si apruebas
+- **Certificado médico DOT** (Medical Examiner's Certificate) si apruebas
 
 ## ¿Quién necesita el examen DOT?
 
@@ -2762,12 +2762,12 @@ Si tienes alguna de estas condiciones no significa que vayas a reprobar: ven con
 1. Llegas sin cita, te registras y llenas el cuestionario de salud del DOT.
 2. Se toman tus signos vitales, la muestra de orina y las pruebas de vista y oído.
 3. El examinador realiza el examen físico y revisa tu historial y medicamentos.
-4. Si apruebas, recibes tu certificado médico impreso ese mismo día.
+4. Si apruebas, recibes tu certificado médico impreso.
 5. Entrega una copia a tu empleador y, en Texas, al Departamento de Seguridad Pública (DPS) para mantener tu CDL activa.
 
-## Examinador médico certificado
+## Antes de venir
 
-Por ley, el examen DOT solo es válido si lo realiza un examinador médico registrado en el Registro Nacional de la FMCSA (Federal Motor Carrier Safety Administration). Llámanos antes de tu visita para confirmar la disponibilidad del examinador ese día y evitar viajes en vano.
+Llámanos antes de tu visita para confirmar la disponibilidad del examinador ese día y evitar viajes en vano.
 
 ## Examen DOT y prueba de drogas
 
@@ -2776,7 +2776,7 @@ El examen físico DOT no incluye la prueba de drogas. Muchas empresas la piden p
 ## Examen DOT en una clínica hispana cerca de ti
 
 Si buscas examen DOT en Houston sin cita, en español y a precio accesible, te atendemos cerca de ti en el sureste de Houston (zona Bellfort / Hobby, a minutos de las autopistas I-45 y 610), de lunes a domingo de 9 AM a 9 PM. Lee también nuestra [guía del examen DOT para camioneros](/blog/examen-dot-cdl-camioneros-houston).`,
-    longDescriptionEn: `If you drive trucks, buses or any commercial vehicle, you need a current DOT (Department of Transportation) physical. Without that certificate you can't get or renew your CDL license, and companies can't put you behind the wheel. At Clínica Hispana Nueva Salud we do the exam with no appointment, in Spanish, and with your certificate ready the same day, so you don't lose hours of work or have to go to another clinic.
+    longDescriptionEn: `If you drive trucks, buses or any commercial vehicle, you need a current DOT (Department of Transportation) physical. Without that certificate you can't get or renew your CDL license, and companies can't put you behind the wheel. At Clínica Hispana Nueva Salud we do the exam with no appointment and in Spanish, so you don't lose hours of work or have to go to another clinic.
 
 ## What's included?
 
@@ -2786,7 +2786,7 @@ Si buscas examen DOT en Houston sin cita, en español y a precio accesible, te a
 - **Blood pressure and pulse**
 - **Urinalysis** to check for glucose, protein or blood (this is not a drug test)
 - **Full physical exam:** heart, lungs, abdomen, spine, limbs and nervous system
-- **DOT medical certificate** (Medical Examiner's Certificate) the same day if you pass
+- **DOT medical certificate** (Medical Examiner's Certificate) if you pass
 
 ## Who needs a DOT physical?
 
@@ -2823,12 +2823,12 @@ Having one of these conditions doesn't mean you'll fail: come with your paperwor
 1. You walk in without an appointment, check in and fill out the DOT health questionnaire.
 2. We take your vital signs, urine sample and vision and hearing tests.
 3. The examiner performs the physical and reviews your history and medications.
-4. If you pass, you receive your printed medical certificate the same day.
+4. If you pass, you receive your printed medical certificate.
 5. Give a copy to your employer and, in Texas, to the Department of Public Safety (DPS) to keep your CDL active.
 
-## Certified medical examiner
+## Before you come
 
-By law, a DOT physical is only valid when performed by a medical examiner listed on the FMCSA (Federal Motor Carrier Safety Administration) National Registry. Call us before your visit to confirm the examiner's availability that day and avoid a wasted trip.
+Call us before your visit to confirm the examiner's availability that day and avoid a wasted trip.
 
 ## DOT physical vs. drug test
 
@@ -2887,9 +2887,9 @@ If you're looking for a DOT physical in Houston with no appointment, in Spanish 
 - Examen físico y evaluación de salud mental y de consumo de sustancias, como pide el CDC.
 - Prueba de tuberculosis en sangre (IGRA) y los análisis de laboratorio que correspondan a tu edad.
 - Aplicación de las vacunas que te falten.
-- Llenado y firma del I-693 por el médico autorizado cuando están todos los resultados.
+- Llenado y firma del I-693 por el civil surgeon cuando están todos los resultados.
 
-## ¿Cómo compruebo que el médico está autorizado?
+## ¿Cómo compruebo que el civil surgeon está autorizado?
 
 En el buscador oficial [Find a Civil Surgeon](https://www.uscis.gov/tools/find-a-civil-surgeon) de USCIS puedes buscar por código postal. Te recomendamos hacerlo con cualquier clínica antes de pagar.
 
@@ -2912,7 +2912,7 @@ Para conocer el paso a paso con más detalle, lee nuestra [guía del examen I-69
 - Any vaccines you are missing.
 - Completion and signature of the I-693 by the authorized physician once all results are in.
 
-## How can I confirm the doctor is authorized?
+## How can I confirm the civil surgeon is authorized?
 
 USCIS's official [Find a Civil Surgeon](https://www.uscis.gov/tools/find-a-civil-surgeon) tool lets you search by ZIP code. We recommend doing this with any clinic before you pay.
 

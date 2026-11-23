@@ -40,7 +40,7 @@ Comer con diabetes no obliga a renunciar a la comida de casa: se trata de ajusta
 
 1. **Reduce las bebidas azucaradas:** refrescos, jugos y aguas frescas con azúcar son la fuente de azúcar más fácil de eliminar. Cámbialas por agua, agua con limón o té sin azúcar.
 2. **Cuida las porciones de tortilla, arroz, pan y papa:** no hace falta quitarlos, pero limítalos a una porción (2 tortillas, media taza de arroz) y acompáñalos con proteína y verdura.
-3. **Llena la mitad del plato con verduras:** nopales, calabacita, chayote, ejotes, ensalada. Son baratas, llenan y casi no suben el azúcar.
+3. **Llena la mitad del plato con verduras:** nopales, calabacita, chayote, ejotes, ensalada. Cuestan poco, llenan y casi no suben el azúcar.
 4. **Prefiere frijoles de la olla** sobre refritos con manteca, y **carnes asadas o guisadas** sobre empanizadas o fritas.
 5. **No te saltes comidas.** Comer 3 veces al día a horas regulares evita picos y bajones.
 6. **Fruta entera, no jugo:** una naranja sí; un vaso de jugo de naranja equivale a 3-4 naranjas sin la fibra.

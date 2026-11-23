@@ -38,7 +38,7 @@ These programs involve paperwork and sometimes a waiting list, so it helps to pa
 
 ## What about medications?
 
-They are the other half of the bill. Always ask whether a generic version exists: it has the same active ingredient and usually costs much less. If you take something every day, ask what each pill is for and how long you need it; treatments that piled up over the years can sometimes be simplified. And don't stop a medication because of the price without telling your doctor: there are cheaper alternatives that don't put your health at risk.
+They are the other half of the bill. Always ask whether a generic version exists: it has the same active ingredient and usually costs much less. If you take something every day, ask what each pill is for and how long you need it; treatments that piled up over the years can sometimes be simplified. And don't stop a medication because of the price without telling your doctor: there are lower-cost alternatives that don't put your health at risk.
 
 ## What about chronic conditions?
 
