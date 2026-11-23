@@ -38,6 +38,7 @@ async function header(full: boolean): Promise<string> {
     `- YouTube: ${SOCIAL_LINKS.youtube}`,
     `- LinkedIn: ${SOCIAL_LINKS.linkedin}`,
     `- X (Twitter): ${SOCIAL_LINKS.x}`,
+    `- Yelp: ${SOCIAL_LINKS.yelp}`,
     "- Área de servicio: sureste de Houston (Glenbrook Valley, Park Place, Gulfgate, Pecan Park, Golfcrest, Hobby Area, South Houston) y área metropolitana de Houston",
     "",
   ].join("\n");

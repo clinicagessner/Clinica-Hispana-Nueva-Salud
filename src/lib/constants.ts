@@ -87,8 +87,9 @@ export const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/clinicahispananuevasalud/",
   youtube: "https://www.youtube.com/@ClinicaHispanaNuevaSalud",
   // Perfiles declarados en Google Business Profile (2026-09-01).
-  linkedin: "https://www.linkedin.com/in/clinica-hispana-nueva-salud",
+  linkedin: "https://www.linkedin.com/company/clinica-hispana-nueva-salud/",
   x: "https://x.com/CHispNuevaSalud",
+  yelp: "https://www.yelp.com/biz/clinica-hispana-nueva-salud-houston",
 } as const;
 
 // Última revisión de contenido de las páginas de servicio: caja de revisión
