@@ -91,6 +91,8 @@ export const SOCIAL_LINKS = {
   x: "https://x.com/CHispNuevaSalud",
   yelp: "https://www.yelp.com/biz/clinica-hispana-nueva-salud-houston",
   pinterest: "https://www.pinterest.com/clinicahispananuevasalud/",
+  // La URL de Nextdoor conserva un nombre viejo de la página; es la de 7640 Bellfort, reclamada el 2026-11-22.
+  nextdoor: "https://nextdoor.com/page/clinica-hispana-nuevo-laredo-houston-tx/",
 } as const;
 
 // Última revisión de contenido de las páginas de servicio: caja de revisión
