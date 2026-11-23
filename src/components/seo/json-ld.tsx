@@ -75,6 +75,7 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
       SOCIAL_LINKS.linkedin,
       SOCIAL_LINKS.x,
       SOCIAL_LINKS.yelp,
+      SOCIAL_LINKS.pinterest,
     ],
     // Solo atención primaria: sin ginecólogo titulado no se declara la
     // especialidad (la ginecología básica va como servicio, no como especialidad).

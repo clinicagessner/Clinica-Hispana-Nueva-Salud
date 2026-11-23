@@ -90,6 +90,7 @@ export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/company/clinica-hispana-nueva-salud/",
   x: "https://x.com/CHispNuevaSalud",
   yelp: "https://www.yelp.com/biz/clinica-hispana-nueva-salud-houston",
+  pinterest: "https://www.pinterest.com/clinicahispananuevasalud/",
 } as const;
 
 // Última revisión de contenido de las páginas de servicio: caja de revisión
