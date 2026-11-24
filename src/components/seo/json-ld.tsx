@@ -72,6 +72,7 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
       SOCIAL_LINKS.facebook,
       SOCIAL_LINKS.instagram,
       SOCIAL_LINKS.youtube,
+      SOCIAL_LINKS.tiktok,
       SOCIAL_LINKS.linkedin,
       SOCIAL_LINKS.x,
       SOCIAL_LINKS.yelp,

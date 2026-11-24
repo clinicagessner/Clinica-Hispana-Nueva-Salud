@@ -36,6 +36,7 @@ async function header(full: boolean): Promise<string> {
     `- Facebook: ${SOCIAL_LINKS.facebook}`,
     `- Instagram: ${SOCIAL_LINKS.instagram}`,
     `- YouTube: ${SOCIAL_LINKS.youtube}`,
+    `- TikTok: ${SOCIAL_LINKS.tiktok}`,
     `- LinkedIn: ${SOCIAL_LINKS.linkedin}`,
     `- X (Twitter): ${SOCIAL_LINKS.x}`,
     `- Yelp: ${SOCIAL_LINKS.yelp}`,

@@ -86,6 +86,7 @@ export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicahispananuevasaludhoustontexas",
   instagram: "https://www.instagram.com/clinicahispananuevasalud/",
   youtube: "https://www.youtube.com/@ClinicaHispanaNuevaSalud",
+  tiktok: "https://www.tiktok.com/@clinica.hispana.n0",
   // Perfiles declarados en Google Business Profile (2026-09-01).
   linkedin: "https://www.linkedin.com/company/clinica-hispana-nueva-salud/",
   x: "https://x.com/CHispNuevaSalud",
