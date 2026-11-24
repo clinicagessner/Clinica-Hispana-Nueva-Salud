@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
 <!-- /tandas:auto -->
 
-## Tanda 84 — cambios del 2026-11-22 (LinkedIn de empresa y Yelp en sameAs)  📨 ENVIADA 24/11/2026
+## Tanda 84 — cambios del 2026-11-22 (LinkedIn de empresa y Yelp en sameAs)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
 
-- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/services/examen-dot  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/services/examen-dot  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-22
 
 ## Tanda 90 — cambios del 2026-11-22 (limpieza §9)
 
