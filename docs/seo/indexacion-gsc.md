@@ -6,33 +6,17 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-24; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 78 de 104 URLs del sitemap indexadas · 26 sin indexar (12 descubierta sin indexar · 11 desconocida · 3 rastreada sin indexar).
+**Estado (actualizado 2026-11-25; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 78 de 104 URLs del sitemap indexadas · 26 sin indexar (12 descubierta sin indexar · 11 desconocida · 3 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 15 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 15 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
 <!-- /tandas:auto -->
 
-## Tanda 84 — cambios del 2026-11-22 (LinkedIn de empresa y Yelp en sameAs)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
-
-- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-22
-- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-22
-- [x] https://www.hispananuevasalud.com/services/examen-dot  — cambiada 2026-11-22
-- [x] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-11-22
-- [x] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-11-22
-- [x] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-11-22
-- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-22
-- [x] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-22
-- [x] https://www.hispananuevasalud.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-22
-- [x] https://www.hispananuevasalud.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-22
-
-## Tanda 90 — cambios del 2026-11-22 (limpieza §9)
+## Tanda 90 — cambios del 2026-11-22 (limpieza §9)  📨 ENVIADA 25/11/2026
 
 - [ ] https://www.hispananuevasalud.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-22
 - [ ] https://www.hispananuevasalud.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-22
-
-## Tanda 91 — cambios del 2026-11-22 (limpieza §9)
-
 - [ ] https://www.hispananuevasalud.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-22
 - [ ] https://www.hispananuevasalud.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-22
 - [ ] https://www.hispananuevasalud.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-22
@@ -304,3 +288,16 @@ Al pedir una tanda: marcar las casillas y poner `✅ PEDIDA dd/mm/aaaa` en su en
 
 - [x] https://www.hispananuevasalud.com/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
 - [x] https://www.hispananuevasalud.com/en/blog/pastillas-anticonceptivas-como-tomarlas-si-olvidas-una  — cambiada 2026-11-20
+
+## Tanda 84 — cambios del 2026-11-22 (LinkedIn de empresa y Yelp en sameAs)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
+
+- [x] https://www.hispananuevasalud.com/  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/services/examen-dot  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/services/examen-dot  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/services/examenes-sangre  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/services/examenes-sangre  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-22
