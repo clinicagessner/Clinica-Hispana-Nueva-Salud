@@ -6,55 +6,87 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.hispananuevasalud.com/` (prefijo de URL), cuenta **clinicahispananuevasalud@gmail.com**. Límite: 10 peticiones al día.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 78 de 104 URLs del sitemap indexadas · 26 sin indexar (12 descubierta sin indexar · 11 desconocida · 3 rastreada sin indexar).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-09-30: antiguos (2026-09-30): --sin-fetch):** 65 de 106 URLs del sitemap indexadas · 41 sin indexar (20 descubierta sin indexar · 16 sin datos · 4 desconocida · 1 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 15 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 15 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 20 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 24 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
+8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
 ## Tanda 94 — cambios del 2026-11-27 (post del blog semanal)  📨 ENVIADA 27/11/2026
+
 - [ ] https://www.hispananuevasalud.com/blog/hablar-salud-intima-hombre-consulta-espanol  — cambiada 2026-11-27
 - [ ] https://www.hispananuevasalud.com/en/blog/hablar-salud-intima-hombre-consulta-espanol  — cambiada 2026-11-27
 
-## Tanda 91
+## Tanda 95 — cambios del 2026-11-27 (aviso I-693 pausado)
 
-- [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 101 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 54 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 19 impr.
-- [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 17 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/curacion-heridas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 8 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 7 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 7 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 5 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 2 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.hispananuevasalud.com/en/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.hispananuevasalud.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
+- [ ] https://www.hispananuevasalud.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
+- [ ] https://www.hispananuevasalud.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-27
+- [ ] https://www.hispananuevasalud.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-27
+- [ ] https://www.hispananuevasalud.com/  — cambiada 2026-11-27
+- [ ] https://www.hispananuevasalud.com/en  — cambiada 2026-11-27
 
-## Tanda 92
+## Tanda 96
 
+- [ ] https://www.hispananuevasalud.com/services/unas-encarnadas  — cambiada 2026-09-25 · rastreada 2026-09-10 · indexada · 159 impr.
+- [ ] https://www.hispananuevasalud.com/en/walk-in  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 107 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/prueba-tuberculosis  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 51 impr.
+- [ ] https://www.hispananuevasalud.com/en/landing/comparacion-clinicas-houston  — cambiada 2026-09-25 · rastreada 2026-07-22 · indexada · 42 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/vacunas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 29 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/drenaje-abscesos  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 23 impr.
+- [ ] https://www.hispananuevasalud.com/en/promociones  — cambiada 2026-09-25 · rastreada 2026-09-15 · indexada · 14 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-09-23 · indexada · 14 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/prueba-strep  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 7 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/alergias  — cambiada 2026-09-25 · rastreada 2026-07-24 · indexada · 6 impr.
+
+## Tanda 97
+
+- [ ] https://www.hispananuevasalud.com/en/services/examen-fisico-escolar  — cambiada 2026-09-25 · rastreada 2026-08-22 · indexada · 5 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/curacion-heridas  — cambiada 2026-09-25 · rastreada 2026-07-19 · indexada · 4 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/condiciones-cronicas  — cambiada 2026-09-25 · rastreada 2026-07-28 · indexada · 1 impr.
+- [ ] https://www.hispananuevasalud.com/en/blog/gripe-sin-seguro-que-incluye-visita-precio  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · desconocida · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/suturas-heridas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/tiroides  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · desconocida · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/electrocardiograma  — cambiada 2026-09-25 · rastreada 2026-07-07 · rastreada sin indexar · pedida 2026-10-06 · 37 impr.
-- [ ] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/unas-encarnadas  — cambiada 2026-09-25 · descubierta sin indexar · 0 impr.
+
+## Tanda 98
+
+- [ ] https://www.hispananuevasalud.com/blog/gripe-sin-seguro-que-incluye-visita-precio  — cambiada 2026-10-09 · sin datos de inspección · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/blog/menopausia-corazon-presion-colesterol  — cambiada 2026-10-30 · sin datos de inspección · pedida 2026-10-31 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/blog/miomas-utero-sintomas-ultrasonido-pelvico  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-24 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/blog/primera-menstruacion-ninas-que-es-normal  — cambiada 2026-11-06 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/cirugias-menores  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/curacion-heridas  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-respiratorias  — cambiada 2026-10-16 · desconocida · pedida 2026-10-18 · 0 impr.
-
-## Tanda 93
-
 - [ ] https://www.hispananuevasalud.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/services/vacunas  — cambiada 2026-09-25 · desconocida · pedida 2026-10-13 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/extraccion-implantes  — cambiada 2026-10-29 · rastreada 2026-07-05 · rastreada sin indexar · pedida 2026-10-31 · 1 impr.
+
+## Tanda 99
+
+- [ ] https://www.hispananuevasalud.com/services/examen-fisico-escolar  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/ultrasonido  — cambiada 2026-10-29 · descubierta sin indexar · pedida 2026-10-29 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/services/vacunas  — cambiada 2026-09-25 · descubierta sin indexar · pedida 2026-10-13 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/blog/menopausia-corazon-presion-colesterol  — cambiada 2026-10-30 · sin datos de inspección · pedida 2026-10-31 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/blog/menopausia-infecciones-urinarias-repetidas  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/blog/miomas-utero-sintomas-ultrasonido-pelvico  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-24 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/blog/primera-menstruacion-ninas-que-es-normal  — cambiada 2026-11-06 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-09-25 · rastreada 2026-09-30 · rastreada sin indexar · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 - [ ] https://www.hispananuevasalud.com/en/services/infecciones-urinarias  — cambiada 2026-10-16 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-29 · desconocida · pedida 2026-10-31 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29 · desconocida · pedida 2026-10-31 · 0 impr.
+
+## Tanda 100
+
+- [ ] https://www.hispananuevasalud.com/en/services/prueba-embarazo  — cambiada 2026-10-29 · descubierta sin indexar · pedida 2026-10-31 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/salud-hombre  — cambiada 2026-10-29 · descubierta sin indexar · pedida 2026-10-31 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/sueros-vitaminados  — cambiada 2026-11-02 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.hispananuevasalud.com/en/services/ultrasonido  — cambiada 2026-10-29 · descubierta sin indexar · pedida 2026-10-31 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
