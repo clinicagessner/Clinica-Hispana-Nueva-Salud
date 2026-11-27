@@ -61,9 +61,9 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Realizan el examen médico de inmigración?",
     answer:
-      "Sí. Lo hace un médico autorizado por USCIS (civil surgeon); las muestras y las vacunas se toman aquí, y el formulario se completa cuando llegan todos los resultados.",
+      "Sí. Lo hace un médico autorizado por USCIS (civil surgeon); las muestras y las vacunas se toman aquí, y el formulario se completa cuando llegan todos los resultados. Aviso: este servicio está temporalmente pausado hasta nuevo aviso.",
     questionEn: "Do you perform the immigration medical exam?",
     answerEn:
-      "Yes. It's done by a USCIS-authorized physician (civil surgeon); samples and vaccines are handled here, and the form is completed once all results are in.",
+      "Yes. It's done by a USCIS-authorized physician (civil surgeon); samples and vaccines are handled here, and the form is completed once all results are in. Notice: this service is temporarily paused until further notice.",
   },
 ];
