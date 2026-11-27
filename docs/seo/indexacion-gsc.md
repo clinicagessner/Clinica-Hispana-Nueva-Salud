@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
 <!-- /tandas:auto -->
 
-## Tanda 90 — cambios del 2026-11-22 (limpieza §9)  📨 ENVIADA 26/11/2026
+## Tanda 90 — cambios del 2026-11-22 (limpieza §9)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
 
-- [ ] https://www.hispananuevasalud.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-22
-- [ ] https://www.hispananuevasalud.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-22
+- [x] https://www.hispananuevasalud.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-22
 
 ## Tanda 91
 
